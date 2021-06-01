@@ -18,10 +18,9 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Chceš vědět víc o grafickém designu a tvorbě knih? Kurzy navazují  na program digitální malb
-        y a rozšiřují téma o užitnou grafiku a digitální sazbu.
-         Odkaz na <code>docs</code> adresář.
-      </>
+        Chceš vědět víc o grafickém designu a tvorbě knih? Kurzy navazují  na program digitální malby
+        a rozšiřují téma o užitnou grafiku a digitální sazbu.
+         </>
     ),
   },
   {
@@ -30,7 +29,7 @@ const FeatureList = [
     description: (
       <>
         Filmový střih přesouvá kreativitu do další dimenze. Objev základy filmového vyprávění a práci s časem!
-        V kurzech využiješ svoje znalosti grafiky pro tvorbu trikových a 3D animací.
+        V kurzech využiješ svoje znalosti grafiky pro tvorbu trikových a 3D animací a vizuálních efektů.
       </>
     ),
   },
