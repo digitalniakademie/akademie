@@ -4,32 +4,33 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Digitální malba a modelování',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Nauč se malovat v rychlokurzu digitální malby! Program ukazuje techniky,
+        založené na klasické kresbě a malbě, upravené pro efektivní digitální tvorbu a design.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Grafika a typografie',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Chceš vědět víc o grafickém designu a tvorbě knih? Kurzy navazují  na program digitální malb
+        y a rozšiřují téma o užitnou grafiku a digitální sazbu.
+         Odkaz na <code>docs</code> adresář.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Filmový střih a animace',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Filmový střih přesouvá kreativitu do další dimenze. Objev základy filmového vyprávění a práci s časem!
+        V kurzech využiješ svoje znalosti grafiky pro tvorbu trikových a 3D animací.
       </>
     ),
   },
