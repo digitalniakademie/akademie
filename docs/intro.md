@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
 # Úvodem: Kreativita, vzdělávání a open-source
@@ -29,6 +29,8 @@ Nikdo se nikdy nestal expertem **sledováním videí na internetu**. Nové znalo
 ## Je program kurzů náročný na vybavení?
 
 Kurzy předpokládají alespoň průměrné počítačové vybavení pro grafické aplikace. Některý software využívá dvoutlačítkovou myš se skrolovacím kolečkem, a numerická klávesnice je výhodou. Kurzy kreslení a malby vyžadují grafický tablet s přítlakem (i když teoreticky se dá malovat i myší...).
+
+![](./img/akademie-vybaveni.png)
 
 :::note Poznámka
 
