@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Digitální malba a modelování',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('../../static/img/ikona-1.svg').default,
     description: (
       <>
         Nauč se malovat v rychlokurzu digitální malby! Program ukazuje techniky,
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Grafika a typografie',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('../../static/img/ikona-2.svg').default,
     description: (
       <>
         Chceš vědět víc o grafickém designu a tvorbě knih? Kurzy navazují  na program digitální malby
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Filmový střih a animace',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/ikona-3.svg').default,
     description: (
       <>
         Filmový střih přesouvá kreativitu do další dimenze. Objev základy filmového vyprávění a práci s časem!
