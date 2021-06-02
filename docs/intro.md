@@ -30,7 +30,7 @@ Nikdo se nikdy nestal expertem **sledováním videí na internetu**. Nové znalo
 
 Kurzy předpokládají alespoň průměrné počítačové vybavení pro grafické aplikace. Některý software využívá dvoutlačítkovou myš se skrolovacím kolečkem, a numerická klávesnice je výhodou. Kurzy kreslení a malby vyžadují grafický tablet s přítlakem (i když teoreticky se dá malovat i myší...).
 
-![](./img/akademie-vybaveni.png)
+![image](./img/akademie-vybaveni.png)
 
 :::note Poznámka
 
