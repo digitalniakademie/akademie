@@ -12,9 +12,8 @@ module.exports = {
   themeConfig: {
     navbar: {
       title: 'Digitální Akademie',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+      logo: {Digitální Akademie Logo',
+        src: 'img/logo-akademie.svg',
       },
       items: [
         {
