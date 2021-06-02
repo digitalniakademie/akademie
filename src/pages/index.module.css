@@ -11,7 +11,7 @@
   position: relative;
   overflow: hidden;
   background: radial-gradient(circle, rgba(53,143,191,1) 52%, rgba(47,116,153,0.5387197115174195) 100%);
-
+background-repeat: no-repeat;
 }
 
 @media screen and (max-width: 966px) {
