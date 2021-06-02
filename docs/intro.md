@@ -2,34 +2,48 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Úvodem: Kreativita, vzdělávání a open-source
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Filozofie a struktura kurzů
 
-## Getting Started
+V psaných lekcích na těchto stránkách jsou stručné přepisy obsahu série videí na YouTube kanálu Digitální Akademie. Struktura každé lekce má tyto části:
 
-Get started by **creating a new site**.
+1. Přehled
+2. Obsah a praktické předvedení
+3. Shrnutí
+4. Cvičení
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
+Každá následující lekce předpokládá, že si student předvedené techniky vyzkoušel. Lekce jsou minimalistické a snaží se předejít jistému fenoménu tutoriálů, takže:
 
-## Generate a new site
 
-Generate a new Docusaurus site using the **classic template**:
+## Digitální Akademie: Komu je program určený?
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
+Kurzy jsou zaměřené na osvojení základních kreativních principů, platných nezávisle na médiu. Koncept je založený na praktických cvičeních a je určený jak pro začátečníky, tak pro pokročilé studenty, kteří chtějí objevovat nové postupy.
 
-## Start your site
+:::tip
 
-Run the development server:
+Nikdo se nikdy nestal expertem **sledováním videí na internetu**. Nové znalosti musíš použít, a učení je zákeřně kontinuální proces.
 
-```shell
-cd my-website
+:::
 
-npx docusaurus start
-```
+## Je program kurzů náročný na vybavení?
 
-Your site starts at `http://localhost:3000`.
+Kurzy předpokládají alespoň průměrné počítačové vybavení pro grafické aplikace. Některý software využívá dvoutlačítkovou myš se skrolovacím kolečkem, a numerická klávesnice je výhodou. Kurzy kreslení a malby vyžadují grafický tablet s přítlakem (i když teoreticky se dá malovat i myší...).
 
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+:::note Poznámka
+
+ Počítačová technika je jenom nástroj. Když dokážeš efektivně používat to, co máš, tak nebudeš potřebovat to, co nemáš.
+
+:::
+
+## Proč open-source?
+
+Aby byly kurzy co nejdostupnější, všechny lekce využívají profesionální software s licencí, který je open-source a volně ke stažení. Všechny programy také existují i ve verzích pro ty nejrozšířenější operační systémy.
+
+:::tip
+
+Nenech se při učení **ničím** rozptylovat. Každá lekce se vejde do patnácti minut.
+
+:::
+## Začni tvořit ještě dnes!
+Lekce jsou navržené tak, aby byly co nejkratší a nejefektivnější. Cílem je rozšířit znalosti a umožnit co nejrychlejší využití nových technik.

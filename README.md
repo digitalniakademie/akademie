@@ -1,33 +1,16 @@
-# Website
+# Digitální Akademie: Kreativita a open-source
+
+## Komu je program určený?
+
+Kurzy jsou zaměřené na osvojení základních kreativních principů, platných nezávisle na médiu. Koncept je založený na praktických cvičeních a je určený jak pro začátečníky, tak pro pokročilé studenty, kteří chtějí objevovat nové postupy.
+
+## Je program kurzů náročný na vybavení?
+
+Kurzy předpokládají alespoň průměrné počítačové vybavení pro grafické aplikace. Některý software využívá dvoutlačítkovou myš se skrolovacím kolečkem, a numerická klávesnice je výhodou. Kurzy kreslení a malby vyžadují grafický tablet s přítlakem (i když teoreticky se dá malovat i myší...).
+
+Aby byly kurzy co nejdostupnější, všechny lekce využívají profesionální software s licencí, který je open-source a volně ke stažení. Všechny programy také existují i ve verzích pro nejrozšířenější operační systémy.
+
+## Začni tvořit ještě dnes!
+Lekce jsou navržené tak, aby byly co nejkratší a nejefektivnější. Cílem je rozšířit znalosti studentů a umožnit co nejrychlejší praktické využití nových technik.
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
-
-## Installation
-
-```console
-yarn install
-```
-
-## Local Development
-
-```console
-yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```console
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
