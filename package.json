@@ -35,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/digitalniakademie/akademie.git",
+  "author": "digitalniakademie@outlook.cz",
+  "license": "MIT"
 }
