@@ -1,32 +1,37 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
+  i18n: {
+    defaultLocale: 'cz',
+    locales: ['cz', 'en'],
+  },
   title: 'Digitální Akademie',
   tagline: 'Kreativní rychlokurzy jsou prima',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://akademie.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/akademie-ikona-4.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'digitalniakademie', // Usually your GitHub org/user name.
+  projectName: 'digitalniakademie', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Digitální Akademie',
       logo: {
         alt: 'Digitální Akademie Logo',
         src: 'img/logo-akademie.svg',
+        srcDark: 'img/logodark.svg',
       },
       items: [
         {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Rychlokurzy',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://github.com/digitalniakademie/akademieskripta',
+          label: 'Studijní materiály',
           position: 'right',
         },
       ],
@@ -35,41 +40,41 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Rychlokurzy',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Úvodem',
               to: '/docs/intro',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Komunita',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Instagram',
+              href: 'https://www.instagram.com/digitalniakademie',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/VUZjQhaP4e',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/DigiAkademie',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Novinky',
           items: [
             {
               label: 'Blog',
               to: '/blog',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Materiály ke stažení',
+              href: 'https://github.com/digitalniakademie/akademieskripta',
             },
           ],
         },
