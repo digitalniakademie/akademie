@@ -46,6 +46,10 @@ module.exports = {
               label: 'Úvodem',
               to: '/docs/intro',
             },
+            {
+              label: 'Software',
+              to: '/docs/software',
+            },
           ],
         },
         {
