@@ -1,4 +1,6 @@
 ---
+id: cad
+title: CAD
 sidebar_position: 1
 ---
 

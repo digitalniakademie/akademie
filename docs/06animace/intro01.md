@@ -1,5 +1,7 @@
 ---
-sidebar_position: 6
+id: animace
+title: Animace
+sidebar_position: 1
 ---
 
 # Instalace a co v lekcích najdeš!

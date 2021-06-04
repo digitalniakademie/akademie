@@ -1,5 +1,7 @@
 ---
-sidebar_position: 6
+id: 3D-modelovani
+title: 3D Modelování
+sidebar_position: 1
 ---
 
 # Instalace a co v lekcích najdeš!

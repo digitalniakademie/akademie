@@ -1,5 +1,7 @@
 ---
-sidebar_position: 6
+id: film
+title: Film
+sidebar_position: 1
 ---
 
 # Instalace a co v lekcích najdeš!

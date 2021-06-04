@@ -1,5 +1,7 @@
 ---
-sidebar_position: 6
+id: kresba-a-malba
+title: Kresba a malba
+sidebar_position: 1
 ---
 
 # Instalace a co v lekcích najdeš!
