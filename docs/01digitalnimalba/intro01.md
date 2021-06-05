@@ -8,7 +8,7 @@ sidebar_position: 1
 
 
 - Krita: Instalace a nastavení programu.
-Témata: Světlo, stín, kontrast, tonalita a barva, textura a materiál. Radiozita, Fresnelův jev, Anisotropie. Speciální materiály - sklo, translucence, Světelné zdroje, Perspektiva a efekty atmosféry
+Témata: Světlo, stín, kontrast, tonalita a barva, textura a materiál. Radiozita, Fresnelův jev, Anisotropie, Okluze. Speciální materiály - sklo, translucence, Světelné zdroje, Perspektiva a efekty atmosféry
 
 - Digitální kresba - specifika
 - Digitální malba a rozdíl oproti klasickým technikám

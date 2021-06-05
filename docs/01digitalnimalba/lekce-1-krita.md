@@ -6,7 +6,15 @@ sidebar_position: 3
 
 # Lekce 01: Světlo a stín
 ## Teorie tvaru
-Najdi aktuální verzi. Stáhni a spusť soubor.
+### Světlo, stín, kontrast
+### Radiozita, Fresnelův jev, Anisotropie, Okluze.
+### Tonalita a barva
+### Textura a materiál
+Radiozita, Fresnelův jev, Anisotropie, Okluze.
+Okluze má v přírodě vliv i na barvu materiálu, texturu a ostatní optické vlastnosti.
+
+## Pozorování
+
 ## Techniky
 Typy vyhlazování.
 ## Barevné modely

@@ -1,21 +1,17 @@
 ---
-id: lekce-2-krita
+id: lekce-3-krita
 title: Kresba a malba
 sidebar_position: 5
 ---
 
-# Lekce 03: Malujeme barvu
-## Teplé a studené barvy
-## Fyzika, fyziologie a psychologie barev.
-## Sjednocení tonality
-Typy vyhlazování.
-## Plánování palety
-Zkontroluj funkčnost tabletu.
-## Malování s paletou
-Shortcuty
+# Lekce 03: Perspektiva a atmosférické efekty
+## Perspektivní vodítka a modely
+## Atmosférické palety
+## Vliv zakřivení prostředí a horizont
+
 
 :::note úkol
 
-Vytvoř si harmonickou paletu. Vytvoř náhodnou disharmonickou paletu a sjednoť tonalitu.
+Najdi referenční fotografii přírody a města. Najdi horizont a vytvoř schématickou skicu pomocí vodítek.
 
 :::
