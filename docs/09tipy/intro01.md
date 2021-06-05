@@ -4,20 +4,11 @@ title: Tipy
 sidebar_position: 1
 ---
 
-# Instalace a co v lekcích najdeš!
+# Tipy pro pokročilé
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+Tady jsou rychlé typy pro řešení konkrétních postupů v softwaru pro všechny kurzy.
 
-Docusaurus has **much more to offer**!
+## Quick Tips
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
-
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
-
-## What's next?
-
-- Read the [official documentation](https://docusaurus.io/).
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+- rozdělení tagy
+- najdete v sekci Blog

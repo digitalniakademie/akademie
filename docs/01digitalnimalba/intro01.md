@@ -4,20 +4,25 @@ title: Kresba a malba
 sidebar_position: 1
 ---
 
-# Instalace a co v lekcích najdeš!
+# Kresba a malba: Co v lekcích najdeš?
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
 
-Docusaurus has **much more to offer**!
+- Krita: Instalace a nastavení programu.
+Témata: Světlo, stín, kontrast, tonalita a barva, textura a materiál. Radiozita, Fresnelův jev, Anisotropie. Speciální materiály - sklo, translucence, Světelné zdroje, Perspektiva a efekty atmosféry
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
+- Digitální kresba - specifika
+- Digitální malba a rozdíl oproti klasickým technikám
+- Metody a postupy (Alla prima, práce ve vrstvách, selektivní styl - laso)
+- Motivy a témata, skicář
+Projekty: (geometrická tělesa, předměty, krajina, architektura, model, skica detailu)
+- Digitální malba - portrét case study
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+Přílohy: Model tváře a hlavy (3D plochy), postava zjednodušená, 3D model
 
-## What's next?
+Bonus: Kresba a malba v programu Gimp
 
-- Read the [official documentation](https://docusaurus.io/).
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+## Software v kurzu
+
+Hlavní: Krita, Gimp
+Utility: XnView MP, G'MIC
+Zdroje:

@@ -4,21 +4,21 @@ sidebar_position: 0
 
 # Úvodem: Kreativita, vzdělávání a open-source
 
-## Filozofie a struktura kurzů
+## Metodika kurzů
 
-V psaných lekcích na těchto stránkách jsou stručné přepisy obsahu série videí na YouTube kanálu Digitální Akademie. Struktura každé lekce má tyto části:
+V psaných lekcích na těchto stránkách jsou stručné přepisy obsahu série videí na YouTube kanálu Digitální Akademie. Lekce má tyto části:
 
 1. Přehled
 2. Obsah a praktické předvedení
 3. Shrnutí
-4. Cvičení
+4. Úkol/Cvičení
 
-Každá následující lekce předpokládá, že si student předvedené techniky vyzkoušel. Lekce jsou minimalistické a snaží se předejít jistému fenoménu tutoriálů, takže:
+Lekce jsou minimalistické a snaží se předejít jistému fenoménu tutoriálů, takže:
 
 
-## Digitální Akademie: Komu je program určený?
+## Komu je program určený?
 
-Kurzy jsou zaměřené na osvojení základních kreativních principů, platných nezávisle na médiu. Koncept je založený na praktických cvičeních a je určený jak pro začátečníky, tak pro pokročilé studenty, kteří chtějí objevovat nové postupy.
+Kurzy jsou zaměřené na osvojení základních kreativních principů, platných nezávisle na médiu. Koncept je založený na praktických cvičeních v daném softwaru a je určený jak pro začátečníky, tak pro pokročilé studenty, kteří chtějí objevovat nové postupy.
 
 :::tip
 
@@ -47,5 +47,21 @@ Aby byly kurzy co nejdostupnější, všechny lekce využívají profesionální
 Nenech se při učení **ničím** rozptylovat. Každá lekce se vejde do patnácti minut.
 
 :::
-## Začni tvořit ještě dnes!
-Lekce jsou navržené tak, aby byly co nejkratší a nejefektivnější. Cílem je rozšířit znalosti a umožnit co nejrychlejší využití nových technik.
+## Začni ještě dnes!
+Lekce jsou navržené tak, aby byly co nejkratší a nejefektivnější. Cílem je co nejrychlejší využití nových technik.
+
+Výběr témat:
+
+[Digitální kresba a malba](01digitalnimalba/kresba-a-malba) (Krita)
+[Modelování a sochařství](02modelovani/3D-modelovani) (Blender)
+[Grafika a typografie](03grafika/grafika) (Inkscape, Scribus)
+[Fotografie a retuše](04foto/foto) (Gimp, Darktable)
+[Filmový střih](05film/film) (Kdenlive, Blender)
+[Animace a vizuální efekty](06animace/animace) (Blender, Natron)
+[CAD a 3D design](07cad/cad) (FreeCAD)
+
+:::tip
+
+Nenech se při učení **ničím** rozptylovat. Každá lekce se vejde do patnácti minut.
+
+:::
