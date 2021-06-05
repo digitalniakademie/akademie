@@ -7,6 +7,8 @@ sidebar_position: 1
 # Co v kurzu najdeš
 
 - Modelování ve 3D
+- Transformace
+- Modifikátory
 - Scéna a osvětlení (produktové, studiové)
 - HDR a realistické osvětlení
 - Detaily a koncept blokování
@@ -15,6 +17,7 @@ sidebar_position: 1
 - Hard Surface postupy pro technické objekty
 - Sochařství
 - Rigging
+- Render 
 
 ## Software v kurzu
 

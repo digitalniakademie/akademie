@@ -20,5 +20,7 @@ Přesunutí okna blíže k panelu nástrojů.
 ## Balíčky štětců - Resource Bundles
 Balíčky nainstaluješ v Nastavení ‣ Spravovat zdroje (Settings ‣ Manage Resources).
 V kurzu budu používat základní.
+## Pohledy
+Nastavení pohledů na stejný soubor. Tonální ČB náhled.
 
 Můžeme začít.

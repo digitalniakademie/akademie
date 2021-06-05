@@ -3,10 +3,12 @@ sidebar_position: 0
 ---
 
 # Úvodem: Kreativita, vzdělávání a open-source
-
+![image](./img/akademieprehled2.svg)
 ## Metodika kurzů
 
-V psaných lekcích na těchto stránkách jsou stručné přepisy obsahu série videí na YouTube kanálu Digitální Akademie. Lekce má tyto části:
+V psaných lekcích na těchto stránkách jsou stručné přepisy obsahu série videí na YouTube kanálu Digitální Akademie. Software je vybraný tak, aby tvořil komplexní workflow pro všechny typy tvorby v kurzech a jednotlivých lekcích, a zároveň byl pro každého volně dostupný.
+
+Lekce má tyto části:
 
 1. Přehled
 2. Obsah a praktické předvedení
