@@ -4,18 +4,17 @@ title: Kresba a malba
 sidebar_position: 3
 ---
 
-# Štětce a další nástroje
-Výběr techniky.
-## Algoritmické štětce
+# Lekce 01: Světlo a stín
+## Teorie tvaru
 Najdi aktuální verzi. Stáhni a spusť soubor.
-## Vyhlazování tahů
+## Techniky
 Typy vyhlazování.
-## Stínování
+## Barevné modely
 Zkontroluj funkčnost tabletu.
-## Vrstvy
-Přesun mezi vrstvami, hide etc.
-## Kresba
-Základní technika. Import kresby ze skicáře.
+## Vnímání tvaru
+Zrcadlení plochy M pro rychlou kontrolu.
+## Plynulá kresba a malba
+Otáčení plátna
 
 :::note úkol
 
