@@ -19,6 +19,6 @@ sidebar_position: 1
 
 ## Software v kurzu
 
-Hlavní: Inkscape, Scribus
-Utility: Gimp, G'MIC, FontForge, Ghostscript
+Hlavní: Inkscape, Scribus  
+Utility: Gimp, G'MIC, FontForge, Ghostscript  
 Zdroje:

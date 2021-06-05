@@ -12,6 +12,6 @@ sidebar_position: 1
 
 ## Software v kurzu
 
-Hlavní: Kdenlive, Blender, Natron
-Utility: Gimp, G'MIC
+Hlavní: Kdenlive, Blender, Natron  
+Utility: Gimp, G'MIC  
 Zdroje:

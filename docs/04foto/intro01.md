@@ -18,6 +18,6 @@ sidebar_position: 1
 
 ## Software v kurzu
 
-Hlavní: Gimp, Darktable
-Utility: XnView MP
+Hlavní: Gimp, Darktable  
+Utility: XnView MP  
 Zdroje:

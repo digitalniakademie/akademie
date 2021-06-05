@@ -18,6 +18,6 @@ sidebar_position: 1
 
 ## Software v kurzu
 
-Hlavní: Blender
-Utility: Gimp
+Hlavní: Blender  
+Utility: Gimp  
 Zdroje:
