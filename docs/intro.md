@@ -52,14 +52,14 @@ Nenech se při učení **ničím** rozptylovat. Každá lekce se vejde do patná
 ## Začni ještě dnes!
 Lekce jsou navržené tak, aby byly co nejkratší a nejefektivnější. Cílem je co nejrychlejší využití nových technik.
 
-Výběr témat:
+## Témata
 
-[Digitální kresba a malba](01digitalnimalba/kresba-a-malba) (Krita)
-[Modelování a sochařství](02modelovani/3D-modelovani) (Blender)
-[Grafika a typografie](03grafika/grafika) (Inkscape, Scribus)
-[Fotografie a retuše](04foto/foto) (Gimp, Darktable)
-[Filmový střih](05film/film) (Kdenlive, Blender)
-[Animace a vizuální efekty](06animace/animace) (Blender, Natron)
+[Digitální kresba a malba](01digitalnimalba/kresba-a-malba) (Krita)  
+[Modelování a sochařství](02modelovani/3D-modelovani) (Blender)  
+[Grafika a typografie](03grafika/grafika) (Inkscape, Scribus)  
+[Fotografie a retuše](04foto/foto) (Gimp, Darktable)  
+[Filmový střih](05film/film) (Kdenlive, Blender)  
+[Animace a vizuální efekty](06animace/animace) (Blender, Natron)  
 [CAD a 3D design](07cad/cad) (FreeCAD)
 
 :::tip

@@ -4,7 +4,7 @@ title: Kresba a malba
 sidebar_position: 4
 ---
 
-# Lekce 02: Štětce a další nástroje
+# Lekce 02: Štětce, palety a další nástroje
 Výběr techniky.
 ## Algoritmické štětce
 Najdi aktuální verzi. Stáhni a spusť soubor.
@@ -16,6 +16,7 @@ Zkontroluj funkčnost tabletu.
 Přesun mezi vrstvami, hide etc.
 ## Kresba
 Základní technika. Import kresby ze skicáře.
+## Barva a palety
 
 :::note úkol
 

@@ -7,7 +7,7 @@ sidebar_position: 2
 # Krita: Instalace a nastavení
 
 ## Stažení a instalace
-Najdi aktuální verzi. Stáhni a spusť soubor.
+Najdi aktuální verzi. Stáhni a spusť soubor. Základní nastavení systému a klávesnice.
 ## Nastavení tabletu
 Zkontroluj funkčnost tabletu.
 ## Pracovní plocha
