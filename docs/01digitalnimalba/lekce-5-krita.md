@@ -8,7 +8,7 @@ sidebar_position: 7
 ## Klasické kompoziční modely
 Zlatý řez, fibonacci a fraktální kompozice.
 ## Vyprávění pomocí kompozice.
-Písmo a výtvarné umění
+Písmo a výtvarné umění. Zjednodušní umožňuje komunikaci. Malování je vizuální řeč. Kompozice je gramatika.
 ## Asymetrie
 Důvody disharmonie ve výtvarném umění.
 ## Malování s paletou
