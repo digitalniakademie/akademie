@@ -11,7 +11,7 @@ Najdi aktuální verzi. Stáhni a spusť soubor.
 ## Vyhlazování tahů
 Typy vyhlazování.
 ## Stínování
-Zkontroluj funkčnost tabletu.
+Šrafury a dynamika, airbrush.
 ## Vrstvy
 Přesun mezi vrstvami, hide etc.
 ## Kresba

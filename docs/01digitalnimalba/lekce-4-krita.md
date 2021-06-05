@@ -6,11 +6,13 @@ sidebar_position: 6
 
 # Lekce 04: Malujeme barvu
 ## Teplé a studené barvy
+Barevné modely.
 ## Fyzika, fyziologie a psychologie barev.
+Jak vyniká barva, jak ji vnímáme a jak na nás působí.
 ## Sjednocení tonality
 Typy vyhlazování.
 ## Plánování palety
-Zkontroluj funkčnost tabletu.
+Vytvoření harmonií a akcentů.
 ## Malování s paletou
 Shortcuty
 
