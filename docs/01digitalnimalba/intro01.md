@@ -23,6 +23,6 @@ Bonus: Kresba a malba v programu Gimp
 
 ## Software v kurzu
 
-Hlavní: Krita, Gimp
-Utility: XnView MP, G'MIC
+Hlavní: Krita, Gimp  
+Utility: XnView MP, G'MIC  
 Zdroje:
