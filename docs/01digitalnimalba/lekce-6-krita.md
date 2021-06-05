@@ -4,7 +4,7 @@ title: Kresba a malba
 sidebar_position: 8
 ---
 
-# Lekce 05: Zátiší a krajina
+# Lekce 06: Zátiší a krajina
 ## Malujeme předmět
 Zlatý řez, fibonacci a fraktální kompozice.
 ## Vyprávění pomocí kompozice.
