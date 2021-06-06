@@ -5,6 +5,22 @@ sidebar_position: 4
 ---
 
 # Lekce 02: Štětce, palety a další nástroje
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs
+  groupId="jazykova-verze"
+  defaultValue="czv"
+  values={[
+    {label: 'CZ verze', value: 'czv'},
+    {label: 'EN verze', value: 'env'},
+  ]
+}>
+<TabItem value="czv">Program máš v české verzi</TabItem>
+<TabItem value="env">Program máš v anglické verzi</TabItem>
+</Tabs>
+
 Výběr techniky.
 ## Algoritmické štětce
 Najdi aktuální verzi. Stáhni a spusť soubor.

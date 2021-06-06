@@ -28,6 +28,24 @@ Nikdo se nikdy nestal expertem **sledováním videí na internetu**. Nové znalo
 
 :::
 
+## Jazykové verze programů
+Kurzy podporují českou i anglickou instalaci programů. 
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs
+  groupId="jazykova-verze"
+  defaultValue="czv"
+  values={[
+    {label: 'CZ verze', value: 'czv'},
+    {label: 'EN verze', value: 'env'},
+  ]
+}>
+<TabItem value="czv">Program máš v české verzi</TabItem>
+<TabItem value="env">Program máš v anglické verzi</TabItem>
+</Tabs>
+
 ## Je program kurzů náročný na vybavení?
 
 Kurzy předpokládají alespoň průměrné počítačové vybavení pro grafické aplikace. Některý software využívá dvoutlačítkovou myš se skrolovacím kolečkem, a numerická klávesnice je výhodou. Kurzy kreslení a malby vyžadují grafický tablet s přítlakem (i když teoreticky se dá malovat i myší...).
