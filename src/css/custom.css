@@ -23,3 +23,35 @@
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
+
+@font-face {
+  font-family: "LibreFranklin-Light";
+  src: url('/static/LibreFranklin-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "LibreFranklin-Thin";
+  src: url('/static/LibreFranklin-Thin.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "LibreFranklin-Regular";
+  src: url('/static/LibreFranklin-Regular.ttf') format('truetype');
+}
+
+:root {
+  --ifm-font-family-monospace: "LibreFranklin-Light";
+  --ifm-font-family-base: "LibreFranklin-Light"
+}
+
+body, h4, h5, h6 {
+  font-family: LibreFranklin-Regular;
+}
+
+h1 {
+  font-family: LibreFranklin-Thin;
+}
+
+h2, h3 {
+  font-family: LibreFranklin-Light;
+}

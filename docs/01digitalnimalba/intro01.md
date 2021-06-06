@@ -4,7 +4,7 @@ title: Kresba a malba
 sidebar_position: 1
 ---
 
-# Kresba a malba:  Co v lekcích najdeš?
+# Kresba a malba: Přehled témat
 
 - Krita: Instalace a nastavení programu.
 Témata: Světlo, stín, kontrast, tonalita a barva, textura a materiál. Radiozita, Fresnelův jev, Anisotropie, Okluze. Speciální materiály - sklo, translucence, Světelné zdroje, Perspektiva a efekty atmosféry
