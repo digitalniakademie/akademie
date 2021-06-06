@@ -6,13 +6,14 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 3rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
   background: radial-gradient(circle, rgba(53,143,191,1) 52%, rgba(47,116,153,0.5387197115174195) 100%);
   background-image: url("akad2.svg"); /* fallback */
-  background-image: url("akad2.svg"), linear-gradient(#eb01a5, #d13531); /* W3C */
+  /* background-image: url("akad2.svg"), linear-gradient(#eb01a5, #d13531); /* W3C */
+/*  background-image: url("akad2.svg"), linear-gradient(rgba(53,143,191,1) 52%, rgba(47,116,153,0.5387197115174195) 100%);*/
 background-repeat: no-repeat;
 }
 
