@@ -6,15 +6,13 @@ sidebar_position: 1
 
 # Co v kurzu najdeš
 
-- Modelování ve 3D
-- Scéna a osvětlení (produktové, studiové)
-- HDR a realistické osvětlení
-- Detaily a koncept blokování
-- Sochařství
-- Texturování a UV-Mapping
-- Hard Surface postupy pro technické objekty
-- Sochařství
-- Rigging
+- Digitální fotografie
+- Kompozice a fotografické vyprávění
+- Úprava fotografií, RAW formát
+- Retuše v programu Gimp
+- RAW formáty v Darktable
+- Management fotografií
+
 
 ## Software v kurzu
 
