@@ -21,7 +21,7 @@ Jazykovou verzi programu změníš v menu:
   ]
 }>
 <TabItem value="czv">Upravit ‣ Předvolby ‣ Rozhraní ‣ Překlad</TabItem>
-<TabItem value="env"Edit ‣ Preferences ‣ Interface ‣ Translation</TabItem>
+<TabItem value="env">Edit ‣ Preferences ‣ Interface ‣ Translation</TabItem>
 </Tabs>
 
 ## Nastavení grafického tabletu a klávesnice pro Blender
