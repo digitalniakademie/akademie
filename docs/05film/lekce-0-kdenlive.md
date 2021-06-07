@@ -10,8 +10,10 @@ sidebar_position: 2
 Najdi aktuální verzi. Stáhni a spusť soubor. Základní nastavení. Po instalaci spusť program Kdenlive.
 ## Nastavení jazykové verze
 Jazykovou verzi programu změníš v menu:
+
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+
 <Tabs
   groupId="jazykova-verze"
   defaultValue="czv"
