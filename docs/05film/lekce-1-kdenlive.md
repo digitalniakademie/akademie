@@ -3,8 +3,6 @@ id: lekce-1-kdenlive
 title: Film
 sidebar_position: 3
 ---
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
 
 # Kdenlive: Tříbodový střih
 
@@ -16,6 +14,8 @@ typy střihu. IO.
 
 ### Titulky
 ### Render
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 <Tabs
   groupId="jazykova-verze"
   defaultValue="czv"

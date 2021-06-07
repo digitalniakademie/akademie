@@ -3,8 +3,6 @@ id: lekce-2-kdenlive
 title: Film
 sidebar_position: 4
 ---
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
 
 # Typy střihu
 
@@ -14,7 +12,8 @@ typy střihu. IO.
 ## White fade
 ## Black fade
 ## Příklady
-
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 <Tabs
   groupId="jazykova-verze"
   defaultValue="czv"

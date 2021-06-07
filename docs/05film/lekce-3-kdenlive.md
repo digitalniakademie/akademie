@@ -3,8 +3,6 @@ id: lekce-3-kdenlive
 title: Film
 sidebar_position: 5
 ---
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
 
 # Barvy a Color Grading
 
@@ -14,6 +12,8 @@ typy střihu. IO.
 ## White fade
 ## Black fade
 ## Příklady
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 <Tabs
   groupId="jazykova-verze"

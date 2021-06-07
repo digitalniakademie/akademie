@@ -3,15 +3,14 @@ id: lekce-4-kdenlive
 title: Film
 sidebar_position: 6
 ---
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
 
 # Efekty
 
 ## Klíčování
 typy střihu. IO.
 ## Camera Tracking
-
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 <Tabs
   groupId="jazykova-verze"

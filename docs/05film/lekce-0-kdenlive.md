@@ -3,8 +3,6 @@ id: lekce-0-kdenlive
 title: Film
 sidebar_position: 2
 ---
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
 
 # Kdenlive: Instalace a první projekt
 
@@ -12,6 +10,8 @@ import TabItem from '@theme/TabItem';
 Najdi aktuální verzi. Stáhni a spusť soubor. Základní nastavení. Po instalaci spusť program Kdenlive.
 ## Nastavení jazykové verze
 Jazykovou verzi programu změníš v menu:
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 <Tabs
   groupId="jazykova-verze"
   defaultValue="czv"
