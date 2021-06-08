@@ -1,10 +1,10 @@
 ---
-id: lekce-1-blender
+id: lekce-2-blender
 title: 3D Modelování
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# Lekce 01: Objekty ve scéně
+# Lekce 02: Modelujeme
 ## Vytvoření a typy objektů
 ### Polygonové objekty
 ![image](../img/blender01-edit.svg)

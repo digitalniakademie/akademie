@@ -3,8 +3,6 @@ id: lekce-0-krita
 title: Kresba a malba
 sidebar_position: 2
 ---
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
 
 # Krita: Instalace a nastavení
 
@@ -12,6 +10,9 @@ import TabItem from '@theme/TabItem';
 Najdi aktuální verzi. Stáhni a spusť soubor. Základní nastavení systému a klávesnice. Po instalaci spusť program Krita.
 ## Nastavení jazykové verze
 Jazykovou verzi programu změníš v menu:
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 <Tabs
   groupId="jazykova-verze"
   defaultValue="czv"
