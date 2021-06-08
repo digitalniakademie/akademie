@@ -6,17 +6,15 @@ sidebar_position: 0
 ![image](./img/akademieprehled2.svg)
 ## Metodika kurzů
 
-V psaných lekcích na těchto stránkách jsou stručné přepisy obsahu série videí na YouTube kanálu Digitální Akademie. Software je vybraný tak, aby tvořil komplexní workflow pro všechny typy tvorby v kurzech a jednotlivých lekcích, a zároveň byl pro každého volně dostupný.
+Lekce na těchto stránkách rozšiřují obsah série videí Digitální Akademie na YouTube. Software je vybraný tak, aby tvořil komplexní workflow pro digitální tvorbu.
 
-Lekce má tyto části:
+Lekce mají tyto části:
 
-1. Přehled
+1. Přehled pro začátečníky
 2. Obsah a praktické předvedení
-3. Shrnutí
-4. Úkol/Cvičení
+3. Úkoly/Cvičení
 
 Lekce jsou minimalistické a snaží se předejít jistému fenoménu tutoriálů, takže:
-
 
 ## Komu je program určený?
 
@@ -29,7 +27,7 @@ Nikdo se nikdy nestal expertem **sledováním videí na internetu**. Nové znalo
 :::
 
 ## Jazykové verze programů
-Kurzy podporují českou i anglickou instalaci programů. 
+Kurzy podporují českou i anglickou instalaci programů.
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -68,7 +66,7 @@ Nenech se při učení **ničím** rozptylovat. Každá lekce se vejde do patná
 
 :::
 ## Začni ještě dnes!
-Lekce jsou navržené tak, aby byly co nejkratší a nejefektivnější. Cílem je co nejrychlejší využití nových technik.
+Lekce jsou navržené tak, aby byly co nejefektivnější. Cílem je co nejrychlejší využití nových technik.
 
 ## Témata
 
@@ -82,6 +80,6 @@ Lekce jsou navržené tak, aby byly co nejkratší a nejefektivnější. Cílem 
 
 :::tip
 
-Nenech se při učení **ničím** rozptylovat. Každá lekce se vejde do patnácti minut.
+Nenech se při učení **ničím** rozptylovat. Kurzy poskytují základ pro další objevování v daném oboru. Každá lekce se vejde do patnácti minut a výklad rychlokurzů je navržený na sedm dní pro každé téma. 
 
 :::

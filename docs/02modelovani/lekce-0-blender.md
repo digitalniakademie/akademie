@@ -7,7 +7,7 @@ sidebar_position: 2
 # Blender: Instalace, nastavení
 
 ## Stažení a instalace
-Najdi aktuální verzi. Stáhni a spusť soubor. Základní nastavení systému a klávesnice. Po instalaci spusť program Blender.
+Najdi aktuální verzi na https://www.blender.org/ (alfa verze Blenderu https://builder.blender.org/download/daily/). Stáhni a spusť instalační soubor. Po instalaci spusť program Blender.
 ## Nastavení jazykové verze
 Jazykovou verzi programu změníš v menu:
 
@@ -33,7 +33,7 @@ import TabItem from '@theme/TabItem';
 
 :::
 
-Zkontroluj funkčnost tabletu. Podle typu pera nastav tlačítka, Right Click, Middle Click. **Vypni Windows Ink.** Protože nemáš skrolovací tlačítko, funkčnost ovládáš na **numerických** klávesách (+) a (-). Pokud jsou na tvém tabletu programovací tlačítka nebo touch ring, doporučuji si nastavit tyto shortcuty (viz obrázek). Příklad nastavení u tabletu Wacom:
+Zkontroluj funkčnost tabletu. Podle typu pera nastav tlačítka, Right Click, Middle Click. **Vypni Windows Ink.** Protože nemáš skrolovací tlačítko, funkčnost ovládáš na **numerických** klávesách <kbd>Num +</kbd> a <kbd>Num -</kbd>. Pokud jsou na tvém tabletu programovací tlačítka nebo touch ring, doporučuji si nastavit tyto shortcuty (viz obrázek). Příklad nastavení u tabletu Wacom:
 
 ![image](../img/wacom.jpg)
 
@@ -55,22 +55,35 @@ Tady také nastavíš emulaci numerické klávesnice a v polních podmínkách o
 
 :::warning Poznámka
 
- Doporučuji zrušit SHIFT+CTRL shorcut na přepínání klávesnic ve Windows.  Minitutorial jak na to:
+ Doporučuji zrušit ALT+SHIFT a SHIFT+CTRL na přepínání klávesnic ve Windows.  Minitutorial jak na to:
+
+ Start>Nastavení>Čas a jazyk>Jazyk>Klávesnice>Klávesové zkratky pro jazyk zadávání>Otevře se okno Jazyky a služby pro zpracování textu, zvolte Změnit kombinaci kláves>>Oba sloupce nastavit na Nepřiřazeno. Použít.
+
+ (Anglická verze Win10: Start>Settings>Time & Language>Language>Keyboard>Input Language Hotkeys, otevře se dialogové okno Text Services and Input Languages, v něm vyberte Change Key Sequence a nastavte všechny Key Sequence na Not Assigned.)
+ Aplikujte.
+
+ **Shorcut na přepínání klávesnic <kbd>Windows</kbd> + <kbd>SPACEBAR</kbd> bude dále funkční.**
 
 :::
 
-## Moduly
+## Blender pro úplné začátečníky
+Po spuštění Blender otevře základní scénu v pracovní ploše Layout. Přesuň kurzor do pracovního okna a stiskni <kbd>N</kbd>. Vysune se postranní panel.
 
-## Pracovní plocha
+![image](../img/01blender-okno.svg)
+
+### Pracovní plochy
 Okna můžeš přesouvat a měnit jejich obsah podle potřeby.
 
 Jak vrátit pracovní plochu do původního nastavení: Nastavení plochy se ukládá do souboru. V dialogu  otevření souboru otevřete Settings (ikona kolečka) a odškrtněte Načíst UI (Load UI v anglické verzi).
 
+### Přidání a mazání pracovních ploch v menu.
 
 Ulož si pracovní plochu a vyzkoušej si přepínání pracovních ploch.
 
-## Přehled funkcí Blenderu
+### Přehled funkcí Blenderu
 Moduly. Layout a editační mód. Nastavení materiálů a uzlový mód v sekci shader.
 Co jde v Blenderu dělat.
+
+
 
 Můžeme začít.
