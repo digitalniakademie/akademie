@@ -33,7 +33,11 @@ import TabItem from '@theme/TabItem';
 
 :::
 
-Zkontroluj funkčnost tabletu. Podle typu pera, nastav tlačítka, right click, middle button. Vypni Windows link. Protože nemáš skrolovací tlačítko, funkčnost ovládáš na klávesnici. Příklad nastavení u tabletu Wacom.
+Zkontroluj funkčnost tabletu. Podle typu pera nastav tlačítka, Right Click, Middle Click. **Vypni Windows Ink.** Protože nemáš skrolovací tlačítko, funkčnost ovládáš na **numerických** klávesách (+) a (-). Pokud jsou na tvém tabletu programovací tlačítka nebo touch ring, doporučuji si nastavit tyto shortcuty (viz obrázek). Příklad nastavení u tabletu Wacom:
+
+![image](../img/wacom.jpg)
+
+Možnosti klávesnice nastavíš v Blenderu tady
 <Tabs
   groupId="jazykova-verze"
   defaultValue="czv"
@@ -42,10 +46,18 @@ Zkontroluj funkčnost tabletu. Podle typu pera, nastav tlačítka, right click, 
     {label: 'V anglické verzi', value: 'env'},
   ]
 }>
-<TabItem value="czv">Upravit ‣ Předvolby ‣ Rozhraní ‣ Vstup</TabItem>
-<TabItem value="env">Edit ‣ Preferences ‣ Interface ‣ Input</TabItem>
+<TabItem value="czv">Upravit ‣ Předvolby ‣ Vstup</TabItem>
+<TabItem value="env">Edit ‣ Preferences ‣ Input</TabItem>
 </Tabs>
+
+
 Tady také nastavíš emulaci numerické klávesnice a v polních podmínkách ovládání pomocí touchpadu.
+
+:::warning Poznámka
+
+ Doporučuji zrušit SHIFT+CTRL shorcut na přepínání klávesnic ve Windows.  Minitutorial jak na to:
+
+:::
 
 ## Moduly
 
