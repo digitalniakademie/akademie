@@ -7,7 +7,17 @@ sidebar_position: 2
 # Blender: Instalace, nastavení
 
 ## Stažení a instalace
-Najdi aktuální verzi na https://www.blender.org/ (alfa verze Blenderu https://builder.blender.org/download/daily/). Stáhni a spusť instalační soubor. Po instalaci spusť program Blender.
+Najdi aktuální verzi na https://www.blender.org/
+
+:::note Vývojové verze
+Alfa verze Blenderu https://builder.blender.org/download/daily/
+Tyto verze jsou pro vyzkoušení novinek a stability, nejsou vhodné pro tvorbu kritických projektů!
+
+:::
+
+Stáhni a spusť instalační soubor.
+Po instalaci spusť program Blender.
+
 ## Nastavení jazykové verze
 Jazykovou verzi programu změníš v menu:
 
@@ -37,7 +47,7 @@ Zkontroluj funkčnost tabletu. Podle typu pera nastav tlačítka, Right Click, M
 
 ![image](../img/wacom.jpg)
 
-Možnosti klávesnice nastavíš v Blenderu tady
+Možnosti klávesnice nastavíš v Blenderu tady:
 <Tabs
   groupId="jazykova-verze"
   defaultValue="czv"

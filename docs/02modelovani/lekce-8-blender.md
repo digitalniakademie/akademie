@@ -1,10 +1,10 @@
 ---
-id: lekce-8-blender
+id: lekce-7-blender
 title: 3D Modelování
-sidebar_position: 9
+sidebar_position: 10
 ---
 
-# Sculpting
+# Architektura a design
 Výhody.
 ## Seznam modifikátorů
 Česká verze
