@@ -9,6 +9,7 @@ sidebar_position: 1
 - Filmový střih
 - Základy práce se zvukem
 - Titulkování
+- Barva a grading
 
 ## Software v kurzu
 
