@@ -84,7 +84,11 @@ Po spuštění Blender otevře základní scénu v pracovní ploše Layout. Pře
 ### Pracovní plochy
 Okna můžeš přesouvat a měnit jejich obsah podle potřeby.
 
-Jak vrátit pracovní plochu do původního nastavení: Nastavení plochy se ukládá do souboru. V dialogu  otevření souboru otevřete Settings (ikona kolečka) a odškrtněte Načíst UI (Load UI v anglické verzi).
+Jak vrátit pracovní plochu do původního nastavení: Nastavení plochy se ukládá do souboru. Ulož projekt. V dialogu  otevření souboru <kbd>Ctrl</kbd> + <kbd>O</kbd> otevřete Settings (ikona kolečka vpravo nahoře) a odškrtněte Načíst UI (*Load UI* v anglické verzi).
+
+![image](../img/blender-plocha.jpg)
+
+Tvůj projekt se načte se základním nastavením plochy (UI).
 
 ### Přidání a mazání pracovních ploch v menu.
 
@@ -93,7 +97,6 @@ Ulož si pracovní plochu a vyzkoušej si přepínání pracovních ploch.
 ### Přehled funkcí Blenderu
 Moduly. Layout a editační mód. Nastavení materiálů a uzlový mód v sekci shader.
 Co jde v Blenderu dělat.
-
 
 
 Můžeme začít.

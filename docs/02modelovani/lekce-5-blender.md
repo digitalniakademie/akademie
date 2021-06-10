@@ -4,11 +4,14 @@ title: 3D Modelování
 sidebar_position: 7
 ---
 
-# Blender: Materiálové uzly
+# Blender: Pluginy a materiálové uzly
 Výhody.
+
+## Instalace a aktivace pluginů
+### Node Wrangler
 ## Jak pracovat s uzly
 Česká verze
-## Node Wrangler
+
 
 ![image](../img/blender-mod-cz.png)
 

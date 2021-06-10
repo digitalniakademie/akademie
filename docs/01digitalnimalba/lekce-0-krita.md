@@ -26,7 +26,7 @@ import TabItem from '@theme/TabItem';
 </Tabs>
 
 ## Nastavení tabletu
-Zkontroluj funkčnost tabletu. Vytvoř nový soubor. Vyber nástroj štětec (B). Vyber typ štětce. Nakresli čáru s různým přítlakem a zkontroluj, jestli nástroj reaguje. Nastavení tabletu:
+Zkontroluj funkčnost tabletu. Vytvoř nový soubor. Vyber nástroj štětec <kbd>B</kbd>. Vyber typ štětce. Nakresli čáru s různým přítlakem a zkontroluj, jestli nástroj reaguje. Nastavení tabletu:
 <Tabs
   groupId="jazykova-verze"
   defaultValue="czv"

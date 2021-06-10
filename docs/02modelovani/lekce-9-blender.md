@@ -1,10 +1,10 @@
 ---
-id: lekce-7-blender
+id: lekce-9-blender
 title: 3D Modelování
-sidebar_position: 10
+sidebar_position: 11
 ---
 
-# Pro pokročilé: Architektura a design
+# Pro pokročilé: Štětce a malování v Blenderu
 Výhody.
 ## Seznam modifikátorů
 Česká verze

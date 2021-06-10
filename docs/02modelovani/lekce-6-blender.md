@@ -4,7 +4,8 @@ title: 3D Modelování
 sidebar_position: 8
 ---
 
-# Kompozice a Rigging
+# Materiály, textury a mapování
+Kompozice a Rigging
 Výhody.
 ## Seznam modifikátorů
 Česká verze

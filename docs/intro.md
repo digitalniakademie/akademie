@@ -58,11 +58,11 @@ Kurzy předpokládají alespoň průměrné počítačové vybavení pro grafick
 
 ## Proč open-source?
 
-Aby byly kurzy co nejdostupnější, všechny lekce využívají profesionální software s licencí, který je open-source a volně ke stažení. Všechny programy také existují i ve verzích pro ty nejrozšířenější operační systémy.
+Aby byly kurzy co nejdostupnější, všechny lekce využívají profesionální software s licencí, který je volně ke stažení. Všechny programy také existují i ve verzích pro ty nejrozšířenější operační systémy.
 
-:::tip
+:::tip SOFTWARE
 
-Nenech se při učení **ničím** rozptylovat. Každá lekce se vejde do patnácti minut.
+Kurzy využívají svobodný a otevřený software (Free and open-source software &mdash; FOSS)
 
 :::
 ## Začni ještě dnes!
@@ -80,6 +80,6 @@ Lekce jsou navržené tak, aby byly co nejefektivnější. Cílem je co nejrychl
 
 :::tip
 
-Nenech se při učení **ničím** rozptylovat. Kurzy poskytují základ pro další objevování v daném oboru. Každá lekce se vejde do patnácti minut a výklad rychlokurzů je navržený na sedm dní pro každé téma. 
+Nenech se při učení **ničím** rozptylovat. Kurzy poskytují základ pro další objevování v daném oboru. Každá lekce se vejde do patnácti minut a výklad rychlokurzů je navržený na sedm dní pro každé téma.
 
 :::

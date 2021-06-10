@@ -4,7 +4,7 @@ title: 3D Modelování
 sidebar_position: 5
 ---
 
-# Lekce 03: Efektivní osvětlení
+# Lekce 03: Efektivní osvětlení a render
 ## Světelné zdroje
 ### Světelné objekty
 ![image](../img/blender01-edit.svg)
