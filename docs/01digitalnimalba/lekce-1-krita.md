@@ -15,7 +15,7 @@ Vzájemné ovlivnění těles odraženým světlem a barvou. Barevné posuny.
 ### Fresnelův jev a anisotropie
 Všechny materiály mění svojí světelnou odrazivost s úhlem pohledu. U některých je to více znatelné (voda), u některých méně (papír).
 ### Okluze
-Okluze je rozptýlený stín, který objekt vrhá sám na sebe. Je to efekt viditelný v členitém povrchu a dutinách, a mezi objekty které se dotýkají nebo jsou blíyko u sebe.
+Okluze je rozptýlený stín, který objekt vrhá sám na sebe. Je to efekt viditelný v členitém povrchu a dutinách, a mezi objekty které se dotýkají nebo jsou blízko u sebe.
 ### Průsvitnost/Translucence
 Translucence (živé organismy a tenké materiály jsou částečně průsvitné).
 ### Tonalita a barva
