@@ -82,7 +82,7 @@ Po spuštění Blender otevře základní scénu v pracovní ploše Layout. Pře
 ![image](../img/01blender-okno.svg)
 
 ### Pracovní plochy
-Okna můžeš přesouvat a měnit jejich obsah podle potřeby.
+Okna můžeš přesouvat a měnit jejich obsah a velikost podle potřeby.
 
 Jak vrátit pracovní plochu do původního nastavení: Nastavení plochy se ukládá do souboru. Ulož projekt. V dialogu  otevření souboru <kbd>Ctrl</kbd> + <kbd>O</kbd> otevřete Settings (ikona kolečka vpravo nahoře) a odškrtněte Načíst UI (*Load UI* v anglické verzi).
 

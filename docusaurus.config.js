@@ -31,11 +31,11 @@ module.exports = {
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           type: 'doc',
-          docId: 'Pokyny',
-          position: 'left',
-          label: 'Pokyny',
+          docId: 'pokyny',
+          position: 'right',
+          label: 'Instalace',
         },
-        {to: '/extrapages', label: 'Pokyny', position: 'left'},
+        
         {
           href: 'https://github.com/digitalniakademie/akademieskripta',
           label: 'Studijní materiály',
