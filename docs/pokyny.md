@@ -26,9 +26,10 @@ ms-appinstaller:?source=https://aka.ms/getwinget
 
 ### Spuštění manažeru
 
-Pomocí <kbd>Windows</kbd> + <kbd>R</kbd> otevři spouštěcí okno, a spusť cmd.exe (napiš **cmd** a stiskni <kbd>Enter</kbd>).
+Potřebuješ spustit **Powershell** jako správce, abys nemusel manuáně potvrzovat dialogy pro každý program. Stiskni <kbd>Windows</kbd> + <kbd>X</kbd>, vyber **Windows Powershell (správce)** a potvrď.
 
 Pokud nyní napíšeš příkaz **winget**, program ti ukáže seznam příkazů.
+
 
 ### Upgrade programů a ostatní funkce
 
@@ -51,13 +52,48 @@ Pro upgrade na aktuální verzi programu v repozitáři
 winget upgrade blender
 ```
 
+Tento příkaz ti ukáže seznam **nainstalovaných** programů, u kterých existuje aktuálnější verze.
 
-## Omezení
+```
+winget upgrade
+```
+
+Tento příkaz **upgraduje všechny programy v seznamu** na aktuálnější verze.
+
+```
+winget upgrade --all
+```
+
+### Omezení
 
 Manažer balíčků neobsahuje zatím všechny programy (repozitář se buduje). Výhodou bude rychlá instalace a upgrade programů, manažer instaluje nejaktuálnější stabilní verze programů.
 
 :::tip
 
 V tuto chvíli můžeš takto nainstalovat **všechny** nejaktuálnější verze softwaru pro kurzy &mdash; kromě programu Natron.
+
+:::
+
+## Instalace a upgrade více programů najednou
+
+Potřebuješ spustit **Powershell** jako správce, abys nemusel manuáně potvrzovat dialogy pro každý program. Stiskni <kbd>Windows</kbd> + <kbd>X</kbd>, vyber **Windows Powershell (správce)** a potvrď.
+
+Skript pro instalaci programů Krita, Blender a Inkscape. Zkopíruj, vlož do Powershellu (nutná instalace rozšíření **winget**, viz výše) a stiskni <kbd>Enter</kbd>
+```
+winget install krita
+winget install blender
+winget install inkscape
+```
+Skript pro **upgrade** programů Krita, Blender a Inkscape. Zkopíruj, vlož a spusť v Powershellu
+
+```
+winget upgrade krita
+winget upgrade blender
+winget upgrade inkscape
+```
+
+:::warning Pozor
+
+Tímto způsobem instaluj pouze programy, které znáš a víš, že jsou ze spolehlivého zdroje!
 
 :::
