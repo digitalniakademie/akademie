@@ -1,14 +1,16 @@
 ---
 id: lekce-0-krita
-title: Kresba a malba
+
 sidebar_position: 2
 ---
 
 # Krita: Instalace a nastavení
 
 ## Stažení a instalace
-Najdi aktuální verzi. Stáhni a spusť soubor. Základní nastavení systému a klávesnice. Po instalaci spusť program Krita.
+Najdi aktuální verzi na https://www.krita.org/. Stáhni a spusť soubor.  Po instalaci spusť program Krita.
+
 ## Nastavení jazykové verze
+Základní nastavení systému a klávesnice.
 Jazykovou verzi programu změníš v menu:
 
 import Tabs from '@theme/Tabs';

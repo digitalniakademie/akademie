@@ -1,6 +1,5 @@
 ---
 id: kresba-a-malba
-title: Kresba a malba
 sidebar_position: 1
 ---
 
