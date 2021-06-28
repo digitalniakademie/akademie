@@ -9,6 +9,7 @@ sidebar_position: 3
 ### Světlo, stín, kontrast
 ### Terminátor
 hranice mezi světlem a stínem na povrchu předmětu.
+![image](../img/terminator.svg)
 ## Světelné vlastnosti objektů
 ### Radiozita
 Vzájemné ovlivnění těles odraženým světlem a barvou. Barevné posuny.
