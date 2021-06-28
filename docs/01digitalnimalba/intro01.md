@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 # Kresba a malba: Přehled témat
-
+![image](../img/toppicture1.png)
 - Krita: Instalace a nastavení programu.
 Témata: Světlo, stín, kontrast, tonalita a barva, textura a materiál. Radiozita, Fresnelův jev, Anisotropie, Okluze. Speciální materiály - sklo, translucence, Světelné zdroje, Perspektiva a efekty atmosféry
 
