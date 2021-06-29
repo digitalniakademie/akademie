@@ -11,7 +11,7 @@ Na grafickém tabletu se dá skicovat poměrně dobře, i když je kresba na tab
 
 :::note Poznámka
 
-Grafické tablety s monitorem zpravidla vyžadují ke svojí funkci počítač se softwarem --- monitor je pouze zobrazovací jednotka
+Grafické tablety s monitorem zpravidla vyžadují ke svojí funkci počítač se softwarem — monitor je pouze zobrazovací jednotka
 
 :::
 
@@ -21,6 +21,11 @@ Nástroje a nastavení pro kresbu na tabletu. Vyhlazování a vyvažování tah�
 obr štětce, tool options, vyskakovací menu
 
 Obdobné funkce najdeš i v jiných programech, pod různými názvy.
+
+## Stínování a techniky kresby
+Štětec jako razítko. Typy vyhlazování. Dynamika tahů.
+obr. stinovani
+
 ## Proporce a objem
 Proporce při skicování průběžně přeměřuj. Postupně se naučíš proporce a úhly správně odhadovat.
 
@@ -36,17 +41,15 @@ Pro náčrt používej stabilní zvětšení plochy. Vyhneš se snáz tomu, aby 
 ## Perspektiva
 Typy perspektivy a čitelnost. K perspektivě se ještě vrátím v lekci o kompozici.
 obr. persp.
-## Stínování a techniky kresby
-Štětec jako razítko. Typy vyhlazování. Dynamika tahů.
-obr. stinovani
+
 ## Skicář
 obr. skicar
-Pořiď si skicák a tužku. Studie můžeš dělat i na přenosném tabletu, ale potřebuješ vytvořit kreslicí návyky. Musíš zrušit rozptýlení, jako je třeba dobíjení baterie. Buď připravený začít kreslit během minuty. Skicuj předměty které tě zaujmou, doma nebo na výletě.  
+Pořiď si skicák a tužku. Studie můžeš dělat i na přenosném tabletu, ale potřebuješ vytvořit kreslicí návyky. Musíš zrušit rozptýlení, jako je třeba dobíjení baterie. Buď připravený začít kreslit během minuty. Kresli předměty které tě zaujmou, doma nebo na výletě.  Trénuj rychlé skicy, maximálně 10 minut na jednu skicu.
 ### Témata
 Postupuj od jednoduchých forem ke složitějším. Od jednoduchých materiálů ke komplexnějším. Začni předměty s jasně definovaným objemem. Využij jednoduché osvětlení.
 ovoce a zelenina, kámen, list, květ
 
-Jednoduché a abstraktní tvary ti umožní zdokonalovat techniku pozorování proporce i formy, i samotnou techniku kresby a malby. Složité tvary, jako architektura, technika, obličej, nebo anatomie postavy odhalí každý tvůj nedostatek v perspektivě, proporcích a formě --- nedovolí ti rozvíjet základy a výsledek tě bude demotivovat.
+Jednoduché a abstraktní tvary ti umožní zdokonalovat techniku pozorování proporce i formy, i samotnou techniku kresby a malby. Složité tvary, jako architektura, technika, obličej, nebo anatomie postavy odhalí každý tvůj nedostatek v perspektivě, proporcích a formě — nedovolí ti rozvíjet základy a výsledek tě bude demotivovat.
 ### Živý model a fotografie
 Zvykni si skicovat podle skutečných předmětů a modelů. Fotografie používej ze začátku jako referenci, ne jako zdroj. Důvod: tonalita, pochopení tvaru a optické jevy. Tvoje oko vidí lépe než objektiv kamery.
 
@@ -66,7 +69,7 @@ obr random shapes
 ## Světelné vlastnosti objektů
 
 ## Blokování
-Blokování je obecně platný koncept pro kresbu, malbu, modelování, grafiku, fotografii i film. Je to stylistické zjednodušení tvaru nebo scény. Důvodem je čitelnost. Blokování a silueta.
+Blokování je obecně platný koncept pro kresbu, malbu, modelování, grafiku, fotografii i film. Je to stylistické zjednodušení tvaru objektu nebo části scény. Důvodem je čitelnost. Blokování a silueta.
 
 ## Správná tonalita
 Barvy pro tisk a obrazovku. Gamut.
