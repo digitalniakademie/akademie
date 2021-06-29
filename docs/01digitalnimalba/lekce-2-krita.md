@@ -4,7 +4,7 @@ title: Kresba a malba
 sidebar_position: 4
 ---
 
-# Lekce 02: Štětce, palety a další nástroje
+# Štětce, palety a další nástroje
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

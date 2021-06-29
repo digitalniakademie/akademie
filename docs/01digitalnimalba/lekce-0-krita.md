@@ -5,13 +5,13 @@ sidebar_position: 2
 ---
 
 # Digitální kresba: Proporce, objem, perspektiva
-Kreslení je nejtěžší disciplína, proč začínat tím nejobtížnějším? Kresba bude základ tvojí tvorby. Kresbou budeš začínat a zdokonalovat se celý život.
+Kreslení je nejtěžší disciplína. Proč začínat tím nejobtížnějším? Kresba je základ obrazu. Kresbou budeš začínat svůj koncept a zdokonalovat se celý život.
 
-Na grafickém tabletu se dá skicovat poměrně dobře, i když je kresba na tabletu pocitově rozdílná, někdo může postrádat reakci média nebo vzálenost špičky pera od kreslící plochy. Pokud jsi zvyklý skicovat klasicky, s velkým množstvím detailů, můžeš náčrty naskenovat a použít jako základ pro digitální malbu. To je postup, který se často používá v digitální ilustraci. Dobře kreslit můžeš ale s trochou cviku i na grafickém tabletu (s monitorem i bez).
+Na grafickém tabletu se dá skicovat poměrně dobře, i když je kresba na tabletu pocitově rozdílná. Někdo může postrádat reakci média nebo vzdálenost špičky pera od kreslící plochy. Pokud jsi zvyklý skicovat klasicky, s velkým množstvím detailů, můžeš náčrty naskenovat a použít jako základ pro digitální malbu. To je postup, který se často používá v digitální ilustraci. Dobře kreslit můžeš ale s trochou cviku i na grafickém tabletu (s monitorem i bez).
 
 :::note Poznámka
 
-Grafické tablety s monitorem zpravidla vyžadují ke svojí funkci počítač se softwarem — monitor je pouze zobrazovací jednotka
+Grafické tablety s monitorem zpravidla vyžadují ke svojí funkci počítač se softwarem — monitor je pouze zobrazovací zařízení
 
 :::
 
