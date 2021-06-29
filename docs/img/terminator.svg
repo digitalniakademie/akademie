@@ -26,8 +26,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0626136"
-     inkscape:cx="825.79409"
-     inkscape:cy="521.82658"
+     inkscape:cx="557.58747"
+     inkscape:cy="424.89577"
      inkscape:window-width="2048"
      inkscape:window-height="1129"
      inkscape:window-x="-8"
@@ -8754,6 +8754,38 @@ iJGxC8vZX5mLleIbw845dmkiP4yGLdS7Ucce+71mIJUA8P8B2MA7g9ikdvEAAAAASUVORK5CYII=
 "
        id="image92761"
        x="181.19319"
-       y="68.493446" />
+       y="67.435112" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25576px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.206395"
+       x="58.060001"
+       y="29.297842"
+       id="text93444"><tspan
+         sodipodi:role="line"
+         id="tspan93442"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25576px;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.206395"
+         x="58.060001"
+         y="29.297842">Střední světlo</tspan></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 75.341128,33.18889 83.0451,52.398097"
+       id="path93446"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25576px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.206395"
+       x="137.25847"
+       y="82.894699"
+       id="text134280"><tspan
+         sodipodi:role="line"
+         id="tspan134278"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25576px;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.206395"
+         x="137.25847"
+         y="82.894699">Ambience</tspan></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 133.90199,92.845067 15.09007,-6.950969"
+       id="path134282"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

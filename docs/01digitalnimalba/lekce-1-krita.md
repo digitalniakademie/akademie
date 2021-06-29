@@ -5,6 +5,8 @@ sidebar_position: 3
 ---
 
 # Lekce 01: Světlo a stín
+
+obr. tělesa tužka
 ## Teorie tvaru
 ### Světlo, stín, kontrast
 ### Terminátor

@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 
 # Co v kurzu najdeš
-
+![image](../img/toppicture2.png)
 - Modelování ve 3D
 - Transformace
 - Modifikátory
@@ -17,7 +17,7 @@ sidebar_position: 1
 - Hard Surface postupy pro technické objekty
 - Sochařství
 - Rigging
-- Render 
+- Render
 
 ## Software v kurzu
 

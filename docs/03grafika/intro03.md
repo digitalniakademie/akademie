@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 
 # Co v lekcích najdeš
-
+![image](../img/toppicture3.png)
 - Vektorová grafika a Inkscape
 - Scribus: Typesetting a sazba tiskovin
 - Gimp a úprava grafiky

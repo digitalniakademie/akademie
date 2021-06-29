@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 
 # Co v kurzu najdeš
-
+![image](../img/toppicture4.png)
 - Digitální fotografie
 - Kompozice a fotografické vyprávění
 - Úprava fotografií, RAW formát
