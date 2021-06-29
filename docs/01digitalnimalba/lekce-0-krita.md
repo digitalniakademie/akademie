@@ -5,13 +5,28 @@ sidebar_position: 2
 ---
 
 # Digitální kresba: Proporce, objem, perspektiva
+Kreslení je nejtěžší disciplína, proč začínat tím nejobtížnějším? Kresba bude základ tvojí tvorby. Kresbou budeš začínat a zdokonalovat se celý život.
 
-## Nástroje
+Na grafickém tabletu se dá skicovat poměrně dobře, i když je kresba na tabletu pocitově rozdílná, někdo může postrádat reakci média nebo vzálenost špičky pera od kreslící plochy. Pokud jsi zvyklý skicovat klasicky, s velkým množstvím detailů, můžeš náčrty naskenovat a použít jako základ pro digitální malbu. To je postup, který se často používá v digitální ilustraci. Dobře kreslit můžeš ale s trochou cviku i na grafickém tabletu (s monitorem i bez).
+
+:::note Poznámka
+
+Grafické tablety s monitorem zpravidla vyžadují ke svojí funkci počítač se softwarem --- monitor je pouze zobrazovací jednotka
+
+:::
+
+## Kreslíme na tabletu
+Aby byla kresba plynulá, je tu možnost vyvažování a filtrování pohybů pera.
 Nástroje a nastavení pro kresbu na tabletu. Vyhlazování a vyvažování tahů.
 obr štětce, tool options, vyskakovací menu
+
+Obdobné funkce najdeš i v jiných programech, pod různými názvy.
 ## Proporce a objem
+Proporce při skicování průběžně přeměřuj. Postupně se naučíš proporce a úhly správně odhadovat.
+
 obr. proporční kreslení
 ## Čitelnost a silueta
+Při skicování vyber takový úhel pohledu, aby byl objekt čitelný i jako silueta.
 obr. silueta
 
 ## Detaily a formy
