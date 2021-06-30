@@ -1,10 +1,10 @@
 ---
 id: lekce-1-krita
 title: Kresba a malba
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# Tvar, forma, světlo a stín
+# Tvar a forma: světlo, stín a vlastnosti materiálů
 
 --- obr. tělesa tužkou
 ## Teorie tvaru
@@ -12,7 +12,7 @@ Tvary a formy vnímáme podle způsobu, jak reagují na světlo. Podobně jako b
 ### Vnitřní a vnější vidění
 Tvoje představa o objektu ovlivňuje to, jak objekt vidíš. Pro realistickou malbu je třeba trénovat pozorovací schopnosti a rovnováhu mezi tím, jak objekt skutečně vidíš a jak vnímáš jeho kontext. Proto je dobré začít se studiemi poměrně abstraktních nebo naopak geometrických předmětů (kámen, drapérie, zmačkaný papír, ovoce nebo tělesa s jednoduchým tvarem).  
 
-Malíř obraz občas otočí obraz hlavou dolů. To je trik, který ti umožní vidět tvary bez únavy a předsudku. Další trik v digitální malbě je také rychlé zrcadlové otočení obrazu během malby. V programu Krita zkratka klávesa <kbd>M</kbd>.  
+Malíř obraz občas otočí obraz hlavou dolů. To je trik, který ti umožní vidět tvary bez únavy a předsudku. Další trik v digitální malbě je také rychlé zrcadlové otočení obrazu během malby. V programu Krita je zkratkou klávesa <kbd>M</kbd>.  
 ### Světlo, stín, kontrast
 Velkou část informací o objektech dokážeme sdělit kontrastem mezi světlem a stínem nebo konturou. To je důvod, proč dobře funguje stylizovaná kresba a piktogramy.
 ### Pozorování siluety a kontury
@@ -51,14 +51,6 @@ Okluze má v přírodě vliv i na barvu materiálu, texturu a ostatní optické 
 Translucence (živé organismy a tenké materiály jsou částečně průsvitné).
 
 
-## Techniky malby
-Štětec jako razítko. Typy vyhlazování. Dynamika tahů.
-## Barevné modely
-Barvy pro tisk a obrazovku. Gamut.
-## Vnímání tvaru
-Zrcadlení plochy M pro rychlou kontrolu.
-## Plynulá kresba a malba
-Otáčení plátna
 
 :::note úkol
 

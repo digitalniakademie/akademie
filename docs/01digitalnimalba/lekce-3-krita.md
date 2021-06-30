@@ -15,7 +15,8 @@ Typy vyhlazování.
 Vytvoření harmonií a akcentů.
 ## Malování s paletou
 Shortcuty
-
+## Blokování barev a gradienty
+zjednodusena blokova malba a pridavani tonu
 :::note úkol
 
 Vytvoř si harmonickou paletu. Vytvoř náhodnou disharmonickou paletu a sjednoť tonalitu.

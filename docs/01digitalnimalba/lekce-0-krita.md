@@ -1,11 +1,11 @@
 ---
 id: lekce-0-krita
 title: Kresba a malba
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Digitální kresba: Proporce, objem, perspektiva
-Kreslení je nejtěžší disciplína. Proč začínat tím nejobtížnějším? Kresba je základ obrazu. Kresbou budeš začínat svůj koncept a zdokonalovat se celý život.
+Kreslení je královská disciplína. Kresba je základ obrazu. Kresbou budeš začínat svůj koncept a zdokonalovat se v ní celý život. Efektivní skica ti pomůže dělat studie k obrazu. Nemusíš být bravurní technický kreslíř, aby jsi byl dobrý malíř. Kreslení ti ale usnadní pochopení tvarů a forem.
 
 Na grafickém tabletu se dá skicovat poměrně dobře, i když je kresba na tabletu pocitově rozdílná. Někdo může postrádat reakci média nebo vzdálenost špičky pera od kreslící plochy. Pokud jsi zvyklý skicovat klasicky, s velkým množstvím detailů, můžeš náčrty naskenovat a použít jako základ pro digitální malbu. To je postup, který se často používá v digitální ilustraci. Dobře kreslit můžeš ale s trochou cviku i na grafickém tabletu (s monitorem i bez).
 
@@ -27,12 +27,13 @@ Obdobné funkce najdeš i v jiných programech, pod různými názvy.
 obr. stinovani
 
 ## Proporce a objem
-Proporce při skicování průběžně přeměřuj. Postupně se naučíš proporce a úhly správně odhadovat.
+Proporce při skicování podle modelu průběžně přeměřuj. Postupně se naučíš proporce a úhly správně odhadovat.
 
 obr. proporční kreslení
 ## Čitelnost a silueta
 Při skicování vyber takový úhel pohledu, aby byl objekt čitelný i jako silueta.
 obr. silueta
+Více v další lekci.
 
 ## Detaily a formy
 Každý složitější objekt si rozděl podle úrovně detailů na tři části. Velké formy, které určují velké tvary, budou tvořit polovinu objektu. Střední detaily budou tvořit třicet procent a drobné dvacet procent **plochy** objektu.  
@@ -80,6 +81,6 @@ Otáčení plátna
 
 :::note úkol
 
-Vystínovat těleso kresebnou technikou.
+Nakresli sérii studií. Nakresli sérii kresebnou technikou.
 
 :::
