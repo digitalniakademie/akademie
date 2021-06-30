@@ -47,9 +47,7 @@ Vrstva světla - Overlay
 Vrstva stínu - Multiply
 Pozadí středová hodnota
 
-```
-stuff
-```
+![image](../img/aka-moc.svg)
 
 
 ### Systém pěti vrstev
@@ -58,9 +56,7 @@ Vrstva stínu - Multiply
 Vrstva barvy - Color
 Vrstva tonality - Values
 Vrstva náčrtu - Background
-```
-stuff
-```
+![image](../img/aka-moc.svg)
 ### Maskování
 Připomíná techniku maskování části plátna, která se používá například v airbrushi.
 

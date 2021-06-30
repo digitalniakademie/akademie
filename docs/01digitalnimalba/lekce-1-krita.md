@@ -33,19 +33,28 @@ Technická hranice mezi světlem a stínem na povrchu předmětu. Za touto hrani
 Dá se říci, že spolu s okluzí, stínem a konturou může definovat celý tvar.
 
 ### Radiozita
+![image](../img/aka-moc1.svg)
 Vzájemné ovlivnění těles odraženým světlem a barvou a také celkový efekt prostředí. Často tvoří barevné posuny ve stínech.
 
 ### Fresnelův jev a anizotropie
+![image](../img/aka-moc1.svg)
 Všechny materiály mění svojí světelnou odrazivost s úhlem pohledu. U některých je to více znatelné (voda a sklo), u některých méně (pálená hlína, papír). Tento jev se nazývá Fresnelův (čti frenelův) efekt.
 
 Anizotropie se projevuje deformací odrazu světla pod různým úhlem na lesklém povrchu určitých materiálů. Tento efekt se hodně používá ve stylizované kresbě pro zvýraznění charakteru povrchu (dřevo, vlákna, vlasy). V některých programech a textech se tyto dva termíny používají zástupně.
 ### Okluze
+![image](../img/aka-moc1.svg)
 Okluze je rozptýlený stín, který objekt vrhá sám na sebe a blízké objekty. Zvýrazňuje místa skrytá přímému světlu. Je to efekt viditelný v členitém povrchu a dutinách, a mezi objekty které se dotýkají nebo jsou blízko u sebe. Okluze také prakticky ovlivňuje i ostatní vlastnosti povrchu — je to často místo s rozdílnou teplotou, vlhkostí, je jinak vystavené povětrnostním vlivům a proto má trochu jinou barvu, tonalitu, strukturu i tvárnost. Pozoruj, jak místa okluze mění barvy soch, fasád domú, střešních tašek a jak se projevuje v přírodě. Efekt okluze je stále přítomný i s rozptýleným osvětlením, proto se někdy používá výraz **ambientní okluze**.
 ### Průsvitnost/Translucence
+![image](../img/aka-moc1.svg)
+
 Translucence  je průsvitnost objektů. Většinou (pokud nemaluješ tenké materiály nebo medůzy) se setkáváme s komplexnějším případem průsvitnosti — podpovrchovým rozptylem světla (tzv. *Subsurface Scattering*). Živé organismy, krystaly a polymerové materiály jsou takto částečně průsvitné a barva vnitřní struktury pak ovlivňuje barvu a tonalitu povrchu. Efekt je velice znatelný pokud je světelný zdroj přímo za objektem a často se používá pro realistické a atmosférické scény.    
 ### Tonalita a barva
+![image](../img/aka-moc1.svg)
+
 Barva je daná strukturou materiálu objektu a ovlivňují ji v součtu odražené barvy prostředí. Tonalitu ovlivňuje dopadající světlo a stín.
 ### Textura a materiál
+![image](../img/aka-moc1.svg)
+
 Radiozita, Fresnelův jev, Anisotropie, Okluze.
 Okluze má v přírodě vliv i na barvu materiálu, texturu a ostatní optické vlastnosti.
 Translucence (živé organismy a tenké materiály jsou částečně průsvitné).

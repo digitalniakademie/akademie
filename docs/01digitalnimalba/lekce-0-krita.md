@@ -25,26 +25,32 @@ Obdobné funkce najdeš i v jiných programech, pod různými názvy.
 ## Stínování a techniky kresby
 Štětec jako razítko. Typy vyhlazování. Dynamika tahů.
 obr. stinovani
+![image](../img/aka-moc.svg)
 
 ## Proporce a objem
 Proporce při skicování podle modelu průběžně přeměřuj. Postupně se naučíš proporce a úhly správně odhadovat.
-
+![image](../img/aka-moc.svg)
 obr. proporční kreslení
 ## Čitelnost a silueta
 Při skicování vyber takový úhel pohledu, aby byl objekt čitelný i jako silueta.
 obr. silueta
+![image](../img/aka-moc.svg)
 Více v další lekci.
 
 ## Detaily a formy
 Každý složitější objekt si rozděl podle úrovně detailů na tři části. Velké formy, které určují velké tvary, budou tvořit polovinu objektu. Střední detaily budou tvořit třicet procent a drobné dvacet procent **plochy** objektu.  
 obr. stroj
+![image](../img/aka-moc.svg)
 Pro náčrt používej stabilní zvětšení plochy. Vyhneš se snáz tomu, aby nebyly části kresby disproporčně detailní oproti celku.
 ## Perspektiva
 Typy perspektivy a čitelnost. K perspektivě se ještě vrátím v lekci o kompozici.
 obr. persp.
-
+![image](../img/aka-moc.svg)
 ## Skicář
 obr. skicar
+
+![image](../img/aka-moc1.svg)
+
 Pořiď si skicák a tužku. Studie můžeš dělat i na přenosném tabletu, ale potřebuješ vytvořit kreslicí návyky. Musíš zrušit rozptýlení, jako je třeba dobíjení baterie. Buď připravený začít kreslit během minuty. Kresli předměty které tě zaujmou, doma nebo na výletě.  Trénuj rychlé skicy, maximálně 10 minut na jednu skicu.
 ### Témata
 Postupuj od jednoduchých forem ke složitějším. Od jednoduchých materiálů ke komplexnějším. Začni předměty s jasně definovaným objemem. Využij jednoduché osvětlení.
@@ -66,7 +72,7 @@ Posuzuj svojí tvorbu podle toho, jak se ty sám v čase zlepšuješ. Když se b
 ### Studie tvarů a forem, pozorování
 
 obr random shapes
-![image](../img/terminator.svg)
+![image](../img/aka-moc.svg)
 ## Světelné vlastnosti objektů
 
 ## Blokování
