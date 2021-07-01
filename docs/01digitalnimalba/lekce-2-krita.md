@@ -11,7 +11,9 @@ sidebar_position: 4
 Formy vnímáme podle způsobu, jak reagují na světlo. Podobně jako barvy, formy jsou určené *fyzikálně* (jaký je tvar tělesa, materiál a vlastnosti prostředí kolem něj), *fyziologicky* (jak je vidí naše oko) a *psychologicky* (jak tvar dokážeme rozeznávat na základě zkušenosti a chápat jeho význam). Tvary  jsou v malířském smyslu ohraničené oblasti, které tvoří formu.
 
 Tvary a formy jsou jako slova ve vizuální řeči. Pokud je nemůžeme jasně přečíst, sdělení nebude dávat smysl.
+
 ![image](../img/aka-moc.svg)
+
 ### Vnitřní a vnější vidění
 Tvoje představa o objektu ovlivňuje to, jak objekt vidíš. Pro realistickou malbu je třeba trénovat pozorovací schopnosti a rovnováhu mezi tím, jak objekt skutečně vidíš a jak vnímáš jeho kontext. Proto je dobré začít se studiemi poměrně abstraktních nebo naopak geometrických předmětů (kámen, drapérie, zmačkaný papír, ovoce nebo tělesa s jednoduchým tvarem).  
 
@@ -23,6 +25,7 @@ Pozoruj jak čitelnost předmětu ovlivnňuje kontura. Naskicuj si deset předm�
 --- obr. pozitivní a negativní kontura
 
 ![image](../img/aka-moc.svg)
+
 ### Blokování světlých a tmavých ploch
 Blokování znamená zjednodušení viděných objektů na ohraničené tvary. Důvodem je čitelnost. Blokování a silueta.
 --- obr. svetla a stiny bloky
