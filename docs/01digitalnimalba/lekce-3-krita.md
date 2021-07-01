@@ -14,25 +14,48 @@ Oko má extrémně velkou citlivost na jas (dokáže na sítnici detekovat svět
 ## Viditelný rozsah a gamut
 Každý člověk vidí trochu jiný rozsah barev. Rozsah barev, které nevidíme, nebo jsou danou technologií nepřenositelné, nazýváme gamut.
 Používáme různé sjednocené barevné modely. Modely se liší podle toho, za jakým účelem se využívají.    
+
+modely a gamuty vyber
+
+![image](../img/aka-moc.svg)
+
 ## Teplé a studené barvy
 Přestože název vzbuzuje dojem, že popisuje jak barvy působí psychologicky, má fyzikální základ. Barevné modely.
+
+vlnove delky a teploty
+
+![image](../img/aka-moc.svg)
+
 ## Fyzika, fyziologie a psychologie barev.
 Jak vyniká barva, jak ji vnímáme a jak na nás působí. Kontext.
 Také budou různé barvy působit na každého trochu jinak.
 
 ## Sjednocení tonality
 Typy vyhlazování. ohlazení. trik jak sjednotit barvy.
-## Plánování palety
+## Plánování harmonické palety
 Vytvoření harmonií a akcentů. Harmonie jsou závislé na kontextu. Ve výtvarném umění neexistuje jediné správné řešení pro všechny případy, je ale dobré vědět čeho se při tvorbě palety vyvarovat.
+
+Typy harmonií a palety
+
+![image](../img/aka-moc.svg)
+
 ## Malování s paletou
-Shortcuty a modely
+Shortcuty a modely. Krita a vytváření palet.
+
 ## Blokování barev a gradienty
 Zjednodušená bloková malba a přidávání tónů.
 ## Gamut a Harmonie
 Gamutové palety.
+
+![image](../img/aka-moc.svg)
+
 ## Harmonie a disharmonie
 ## Akcenty
 Poměr primárních, sekundárních barev a akcentů.
+
+Akcenty
+
+![image](../img/aka-moc.svg)
 
 :::note úkol
 
@@ -41,4 +64,10 @@ Vytvoř si harmonickou paletu. Vytvoř náhodnou disharmonickou paletu a sjedno�
 :::
 
 ## Minimalismus - organizace tvorby
-omezený počet nástrojů a přepínání pomocí zkratek.
+omezený počet nástrojů a přepínání pomocí zkratek. Omezená paleta v klasické malbě přirozeně nutí malíře k míchání barev a konzistentnějšímu výsledku.
+
+## Malujeme tonálně
+
+Ukázka tonální malby s jednoduchou skicou.
+
+![image](../img/aka-moc.svg)
