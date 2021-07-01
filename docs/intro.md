@@ -27,7 +27,7 @@ Nikdo se nikdy nestal expertem **sledováním videí na internetu**. Nové znalo
 :::
 
 ## Jazykové verze programů
-Kurzy podporují českou i anglickou instalaci programů.
+Kurzy podporují českou i anglickou instalaci programů. Důvodem je praxe, že mnoho profesionálů používá systém i software v rozdílných jazykových verzích. Občas je velice obtížné orientovat se v termínech, na které nejsi zvyklý, a navíc mají více možných překladů. V případě důležitých termínů je uvedený i anglický originál v textu. Kde není ustálená terminologie, uvádím i alternativní výrazy, které se v daném oboru používají.
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -80,6 +80,6 @@ Lekce jsou navržené tak, aby byly co nejefektivnější. Cílem je co nejrychl
 
 :::tip
 
-Nenech se při učení **ničím** rozptylovat. Kurzy poskytují základ pro další objevování v daném oboru. Každá lekce se vejde do patnácti minut a výklad rychlokurzů je navržený na sedm dní pro každé téma.
+Nenech se při učení **ničím** rozptylovat. Kurzy poskytují základ pro další objevování v daném oboru. Každá videolekce se vejde do patnácti minut. Na studium textové části si vyhraď segmenty po patnácti minutách s přestávkou. Po každém novém tématu si postupy vyzkoušej.
 
 :::

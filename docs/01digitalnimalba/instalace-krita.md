@@ -7,6 +7,7 @@ sidebar_position: 1
 # Krita: Instalace a nastavení
 
 ## Stažení a instalace
+
 Najdi aktuální verzi na https://www.krita.org/. Stáhni a spusť soubor.  Po instalaci spusť program Krita. Pokud používáš Package Manager pro Windows, nejnovější stabilní verzi nainstaluješ příkazem
 
 ```
@@ -19,6 +20,7 @@ Jazykovou verzi programu změníš v menu:
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+
 <Tabs
   groupId="jazykova-verze"
   defaultValue="czv"
@@ -53,26 +55,27 @@ Okna a plovoucí okna můžeš přesouvat. Jak vrátit pracovní plochu do půvo
   groupId="jazykova-verze"
   defaultValue="czv"
   values={[
-    {label: 'CZ verze', value: 'czv'},
-    {label: 'EN verze', value: 'env'},
+    {label: 'V české verzi', value: 'czv'},
+    {label: 'V anglické verzi', value: 'env'},
   ]
 }>
 <TabItem value="czv">Okno ‣ Pracovní plocha ‣ Default.</TabItem>
 <TabItem value="env">Window ‣ Workspace ‣ Default.</TabItem>
 </Tabs>
 
-Vlastní nastavení pracovní plochy uložíš ve stejném menu.
-    Okno ‣ Pracovní plocha ‣ Nová pracovní plocha.
-
+Vlastní nastavení pracovní plochy uložíš ve stejném menu odkazem **‣ Nová pracovní plocha** (*‣ New Workspace*).
+:::note Vyzkoušej
 Ulož si pracovní plochu a vyzkoušej si přepínání pracovních ploch.
-
+:::
 ## Přehled funkcí
 Dockery, okna, preference. Nástroje. Rychlé palety nástrojů. Zkratky - Shortcuty.
+![image](../img/aka-moc.svg)
 ## Možnosti nástrojů (Tool Options)
 Přesunutí okna blíže k panelu nástrojů.
 
 ## Pohledy
 Nastavení pohledů na stejný soubor. Tonální ČB náhled.
+## První soubor
 ## Rozlišení
 A3, A4 formáty. DPI. Barevné prostory a bitová hloubka. Pro tento kurz a experimenty můžeš použít nižší rozlišení. Velikost souboru je úměrná barevné hloubce a počtu vrstev.
 

@@ -21,6 +21,9 @@ Bonus: Kresba a malba v programu Gimp
 
 ## Software v kurzu
 
-Hlavní: Krita, Gimp  
+Hlavní: Krita  
 Utility: XnView MP, G'MIC  
 Zdroje:
+
+## Poznámky
+Kurz podporuje českou a anglickou verzi programu. V textu jsou jazykové varianty označeny takto: **‣ Nová pracovní plocha** (*‣ New Workspace*). Anglické výrazy uvádím někdy i kvůli jasnosti terminologie. **Zkratky** (*Shortcuts*) jsou označeny klávesami, např. <kbd>M</kbd>, <kbd>B</kbd>, <kbd>Ctrl</kbd>+<kbd>Backspace</kbd>.

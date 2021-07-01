@@ -1,68 +1,94 @@
 ---
 id: lekce-1-krita
 title: Kresba a malba
-sidebar_position: 4
+sidebar_position: 3
 ---
 
-# Tvar a forma: světlo, stín a vlastnosti materiálů
+# Digitální kresba: Proporce, objem, perspektiva
+Kreslení je královská disciplína. Kresba je základ obrazu. Kresbou budeš začínat svůj koncept a zdokonalovat se v ní celý život. Efektivní skica ti pomůže dělat studie k obrazu. Nemusíš být bravurní technický kreslíř, aby jsi byl dobrý malíř. Kreslení ti ale usnadní pochopení tvarů a forem.
 
---- obr. tělesa tužkou
-## Teorie tvaru
-Tvary a formy vnímáme podle způsobu, jak reagují na světlo. Podobně jako barvy, formy jsou určené *fyzikálně* (jaký je tvar tělesa, materiál a vlastnosti prostředí kolem něj), *fyziologicky* (jak je vidí naše oko) a *psychologicky* (jak tvar dokážeme rozeznávat na základě zkušenosti a chápat jeho význam). Tvary a formy jsou jako slova ve vizuální řeči. Pokud je nemůžeme jasně přečíst, sdělení nebude dávat smysl.
-### Vnitřní a vnější vidění
-Tvoje představa o objektu ovlivňuje to, jak objekt vidíš. Pro realistickou malbu je třeba trénovat pozorovací schopnosti a rovnováhu mezi tím, jak objekt skutečně vidíš a jak vnímáš jeho kontext. Proto je dobré začít se studiemi poměrně abstraktních nebo naopak geometrických předmětů (kámen, drapérie, zmačkaný papír, ovoce nebo tělesa s jednoduchým tvarem).  
+Na grafickém tabletu se dá skicovat poměrně dobře, i když je kresba na tabletu pocitově rozdílná. Někdo může postrádat reakci média nebo vzdálenost špičky pera od kreslící plochy. Pokud jsi zvyklý skicovat klasicky, s velkým množstvím detailů, můžeš náčrty naskenovat a použít jako základ pro digitální malbu. To je postup, který se často používá v digitální ilustraci. Dobře kreslit můžeš ale s trochou cviku i na grafickém tabletu (s monitorem i bez).
 
-Malíř obraz občas otočí obraz hlavou dolů. To je trik, který ti umožní vidět tvary bez únavy a předsudku. Další trik v digitální malbě je také rychlé zrcadlové otočení obrazu během malby. V programu Krita je zkratkou klávesa <kbd>M</kbd>.  
-### Světlo, stín, kontrast
-Velkou část informací o objektech dokážeme sdělit kontrastem mezi světlem a stínem nebo konturou. To je důvod, proč dobře funguje stylizovaná kresba a piktogramy.
-### Pozorování siluety a kontury
-Pozoruj jak čitelnost předmětu ovlivnňuje kontura. Naskicuj si deset předmětů, které máš v dosahu. Nejprve s pozitivní, potom negativní konturou. Za nějakou dobu se na skicy podívej — poznáš všechny předměty?
---- obr. pozitivní a negativní kontura
-### Blokování světlých a tmavých ploch
-Blokování znamená zjednodušení viděných objektů na ohraničené tvary. Důvodem je čitelnost. Blokování a silueta.
---- obr. svetla a stiny bloky
-### Tonalita
-Pro dobrou čitelnost obrazu je nutná správná tonalita. Je to jas barev. Ten určuje nejenom tvar objektu, ale také jak objekty komunikují ve scéně mezi sebou. Tonalita je tvořená tóny, polotóny, stíny a světly. Správná rozhodnutí rozvržení tonality pomůže srozumitelnosti obrazu. Tonalitu při práci s barvami můžeš průběžně kontrolovat.
--- tonalita převod na čb
+:::note Poznámka
 
-## Světelné vlastnosti objektů
-Realistické ztvárnění fyzikálních vlastnosti povrchů a materiálů ovlivňuje, jestli tvůj obraz bude věrohodný nebo ne. Mnoho těchto efektů se využívá i v extrémně stylizované tvorbě!    
-### Terminátor
-Technická hranice mezi světlem a stínem na povrchu předmětu. Za touto hranicí je efekt stínu výrazný. Často se používá spolu s okluzí pro zjednodušenou definici tvaru ve stylizované kresbě, například v komiksu a ilustraci.
-![image](../img/terminator.svg)
-Dá se říci, že spolu s okluzí, stínem a konturou může definovat celý tvar.
+Grafické tablety s monitorem zpravidla vyžadují ke svojí funkci počítač se softwarem — monitor je pouze zobrazovací zařízení
 
-### Radiozita
-![image](../img/aka-moc1.svg)
-Vzájemné ovlivnění těles odraženým světlem a barvou a také celkový efekt prostředí. Často tvoří barevné posuny ve stínech.
+:::
 
-### Fresnelův jev a anizotropie
-![image](../img/aka-moc1.svg)
-Všechny materiály mění svojí světelnou odrazivost s úhlem pohledu. U některých je to více znatelné (voda a sklo), u některých méně (pálená hlína, papír). Tento jev se nazývá Fresnelův (čti frenelův) efekt.
+## Kreslíme na tabletu
+Aby byla kresba plynulá, je tu možnost vyvažování a filtrování pohybů pera.
+Nástroje a nastavení pro kresbu na tabletu. Vyhlazování a vyvažování tahů.
+obr štětce, tool options, vyskakovací menu
 
-Anizotropie se projevuje deformací odrazu světla pod různým úhlem na lesklém povrchu určitých materiálů. Tento efekt se hodně používá ve stylizované kresbě pro zvýraznění charakteru povrchu (dřevo, vlákna, vlasy). V některých programech a textech se tyto dva termíny používají zástupně.
-### Okluze
-![image](../img/aka-moc1.svg)
-Okluze je rozptýlený stín, který objekt vrhá sám na sebe a blízké objekty. Zvýrazňuje místa skrytá přímému světlu. Je to efekt viditelný v členitém povrchu a dutinách, a mezi objekty které se dotýkají nebo jsou blízko u sebe. Okluze také prakticky ovlivňuje i ostatní vlastnosti povrchu — je to často místo s rozdílnou teplotou, vlhkostí, je jinak vystavené povětrnostním vlivům a proto má trochu jinou barvu, tonalitu, strukturu i tvárnost. Pozoruj, jak místa okluze mění barvy soch, fasád domú, střešních tašek a jak se projevuje v přírodě. Efekt okluze je stále přítomný i s rozptýleným osvětlením, proto se někdy používá výraz **ambientní okluze**.
-### Průsvitnost/Translucence
-![image](../img/aka-moc1.svg)
+Obdobné funkce najdeš i v jiných programech, pod různými názvy.
 
-Translucence  je průsvitnost objektů. Většinou (pokud nemaluješ tenké materiály nebo medůzy) se setkáváme s komplexnějším případem průsvitnosti — podpovrchovým rozptylem světla (tzv. *Subsurface Scattering*). Živé organismy, krystaly a polymerové materiály jsou takto částečně průsvitné a barva vnitřní struktury pak ovlivňuje barvu a tonalitu povrchu. Efekt je velice znatelný pokud je světelný zdroj přímo za objektem a často se používá pro realistické a atmosférické scény.    
-### Tonalita a barva
-![image](../img/aka-moc1.svg)
+## Stínování a techniky kresby
+Štětec jako razítko. Typy vyhlazování. Dynamika tahů.
+obr. stinovani
+![image](../img/aka-moc.svg)
 
-Barva je daná strukturou materiálu objektu a ovlivňují ji v součtu odražené barvy prostředí. Tonalitu ovlivňuje dopadající světlo a stín.
-### Textura a materiál
+## Proporce a objem
+Proporce při skicování podle modelu průběžně přeměřuj. Postupně se naučíš proporce a úhly správně odhadovat.
+![image](../img/aka-moc.svg)
+obr. proporční kreslení
+## Čitelnost a silueta
+Při skicování vyber takový úhel pohledu, aby byl objekt čitelný i jako silueta.
+obr. silueta
+![image](../img/aka-moc.svg)
+Více v další lekci.
+
+## Detaily a formy
+Každý složitější objekt si rozděl podle úrovně detailů na tři části. Velké formy, které určují velké tvary, budou tvořit polovinu objektu. Střední detaily budou tvořit třicet procent a drobné dvacet procent **plochy** objektu.  
+obr. stroj
+![image](../img/aka-moc.svg)
+Pro náčrt používej stabilní zvětšení plochy. Vyhneš se snáz tomu, aby nebyly části kresby disproporčně detailní oproti celku.
+## Perspektiva
+Typy perspektivy a čitelnost. K perspektivě se ještě vrátím v lekci o kompozici.
+obr. persp.
+![image](../img/aka-moc.svg)
+## Skicář
+obr. skicar
+
 ![image](../img/aka-moc1.svg)
 
-Radiozita, Fresnelův jev, Anisotropie, Okluze.
-Okluze má v přírodě vliv i na barvu materiálu, texturu a ostatní optické vlastnosti.
-Translucence (živé organismy a tenké materiály jsou částečně průsvitné).
+Pořiď si skicák a tužku. Studie můžeš dělat i na přenosném tabletu, ale potřebuješ vytvořit kreslicí návyky. Musíš zrušit rozptýlení, jako je třeba dobíjení baterie. Buď připravený začít kreslit během minuty. Kresli předměty které tě zaujmou, doma nebo na výletě.  Trénuj rychlé skicy, maximálně 10 minut na jednu skicu.
+### Témata
+Postupuj od jednoduchých forem ke složitějším. Od jednoduchých materiálů ke komplexnějším. Začni předměty s jasně definovaným objemem. Využij jednoduché osvětlení.
+ovoce a zelenina, kámen, list, květ
+
+Jednoduché a abstraktní tvary ti umožní zdokonalovat techniku pozorování proporce i formy, i samotnou techniku kresby a malby. Složité tvary, jako architektura, technika, obličej, nebo anatomie postavy odhalí každý tvůj nedostatek v perspektivě, proporcích a formě — nedovolí ti rozvíjet základy a výsledek tě bude demotivovat.
+### Živý model a fotografie
+Zvykni si skicovat podle skutečných předmětů a modelů. Fotografie používej ze začátku jako referenci, ne jako zdroj. Důvod: tonalita, pochopení tvaru a optické jevy. Tvoje oko vidí lépe než objektiv kamery.
+
+Zajímavá metoda je skicování studií, především figur a portrétů, podle realistických soch. Jenom pamatuj, že každá socha je už hotovým uměleckým ztvárněním reality a vyjádřením stylu autora. Je to dobrý způsob jak studovat **formu** pro kresbu, **proporce** a akademickou **kompozici**.   
+
+Další možností je použití 3D modelu jako reference. V public domain archívech jsou 3D skeny mnoha klasických soch a jiných objektů. Také modely technických zařízení mohou sloužit jako kvalitní reference pro ilustrace. S určitým omezením se také dají 3D modely použít jako předloha pro figurální kompozice (více v lekci Portrét a postava).  
 
 
+### Konzistence a vzory
+Vytvářej série skic stejným postupem a technikou. Tak snadno odhalíš svoje chyby. Také buduješ svojí techniku, styl a formu. Neboj se experimentovat, ale buď konzistentní.
+
+Najdi si malíře, jejichž styl se ti líbí. Studuj jejich techniku a kreativní rozhodnutí. Proč používají tenhle postup? Proč funguje jejich barevná paleta? Otázka PROČ je pro tebe cennější než postup JAK.
+
+Posuzuj svojí tvorbu podle toho, jak se ty sám v čase zlepšuješ. Když se budeš posuzovat podle cizích úspěchů, tak se nic nenaučíš.     
+### Studie tvarů a forem, pozorování
+Kreslení abstraktních forem a náčrty náhodných tvarů ti pomohou uvolnit vnitřní vidění. Můžeš tak i objevit nové kompozice a inspiraci pro skicu nebo obraz.
+obr random shapes
+![image](../img/aka-moc.svg)
+
+
+## Blokování
+Blokování je obecně platný koncept pro kresbu, malbu, modelování, grafiku, fotografii i film. Je to stylistické zjednodušení tvaru objektu nebo části scény. Důvodem je čitelnost. Blokování a silueta.
+
+## Správná tonalita
+Barvy pro tisk a obrazovku. Gamut.
+## Vnímání tvaru
+Zrcadlení plochy M pro rychlou kontrolu.
+## Plynulá kresba a malba
+Otáčení plátna
 
 :::note úkol
 
-Vystínovat těleso kresebnou technikou.
+Nakresli sérii studií. Nakresli sérii kresebnou technikou.
 
 :::
