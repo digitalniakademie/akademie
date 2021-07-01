@@ -22,3 +22,6 @@ zjednodusena blokova malba a pridavani tonu
 Vytvoř si harmonickou paletu. Vytvoř náhodnou disharmonickou paletu a sjednoť tonalitu.
 
 :::
+
+## Minimalismus - organizace tvorby
+omezený počet nástrojů a přepínání pomocí zkratek.

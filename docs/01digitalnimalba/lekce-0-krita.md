@@ -5,7 +5,7 @@ sidebar_position: 2
 ---
 
 # Štětce, palety a další nástroje
-přesunout na úvod? Popis nejpoužívanějších nástrojů. Tool Options shortcut.
+V této lekci si ukážeme nejpoužívanější nástroje z doku Panel nástrojů (*Toolbox Docker*). Doky (*Dockers*) jsou funkční okna, která můžeš přesouvat po pracovní ploše. Panel nástrojů prakticky nebudeš používat příliš často, protože nejčastější nástroje budeš přepínat zkratkami (naštěstí je jich celkem málo). Každý nástroj má možnosti nastavení (*Tool Options*). V základním nastavení je najdeš vpravo nahoře mezi doky.
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -24,13 +24,16 @@ import TabItem from '@theme/TabItem';
 
 Výběr techniky.
 ## Algoritmické štětce
+Skutečný štětec je jako razítko, které se pohybuje po médiu a přenáší na něj barvu. Tvar, materiál a rychlost štětce určuje deformace během tahu a charakter stopy. V softwaru se tento efekt simuluje přenášením modifikací tvaru profilu štětce (většinou textura s průhledností) a dynamikou a rychlostí tahů pera grafického tabletu. Program Krita nabízí řadu funkčních algoritmů štětců (*Brush Engines*), které jsou vhodné pro vytváření řady nástrojů. Každý kreslící nástroj (i tužka nebo pero) je z pohledu programu štětec (*Brush*).
 
-Štětec jako razítko. Typy vyhlazování. Dynamika tahů.
-Najdi aktuální verzi. Stáhni a spusť soubor.
+![image](../img/aka-moc.svg)
+
 ### Předvolby štětců
-Algoritmy použité pro chování nástrojů. (cz verze Nástroj, en verze Engines)
+Okno štětců otevřeš klávesou <kbd>F5</kbd>. Algoritmy použité pro chování nástrojů si prohlédni v seznamu Nástroj (*Engines*). Je to například *Pixel Engine, Bristle, Spray, Sketch* atd. Předvolby můžeš prohledávat také v doku *Brush Presets* a rychlém KOLO.
 ### Skupiny štětců
- Balíčky zdrojů. Více o vytváření vlastních štětců v lekci ,,,
+Štětce jsou rozdělené do určených skupin podle štítků (tagů). Základní skupiny si můžeš prohlédnout i v menu KOLO. Vlastní skupiny lze vytvářet. Štětce můžeš upravovat a importovat i exportovat jako sety. Více o vytváření vlastních štětců  a balíčcích zdrojů (*Resource Bundles*) v lekci Vlastní štětce a zdroje.
+
+Vyzkoušej si úpravu štětce. Vyber štětec X a v předvolbě štětců nastav texturu vzoru. Potom nastav texturu povrchu. Vyzkoušej štětec. Základní nastavení vrátíš ,,,
 
 :::note úkol
 
@@ -38,24 +41,24 @@ Vyzkoušej si různé skupiny štětců. Zapni a vypni texturu u štětce.
 
 :::
 
+![image](../img/aka-moc.svg)
+
 ### Vyhlazování tahů
-Typy vyhlazování. Tool options.
+Vyber nástroj Štětec <kbd>B</kbd>. V doku *Tool Options* uvidíš typy vyhlazování tahu. Tato nastavení ti umožní zlepšit plynulost kreslení na grafickém tabletu a také různé efekty.
 ## Výběr
-Pro rychlé maskování.
+Funkce výběru ti dovoluje malovat pouze do označené části, po inverzi výběru pouze mimo ni. V panelu nástrojů jsou různé tvary výběru určené pro rychlé maskování. Tento nástroj funguje podobně jako v ostatních bitmapových programech. Jenom tady ho budeš používat častěji.
 ## Barevný selektor
-Pipeta. <keyb>P</keyb> Umožnuje interpolovat barvy.
+Pipeta. <keyb>P</keyb> Umožnuje najenom nabírat barvu z plátna, ale i interpolovat barvy. Vyzkoušej si to.
+
+![image](../img/aka-moc.svg)
+
+
 ## Přesuny a transformace
 
 <kbd>T</kbd> Posun aktivní vrstvy, <kbd>Ctrl</kbd>+<kbd>T</kbd> Transformace.
 
-## Stínování
-Šrafury a dynamika, airbrush. Vyzkoušej si Barevné stínování <kbd>K</kbd>, <kbd>L</kbd>. Více v lekci Malujeme barvu.
-## Vrstvy
-Přesun mezi vrstvami, hide etc.
-## Kresba
-Základní technika. Import kresby ze skicáře.
 
-## Základní techniky digitální malby
+# Základní techniky digitální malby
 simulace, přiznana dig. m. a komb t
 Tyto postupy jsou zajímavé buď organizací, nebo technikou malby.
 ### Alla prima
@@ -94,7 +97,12 @@ Zrcadlení plochy <kbd>M</kbd> pro rychlou kontrolu.
 ## Plynulá kresba a malba
 Otáčení plátna
 
-
+## Stínování
+Šrafury a dynamika, airbrush. Vyzkoušej si Barevné stínování <kbd>K</kbd>, <kbd>L</kbd>. Více v lekci Malujeme barvu.
+## Vrstvy
+Přesun mezi vrstvami, hide etc.
+## Kresba
+Základní technika. Import kresby ze skicáře.
 
 :::note úkol
 
