@@ -5,18 +5,35 @@ sidebar_position: 5
 ---
 
 # Malujeme barvu
+Jak jsme si ukázali na světelných vlastnostech objektů a na formách, to co vidíme není vždy to, co vnímáme. Vizuální umění pracuje v oblasti optických a kognitivních triků a iluzí. Aby byl obraz dostatečně čitelný — a aby byl dostatečně realistický — malíř realitu zákeřně zjednoduší a podstatně převypráví. To platí i o práci s barvami.
+
+Lidské oko vnímá barvu jako odražené světlo určité vlnové délky. Buňky na sítnici oka přijímají informaci o barvě, nebo spíše tonalitě a kontrastu, a mozek vytváří obraz ze tří složek — červené, zelené a modré (proto tento text taky čteš na RGB monitoru). To je fyziologie specifická pro člověka, jiné živočišné druhy mohou skládat obraz z více nebo méně složek.
+
+Oko má extrémně velkou citlivost na jas (dokáže na sítnici detekovat světlo v řádech fotonů) a velkou dynamiku. Oko má ale zároveň určitou setrvačnost.  Dívej se na tento obrázek půl minuty a pak se podívej na bílou stěnu.  Velice pravděpodobně obrázek uvidíš na stěně, ale v kont. barvě.
+
+## Viditelný rozsah a gamut
+Každý člověk vidí trochu jiný rozsah barev. Rozsah barev, které nevidíme, nebo jsou danou technologií nepřenositelné, nazýváme gamut.
+Používáme různé sjednocené barevné modely. Modely se liší podle toho, za jakým účelem se využívají.    
 ## Teplé a studené barvy
-Barevné modely.
+Přestože název vzbuzuje dojem, že popisuje jak barvy působí psychologicky, má fyzikální základ. Barevné modely.
 ## Fyzika, fyziologie a psychologie barev.
-Jak vyniká barva, jak ji vnímáme a jak na nás působí.
+Jak vyniká barva, jak ji vnímáme a jak na nás působí. Kontext.
+Také budou různé barvy působit na každého trochu jinak.
+
 ## Sjednocení tonality
-Typy vyhlazování.
+Typy vyhlazování. ohlazení. trik jak sjednotit barvy.
 ## Plánování palety
-Vytvoření harmonií a akcentů.
+Vytvoření harmonií a akcentů. Harmonie jsou závislé na kontextu. Ve výtvarném umění neexistuje jediné správné řešení pro všechny případy, je ale dobré vědět čeho se při tvorbě palety vyvarovat.
 ## Malování s paletou
-Shortcuty
+Shortcuty a modely
 ## Blokování barev a gradienty
-zjednodusena blokova malba a pridavani tonu
+Zjednodušená bloková malba a přidávání tónů.
+## Gamut a Harmonie
+Gamutové palety.
+## Harmonie a disharmonie
+## Akcenty
+Poměr primárních, sekundárních barev a akcentů.
+
 :::note úkol
 
 Vytvoř si harmonickou paletu. Vytvoř náhodnou disharmonickou paletu a sjednoť tonalitu.
