@@ -22,5 +22,8 @@ sidebar_position: 1
 ## Software v kurzu
 
 Hlavní: Blender  
-Utility: Gimp  
+Utility: XnView MP, Krita nebo Gimp  
 Zdroje:
+
+## Poznámky
+Kurz podporuje českou a anglickou verzi programu. V textu jsou jazykové varianty označeny takto: **‣ Nová pracovní plocha** (*‣ New Workspace*). Anglické výrazy uvádím někdy i kvůli jasné terminologii. **Zkratky** (*Shortcuts*) jsou označeny klávesami, např. <kbd>S</kbd>, <kbd>Tab</kbd>, <kbd>Ctrl</kbd>+<kbd>A</kbd>.

@@ -26,4 +26,4 @@ Utility: XnView MP, G'MIC
 Zdroje:
 
 ## Poznámky
-Kurz podporuje českou a anglickou verzi programu. V textu jsou jazykové varianty označeny takto: **‣ Nová pracovní plocha** (*‣ New Workspace*). Anglické výrazy uvádím někdy i kvůli jasnosti terminologie. **Zkratky** (*Shortcuts*) jsou označeny klávesami, např. <kbd>M</kbd>, <kbd>B</kbd>, <kbd>Ctrl</kbd>+<kbd>Backspace</kbd>.
+Kurz podporuje českou a anglickou verzi programu. V textu jsou jazykové varianty označeny takto: **‣ Nová pracovní plocha** (*‣ New Workspace*). Anglické výrazy uvádím někdy i kvůli jasné terminologii. Uvádím i alternativní termíny běžné v oboru a jiných programech. **Zkratky** (*Shortcuts*) jsou označeny klávesami, např. <kbd>M</kbd>, <kbd>B</kbd>, <kbd>Ctrl</kbd>+<kbd>Backspace</kbd>.

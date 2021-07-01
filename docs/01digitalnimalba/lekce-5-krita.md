@@ -6,7 +6,7 @@ sidebar_position: 7
 
 # Lekce 05: Kompozice a proporce
 ## Klasické kompoziční modely
-Zlatý řez, fibonacci a fraktální kompozice.
+Zlatý řez, fibonacci a fraktální kompozice. Soběpodobné kompozice vs Archimédovská spirála.
 ## Vyprávění pomocí kompozice.
 Písmo a výtvarné umění. Zjednodušení umožňuje komunikaci. Malování je vizuální řeč. Kompozice je gramatika.
 ## Vyprávění pomocí kompozice.
