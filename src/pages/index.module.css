@@ -10,13 +10,24 @@
   text-align: center;
   position: relative;
   overflow: hidden;
-  background: radial-gradient(circle, rgba(53,143,191,1) 52%, rgba(47,116,153,0.5387197115174195) 100%);
-  background-image: url("akad2.svg"); /* fallback */
+  background: linear-gradient(270deg, #274acb, #e3691c);
+    background-size: 400% 400%;
+
+    animation: AnimationName 25s ease infinite;
+    background-image: url("akad5.svg");
+  /*background: radial-gradient(circle, rgba(53,143,191,1) 52%, rgba(47,116,153,0.5387197115174195) 100%);
+  animation: AnimationName 5s ease infinite;/*
+  background-image: url("akad2.svg");
+  /* fallback */
   /* background-image: url("akad2.svg"), linear-gradient(#eb01a5, #d13531); /* W3C */
 /*  background-image: url("akad2.svg"), linear-gradient(rgba(53,143,191,1) 52%, rgba(47,116,153,0.5387197115174195) 100%);*/
 background-repeat: no-repeat;
 }
-
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
 @media screen and (max-width: 966px) {
   .heroBanner {
     padding: 2rem;
