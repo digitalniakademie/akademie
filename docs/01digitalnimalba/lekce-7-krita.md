@@ -4,7 +4,7 @@ title: Kresba a malba
 sidebar_position: 10
 ---
 
-# Lekce 07: Portrét a postava
+# Portrét a postava
 ## Anatomie
 Studie anatomie a držení těla.
 ## Studie rukou

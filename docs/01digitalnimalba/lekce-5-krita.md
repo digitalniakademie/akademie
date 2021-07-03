@@ -4,7 +4,7 @@ title: Kresba a malba
 sidebar_position: 8
 ---
 
-# Lekce 05: Kompozice a proporce
+# Kompozice a proporce
 ## Klasické kompoziční modely
 Zlatý řez, fibonacci a fraktální kompozice. Soběpodobné kompozice vs Archimédovská spirála.
 ## Vyprávění pomocí kompozice.

@@ -4,7 +4,7 @@ title: Kresba a malba
 sidebar_position: 11
 ---
 
-# Lekce 08: Vlastní štětce a zdroje
+# Vlastní štětce a zdroje
 ## Balíčky štětců - Resource Bundles
 Balíčky nainstaluješ v Nastavení ‣ Spravovat zdroje (Settings ‣ Manage Resources).
 V kurzu jsme používali základní předinstalované zdroje.

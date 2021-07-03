@@ -12,6 +12,8 @@ Nastavení vodítek, typy perspektiv ilustrace.
 Vzdušná/Atmosférická perspektiva se vytváří modulací a oslabení barvy vzhledem ke vzdálenosti objektu od pozorovatele. Je to jev kdy částice v atmosféře rozptylují světlo a mění jeho vlnovou délku.
 Tmavé objekty v dálce se posouvají do modra, světlé do červena. Vzdálenější objekty jsou také světlejší.
 Využitím tohoto efektu vytvoříš iluzi hloubky.
+## Interiér a exteriér
+Tyto efekty se používají i když maluješ interiér. Optické triky. Kamera. 
 Malování vzdálených objektů a další atmosférické triky - rozmazání obrysů.
 ## Vliv zakřivení prostředí a horizont
 
