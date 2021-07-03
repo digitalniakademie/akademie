@@ -1,7 +1,7 @@
 ---
 id: lekce-4-krita
 title: Kresba a malba
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 # Perspektiva a atmosférické efekty

@@ -1,7 +1,7 @@
 ---
 id: zaver-krita
 title: Kresba a malba
-sidebar_position: 11
+sidebar_position: 12
 ---
 
 # Slovo na konec

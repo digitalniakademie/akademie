@@ -1,7 +1,7 @@
 ---
 id: lekce-7-krita
 title: Kresba a malba
-sidebar_position: 9
+sidebar_position: 10
 ---
 
 # Lekce 07: Portrét a postava

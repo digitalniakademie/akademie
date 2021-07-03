@@ -14,7 +14,7 @@
     background-size: 400% 400%;
 
     animation: AnimationName 25s ease infinite;
-    background-image: url("akad5.svg");
+    /*background-image: url("akad5.svg");/*
   /*background: radial-gradient(circle, rgba(53,143,191,1) 52%, rgba(47,116,153,0.5387197115174195) 100%);
   animation: AnimationName 5s ease infinite;/*
   background-image: url("akad2.svg");

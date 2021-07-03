@@ -1,7 +1,7 @@
 ---
 id: lekce-6-krita
 title: Kresba a malba
-sidebar_position: 8
+sidebar_position: 9
 ---
 
 # Lekce 06: Zátiší a krajina

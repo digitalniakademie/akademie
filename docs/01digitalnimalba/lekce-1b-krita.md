@@ -5,9 +5,9 @@ sidebar_position: 3
 ---
 
 # Digitální kresba: Proporce, objem, perspektiva
-Kreslení je královská disciplína. Kresba je základ obrazu. Kresbou budeš začínat svůj koncept a zdokonalovat se v ní celý život. Efektivní skica ti pomůže dělat studie k obrazu. Nemusíš být bravurní technický kreslíř, aby jsi byl dobrý malíř. Kreslení ti ale usnadní pochopení tvarů a forem.
+Kreslení je královská disciplína. Je to základ obrazu. Kresbou budeš začínat svůj koncept a zdokonalovat se v ní celý život. Efektivní skica ti pomůže dělat rychlé studie k obrazu. Nemusíš být bravurní technický kreslíř, aby jsi byl dobrý malíř. Kreslení je důležité pro pochopení tvarů a forem.
 
-Na grafickém tabletu se dá skicovat poměrně dobře, i když je kresba na tabletu pocitově rozdílná. Někdo může postrádat reakci média nebo vzdálenost špičky pera od kreslící plochy. Pokud jsi zvyklý skicovat klasicky, s velkým množstvím detailů, můžeš náčrty naskenovat a použít jako základ pro digitální malbu. To je postup, který se často používá v digitální ilustraci. Dobře kreslit můžeš ale s trochou cviku i na grafickém tabletu (s monitorem i bez).
+Na grafickém tabletu se dá kreslit poměrně dobře, i když někdo může postrádat reakci média nebo mu může vadit vzdálenost špičky pera od kreslící plochy. Pokud jsi zvyklý skicovat klasicky, s velkým množstvím detailů, můžeš náčrty naskenovat a použít jako základ pro digitální malbu. To je postup, který se často používá v digitální ilustraci. Dobře kreslit můžeš ale s trochou cviku i na grafickém tabletu (s monitorem i bez).
 
 :::note Poznámka
 
@@ -16,11 +16,18 @@ Grafické tablety s monitorem zpravidla vyžadují ke svojí funkci počítač s
 :::
 
 ## Kreslíme na tabletu
-Aby byla kresba plynulá, je tu možnost vyvažování a filtrování pohybů pera.
+Aby byla kresba plynulá, je tu možnost vyvažování a filtrování pohybů pera (obdobné funkce najdeš i v jiných kreslících programech, pod různými názvy).
 Nástroje a nastavení pro kresbu na tabletu. Vyhlazování a vyvažování tahů.
 obr štětce, tool options, vyskakovací menu
 
-Obdobné funkce najdeš i v jiných programech, pod různými názvy.
+Vyzkoušej si sérii tahů s různým přítlakem.
+
+
+
+Pro geometrické nebo perspektivní náčrty můžeš použít nástroj Assistant tool. Jsou to nastavitelná pravítka různých tvarů.
+
+Vyzkoušej si sérii paralelních linií s eliptickým a rovným pravítkem.
+
 
 ## Stínování a techniky kresby
 Štětec jako razítko. Typy vyhlazování. Dynamika tahů.
