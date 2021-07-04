@@ -2,19 +2,13 @@
 sidebar_position: 0
 ---
 
-# Úvodem: Kreativita, vzdělávání a open-source
+# Úvodem: Kreativita a open source
 ![image](./img/akademieprehled2.svg)
 ## Metodika kurzů
 
-Lekce na těchto stránkách rozšiřují obsah série videí Digitální Akademie na YouTube. Software je vybraný tak, aby tvořil komplexní workflow pro digitální tvorbu.
+Lekce na těchto stránkách rozšiřují obsah série videí **Digitální Akademie** na YouTube. Software je vybraný tak, aby tvořil funkční kompletní systém pro digitální tvorbu.
 
-Lekce mají tyto části:
-
-1. Přehled pro začátečníky
-2. Obsah a praktické předvedení
-3. Úkoly/Cvičení
-
-Lekce jsou minimalistické a snaží se předejít jistému fenoménu tutoriálů, takže:
+Lekce jsou navržené s ohledem na to, aby byl jejich obsah a popsané postupy maximálně přenositelné do dalších programů. Kurzy mají za cíl vytvořit základ pro další studium a vlastní experimenty.     
 
 ## Komu je program určený?
 
@@ -22,12 +16,12 @@ Kurzy jsou zaměřené na osvojení základních kreativních principů, platný
 
 :::tip
 
-Nikdo se nikdy nestal expertem **sledováním videí na internetu**. Nové znalosti musíš použít, a učení je zákeřně kontinuální proces.
+Nikdo se nikdy nestal expertem **sledováním videí na internetu**. Nové znalosti musíš použít, a učení je kontinuální proces.
 
 :::
 
 ## Jazykové verze programů
-Kurzy podporují českou i anglickou instalaci programů. Důvodem je praxe, že mnoho profesionálů používá systém i software v rozdílných jazykových verzích. Občas je velice obtížné orientovat se v termínech, na které nejsi zvyklý, a navíc mají více možných překladů. V případě důležitých termínů je uvedený i anglický originál v textu. Kde není ustálená terminologie, uvádím i alternativní výrazy, které se v daném oboru používají.
+Kurzy podporují českou i anglickou instalaci programů. Důvodem je praxe, že mnoho profesionálů používá systém i software v rozdílných jazykových verzích. Občas je velice obtížné orientovat se v termínech, na které nejsi zvyklý, a navíc mají více možných překladů. V případě důležitých termínů je uvedený i anglický originál v textu. Kde není ustálená terminologie, uvádím i alternativní výrazy, které se v daném oboru používají, nebo jsou výstižnější.
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -66,7 +60,7 @@ Kurzy využívají svobodný a otevřený software (Free and open-source softwar
 
 :::
 ## Začni ještě dnes!
-Lekce jsou navržené tak, aby byly co nejefektivnější. Cílem je co nejrychlejší využití nových technik.
+Lekce jsou navržené tak, aby byly co nejefektivnější. Text se soustřeďuje na prvky a postupy, které jsou *zásadní* pro funkční znalost programů. Cílem je co nejrychlejší využití nových technik.
 
 ## Témata
 
