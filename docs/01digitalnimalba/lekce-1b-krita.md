@@ -54,9 +54,8 @@ Typy perspektivy a čitelnost. K perspektivě se ještě vrátím v lekci o komp
 obr. persp.
 ![image](../img/aka-moc.svg)
 ## Skicář
-obr. skicar
 
-![image](../img/aka-moc1.svg)
+![image](./images/skicar.png)
 
 Pořiď si skicák a tužku. Studie můžeš dělat i na přenosném tabletu, ale potřebuješ vytvořit kreslicí návyky. Musíš zrušit rozptýlení, jako je třeba dobíjení baterie. Buď připravený začít kreslit během minuty. Kresli předměty které tě zaujmou, doma nebo na výletě.  Trénuj rychlé skicy, maximálně 10 minut na jednu skicu.
 ### Témata
