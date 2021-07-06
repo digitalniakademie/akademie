@@ -26,6 +26,10 @@ sidebar_position: 1
 - Fonty a tvorba písma
 - Tiskoviny
 - Interaktivní design
+- Emblematika a piktogramy
+- Logotypy
+- Ilustrace
+- Propojení s ostatnímy programy - Pipeline
 
 
 ## Software v kurzu
