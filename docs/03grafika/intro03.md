@@ -17,6 +17,17 @@ sidebar_position: 1
 - Gimp a úprava grafiky
 - Barevné modely RGB, CMYK a přímé barvy
 
+## Struktura
+- Inkscape: Instalace, nastavení
+- Inkscape: Vektorové objekty
+- Palety a teorie barev
+- Základy grafického designu
+- Inkscape: nástroje a plynulé Křivky
+- Fonty a tvorba písma
+- Tiskoviny
+- Interaktivní design
+
+
 ## Software v kurzu
 
 Hlavní: Inkscape, Scribus  
