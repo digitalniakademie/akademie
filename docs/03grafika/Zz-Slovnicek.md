@@ -4,5 +4,5 @@ title: Grafika
 sidebar_position: 14
 ---
 
-## Slovník pojmů
+# Slovník pojmů
 termíny z typografie a grafického designu
