@@ -1,18 +1,18 @@
 ---
 id: lekce-x-inkscape
 title: Grafika
-sidebar_position: 5
+sidebar_position: 8
 ---
 
-# Fonty a tvorba písma
+# Sazba (*Typesetting*)
 
-## Skupiny fontů
-### Anatomie fontu
-### Patkové (Serifové) fonty
+## Textové bloky
+## Typografická pravidla
+### Pravidla v češtině
 ### Bezpatkové (Bezserifové) fonty
 ### Další rozdělení
 
-## Mezinárodní
+## Export pro tisk
 Fonty vyhovují standardu.
 
 ## Typy formátů
@@ -22,7 +22,7 @@ Zpravidla obsažené v souboru. Definované vektorem nebo bitmapou.
 Obsahují více řezů v jednom ttf souboru. Podpora Scribus, **Inkscape**. Pokud je aplikace podporuje, umožňují vytváření přechodových stylů řezů písem, které nejsou jako statické fonty dostupné.
 SEZNAM
 
-:::note Úpravy variabilních fontů
+:::note Pozor CMYK
 
 Vybráním variabilního fontu se objeví v nastavení Písmo <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>T</kbd> možnost** Weight** (váha písma). Nastavením hodnoty vytvoříš variantu písma, která se objeví v dolní části seznamu řezů pro tento font.
 
