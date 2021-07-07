@@ -1,5 +1,5 @@
 ---
-id: lekce-x-inkscape
+id: lekce-6-inkscape
 title: Grafika
 sidebar_position: 9
 ---

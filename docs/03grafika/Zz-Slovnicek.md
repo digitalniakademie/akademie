@@ -1,6 +1,8 @@
 ---
 id: slovnicek-design
-title: Kresba a malba
+title: Grafika
 sidebar_position: 14
+---
 
----    
+## Slovník pojmů
+termíny z typografie a grafického designu

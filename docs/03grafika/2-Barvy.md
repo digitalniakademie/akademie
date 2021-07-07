@@ -4,7 +4,7 @@ title: Grafika
 sidebar_position: 4
 ---
 
-# Fonty a tvorba písma
+# Barvy a palety
 
 ## Skupiny fontů
 ### Anatomie fontu
