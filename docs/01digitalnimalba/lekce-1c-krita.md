@@ -30,6 +30,10 @@ import TabItem from '@theme/TabItem';
 *Alla prima* ("napoprvé") je technika, kdy pracuješ v jedné vrstvě. Barvy nanášíš přímo a glazury také. Tento způsob je vhodný pro studium tonality a barev. Je to oblíbený způsob, a koncept *Alla prima* se používá v i klasické malbě, kdy se maluje do ještě vlhkých barev, na jedno sezení. Výsledek je dynamický obraz se zvláštní energií.
 
 ### Malování ve vrstvách
+Tento způsob odpovídá technice **podmalby** (*underpainting*) v klasických technikách. Barvy se nanášejí na monochromatickou tonální podmalbu. Tak se snáze udrží tonalita a plastičnost malby. Použití komplementárních odstínů pro barevnou podmalbu (červená-zelená,modrá-oranžová) se někdy používá v případě glazur.
+
+
+
 Vrstva světla - Overlay
 Vrstva stínu - Multiply
 Pozadí středová hodnota
@@ -77,6 +81,8 @@ Nastavení počtu zobrazených předvoleb štětců na vyskakovací paletě najd
 Zrcadlení plochy <kbd>M</kbd> pro rychlou kontrolu.
 ## Plynulá kresba a malba
 Otáčení plátna
+## Rozlišení a detaily
+Rozlišení plátna se dá přidávat po krocích, jak budeš pracovat na detailech. Někteří malíři tento postup používají pro větší efektivitu. Začínají malovat plochami,velkými tvary a blokováním na plátně 2000x2000px, pro střední detaily zvětší rozlišení (pomocí funkce upscale) na 3000x3000px, a finální detailní malbu provedou na znovu zvětšeném plátně například na 4500x4500px. Tato metoda také využívá pevného rozlišení a velikostí razítek digitálních štětců.
 
 ## Stínování
 Šrafury a dynamika, airbrush. Vyzkoušej si Barevné stínování <kbd>K</kbd>, <kbd>L</kbd>. Více v lekci Malujeme barvu.
