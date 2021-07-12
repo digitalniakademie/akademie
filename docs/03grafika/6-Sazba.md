@@ -5,7 +5,7 @@ sidebar_position: 8
 ---
 
 # Sazba (*Typesetting*)
-
+## Formáty tiskovin
 ## Textové bloky
 ## Typografická pravidla
 ### Pravidla v češtině
