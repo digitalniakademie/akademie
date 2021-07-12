@@ -14,20 +14,20 @@ Standardní formáty. Skládání a lomy.
 ## Textové bloky
 Pravidla pro českou sazbu.
 ## Typografická pravidla
+## Grafický design tiskovin
 ### Pravidla v češtině
-### Bezpatkové (Bezserifové) fonty
-### Další rozdělení
+
 
 ## Export pro tisk
 Fonty vyhovují standardu.
 
-## Typy formátů
-### Statické fonty
+## Práce se styly
+### Nadpisy
 Zpravidla obsažené v souboru. Definované vektorem nebo bitmapou.
-### Variabilní fonty (*Variable Fonts*)
+### Odstavec (*Paragraph*)
 Obsahují více řezů v jednom ttf souboru. Podpora Scribus, **Inkscape**. Pokud je aplikace podporuje, umožňují vytváření přechodových stylů řezů písem, které nejsou jako statické fonty dostupné.
 SEZNAM
-
+### Barvy
 :::note Pozor CMYK
 
 Vybráním variabilního fontu se objeví v nastavení Písmo <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>T</kbd> možnost** Weight** (váha písma). Nastavením hodnoty vytvoříš variantu písma, která se objeví v dolní části seznamu řezů pro tento font.
@@ -57,7 +57,7 @@ import TabItem from '@theme/TabItem';
 
 :::note Poznámka
 
- Přestože je design vlastních fontů velice časově náročný. obvzvlvlášť pokud tvoříš kompletní sadu, základní principy se ti v praxi hodí pro tvorbu speciálních řad. Také speciální značky ve vlastním fontu ti mohou ušetřit hodně práce.
+ Přestože je design vlastních fontů velice časově náročný. obzvlášť pokud tvoříš kompletní sadu, základní principy se ti v praxi hodí pro tvorbu speciálních řad. Také speciální značky ve vlastním fontu ti mohou ušetřit hodně práce.
 
 :::
 
