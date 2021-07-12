@@ -4,9 +4,15 @@ title: Grafika
 sidebar_position: 8
 ---
 
-# Sazba (*Typesetting*)
+# Sazba (Typesetting)
+Sazba byl původně výraz pro sestavování litých písmen (liter) pro tisk. Digitální sazba se zabývá přípravou (lámáním) časopisů, knih a jiných tiskovin pro tisk.
+
+DTP a vývoj digitální sazby.
+
 ## Formáty tiskovin
+Standardní formáty. Skládání a lomy.
 ## Textové bloky
+Pravidla pro českou sazbu.
 ## Typografická pravidla
 ### Pravidla v češtině
 ### Bezpatkové (Bezserifové) fonty
