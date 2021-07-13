@@ -4,14 +4,19 @@ title: CAD
 sidebar_position: 2
 ---
 
-# Instalace
+# Instalace a nastavení programu FreeCAD
 
 <!-- Options, autoload workbench. Part designer -->
+Najdi aktuální verzi na https://https://www.freecadweb.org/. Stáhni a spusť soubor.  Po instalaci spusť program Krita. Pokud používáš Package Manager pro Windows, nejnovější stabilní verzi nainstaluješ příkazem
 
-text
+```
+winget install freecad
+```
 
+## Základní nastavení modulů
+Start Workbench. Export.
 
-# Systém práce v programu FreeCAD
+## Systém práce v programu FreeCAD
 
 FreeCAD je **modulární** software na principu pracovních prostředí (*Workbench*). Filozofie práce v programu je odlišná od jiných modelovacích programů.
 
