@@ -57,11 +57,19 @@ Nastavení počtu zobrazených předvoleb štětců na vyskakovací paletě najd
 ### Skupiny štětců
 Štětce jsou rozdělené do určených skupin podle štítků (tagů). Základní skupiny si můžeš prohlédnout i ve vyskakovací kruhové paletě (*Pop-up Palette*), kterou zobrazíš pravým tlačítkem, pokud máš vybraný nějaký kreslící nástroj. Vlastní skupiny lze vytvářet. Štětce můžeš upravovat a importovat i exportovat jako sety. Více o vytváření vlastních štětců  a balíčcích zdrojů (*Resource Bundles*) v lekci Vlastní štětce a zdroje.
 
-Vyzkoušej si úpravu štětce. Vyber štětec X a v předvolbě štětců nastav texturu vzoru. Potom nastav texturu povrchu. Vyzkoušej štětec. Základní nastavení vrátíš ,,,
+
 
 :::note úkol
 
-Vyzkoušej si různé skupiny štětců. Zapni a vypni texturu u štětce.
+Vyzkoušej si různé skupiny štětců.
+
+:::
+
+Globální texturu povrchu pro nástroj najdeš v nastavení štětců <kbd>F5</kbd>, v okně General ‣ Texture ‣ Pattern ‣‣ Texture.
+
+:::note úkol
+
+Vyzkoušej si úpravu štětce. Vyber štětec **b)_Basic-5_Size_Opacity** a v předvolbě štětců nastav texturu vzoru. Potom nastav texturu povrchu. Vyzkoušej štětec. Upravený štětec můžeš uložit tlačítke Save New Brush Preset. Základní nastavení vrátíš tlačítkem **Reload Brush Presets**.
 
 :::
 
