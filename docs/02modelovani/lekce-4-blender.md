@@ -5,7 +5,7 @@ sidebar_position: 6
 ---
 
 # Blender: Modifikátory pro parametrický styl modelování
-Výhody.
+Výhodou je nedestruktivní styl modelování. Modifikátory nemění základní geometrii objektu a dají se dále upravovat. Pořadí, jak jsou umístěny za sebou, ovlivňuje výsledek.
 ## Seznam modifikátorů
 Česká verze
 
@@ -15,14 +15,20 @@ Anglická verze
 
 ![image](../img/blender-mod-en.png)
 
-## Otestuj nejčastěji používané
-:::note Poznámka
+## Otestuj nejčastěji používané modifikátory
 
- Pokud používáš dvoutlačítkovou myš se skrolovacím kolečkem a numerickou klávesnici, můžeš tuto sekci přeskočit.
+:::tip
+
+ Modifikátor **Subdivision** přímo zapneš pomocí <kbd>Ctrl</kbd>+<kbd>1...</kbd>. Příklad: Subdivision level 2 aktivuješ pomocí <kbd>Ctrl</kbd>+<kbd>2</kbd>. Úrovně tak můžeš rychle přepínat.
 
 :::
 
-Zkontroluj funkčnost tabletu. Podle typu pera, nastav tlačítka, right click, middle button. Vypni Windows link. Protože nemáš skrolovací tlačítko, funkčnost ovládáš na klávesnici. Příklad nastavení u tabletu Wacom.
+- Subdivision
+- Bevel
+- Array
+- Mirror
+
+
 <Tabs
   groupId="jazykova-verze"
   defaultValue="czv"
