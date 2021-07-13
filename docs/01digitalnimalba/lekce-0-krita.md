@@ -65,7 +65,7 @@ Vyzkoušej si různé skupiny štětců.
 
 :::
 
-Globální texturu povrchu pro nástroj najdeš v nastavení štětců <kbd>F5</kbd>, v okně General ‣ Texture ‣ Pattern ‣‣ Texture.
+Globální texturu povrchu pro nástroj najdeš v nastavení štětců <kbd>F5</kbd>, v okně Obecné ‣ Textura ‣ Vzorek ‣‣ Textura (*General ‣ Texture ‣ Pattern ‣‣ Texture*).
 
 :::note úkol
 
@@ -90,59 +90,14 @@ Pipeta. <keyb>P</keyb> Umožnuje najenom nabírat barvu z plátna, ale i interpo
 ![image](../img/aka-moc.svg)
 
 
-## Přesuny a transformace
+## Režimy prolnutí u štětců a nástrojů
+Režimy prolnutí (Blending Modes) fungují stejně jako u vrstev, pouze vytvářejí efekt přímo během malby v aktivní vrstvě.
 
-<kbd>T</kbd> Posun aktivní vrstvy, <kbd>Ctrl</kbd>+<kbd>T</kbd> Transformace.
+Příklady Overlay, Multiply, Color atd.
 
-
-# Základní techniky digitální malby
-simulace, přiznana dig. m. a komb t
-Tyto postupy jsou zajímavé buď organizací, nebo technikou malby.
-### Alla prima
-*Alla prima* ("napoprvé") je technika, kdy pracuješ v jedné vrstvě. Barvy nanášíš přímo a glazury také. Tento způsob je vhodný pro studium tonality a barev. Je to oblíbený způsob, a koncept *Alla prima* se používá v i klasické malbě, kdy se maluje do ještě vlhkých barev, na jedno sezení. Výsledek je dynamický obraz se zvláštní energií.
-
-### Malování ve vrstvách
-Vrstva světla - Overlay
-Vrstva stínu - Multiply
-Pozadí středová hodnota
-
-![image](../img/aka-moc.svg)
-
-
-### Systém pěti vrstev
-Vrstva světla - Overlay
-Vrstva stínu - Multiply
-Vrstva barvy - Color
-Vrstva tonality - Values
-Vrstva náčrtu - Background
-![image](../img/aka-moc.svg)
-### Maskování
-Připomíná techniku maskování části plátna, která se používá například v airbrushi.
-
-### Malování v blocích
-Nanášení tvarů.
-
-### Kombinované techniky
-
-Štětec jako razítko. Typy vyhlazování. Dynamika tahů.
-## Barevné modely
-Barvy pro tisk a obrazovku. Gamut.
-## Barva a palety
-
-## Vnímání tvaru
-Zrcadlení plochy <kbd>M</kbd> pro rychlou kontrolu.
-## Plynulá kresba a malba
-Otáčení plátna
-
-## Stínování
-Šrafury a dynamika, airbrush. Vyzkoušej si Barevné stínování <kbd>K</kbd>, <kbd>L</kbd>. Více v lekci Malujeme barvu.
-## Vrstvy
-Přesun mezi vrstvami, hide etc.
-## Kresba
-Základní technika. Import kresby ze skicáře.
 
 :::note úkol
 
-Vystínovat těleso tonální technikou.
+Vystínovat těleso pomocí režimů prolnutí v jedné vrstvě.
 
 :::
