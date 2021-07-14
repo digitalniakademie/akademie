@@ -7,18 +7,44 @@ sidebar_position: 2
 # Inkscape: Instalace, nastavení
 
 ## Stažení a instalace
-Najdi aktuální verzi na https://www.inkscape.org/
+Najdi aktuální verzi na https://www.inkscape.org/. Stáhni a spusť instalační soubor.
 
-:::note Vývojové verze
-Alfa verze Blenderu https://builder.blender.org/download/daily/
-Tyto verze jsou pro vyzkoušení novinek a stability, nejsou vhodné pro tvorbu kritických projektů!
+:::note Package Manager Windows 10, 11
+Pokud používáš Package Manager pro Windows, použij příkaz
+
+```
+winget install inkscape
+```
 
 :::
 
-Stáhni a spusť instalační soubor.
-Po instalaci spusť program Blender.
+Po instalaci spusť program Inkscape.
 
-## Nastavení jazykové verze
+## První spuštění Inkscape
+Po prvním spuštění Inkscape nabídne základní volby dokumentu, barevných motivů programu a ikon.
+
+- obr.
+
+## Základní layout programu Inkscape
+Inkscape má podobné rozložení nástrojů jako jiné vektorové programy.
+
+- obr
+
+:::note Úkol
+
+Vyber nástroj Text z lišty nástrojů. Na horní liště nastav typ písma ze seznamu. Klikni do dokumentu a napiš text. Otevři dialogové okno textu přes menu **Text ‣ Text a písmo** (*Text ‣ Text and fonts*) nebo zkratkou <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>T</kbd>. Vyber část textu, vyber ze seznamu jiný font a potvrď volbou Použít vpravo dole.
+
+Otevři další dialogové okno přes menu **Objekt ‣ Výplň a tah** (*Text ‣ Text and fonts*) nebo zkratkou <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>F</kbd>. Nastav barvu výplně (A), tahu (B), a styl tahu (C).
+
+Klikni na nástroj výběru objektu (ikona šipky). Kliknutím mimo objekt zrušíš výběr. Vyber objekt znovu a tažením ho přesuň na jiné místo dokumentu.
+
+Barvu objektu změníš také kliknutím na paletu s barvou, s označeným objektem (barvu obrysu když při kliknutí podržíš <kbd>Shift</kbd>. Vyzkoušej si tvorbu, obarvení a přesuny dalších textových objektů.
+
+:::
+
+V základním nastavení se ti dialogová okna budou otvírat vpravo, jako Tabs.
+
+## Nastavení jazykové verze Inkscape
 Jazykovou verzi programu změníš v menu:
 
 import Tabs from '@theme/Tabs';
@@ -32,22 +58,28 @@ import TabItem from '@theme/TabItem';
     {label: 'V anglické verzi', value: 'env'},
   ]
 }>
-<TabItem value="czv">Upravit ‣ Předvolby ‣ Rozhraní ‣ Překlad</TabItem>
-<TabItem value="env">Edit ‣ Preferences ‣ Interface ‣ Translation</TabItem>
+<TabItem value="czv">Upravit ‣ Předvolby ‣ Rozhraní ‣ Jazyk</TabItem>
+<TabItem value="env">Edit ‣ Preferences ‣ Interface ‣ Language</TabItem>
 </Tabs>
 
-## Nastavení grafického tabletu a klávesnice pro Blender
+
+## Nastavení pro počítač v režimu tablet ve vertikální orientaci
+
+Pokud používáš počítač s dotykovým diplejem ve vertikální orientaci, je vhodnější použít režim s **plovoucími dialogovými okny**.
+
+Nastavení najdeš v menu Upravit ‣ Předvolby ‣ Rozhraní ‣ Okna (*Edit ‣ Options ‣ Interface ‣ Windows*)
+
+![image](./images/ink-okna2.png)
+
 :::note Poznámka
 
- Pokud používáš dvoutlačítkovou myš se skrolovacím kolečkem a numerickou klávesnici, můžeš tuto sekci přeskočit.
+ Vyber si nastavení, které ti více vyhovuje při konkrétním nastavení monitoru. Šířka dialogových oken jde měnit podle obsahu jenom do určité míry.
 
 :::
 
-Zkontroluj funkčnost tabletu. Podle typu pera nastav tlačítka, Right Click, Middle Click. **Vypni Windows Ink.** Protože nemáš skrolovací tlačítko, funkčnost ovládáš na **numerických** klávesách <kbd>Num +</kbd> a <kbd>Num -</kbd>. Pokud jsou na tvém tabletu programovací tlačítka nebo touch ring, doporučuji si nastavit tyto shortcuty (viz obrázek). Příklad nastavení u tabletu Wacom:
+## Nastavení vlastností dokumentu
 
-![image](../img/wacom.jpg)
-
-Možnosti klávesnice nastavíš v Blenderu tady:
+Možnosti dokumentu nastavíš zkratkou <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>D</kbd> nebo tady:
 <Tabs
   groupId="jazykova-verze"
   defaultValue="czv"
@@ -56,12 +88,12 @@ Možnosti klávesnice nastavíš v Blenderu tady:
     {label: 'V anglické verzi', value: 'env'},
   ]
 }>
-<TabItem value="czv">Upravit ‣ Předvolby ‣ Vstup</TabItem>
-<TabItem value="env">Edit ‣ Preferences ‣ Input</TabItem>
+<TabItem value="czv">Soubor ‣ Vlastnosti dokumentu</TabItem>
+<TabItem value="env">File ‣ Document properties</TabItem>
 </Tabs>
 
 
-Tady také nastavíš emulaci numerické klávesnice a v polních podmínkách ovládání pomocí touchpadu.
+Nastavení dokumentu se ukládá do souboru.
 
 :::warning Poznámka
 
@@ -76,27 +108,24 @@ Tady také nastavíš emulaci numerické klávesnice a v polních podmínkách o
 
 :::
 
-## Blender pro úplné začátečníky
-Po spuštění Blender otevře základní scénu v pracovní ploše Layout. Přesuň kurzor do pracovního okna a stiskni <kbd>N</kbd>. Vysune se postranní panel.
+## Inkscape pro úplné začátečníky
+Po prvním spuštění Inkscape nabídne základní volby dokumentu, barevných motivů programu a ikon.
 
-![image](../img/01blender-okno.svg)
+- volba základní
 
-### Pracovní plochy
-Okna můžeš přesouvat a měnit jejich obsah a velikost podle potřeby.
+otevře v základním nastavení dokumentu se zavřenými dialogovými okny. Podoba se bude lišit podle nastavení rozhraní a témat.
 
-Jak vrátit pracovní plochu do původního nastavení: Nastavení plochy se ukládá do souboru. Ulož projekt. V dialogu  otevření souboru <kbd>Ctrl</kbd> + <kbd>O</kbd> otevřete Settings (ikona kolečka vpravo nahoře) a odškrtněte Načíst UI (*Load UI* v anglické verzi).
+- volba základní
 
-![image](../img/blender-plocha.jpg)
+### Otevření dokumentu z template
 
-Tvůj projekt se načte se základním nastavením plochy (UI).
 
-### Přidání a mazání pracovních ploch v menu.
-
-Ulož si pracovní plochu a vyzkoušej si přepínání pracovních ploch.
-
-### Přehled funkcí Blenderu
+### Přehled nástrojů
 Moduly. Layout a editační mód. Nastavení materiálů a uzlový mód v sekci shader.
-Co jde v Blenderu dělat.
+Co jde v Inkscape dělat.
 
+### Text a fonty
+
+### Ukládání a export do .pdf
 
 Můžeme začít.

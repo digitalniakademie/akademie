@@ -85,7 +85,7 @@ Zkratka <kbd>P</kbd> . Umožnuje najenom nabírat barvu z plátna, ale i interpo
 ## Výběr
 Funkce výběru ti dovoluje malovat pouze do označené části, po inverzi výběru pouze mimo ni. V panelu nástrojů jsou různé tvary výběru určené pro rychlé maskování. Tento nástroj funguje podobně jako v ostatních bitmapových programech. Jenom tady ho budeš používat častěji.
 ## Barevný selektor
-Pipeta. <keyb>P</keyb> Umožnuje najenom nabírat barvu z plátna, ale i interpolovat barvy. Vyzkoušej si to.
+Pipeta. <keyb>P</keyb> Umožnuje nejenom nabírat barvu z plátna, ale i interpolovat barvy. Vyzkoušej si to.
 
 ![image](../img/aka-moc.svg)
 

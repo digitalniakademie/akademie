@@ -7,7 +7,7 @@ sidebar_position: 2
 # Instalace a nastavení programu FreeCAD
 
 <!-- Options, autoload workbench. Part designer -->
-Najdi aktuální verzi na https://https://www.freecadweb.org/. Stáhni a spusť soubor.  Po instalaci spusť program Krita. Pokud používáš Package Manager pro Windows, nejnovější stabilní verzi nainstaluješ příkazem
+Najdi aktuální verzi na https://https://www.freecadweb.org/. Stáhni a spusť soubor.  Po instalaci spusť program FreeCAD. Pokud používáš Package Manager pro Windows, nejnovější stabilní verzi nainstaluješ příkazem
 
 ```
 winget install freecad

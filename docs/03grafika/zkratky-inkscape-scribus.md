@@ -25,6 +25,7 @@ import TabItem from '@theme/TabItem';
 
 Do pole vyhledávání vložíš název příkazu. Nastavíš klávesy, jaké chceě pro zkratku použít. Pokud je zkratka už přiřazena, systém ti to oznámí. Stávající zkratky můžeš měnit.
 
+### Text <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>T</kbd>
 ### Štětec <kbd>B</kbd>
 ### Pipeta <kbd>P</kbd>
 ### Mód vymazání (*Eraser Mode*) <kbd>E</kbd>
