@@ -25,7 +25,7 @@ Po prvním spuštění Inkscape nabídne základní volby dokumentu, barevných 
 
 - obr.
 
-## Základní layout programu Inkscape
+### Základní layout programu Inkscape
 Inkscape má podobné rozložení nástrojů jako jiné vektorové programy.
 
 - obr
@@ -44,7 +44,7 @@ Barvu objektu změníš také kliknutím na paletu s barvou, s označeným objek
 
 V základním nastavení se ti dialogová okna budou otvírat vpravo, jako Tabs.
 
-## Nastavení jazykové verze Inkscape
+### Nastavení jazykové verze Inkscape
 Jazykovou verzi programu změníš v menu:
 
 import Tabs from '@theme/Tabs';
@@ -62,8 +62,23 @@ import TabItem from '@theme/TabItem';
 <TabItem value="env">Edit ‣ Preferences ‣ Interface ‣ Language</TabItem>
 </Tabs>
 
+### Pohyb v dokumentu a nastavení rotace
 
-## Nastavení pro počítač v režimu tablet ve vertikální orientaci
+
+- Posun v dokumentu (*Pan*) se stisknutým prostředním tlačítkem myší (nebo odpovídajícím tlačítkem na tabletovém peru). Pro posun lze použít také stisknutý <kbd>Space</kbd>, nebo <kbd>Alt</kbd>+ Pravé tlačítko myši
+- Zvětšení a zmenšení pohledu (*Zoom*) klávesy <kbd>+</kbd> , <kbd>-</kbd>
+- Nastavení pohledu na celý dokument <kbd>5</kbd>
+- Nastavení pohledu na vybraný objekt <kbd>3</kbd>
+
+- Rotace dokumentu s klávesou <kbd>Ctrl</kbd> + Střední tlačítko myši. Natočení plátna zrušíš v menu **Zobrazit ‣ Orientace ‣ Obnovit rotaci**(*View ‣ Orientation ‣ Reset rotation*)
+
+:::caution Poznámka
+
+To je téma, na které narazíš velice rychle, a proto to zmiňuji hned v úvodu. Pokud jsi zvyklý na práci v jiných grafických programech, doporučuji **zamknout rotaci** plochy v menu **Zobrazit ‣ Orientace ‣ Uzamknout rotaci**
+
+:::
+
+### Nastavení pro počítač v režimu tablet ve vertikální orientaci
 
 Pokud používáš počítač s dotykovým diplejem ve vertikální orientaci, je vhodnější použít režim s **plovoucími dialogovými okny**.
 
@@ -73,11 +88,20 @@ Nastavení najdeš v menu Upravit ‣ Předvolby ‣ Rozhraní ‣ Okna (*Edit �
 
 :::note Poznámka
 
- Vyber si nastavení, které ti více vyhovuje při konkrétním nastavení monitoru. Šířka dialogových oken jde měnit podle obsahu jenom do určité míry.
+ Vyber si co ti více vyhovuje při konkrétním nastavení monitoru. Šířka dialogových oken jde měnit podle obsahu jenom do určité míry.
 
 :::
 
-## Nastavení vlastností dokumentu
+## Inkscape pro úplné začátečníky
+
+
+Otevře v základním nastavení dokumentu se zavřenými dialogovými okny. Podoba se bude lišit podle nastavení rozhraní a témat.
+
+- volba základní
+
+### Otevření dokumentu z template
+
+### Nastavení vlastností dokumentu
 
 Možnosti dokumentu nastavíš zkratkou <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>D</kbd> nebo tady:
 <Tabs
@@ -92,33 +116,7 @@ Možnosti dokumentu nastavíš zkratkou <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>D<
 <TabItem value="env">File ‣ Document properties</TabItem>
 </Tabs>
 
-
 Nastavení dokumentu se ukládá do souboru.
-
-:::warning Poznámka
-
- Doporučuji zrušit ALT+SHIFT a SHIFT+CTRL na přepínání klávesnic ve Windows.  Minitutorial jak na to:
-
- Start>Nastavení>Čas a jazyk>Jazyk>Klávesnice>Klávesové zkratky pro jazyk zadávání>Otevře se okno Jazyky a služby pro zpracování textu, zvolte Změnit kombinaci kláves>>Oba sloupce nastavit na Nepřiřazeno. Použít.
-
- (Anglická verze Win10: Start>Settings>Time & Language>Language>Keyboard>Input Language Hotkeys, otevře se dialogové okno Text Services and Input Languages, v něm vyberte Change Key Sequence a nastavte všechny Key Sequence na Not Assigned.)
- Aplikujte.
-
- **Shorcut na přepínání klávesnic <kbd>Windows</kbd> + <kbd>SPACEBAR</kbd> bude dále funkční.**
-
-:::
-
-## Inkscape pro úplné začátečníky
-Po prvním spuštění Inkscape nabídne základní volby dokumentu, barevných motivů programu a ikon.
-
-- volba základní
-
-otevře v základním nastavení dokumentu se zavřenými dialogovými okny. Podoba se bude lišit podle nastavení rozhraní a témat.
-
-- volba základní
-
-### Otevření dokumentu z template
-
 
 ### Přehled nástrojů
 Moduly. Layout a editační mód. Nastavení materiálů a uzlový mód v sekci shader.
