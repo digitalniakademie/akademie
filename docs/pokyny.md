@@ -12,7 +12,7 @@ Najdi aktuální stabilní verzi programu, stáhni instalační soubor a spušt�
 
 :::tip Pro pokročilé uživatele
 
-Tento návod nyní vyžaduje doinstalaci funkce **Instalační program aplikací** do systému Windows 10. Budoucí verze systému budou funkci obsahovat.
+Tento návod nyní vyžaduje doinstalaci funkce **Instalační program aplikací** do systému Windows 10. Další verze systému funkci obsahují.
 
 :::
 
@@ -27,6 +27,14 @@ ms-appinstaller:?source=https://aka.ms/getwinget
 ### Spuštění manažeru
 
 Potřebuješ spustit **Powershell** jako správce, abys nemusel manuáně potvrzovat dialogy pro každý program. Stiskni <kbd>Windows</kbd> + <kbd>X</kbd>, vyber **Windows Powershell (správce)** a potvrď.
+
+
+:::warning Pozor
+
+Ve Windows 11 se funkce jmenuje Terminál Windows (správce).
+
+:::
+
 
 Pokud nyní napíšeš příkaz **winget**, program ti ukáže seznam příkazů.
 
@@ -78,6 +86,8 @@ V tuto chvíli můžeš takto nainstalovat **všechny** nejaktuálnější verze
 
 Potřebuješ spustit **Powershell** jako správce, abys nemusel manuáně potvrzovat dialogy pro každý program. Stiskni <kbd>Windows</kbd> + <kbd>X</kbd>, vyber **Windows Powershell (správce)** a potvrď.
 
+
+
 Skript pro instalaci programů Krita, Blender a Inkscape. Zkopíruj, vlož do Powershellu (nutná instalace rozšíření **winget**, viz výše) a stiskni <kbd>Enter</kbd>
 ```
 winget install krita
@@ -94,6 +104,21 @@ winget upgrade inkscape
 
 :::warning Pozor
 
-Tímto způsobem instaluj pouze programy, které znáš a víš, že jsou ze spolehlivého zdroje!
+Tímto způsobem instaluj pouze programy, které znáš!
 
 :::
+
+Programy, u kterých existuje dostupný upgrade, zobrazíš příkazem
+
+```
+winget upgrade
+
+```
+
+Pro instalaci všech dostupných upgradů nainstalovaných programů:
+
+
+```
+winget upgrade -all
+
+```
