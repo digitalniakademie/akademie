@@ -14,8 +14,6 @@ Lekce jsou navržené s ohledem na to, aby byl jejich obsah a popsané postupy m
 
 Kurzy jsou určené pro výtvarníky, architekty, designery a zájemce o digitální tvorbu.
 
-Cílem je získat funkční znalost programů a postupů, vytvořit základ pro vlastní studium a experimenty.
-
 Lekce jsou zaměřené na osvojení základních kreativních principů, platných nezávisle na médiu. Koncept je založený na praktických cvičeních v daném softwaru a je určený jak pro začátečníky, tak pro pokročilé studenty, kteří chtějí objevovat nové postupy.
 
 :::tip
