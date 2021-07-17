@@ -5,6 +5,11 @@ sidebar_position: 8
 ---
 
 # Kompozice a proporce
+Kompozice není jenom geometrické rozdělení plátna nebo scény.
+
+Vizuální umění je umění vyprávění příběhu. Budování kompozice je důležité pro jeho čitelnost. Kompozice v historii a současnosti využívají zkratky, symboliku a emblematiku. Konstrukce scény tvoří emocionální a intelektuální účinek.
+
+S proporcí jsme se už setkali při základním kreslení i použití barev. Proporce je důležitá i pro konstrukci kompozice.
 ## Klasické kompoziční modely
 Zlatý řez, fibonacci a fraktální kompozice. Soběpodobné kompozice vs Archimédovská spirála.
 ## Vyprávění pomocí kompozice.

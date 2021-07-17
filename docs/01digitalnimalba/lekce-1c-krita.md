@@ -5,7 +5,8 @@ sidebar_position: 4
 ---
 
 # Základní techniky digitální malby
-simulace, přiznana dig. m. a komb t
+Digitální malba má svoje charakteristé postupy. Může imitovat klasické techniky (olejomalbu, akvarel apod.), vycházet z technik typických pro digitální malbu, nebo vytvářet kombinované techniky a efekty, které by při malbě pigmenty nebyly možné.
+
 Tyto postupy jsou zajímavé buď organizací, nebo technikou malby.
 
 import Tabs from '@theme/Tabs';

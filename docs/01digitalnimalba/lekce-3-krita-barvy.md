@@ -52,21 +52,30 @@ modely a gamuty vyber
 ![image](../img/aka-moc.svg)
 
 ## Teplé a studené barvy
-Přestože název vzbuzuje dojem, že popisuje jak barvy působí psychologicky, má fyzikální základ. Barevné modely. vlnove delky a teploty
+Přestože název vzbuzuje dojem, že popisuje jak barvy působí psychologicky, má základ spíše ve fenomenologii. Modrobílou barvu si spojujeme s chladem, a rudooranžovou s ohněm. Fyzikální realita je taková, že čím vyšší je teplota, tím je kratší vlnová délka vyzařovaného světla (jinými slovy, světlo je "studenější" čím vyšší je teplota).
+
+V malířství používáme modely, které jsou ukotvené více v tradici a konkrétní metodologii, než ve specifických vědních oborech. Umění také kvůli čitelnosti často využívá zobecňování a fenomenologický přístup ke zkoumání přírodních jevů.
+
+:::warning Pozor
+
+Relativní teplota barev, tedy to, jestli je jedna barva teplejší nebo studenější, se posuzuje vždy jenom v kontextu ostatních barev.
+
+:::
+
 ### Barva světla a stínu
 Pro účely malby můžeme vycházet ze základního pravidla, že pokud je scéna osvětlená barvou v teplé části spektra, barvy ve stínu se budou posouvat do části studené, **a naopak**.
 
 ![image](./images/teplota-barev.png)
 
-Objekty jsou totiž osvětleny nejenom jedním zdrojem, ale i odraženým světlem okolního prostředí. Ve 3D programech se tento jev simuluje enviromentální mapou, což je vlastně panoramatická fotografie scény s vysokou barevnou a tonální dynamikou. Složky tohoto světla pak tvoří protipól hlavnímu zdroji. Proto je tento jev více znatelný v případech extrémního osvětlení (například noční scény), kde jsou snáze rozpoznatelné různé teploty zdrojů světla v prostředí.
+Objekty jsou totiž osvětleny nejenom jedním zdrojem, ale i odraženým světlem okolního prostředí. Ve 3D programech se tento jev simuluje enviromentální mapou, což je vlastně panoramatická fotografie scény s vysokou barevnou a tonální dynamikou. Složky tohoto světla (vlastně množiny všech světel ve scéně) pak tvoří protipól hlavnímu zdroji. Proto je tento jev více znatelný v případech extrémního osvětlení (například noční scény), kde jsou snáze rozpoznatelné různé teploty zdrojů světla v prostředí.
 
 Okolní prostředí také ovlivňuje naše vnímání barvy, což tento jev ještě zesiluje.
 
 ![image](../img/aka-moc.svg)
 
 ## Fyzika, fyziologie a psychologie barev.
-Jak vyniká barva, jak ji vnímáme a jak na nás působí. Kontext.
-Také budou různé barvy působit na každého trochu jinak.
+Jak vyniká barva, jak ji vnímáme a jak na nás působí. Kontext a energie barev.
+Také budou různé barvy psychologicky působit na každého trochu jinak. Například fialovou nemusí každý považovat za studenou barvu. V porovnání s rudooranžovou však jako studenější bude působit.
 
 Oko má extrémně velkou citlivost na jas (dokáže na sítnici detekovat světlo v řádech jednotlivých fotonů) a velkou dynamiku. Oko má ale zároveň určitou setrvačnost.  Dívej se na tento obrázek půl minuty a pak se podívej na bílou stěnu.
 

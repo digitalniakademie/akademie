@@ -6,6 +6,7 @@ sidebar_position: 0
 # Kresba a malba: Přehled témat
 ![image](../img/toppicture1.png)
 - Krita: Instalace a nastavení programu.
+- Jaké možnosti program nabízí
 Témata: Světlo, stín, kontrast, tonalita a barva, textura a materiál. Radiozita, Fresnelův jev, Anisotropie, Okluze. Speciální materiály - sklo, translucence, Světelné zdroje, Perspektiva a efekty atmosféry
 
 - Digitální kresba - specifika
