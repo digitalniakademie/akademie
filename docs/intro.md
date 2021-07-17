@@ -12,7 +12,11 @@ Lekce jsou navržené s ohledem na to, aby byl jejich obsah a popsané postupy m
 
 ## Komu je program určený?
 
-Kurzy jsou zaměřené na osvojení základních kreativních principů, platných nezávisle na médiu. Koncept je založený na praktických cvičeních v daném softwaru a je určený jak pro začátečníky, tak pro pokročilé studenty, kteří chtějí objevovat nové postupy.
+Kurzy jsou určené pro výtvarníky, architekty, designery a zájemce o digitální tvorbu.
+
+Cílem je získat funkční znalost programů a postupů, vytvořit základ pro vlastní studium a experimenty.
+
+Lekce jsou zaměřené na osvojení základních kreativních principů, platných nezávisle na médiu. Koncept je založený na praktických cvičeních v daném softwaru a je určený jak pro začátečníky, tak pro pokročilé studenty, kteří chtějí objevovat nové postupy.
 
 :::tip
 
@@ -60,7 +64,7 @@ Kurzy využívají svobodný a otevřený software (Free and open-source softwar
 
 :::
 ## Začni ještě dnes!
-Lekce jsou navržené tak, aby byly co nejefektivnější. Text se soustřeďuje na prvky a postupy, které jsou *zásadní* pro funkční znalost programů. Cílem je co nejrychlejší využití nových technik.
+Lekce jsou navržené tak, aby byly co nejefektivnější. Text se soustřeďuje na prvky a postupy, které jsou **zásadní** pro funkční znalost programů. Cílem je co nejrychlejší využití nových technik.
 
 ## Témata
 

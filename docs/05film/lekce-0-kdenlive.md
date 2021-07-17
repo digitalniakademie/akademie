@@ -5,9 +5,19 @@ sidebar_position: 2
 ---
 
 # Kdenlive: Instalace a první projekt
-
+Ovládání programu je poměrně jednoduché. Používá postupy běžné pro podobné editační programy.
 ## Stažení a instalace
-Najdi aktuální verzi. Stáhni a spusť soubor. Základní nastavení. Po instalaci spusť program Kdenlive.
+
+Najdi aktuální verzi na https://www.kdenlive.org/. Stáhni a spusť soubor aktuální verze.  Po instalaci spusť program Kdenlive.
+
+Pokud používáš Package Manager pro Windows, nejnovější stabilní verzi nainstaluješ přes Terminál Windows (správce) příkazem
+
+```
+winget install kdenlive
+```
+
+
+
 ## Nastavení jazykové verze
 Jazykovou verzi programu změníš v menu:
 
