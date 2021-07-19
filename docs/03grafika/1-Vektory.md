@@ -5,18 +5,31 @@ sidebar_position: 3
 ---
 
 # Inkscape: Vektorové objekty
+Inkscape nabízí řadu zajímavých nástrojů na vytváření a úpravu vektorových objektů. V programu lze také aplikovat bitmapové efekty a filtry.
+
+## Rozdíl mezi bitmapovou a vektorovou grafikou
+**Bitmapová grafika** obrázek definuje mřížkou bodů, pixelů. Celkové rozlišení je pak konečná suma těchto bodů. FullHD rozlišení je 1920 krát 1080 pixelů (to je zhruba 2.1 miliónu pixelů, proto se někdy používá termín dvoumegapixel, 2MP). Rozlišení bitmapové grafiky se dá zvyšovat pomocí interpolace tak, že se chybějící body doplní algoritmicky (například pomocí umělé inteligence). Snížení rozlišení je ztrátové - zmenšený obrázek má celkově méně pixelů, méně informací.
+
+- Příklady bitmapových formátů: .png, .jpg, .tiff
+
+**Vektorová grafika** je definovaná parametry křivek. Proto je užitečná v případech, kdy se dá očekávat použití grafiky v různých velikostech a je důležitá bezztrátovost takových změn. Vektorové formáty také
+
+Vektorová grafika je zpravidla úspornější co do velikosti souboru, záleží na složitosti křivek.
+
+- Příklady vektorových formátů: .svg, .ai, .cdr
+
+Některé bitmapové formáty mohou obsahovat vektorové objekty (.psd), a vektorové formáty pro polygrafii mohou většinou obsahovat bitmapové objekty.
 
 ## Křivky
 Vrstvy a skupiny
 
-:::note Vývojové verze
-Alfa verze Blenderu https://builder.blender.org/download/daily/
-Tyto verze jsou pro vyzkoušení novinek a stability, nejsou vhodné pro tvorbu kritických projektů!
+:::note Formáty v Inkscapu
+
+Hlavní formát ukládání je vektorový formát .svg. Hlavní formáty exportu jsou .png a .pdf.
 
 :::
 
-Stáhni a spusť instalační soubor.
-Po instalaci spusť program Blender.
+
 
 ## Nastavení jazykové verze
 Jazykovou verzi programu změníš v menu:

@@ -119,6 +119,6 @@ Pro instalaci všech dostupných upgradů nainstalovaných programů:
 
 
 ```
-winget upgrade -all
+winget upgrade --all
 
 ```

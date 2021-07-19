@@ -7,6 +7,19 @@ sidebar_position: 9
 # Scribus a předtisková příprava
 Důvod. Vícestránkové dokumenty. Mnoho textu. Kvalitní typesetting.
 ## Instalace a nastavení
+Pro všechny funkce budeš potřebovat Scribus a Ghostscript.
+
+Najdi aktuální verze na https://www.scribus.net/ a https://www.ghostscript.com/ Stáhni a spusť instalační soubory.
+
+:::note Package Manager Windows 10, 11
+Pokud používáš Package Manager pro Windows, v terminálu použij příkaz
+
+```
+winget install ghostscript
+winget install scribus
+```
+
+
 ### Anatomie fontu
 ### Patkové (Serifové) fonty
 ### Bezpatkové (Bezserifové) fonty
