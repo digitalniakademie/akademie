@@ -33,7 +33,7 @@ import TabItem from '@theme/TabItem';
 <TabItem value="env">Settings ‣ Switch Application Language...</TabItem>
 </Tabs>
 
-## Nastavení tabletu
+## Nastavení grafického tabletu
 Zkontroluj funkčnost tabletu. Vytvoř nový soubor. Vyber nástroj štětec <kbd>B</kbd>. Vyber typ štětce. Nakresli čáru s různým přítlakem a zkontroluj, jestli nástroj reaguje. Nastavení tabletu:
 <Tabs
   groupId="jazykova-verze"
@@ -47,10 +47,34 @@ Zkontroluj funkčnost tabletu. Vytvoř nový soubor. Vyber nástroj štětec <kb
 <TabItem value="env">Settings ‣ Configure Krita ‣ Tablet settings </TabItem>
 </Tabs>
 
+:::note Grafický tablet bez displeje
+Nakresli perem čtverec nebo kruh. Je vertikální tah stejný jako horizontální? Pokud používáš více monitorů nebo vertikální displej, budeš muset nastavit u tabletu upravené proporce. Příklad u tabletu Wacom:
+
+![image](./images/wacom-setup.png)
+
+:::
+
 ## Nastavení pokročilé palety barev
+Pokročilá paleta barev (Advanced Color Selector) umožňuje nastavení tvaru výběru barev.
+
+![image](./images/krita-colorselector.png)
+
+Více si o nastavení palet povíme v lekci o barvách.
 
 ## Pracovní plocha
-Okna a plovoucí okna můžeš přesouvat. Jak vrátit pracovní plochu do původního nastavení:
+
+
+![image](./images/kritaplocha-cz.png)
+
+1. Toolbox
+2. Okno dokumentu
+3. Vyskakovací paleta
+4. Doky (Dockers)
+5. Pokročilá paleta barev
+6. Tool Options
+
+
+Okna a plovoucí okna můžeš přesouvat a měnit jejich velikosti. Jak vrátit pracovní plochu do původního nastavení:
 <Tabs
   groupId="jazykova-verze"
   defaultValue="czv"
