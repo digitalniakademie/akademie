@@ -12,7 +12,7 @@ Inkscape nabízí řadu zajímavých nástrojů na vytváření a úpravu vektor
 
 - Příklady bitmapových formátů: .png, .jpg, .tiff
 
-**Vektorová grafika** je definovaná parametry křivek. Proto je užitečná v případech, kdy se dá očekávat použití grafiky v různých velikostech a je důležitá bezztrátovost takových změn. Vektorové formáty také
+**Vektorová grafika** je definovaná parametry křivek. Proto je užitečná v případech, kdy se dá očekávat použití grafiky v různých velikostech a je důležitá bezztrátovost takových změn. Vektorové formáty se také používají v technických aplikacích pro CAD, CAM a CNC (.dxf, .stp).
 
 Vektorová grafika je zpravidla úspornější co do velikosti souboru, záleží na složitosti křivek.
 
@@ -20,15 +20,21 @@ Vektorová grafika je zpravidla úspornější co do velikosti souboru, zálež�
 
 Některé bitmapové formáty mohou obsahovat vektorové objekty (.psd), a vektorové formáty pro polygrafii mohou většinou obsahovat bitmapové objekty.
 
-## Křivky
-Vrstvy a skupiny
-
 :::note Formáty v Inkscapu
 
 Hlavní formát ukládání je vektorový formát .svg. Hlavní formáty exportu jsou .png a .pdf.
 
 :::
 
+## Vektorové objekty, křivky a cesty
+Křivky, texty a další vektorové objekty.
+Nástroje. Filozofie.
+### Geometrické tvary
+Geometrické tvary, jako kruh, obdélník, text apod. které mají další měnitelné parametry (například zaoblení rohů u obdélníků) se pro aplikování efektů a editaci jednotlivých bodů musí převést na křivky neboli **cesty** (*Paths*)
+## Cesty
+### Efekty cesty
+
+### Transformace
 
 
 ## Nastavení jazykové verze
