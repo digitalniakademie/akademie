@@ -20,6 +20,8 @@ Start Workbench. Export.
 
 FreeCAD je **modulární** software na principu pracovních prostředí (*Workbench*). Filozofie práce v programu je odlišná od jiných modelovacích programů.
 
+Princip propojení modulů. (Part Design, Sketcher)
+
 Cílem kurzu je co nejjednodušší workflow pro design. Spolupráce s programy Blender a Inkscape.
 
 Dokumentace a 3D tisk.
