@@ -32,7 +32,12 @@ Blokování znamená zjednodušení viděných objektů na ohraničené tvary. D
 
 ![image](../img/aka-moc.svg)
 ### Tonalita
-Pro dobrou čitelnost obrazu je nutná správná tonalita. Je to jas barev. Ten určuje nejenom tvar objektu, ale také jak objekty komunikují ve scéně mezi sebou. Tonalita je tvořená tóny, polotóny, stíny a světly. Správná rozhodnutí rozvržení tonality pomůže srozumitelnosti obrazu. Tonalitu při práci s barvami můžeš průběžně kontrolovat.
+
+Pro čitelnost obrazu je nutná správná **tonalita** (*tone, value, lightness*). Je to jas, světelnost barev. Ta určuje nejenom tvar objektu, ale také jak objekty komunikují ve scéně mezi sebou. Tonalita je pro rozpoznání tvarů důležitější než barva.
+
+![image](../img/aka-moc.svg)
+
+Tonalita je tvořená tóny, polotóny, stíny a světly. Správná rozhodnutí rozvržení tonality pomůže srozumitelnosti obrazu. Tonalitu při práci s barvami můžeš průběžně kontrolovat.
 
 -- tonalita převod na čb
 ![image](../img/aka-moc.svg)
