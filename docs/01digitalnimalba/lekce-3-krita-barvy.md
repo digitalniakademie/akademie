@@ -5,7 +5,7 @@ sidebar_position: 6
 ---
 
 # Malujeme barvu
-Jak jsme si ukázali na světelných vlastnostech objektů a na formách, to co vidíme není vždy to, co vnímáme. Vizuální umění pracuje v oblasti optických a kognitivních triků a iluzí. Aby byl obraz dostatečně čitelný — a aby byl dostatečně realistický — malíř realitu zákeřně zjednoduší a podstatně převypráví. To platí i o práci s barvami.
+Jak jsme si ukázali na světelných vlastnostech objektů a na formách, to co vidíme není vždy to, co vnímáme. Vizuální umění pracuje v oblasti optických iluzí a kognitivních triků. Aby byl obraz čitelný — a aby byl dostatečně realistický — malíř realitu zjednoduší a podstatně převypráví. To platí i o práci s barvami.
 
 Lidské oko vnímá barvu jako odražené světlo určité vlnové délky. Buňky na sítnici oka přijímají informaci o barvě, nebo spíše tonalitě a kontrastu, a mozek vytváří obraz ze tří složek — červené, zelené a modré (proto tento text taky čteš na RGB monitoru). To je fyziologie specifická pro člověka, jiné živočišné druhy mohou skládat obraz z více nebo méně složek.
 

@@ -4,7 +4,7 @@ title: Kresba a malba
 sidebar_position: 5
 ---
 
-# Tvar a forma: světlo, stín a vlastnosti materiálů
+# Tvar a forma: světlo, stín, tonalita a vlastnosti materiálů
 
 --- obr. tělesa tužkou
 ## Teorie tvaru a formy
@@ -41,6 +41,15 @@ Tonalita je tvořená tóny, polotóny, stíny a světly. Správná rozhodnutí 
 
 -- tonalita převod na čb
 ![image](../img/aka-moc.svg)
+
+Příklady práce s tóny a tonalitou:
+
+- Tonální harmonie
+- Tonální kontrast a opakování
+- Tonální rovnováha
+- Tonální dominance
+- Tonální gradace
+- Tonální sjednocení
 
 ## Světelné vlastnosti objektů
 Realistické ztvárnění fyzikálních vlastnosti povrchů a materiálů ovlivňuje, jestli tvůj obraz bude věrohodný nebo ne. Mnoho těchto efektů se využívá i v extrémně stylizované tvorbě!    
