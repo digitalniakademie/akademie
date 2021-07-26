@@ -7,10 +7,30 @@ sidebar_position: 6
 # Malujeme barvu
 Jak jsme si ukázali na světelných vlastnostech objektů a na formách, to co vidíme není vždy to, co vnímáme. Vizuální umění pracuje v oblasti optických iluzí a kognitivních triků. Aby byl obraz čitelný — a aby byl dostatečně realistický — malíř realitu zjednoduší a podstatně převypráví. To platí i o práci s barvami.
 
-Lidské oko vnímá barvu jako odražené světlo určité vlnové délky. Buňky na sítnici oka přijímají informaci o barvě, nebo spíše tonalitě a kontrastu, a mozek vytváří obraz ze tří složek — červené, zelené a modré (proto tento text taky čteš na RGB monitoru). To je fyziologie specifická pro člověka, jiné živočišné druhy mohou skládat obraz z více nebo méně složek.
+Lidské oko vnímá barvu jako odražené světlo určité vlnové délky. Barvu určuje struktura materiálu, který světlo odráží nebo láme. Barvu přímého světelného zdroje určuje jeho teplota, nebo chemické složení materiálu.
+
+Buňky na sítnici oka přijímají informaci o barvě, nebo spíše tonalitě a kontrastu, a mozek vytváří obraz ze tří složek — červené, zelené a modré (proto tento text taky čteš na RGB monitoru). To je fyziologie specifická pro člověka, jiné živočišné druhy mohou skládat obraz z více nebo méně složek.
+
+## Tón, světlost a sytost barev
+
+**Tón** je základní charakteristika barvy. Termín vychází z představy barevného tónu, který doplňuje celek podobně jako tóny v hudbě. Červená, zelená, nebo modrá jsou barevné tóny.
+
+V češtině se pro barevný tón používá termín **odstín**.
+
+- obrazek barevný tón jako černobílý kruh.
+
+**Světlost** určuje jas barvy.
+
+**Sytost** (*Saturation*) je intenzita barvy. Chromatičnost.
+
+Přestože můžeme pomocí tónu, světlosti a jasu definovat barvu, existuje mnoho barevných modelů, a pro různé barevné prostory. 
+
 
 ## Základní barevné modely a barevné prostory
-Barevný model
+Barevný prostor je množina barev, které můžeme vyjádřit v daném médiu. Jiný barevný prostor má laserová tiskárna, jiný monitor z tranzistorových tekutých krystalů. Barevné prostory jsou samozřejmě omezeny rozsahem barev, které vnímá naše oko.
+
+Barevný model je systém míchání komponentů barev.
+
 ### RGB
 Doporučený model pro digitální malbu. Barevný model s primárními barvami Červená, Zelená, Modrá (*Red, Green, Blue*).
 
