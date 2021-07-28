@@ -15,9 +15,9 @@ Důležitost správné anatomie, proporcí a perspektivy.
 ## Malujeme portrét
 Zjednodušení, blokování.
 ## Vyprávění pomocí gesta a pozice.
-Dybamika v kompozici
+Dynamika v kompozici.
 ## Postava
-Oděv a prostředí
+Oděv a prostředí. Anatomie a gesta. Symbolika, gestikulace. Plynulá kompozice
 ## Malování s modelem a referencí
 Výhody. Malujeme studii. Zvíře a člověk.
 

@@ -11,6 +11,10 @@ Lidské oko vnímá barvu jako odražené světlo určité vlnové délky. Barvu
 
 Buňky na sítnici oka přijímají informaci o barvě, nebo spíše tonalitě a kontrastu, a mozek vytváří obraz ze tří složek — červené, zelené a modré (proto tento text taky čteš na RGB monitoru). To je fyziologie specifická pro člověka, jiné živočišné druhy mohou skládat obraz z více nebo méně složek.
 
+V barevné teorii se překrývají koncepty z psychologie, kolorimetrie — i filozofie a lingvistiky.
+V této souvislosti používáme termín chromatické pole, což je specifické označení barev pro danou řeč (zvláště u variant barev modrozelená, šedomodrá — které nemusí mít ve všech jazycích ekvivalenty). Starořečtina měla pro modrou a zelenou barvu stejné slovo, podobně jako jiné starověké kultury, které neměly praktickou potřebu konkrétní barvu rozlišovat.
+Proto jsou důležité barevné modely a mezinárodní typizované vzorníky.
+
 ## Tón, světlost a sytost barev
 
 **Tón** je základní charakteristika barvy. Termín vychází z představy barevného tónu, který doplňuje celek podobně jako tóny v hudbě. Červená, zelená, nebo modrá jsou barevné tóny.
@@ -32,6 +36,8 @@ Přestože můžeme pomocí tónu, světlosti a jasu definovat barvu, existuje m
 Barevný prostor je množina barev, které můžeme vyjádřit v daném médiu. Jiný barevný prostor má laserová tiskárna, jiný monitor z tranzistorových tekutých krystalů. Barevné prostory jsou samozřejmě omezeny rozsahem barev, které vnímá naše oko.
 
 Barevný model je systém míchání komponentů barev.
+
+Aditivní a subtraktivní syntéza barev. Psychologický a kolorimetrický přístup.
 
 ### RGB
 Doporučený model pro digitální malbu. Barevný model s primárními barvami Červená, Zelená, Modrá (*Red, Green, Blue*).

@@ -20,7 +20,7 @@ PROČ, ne JAK.
 :::
 
 ## Pokračování
-Principy, které jsi se tady naučil, využiješ i v ostatních kreativních oborech. Postupy digitální malby jsou stejné i v ostatních programech.
+Principy, které jsi se tady naučil, využiješ i v ostatních kreativních oborech. Postupy digitální malby jsou v principu stejné i v ostatních programech.
 
 ## Další kurzy
 Video
