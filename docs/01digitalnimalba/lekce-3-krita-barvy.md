@@ -17,13 +17,15 @@ Buňky na sítnici oka přijímají informaci o barvě, nebo spíše tonalitě a
 
 V češtině se pro barevný tón používá termín **odstín**.
 
+V různých oborech se termín tón a odstín používají v jiném kontextu. V kresbě v podstatě pro světlost, v grafickém průmyslu pro jakoukoliv spojitou barvu.
+
 - obrazek barevný tón jako černobílý kruh.
 
 **Světlost** určuje jas barvy.
 
 **Sytost** (*Saturation*) je intenzita barvy. Chromatičnost.
 
-Přestože můžeme pomocí tónu, světlosti a jasu definovat barvu, existuje mnoho barevných modelů, a pro různé barevné prostory. 
+Přestože můžeme pomocí tónu, světlosti a jasu definovat barvu, existuje mnoho barevných modelů, a pro různé barevné prostory.
 
 
 ## Základní barevné modely a barevné prostory
