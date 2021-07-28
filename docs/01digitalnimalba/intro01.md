@@ -9,6 +9,8 @@ sidebar_position: 0
 - Jaké možnosti program nabízí
 Témata: Světlo, stín, kontrast, tonalita a barva, textura a materiál. Radiozita, Fresnelův jev, Anisotropie, Okluze. Speciální materiály - sklo, translucence, Světelné zdroje, Perspektiva a efekty atmosféry
 
+- Postup výuky: Proporce, úhly, plochy, tvary, bloky, formy, kompozice a perspektiva
+- Stínování a tonalita, barva a harmonie, textury malby, materiály
 - Digitální kresba - specifika
 - Digitální malba a rozdíl oproti klasickým technikám
 - Metody a postupy (Alla prima, práce ve vrstvách, selektivní styl - laso)
