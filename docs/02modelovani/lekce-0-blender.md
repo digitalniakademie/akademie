@@ -18,7 +18,7 @@ Tyto verze jsou pro vyzkoušení novinek a stability, nejsou vhodné pro tvorbu 
 Stáhni a spusť instalační soubor.
 Po instalaci spusť program Blender.
 
-Aktuální stabilní verzi můžeš nainstalovat také [takto](/docs/software.md).
+Aktuální stabilní verzi můžeš nainstalovat také [pomocí terminálu](/docs/pokyny).
 
 ## Nastavení jazykové verze
 Jazykovou verzi programu změníš v menu:
