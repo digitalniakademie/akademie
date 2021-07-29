@@ -5,6 +5,11 @@ sidebar_position: 3
 ---
 
 # Digitální kresba: Proporce, objem, perspektiva
+Základem dobré kresby jsou správné proporce forem, kompozice a perspektiva, a správné struktury tvarů a kresebné techniky. Pokud budeš mít pevné základy v konstruktivní kresbě, další techniky stínování nebo malby ti usnadní cestu ke kvalitní realistické nebo
+stylizované kresbě i malbě.
+
+Pokud ale bude mít tvoje kresba proporcionální chyby a chyby forem, ani sebelepší techniky stínování tvůj obraz nezachrání.
+
 Kreslení je královská disciplína. Je to základ obrazu. Kresbou budeš začínat svůj koncept a zdokonalovat se v ní celý život. Efektivní skica ti pomůže dělat rychlé studie k obrazu. Nemusíš být bravurní technický kreslíř, aby jsi byl dobrý malíř. Kreslení je důležité pro pochopení tvarů a forem.
 
 Na grafickém tabletu se dá kreslit poměrně dobře, i když někdo může postrádat reakci média nebo mu může vadit vzdálenost špičky pera od kreslící plochy. Pokud jsi zvyklý skicovat klasicky, s velkým množstvím detailů, můžeš náčrty naskenovat a použít jako základ pro digitální malbu. To je postup, který se často používá v digitální ilustraci. Dobře kreslit můžeš ale s trochou cviku i na grafickém tabletu (s monitorem i bez).
