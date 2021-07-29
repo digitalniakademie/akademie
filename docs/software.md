@@ -17,7 +17,7 @@ Program využiješ v kurzu [Digitální kresba a malba](01digitalnimalba/kresba-
 ## Blender
 ![image](./img/screenblender.jpg)
 
-Blender je rychle se vyvíjející program specialiyovaný na 3D modelování, animace a vizualizace. Je univerzální, dá se v něm stříhat video, vytvářet efekty, generovat textury i kreslit a malovat.
+Blender je rychle se vyvíjející program specializovaný na 3D modelování, animace a vizualizace. Je univerzální, dá se v něm stříhat video, vytvářet efekty, generovat textury i kreslit a malovat.
 Program využiješ v kurzech [Modelování a sochařství](02modelovani/3D-modelovani), [Animace a vizuální efekty](06animace/animace) a [CAD a 3D design](07cad/cad).
 
 ## Inkscape

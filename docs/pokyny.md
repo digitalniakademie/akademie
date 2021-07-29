@@ -122,3 +122,29 @@ Pro instalaci všech dostupných upgradů nainstalovaných programů:
 winget upgrade --all
 
 ```
+
+## Instalace pro Linux
+
+Pro různé distribuce Linuxu je asi nejjednodušší instalace aktuální verze přes Snap Store (verze obsažené v distribucích systému jsou často zastaralé).
+
+V terminálu je nutné nejprve nainstalovat Snap Store.
+
+
+```
+sudo apt update
+sudo apt install snapd
+
+```
+Potom můžeš instalovat přes Snap
+
+
+```
+sudo snap install krita
+sudo snap install inkscape
+sudo snap install blender
+
+
+```
+
+Alternativně můžeš staženou verzi ve formátu .deb instalovat pomocí nástroje **gdebi**.
+Testováno pro Ubuntu distribuce (Zorin, KDEneon, ElementaryOS, Ubuntu Studio), která jsou vhodnější pro konvertibilní zařízení.
