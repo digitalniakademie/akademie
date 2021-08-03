@@ -33,6 +33,8 @@ Saturace (sytost) je intenzita barvy a určuje její čistotu.  Jas určuje tona
 
 ![image](./images/barvaton.svg)
 
+Na obrázku vidíme, že určitá psychologická příbuznost krajních barev spektra přímo svádí k vytvoření barevného kruhu. Barvy v paletě vnímáme jako přirozené (pravděpodobně díky přibližně stejnému rozdílu frekvence spektra), i když tonalita je nesourodá.
+
 **Světlost** určuje jas barvy.
 
 **Sytost** (*Saturation*) je intenzita barvy. Chromatičnost.
@@ -58,30 +60,42 @@ Barevný model je systém míchání komponentů barev.
 Aditivní a subtraktivní syntéza barev. Psychologický a kolorimetrický přístup.
 
 ### RGB
-Doporučený model pro digitální malbu. Barevný model s primárními barvami Červená, Zelená, Modrá (*Red, Green, Blue*).
+Doporučený model pro digitální malbu. Aditivní světelný barevný model s primárními barvami **Červená, Zelená, Modrá** (*Red, Green, Blue*).
 
+![image](./images/rgb-wheel.svg)
 
+### CMY, CMY(K)
 
-### CMYK
+Subtraktivní barevný model s primárními barvami **Azurová, Purpurová, Žlutá, Černá** (*Cyan, Magenta, Yellow, Key*).
 
-Barevný model s primárními barvami Azurová, Purpurová, Žlutá, Černá (*Cyan, Magenta, Yellow, Key*).
+![image](./images/cmyk-wheel.svg)
 
 Model používaný pro tisk. Konverze digitální malby do CMYK modelu se doporučuje dělat až nakonec, případně ve specializovaném studiu, které malbu bude tisknout. Důvodem je specifické nastavení ovladačů moderních tiskáren, které mnohdy pracují s rozložením do více inkoustů. Ve CMYKU můžeš pracovat s nastavenou gamut paletou, ale vzhledem k barevným posunům a větší výpočetní náročnosti to obvykle nepřináší žádné výhody.
 
+Převodem barevných modelů může dojít k nežádoucímu posunu barev — viz paleta vpravo.
 
+Pro tisk se CMYK barvy definují poměrem jednotlivých složek, C0M0Y100K0 tedy znamená 100% pokrytí žluté složky. Tiskové barvy se kromě skládání ze složek také dodávají jako hotové pigmenty podle vzorníků pro různé použití v aplikovaném designu (Pantone, RAL, NCS), více v kurzu Grafika a typografie, zaměřeném na grafický design.  
 
+### RYB
+Pigmentový barevný model s primárními barvami **Červená, Žlutá, Modrá** (*Red, Yellow, Blue*).
 
+Model používaný tradičně ve výtvarném umění a designu. Je to subtraktivní model míchání barviv — pigmentů.
+
+![image](./images/ryb-wheel.svg)
+
+Tento barevný model se také používal pro vytváření chromatických škál, dodnes se úspěšně používá v malování s omezenou paletou. Dá se říci, že se z něj vyvinul tiskový barevný model CMY(K).
 
 ## Komplementární barvy a teorie barev
 Teorie barev sestává z praktických barevných modelů k vytváření barevných harmonií. Modely se liší podle způsobu mísení barev a předpokládaného média. Unifikovaná teorie barev v kontextu umění a designu neexistuje.
 
+![image](./images/rgb-tonewheel.svg)
+
+Jak jsme si ukázali v úvodu, podobně jako tóny v hudbě také barevné tóny vytvářejí harmonie podle toho, v jaké frekvenční vzdálenosti se od sebe nacházejí. Ponechme stranou, nakolik se jedná o vědecký fakt a nakolik o kognitivní iluzi, harmonických modelů je mnoho a je užitečné znát konstrukční principy harmonických palet.
+
+### Barevné harmonie
 Nejčastější používané modely:
 
-Míšení barev v klasické malbě
 
-Míšení barev v digitální malbě
-
-Míšení barev v digitální malbě pro tisk.
 
 Bodové harmonie. Primární a komplementární barvy.
 
@@ -101,6 +115,12 @@ modely a gamuty vyber
 Přestože název vzbuzuje dojem, že popisuje fyzikální vlastnosti, má základ spíše ve fenomenologii. Modrobílou barvu si spojujeme s chladem, a rudooranžovou s ohněm. Fyzikální realita je taková, že čím vyšší je teplota, tím je vyšší je frekvence (a kratší měřená vlnová délka) vyzařovaného světla. Jinými slovy, světlo je "studenější" čím vyšší je teplota.
 
 ![image](./images/barvateplota.svg)
+
+Na obrázku je kontinuální termální spektrum s přibližnými hodnotami (~) v Kelvinech (K). Podobné modely se používají například  v designu osvětlení, kde se s údaji barevné teploty také můžeš setkat. 6500 K se udává jako barva denní oblohy, 2900 K jako barva 100W žárovky, kolem 1000 K může vydávat elektrický toustovač a blesk má barevnou teplotu až 30000 K.
+
+Spodní obrázek ukazuje barevné změny například při tavení kovů. Sinusoida schematicky zobrazuje posun frekvencí (a vlnové délky) světla v závislosti na uvolněné energii.
+
+## Teplota barev ve výtvarném umění
 
 V malířství používáme modely, které jsou ukotvené více v tradici a konkrétní metodologii, než ve specifických vědních oborech. Umění také kvůli čitelnosti často využívá zobecňování a fenomenologický přístup ke zkoumání přírodních jevů.
 
@@ -143,6 +163,12 @@ Typy harmonií a palety
 
 ## Malování s paletou
 Shortcuty a modely. Krita a vytváření palet.
+
+Míšení barev v klasické malbě
+
+Míšení barev v digitální malbě
+
+Míšení barev v digitální malbě pro tisk.
 
 ## Blokování barev a gradienty
 Zjednodušená bloková malba a přidávání tónů.
