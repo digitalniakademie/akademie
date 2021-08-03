@@ -11,9 +11,15 @@ Lidské oko vnímá barvu jako odražené světlo určité vlnové délky. Barvu
 
 Buňky na sítnici oka přijímají informaci o barvě, nebo spíše tonalitě a kontrastu, a mozek vytváří obraz ze tří složek — červené, zelené a modré (proto tento text taky čteš na RGB monitoru). To je fyziologie specifická pro člověka, jiné živočišné druhy mohou skládat obraz z více nebo méně složek.
 
-V barevné teorii se překrývají koncepty z psychologie, kolorimetrie — i filozofie a lingvistiky.
-V této souvislosti používáme termín chromatické pole, což je specifické označení barev pro danou řeč (zvláště u variant barev modrozelená, šedomodrá — které nemusí mít ve všech jazycích ekvivalenty). Starořečtina měla pro modrou a zelenou barvu stejné slovo, podobně jako jiné starověké kultury, které neměly praktickou potřebu konkrétní barvu rozlišovat.
+V barevné teorii se překrývají koncepty z psychologie, kolorimetrie, spektroskopie — i filozofie a lingvistiky.
+V této souvislosti používáme termín **chromatické pole**, což je specifické označení barev pro danou řeč (zvláště u variant barev modrozelená, šedomodrá — které nemusí mít ve všech jazycích ekvivalenty). Starořečtina měla pro modrou a zelenou barvu stejné slovo, podobně jako jiné starověké kultury, které neměly praktickou potřebu konkrétní barvu rozlišovat.
+
 Proto jsou důležité barevné modely a mezinárodní typizované vzorníky.
+
+Na tomto obrázku jsou barvy, odvozené z rozkladu viditelného světelného spektra Isaacem Newtonem. Myšlenka harmonizace barev vycházela z ambice přizpůsobit barevnou teorii konceptům používaným v hudbě. Tak vznikl v 17. století výraz barevný tón (ve smyslu základní čisté barvy).
+
+![image](./images/barvaspektrum.svg)
+
 
 ## Tón, světlost a sytost barev
 
@@ -23,7 +29,9 @@ V češtině se pro barevný tón používá termín **odstín**.
 
 V různých oborech se termín tón a odstín používají v jiném kontextu. V kresbě v podstatě pro světlost, v grafickém průmyslu pro jakoukoliv spojitou barvu.
 
-- obrazek barevný tón jako černobílý kruh.
+Saturace (sytost) je intenzita barvy a určuje její čistotu.  Jas určuje tonalitu. Saturace barev nevytváří dostatečný rozdíl tonality pro plastickou malbu.  
+
+![image](./images/barvaton.svg)
 
 **Světlost** určuje jas barvy.
 
@@ -80,7 +88,9 @@ modely a gamuty vyber
 ![image](../img/aka-moc.svg)
 
 ## Teplé a studené barvy
-Přestože název vzbuzuje dojem, že popisuje jak barvy působí psychologicky, má základ spíše ve fenomenologii. Modrobílou barvu si spojujeme s chladem, a rudooranžovou s ohněm. Fyzikální realita je taková, že čím vyšší je teplota, tím je kratší vlnová délka vyzařovaného světla (jinými slovy, světlo je "studenější" čím vyšší je teplota).
+Přestože název vzbuzuje dojem, že popisuje fyzikální vlastnosti, má základ spíše ve fenomenologii. Modrobílou barvu si spojujeme s chladem, a rudooranžovou s ohněm. Fyzikální realita je taková, že čím vyšší je teplota, tím je vyšší je frekvence (a kratší měřená vlnová délka) vyzařovaného světla. Jinými slovy, světlo je "studenější" čím vyšší je teplota.
+
+![image](./images/barvateplota.svg)
 
 V malířství používáme modely, které jsou ukotvené více v tradici a konkrétní metodologii, než ve specifických vědních oborech. Umění také kvůli čitelnosti často využívá zobecňování a fenomenologický přístup ke zkoumání přírodních jevů.
 
