@@ -23,24 +23,28 @@ Na tomto obrázku jsou barvy, odvozené z rozkladu viditelného světelného spe
 
 ## Tón, světlost a sytost barev
 
+### Tón, odstín a barevnost
 **Tón** je základní charakteristika barvy. Termín vychází z představy barevného tónu, který doplňuje celek podobně jako tóny v hudbě. Červená, zelená, nebo modrá jsou barevné tóny.
 
 V češtině se pro barevný tón používá termín **odstín**.
 
 V různých oborech se termín tón a odstín používají v jiném kontextu. V kresbě v podstatě pro světlost, v grafickém průmyslu pro jakoukoliv spojitou barvu.
 
-Saturace (sytost) je intenzita barvy a určuje její čistotu.  Jas určuje tonalitu. Saturace barev nevytváří dostatečný rozdíl tonality pro plastickou malbu.  
-
 ![image](./images/barvaton.svg)
 
 Na obrázku vidíme, že určitá psychologická příbuznost krajních barev spektra přímo svádí k vytvoření barevného kruhu. Barvy v paletě vnímáme jako přirozené (pravděpodobně díky přibližně stejnému rozdílu frekvence spektra), i když tonalita je nesourodá.
 
-**Světlost** určuje jas barvy.
+### Světlost, jas barvy
 
-**Sytost** (*Saturation*) je intenzita barvy. Chromatičnost.
+**Světlost** (*Lightness, Value*) určuje jas barvy. Jas určuje tonalitu v kresbě.
+
+### Sytost, saturace
+
+**Sytost** (*Saturation*) je relativní intenzita barvy, tónu, a určuje jeho čistotu. Někdy se používá výraz chromatičnost (*Chroma*), která ale popisuje poměr k absolutní barevnosti tónu.
+
+Saturace barev nevytváří dostatečný rozdíl tonality pro plastickou, realistickou malbu.  
 
 Přestože můžeme pomocí tónu, světlosti a jasu definovat barvu, existuje mnoho barevných modelů, a pro různé barevné prostory.
-
 
 ## Základní barevné modely a barevné prostory
 Barevný prostor je množina barev, které můžeme vyjádřit v daném médiu. Jiný barevný prostor má laserová tiskárna, jiný monitor z tranzistorových tekutých krystalů. Barevné prostory jsou samozřejmě omezeny rozsahem barev, které vnímá naše oko.
@@ -86,6 +90,9 @@ Model používaný tradičně ve výtvarném umění a designu. Je to subtraktiv
 Tento barevný model se také používal pro vytváření chromatických škál, dodnes se úspěšně používá v malování s omezenou paletou. Dá se říci, že se z něj vyvinul tiskový barevný model CMY(K).
 
 ## Komplementární barvy a teorie barev
+
+Primární a komplementární barvy.
+
 Teorie barev sestává z praktických barevných modelů k vytváření barevných harmonií. Modely se liší podle způsobu mísení barev a předpokládaného média. Unifikovaná teorie barev v kontextu umění a designu neexistuje.
 
 ![image](./images/rgb-tonewheel.svg)
@@ -93,23 +100,51 @@ Teorie barev sestává z praktických barevných modelů k vytváření barevný
 Jak jsme si ukázali v úvodu, podobně jako tóny v hudbě také barevné tóny vytvářejí harmonie podle toho, v jaké frekvenční vzdálenosti se od sebe nacházejí. Ponechme stranou, nakolik se jedná o vědecký fakt a nakolik o kognitivní iluzi, harmonických modelů je mnoho a je užitečné znát konstrukční principy harmonických palet.
 
 ### Barevné harmonie
-Nejčastější používané modely:
+Harmonie se vytváří kontrastem v kompozici barevného modelu.
+Nejčastější používané modely barevných harmonií:
 
+![image](./images/rgb-harmonie.svg)
 
+- A) Komplementární (*Complementary*)
+- B) Analogické (*Analogous*)
+- C) Triadické (*Triadic*)
+- D) Tetradické (*Tetradic*)
+- E) Čtvercové (*Square*)
+- F) Rozdělené komplementární (*Split-Complementary*)
 
-Bodové harmonie. Primární a komplementární barvy.
+Další možnosti jsou odvozené ze stejných principů.
+
+Jak si můžeš všimnout, tento typ harmonií se vytváří z barev, které jsou vždy v rovnoměrných vzdálenostech od sebe. Ne všechny takové barevné kombinace jsou ale vždy funkční. Komplexní harmonie využívají tón, sytost i jas.
+
+Barvy se také harmonizují společným tónováním, nebo maskou gamutu.
 
 Žádný barevný model neobsahuje všechny barvy. Malíř dosáhne iluze velkého barevného rozsahu tím, že barvy umisťuje do vzájemného kontextu ve scéně.
 
 Výzkumem vnímání rozsahů barev se zabývá **kolorimetrie** (*colorimetry*). Krita umožňuje nastavení několika kolorimetrických modelů.
 
 ## Viditelný rozsah a gamut
-Každý člověk vidí trochu jiný rozsah barev. Rozsah barev, které nevidíme, nebo jsou danou technologií nepřenositelné, nazýváme gamut.
-Používáme různé sjednocené barevné modely. Modely se liší podle toho, za jakým účelem se využívají.    
 
-modely a gamuty vyber
+Každý člověk vidí trochu jiný rozsah barev. Rozsah barev, které nevidíme, nebo jsou danou technologií tisku nebo jiné reprodukce nepřenositelné, nazýváme gamut.
 
-![image](../img/aka-moc.svg)
+:::note poznámka
+
+Standard gamutu pro displeje, který by měl v blízké budoucnosti na monitorech reprezentovat téměř všechny barvy v přírodě, se nazývá  Rec. 2020.
+
+:::
+
+Na obrázku je gamut pro standardní profil sRGB monitoru a pro tisk ve CMYKu (Krita).
+
+![image](./images/krita-gamut.png)
+
+## Omezená paleta a maska gamutu
+Zatím jsme mluvili o gamutu v souvislosti s omezením zobrazovacích zařízení. Omezení palety, gamut, se také používá při malbě z důvodů udržení barevné strategie a **barevných harmonií**.
+
+Krita umožňuje malbu s maskou gamutu. Aktivuj doky **Nastavení ‣ Doky ‣ Umělecká paleta** (*Settings ‣ Dockers ‣ Artistic Palette*) a
+**Nastavení ‣ Doky ‣ Masky Gamutu** (*Settings ‣ Dockers ‣ Gamut Masks*).
+
+Výběr barvy z **Umělecké palety barev** bude omezen maskou.
+
+![image](./images/maska-gamutu.png)
 
 ## Teplé a studené barvy
 Přestože název vzbuzuje dojem, že popisuje fyzikální vlastnosti, má základ spíše ve fenomenologii. Modrobílou barvu si spojujeme s chladem, a rudooranžovou s ohněm. Fyzikální realita je taková, že čím vyšší je teplota, tím je vyšší je frekvence (a kratší měřená vlnová délka) vyzařovaného světla. Jinými slovy, světlo je "studenější" čím vyšší je teplota.
@@ -177,7 +212,8 @@ Gamutové palety.
 
 ![image](../img/aka-moc.svg)
 
-## Harmonie a disharmonie
+## Barevná kompozice, harmonie a kontrast
+Harmonie a disharmonie
 ## Akcenty
 Poměr primárních, sekundárních barev a akcentů.
 
