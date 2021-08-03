@@ -43,6 +43,16 @@ Přestože můžeme pomocí tónu, světlosti a jasu definovat barvu, existuje m
 ## Základní barevné modely a barevné prostory
 Barevný prostor je množina barev, které můžeme vyjádřit v daném médiu. Jiný barevný prostor má laserová tiskárna, jiný monitor z tranzistorových tekutých krystalů. Barevné prostory jsou samozřejmě omezeny rozsahem barev, které vnímá naše oko.
 
+Barevný profil by měl být nastavený tak, aby odpovídal možnostem monitoru.
+
+:::note poznámka
+
+Barevné prostory které podporuje program Krita si můžeš prohlédnout a měnit v menu **Obrázek > Převést barevný prostor obrázku > Prohlížeč barevného prostoru** (*Image > Convert Image Color Space > Color Space Browser*). Další barevné profily můžeš doinstalovat ve formátech **.icc** a **.icm.**
+
+![image](./images/krita-colorspace-cz.png)
+
+:::
+
 Barevný model je systém míchání komponentů barev.
 
 Aditivní a subtraktivní syntéza barev. Psychologický a kolorimetrický přístup.
