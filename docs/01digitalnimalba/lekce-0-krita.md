@@ -65,20 +65,24 @@ Vyzkoušej si různé skupiny štětců.
 
 :::
 
+### Jak nastavit strukturu plátna?
+
 Globální texturu povrchu pro nástroj najdeš v nastavení štětců <kbd>F5</kbd>, v okně Obecné ‣ Textura ‣ Vzorek ‣‣ Textura (*General ‣ Texture ‣ Pattern ‣‣ Texture*).
 
 :::note úkol
+![image](./images/krita-struktura.png)
 
-Vyzkoušej si úpravu štětce. Vyber štětec **b)_Basic-5_Size_Opacity** a v předvolbě štětců nastav texturu vzoru. Potom nastav texturu povrchu. Vyzkoušej štětec. Upravený štětec můžeš uložit tlačítke Save New Brush Preset. Základní nastavení vrátíš tlačítkem **Reload Brush Presets**.
+Vyzkoušej si úpravu štětce. Vyber štětec **b)_Basic-5_Size_Opacity** (najdeš ho ve štítku Paint, nebo ve vyhledávacím okně doku Předvolby štětců) a v předvolbě štětců nastav texturu vzoru. Potom nastav texturu povrchu. Vyzkoušej štětec. Upravený štětec můžeš uložit tlačítke Save New Brush Preset. Základní nastavení vrátíš tlačítkem **Reload Brush Presets** (ikona recyklace).
 
 :::
 
-![image](../img/aka-moc.svg)
+
 
 ### Vyhlazování tahů
 Vyber nástroj Štětec <kbd>B</kbd>. V doku *Tool Options* uvidíš typy vyhlazování tahu. Tato nastavení ti umožní zlepšit plynulost kreslení na grafickém tabletu a také různé efekty.
+
 ![image](./images/krita-tooloptions.png)
-Možnosti nástrojů pro štětec a kapátko/pipetu. Česká a anglická verze.
+Na obrázku jsou možnosti nástrojů pro štětec a kapátko/pipetu (česká a anglická verze).
 
 ## Pipeta na výběr barvy
 Zkratka <kbd>P</kbd> . Umožnuje najenom nabírat barvu z plátna, ale i interpolovat barvy. Funkci aktivuješ nastavením procent Míšení (*Blend*) v doku Možnosti nástrojů (viz obrázek). Jedním kliknutím pak nabereš barvu, druhým kliknutím nabereš druhou. Pipeta pak vytvoří interpolaci barev. Vyzkoušej si to. Nastavením míšení zpět na 100% tuto funkci zase vypneš.
