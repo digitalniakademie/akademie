@@ -112,7 +112,6 @@ Programy, u kterých existuje dostupný upgrade, zobrazíš příkazem
 
 ```
 winget upgrade
-
 ```
 
 Pro instalaci všech dostupných upgradů nainstalovaných programů:
@@ -120,10 +119,15 @@ Pro instalaci všech dostupných upgradů nainstalovaných programů:
 
 ```
 winget upgrade --all
-
 ```
 
 ## Instalace pro Linux
+
+:::tip Pro pokročilé uživatele
+
+Laptopy pro grafiku dnes často používají tzv. **hybridní grafiku**, což je většinou integrovaná Intel HD karta pro vykreslování oken a nenáročných aplikací a NVidia pro graficky náročné aplikace. **Linux** preferuje opensource ovladače, a tato výkonná karta vyžaduje proprietární ovladače. Potíže s ovladači se projevují tzv. screen tearingem, pomalým vykreslováním videa, a dalšímy problémy. Doporučuji zjistit řešení u konkrétního výrobce.
+
+:::
 
 Pro různé distribuce Linuxu je asi nejjednodušší spustit aplikaci jako .Appimage (rovnou spustitelná aplikace) nebo instalace aktuální verze přes Snap Store (verze obsažené v distribucích systému jsou často zastaralé).
 
@@ -133,7 +137,6 @@ V terminálu je nutné nejprve nainstalovat Snap Store.
 ```
 sudo apt update
 sudo apt install snapd
-
 ```
 Potom můžeš instalovat přes Snap:
 
