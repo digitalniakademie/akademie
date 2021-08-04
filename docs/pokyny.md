@@ -125,7 +125,7 @@ winget upgrade --all
 
 ## Instalace pro Linux
 
-Pro různé distribuce Linuxu je asi nejjednodušší instalace aktuální verze přes Snap Store (verze obsažené v distribucích systému jsou často zastaralé).
+Pro různé distribuce Linuxu je asi nejjednodušší spustit aplikaci jako .Appimage (rovnou spustitelná aplikace) nebo instalace aktuální verze přes Snap Store (verze obsažené v distribucích systému jsou často zastaralé).
 
 V terminálu je nutné nejprve nainstalovat Snap Store.
 
@@ -135,15 +135,18 @@ sudo apt update
 sudo apt install snapd
 
 ```
-Potom můžeš instalovat přes Snap
+Potom můžeš instalovat přes Snap:
 
 
 ```
 sudo snap install krita
 sudo snap install inkscape
-sudo snap install blender
+sudo snap install blender --classic
+```
+Nebo instalovat najednou:
 
-
+```
+sudo snap install krita && sudo snap install inkscape && sudo snap install blender --classic
 ```
 
 Alternativně můžeš staženou verzi ve formátu .deb instalovat pomocí nástroje **gdebi**.
