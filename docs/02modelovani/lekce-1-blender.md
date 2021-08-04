@@ -5,6 +5,7 @@ sidebar_position: 3
 ---
 
 # Lekce 01: Objekty ve scéně
+![image](./images/blender-screen.png)
 ## Vytvoření a typy objektů
 ### Polygonové objekty
 ![image](../img/blender01-edit.svg)
