@@ -5,15 +5,18 @@ sidebar_position: 4
 ---
 
 # Lekce 02: Modelujeme
-## Vytvoření a typy objektů
-### Polygonové objekty
+## Polygonové objekty
+Editační mód
+Vytvoření a typy objektů
 ![image](../img/blender01-edit.svg)
+### Vrchol
 
-### Světla
-### Ostatní objekty
-### Vlastnosti
+### Hrana
 
-## Pohyb a pohledy scény
+### Plocha
+
+
+### Trojúhelníky a čtverce v síti (Tris, Quads)
 
 ## Transformace
 

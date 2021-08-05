@@ -5,6 +5,7 @@ sidebar_position: 1
 ---
 
 # Co v kurzu najdeš
+Základní ovládání programu Blender v aplikaci pro digitální modelování, design a vizualizace.
 ![image](../img/toppicture2.png)
 - Modelování ve 3D
 - Transformace

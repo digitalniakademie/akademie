@@ -99,6 +99,9 @@ Ulož si pracovní plochu a vyzkoušej si přepínání pracovních ploch.
 ### Přehled funkcí Blenderu
 Moduly. Layout a editační mód. Nastavení materiálů a uzlový mód v sekci shader.
 Co jde v Blenderu dělat.
+Jaký je nejefektivnější způsob ovládnutí programu?
+Polygonové modelování, sochařství konstrukce scény, materiály a textury, stylyzovaný a realistický render. Spolupráce s ostatními programy.
 
+Ovládání pohledu.
 
 Můžeme začít.

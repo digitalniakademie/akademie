@@ -23,7 +23,7 @@ import TabItem from '@theme/TabItem';
 <TabItem value="env">Settings ‣ Configure Krita ‣ Keyboard Shortcuts</TabItem>
 </Tabs>
 
-Do pole vyhledávání vložíš název příkazu. Nastavíš klávesy, jaké chceě pro zkratku použít. Pokud je zkratka už přiřazena, systém ti to oznámí. Stávající zkratky můžeš měnit.
+Do pole vyhledávání vložíš název příkazu. Nastavíš klávesy, jaké chceš pro zkratku použít. Pokud je zkratka už přiřazena, systém ti to oznámí. Stávající zkratky můžeš měnit.
 
 ### Štětec <kbd>B</kbd>
 ### Pipeta <kbd>P</kbd>

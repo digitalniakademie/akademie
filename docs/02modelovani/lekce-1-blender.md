@@ -9,10 +9,17 @@ sidebar_position: 3
 ## Vytvoření a typy objektů
 ### Polygonové objekty
 ![image](../img/blender01-edit.svg)
+## Sítě
 
 ### Světla
 ### Ostatní objekty
-### Vlastnosti
+
+## Vlastnosti
+### Hladké a ploché stínování
+Nastavení z menu pravého tlačítka.
+Pro lepší funkci vyhlazování normál je nutné zaškrtnout Automatické vyhlazování v Object Data Properties.
+
+- obrázek
 
 ## Pohyb a pohledy scény
 
@@ -20,11 +27,6 @@ sidebar_position: 3
 
 ## Základní zkratky
 
-## Editační mód a ostatní módy
-![image](../img/blender01-edit.svg)
-![image](../img/blender01-edit.svg)
-## Pracovní plochy
-Import základního Nastavení. Výhody pracovních ploch.
 
 :::note úkol
 
