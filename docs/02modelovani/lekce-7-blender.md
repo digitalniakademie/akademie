@@ -5,20 +5,14 @@ sidebar_position: 9
 ---
 
 # Sculpting
-Výhody.
-## Seznam modifikátorů
-Česká verze
+Výhody. Základy.
+## Digitální sochařství
+Pracovní plocha a nástroje.
 
-![image](../img/blender-mod-cz.png)
-
-Anglická verze
-
-![image](../img/blender-mod-en.png)
-
-## Otestuj nejčastěji používané
+## Pracovní plocha pro sculpting
 :::note Poznámka
 
- Pokud používáš dvoutlačítkovou myš se skrolovacím kolečkem a numerickou klávesnici, můžeš tuto sekci přeskočit.
+ Pracovní plochu pro vertikálni práci na konvertibilních zařízeních nebo vertikálních monitorech si ulož jako profil plochy.
 
 :::
 
@@ -35,21 +29,9 @@ Zkontroluj funkčnost tabletu. Podle typu pera, nastav tlačítka, right click, 
 <TabItem value="env">Edit ‣ Preferences ‣ Interface ‣ Input</TabItem>
 </Tabs>
 Tady také nastavíš emulaci numerické klávesnice a v polních podmínkách ovládání pomocí touchpadu.
-
-## Moduly {.tabset}
-### Moduly 1 {.tabset}
-### Moduly 2 ![image](../img/blender-mod-cz.png)
-
-## Pracovní plocha
-Okna můžeš přesouvat a měnit jejich obsah podle potřeby.
+## Nástroje
+## Symetrie
+## Maskování
+Maskování v režimu Layout a Sculpting.
 
 Jak vrátit pracovní plochu do původního nastavení: Nastavení plochy se ukládá do souboru. V dialogu  otevření souboru otevřete Settings (ikona kolečka) a odškrtněte Načíst UI (Load UI v anglické verzi).
-
-
-Ulož si pracovní plochu a vyzkoušej si přepínání pracovních ploch.
-
-## Přehled funkcí Blenderu
-Moduly. Layout a editační mód. Nastavení materiálů a uzlový mód v sekci shader.
-Co jde v Blenderu dělat.
-
-Můžeme začít.

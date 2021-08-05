@@ -56,6 +56,9 @@ Následné stisknutí klávesy <kbd>R</kbd> otáčí relativně k aktivnímu poh
 ### Loop Cut and Slide<kbd>Ctrl</kbd>+<kbd>R</kbd>
 ### Bevel Edges<kbd>Ctrl</kbd>+<kbd>B</kbd>
 ### Bevel Vertex <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd>
+Crease  <kbd>Shift</kbd>+<kbd>E</kbd>
+Smazat (menu) <kbd>X</kbd>
+Fill  <kbd>F</kbd>
 
 ## Sculpting
 ### Nástroje modelování

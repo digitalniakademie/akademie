@@ -17,8 +17,12 @@ Vytvoření a typy objektů
 
 
 ### Trojúhelníky a čtverce v síti (Tris, Quads)
+N-gony
 
 ## Transformace
+## Vytváření osově souměrných modelů
+Modifikátory - Mirror Tool
+Mesh > Symmetrize
 
 ## Základní zkratky
 

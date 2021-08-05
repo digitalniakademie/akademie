@@ -6,23 +6,29 @@ sidebar_position: 10
 
 # Pro pokročilé: Architektura a design
 Výhody.
-## Seznam modifikátorů
-Česká verze
+## Design
+Nutné funkce a řešení:
+- práce v měřítku
+- možnost překreslování
+- parametričnost
+- blokování, linkování a zástupné Objekty
+- export a import
 
-![image](../img/blender-mod-cz.png)
+## Architektura
+- vizualizace
+- knihovny materiálů a objektů
 
-Anglická verze
-
-![image](../img/blender-mod-en.png)
-
-## Otestuj nejčastěji používané
 :::note Poznámka
 
- Pokud používáš dvoutlačítkovou myš se skrolovacím kolečkem a numerickou klávesnici, můžeš tuto sekci přeskočit.
+Architektura a design mají podobné požadavky na vizualizaci, liší se v měřítku a konceptu scény.
 
 :::
 
-Zkontroluj funkčnost tabletu. Podle typu pera, nastav tlačítka, right click, middle button. Vypni Windows link. Protože nemáš skrolovací tlačítko, funkčnost ovládáš na klávesnici. Příklad nastavení u tabletu Wacom.
+## Realistický a stylizovaný render
+Pro prezentaci konceptu je vhodnější stylizované ztvárnění.
+Realistický styl je pro finální verze projektu.
+
+
 <Tabs
   groupId="jazykova-verze"
   defaultValue="czv"
@@ -35,21 +41,3 @@ Zkontroluj funkčnost tabletu. Podle typu pera, nastav tlačítka, right click, 
 <TabItem value="env">Edit ‣ Preferences ‣ Interface ‣ Input</TabItem>
 </Tabs>
 Tady také nastavíš emulaci numerické klávesnice a v polních podmínkách ovládání pomocí touchpadu.
-
-## Moduly {.tabset}
-### Moduly 1 {.tabset}
-### Moduly 2 ![image](../img/blender-mod-cz.png)
-
-## Pracovní plocha
-Okna můžeš přesouvat a měnit jejich obsah podle potřeby.
-
-Jak vrátit pracovní plochu do původního nastavení: Nastavení plochy se ukládá do souboru. V dialogu  otevření souboru otevřete Settings (ikona kolečka) a odškrtněte Načíst UI (Load UI v anglické verzi).
-
-
-Ulož si pracovní plochu a vyzkoušej si přepínání pracovních ploch.
-
-## Přehled funkcí Blenderu
-Moduly. Layout a editační mód. Nastavení materiálů a uzlový mód v sekci shader.
-Co jde v Blenderu dělat.
-
-Můžeme začít.
