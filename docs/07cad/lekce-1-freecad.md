@@ -115,68 +115,6 @@ Vyzkoušej si různé skupiny štětců. Zapni a vypni texturu u štětce.
 
 ![image](../img/aka-moc.svg)
 
-
-## Pipeta na výběr barvy
-Zkratka <kbd>P</kbd> . Umožnuje najenom nabírat barvu z plátna, ale i interpolovat barvy. Funkci aktivuješ nastavením procent Míšení (*Blend*) v doku Možnosti nástrojů (viz obrázek). Jedním kliknutím pak nabereš barvu, druhým kliknutím nabereš druhou. Pipeta pak vytvoří interpolaci barev. Vyzkoušej si to. Nastavením míšení zpět na 100% tuto funkci zase vypneš.
-## Výběr
-Funkce výběru ti dovoluje malovat pouze do označené části, po inverzi výběru pouze mimo ni. V panelu nástrojů jsou různé tvary výběru určené pro rychlé maskování. Tento nástroj funguje podobně jako v ostatních bitmapových programech. Jenom tady ho budeš používat častěji.
-## Barevný selektor
-Pipeta. <keyb>P</keyb> Umožnuje najenom nabírat barvu z plátna, ale i interpolovat barvy. Vyzkoušej si to.
-
-![image](../img/aka-moc.svg)
-
-
-## Přesuny a transformace
-
-<kbd>T</kbd> Posun aktivní vrstvy, <kbd>Ctrl</kbd>+<kbd>T</kbd> Transformace.
-
-
-# Základní techniky digitální malby
-simulace, přiznana dig. m. a komb t
-Tyto postupy jsou zajímavé buď organizací, nebo technikou malby.
-### Alla prima
-*Alla prima* ("napoprvé") je technika, kdy pracuješ v jedné vrstvě. Barvy nanášíš přímo a glazury také. Tento způsob je vhodný pro studium tonality a barev. Je to oblíbený způsob, a koncept *Alla prima* se používá v i klasické malbě, kdy se maluje do ještě vlhkých barev, na jedno sezení. Výsledek je dynamický obraz se zvláštní energií.
-
-### Malování ve vrstvách
-Vrstva světla - Overlay
-Vrstva stínu - Multiply
-Pozadí středová hodnota
-
-![image](../img/aka-moc.svg)
-
-
-### Systém pěti vrstev
-Vrstva světla - Overlay
-Vrstva stínu - Multiply
-Vrstva barvy - Color
-Vrstva tonality - Values
-Vrstva náčrtu - Background
-![image](../img/aka-moc.svg)
-### Maskování
-Připomíná techniku maskování části plátna, která se používá například v airbrushi.
-
-### Malování v blocích
-Nanášení tvarů.
-
-### Kombinované techniky
-
-Štětec jako razítko. Typy vyhlazování. Dynamika tahů.
-## Barevné modely
-Barvy pro tisk a obrazovku. Gamut.
-## Barva a palety
-
-## Vnímání tvaru
-Zrcadlení plochy <kbd>M</kbd> pro rychlou kontrolu.
-## Plynulá kresba a malba
-Otáčení plátna
-
-## Stínování
-Šrafury a dynamika, airbrush. Vyzkoušej si Barevné stínování <kbd>K</kbd>, <kbd>L</kbd>. Více v lekci Malujeme barvu.
-## Vrstvy
-Přesun mezi vrstvami, hide etc.
-## Kresba
-Základní technika. Import kresby ze skicáře.
-
 :::note úkol
 
 Vystínovat těleso tonální technikou.

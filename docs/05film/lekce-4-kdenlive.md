@@ -9,6 +9,10 @@ sidebar_position: 6
 ## Klíčování
 typy střihu. IO.
 ## Camera Tracking
+### Tracking v Kdenlive
+### Tracking v Blenderu
+
+## Matte Painting
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
@@ -24,7 +28,6 @@ import TabItem from '@theme/TabItem';
 <TabItem value="env">Settings ‣ Configure Krita ‣ Tablet settings </TabItem>
 </Tabs>
 
-
-## Přehled funkcí
-
-## Specifika
+## Prolínání
+## Efekty a filtry
+## Motion Blur

@@ -13,15 +13,10 @@ sidebar_position: 4
 - automatický import do Blenderu
 
 
+Options, autoload workbench. Part designer
 
 
-
-<!-- Options, autoload workbench. Part designer -->
-
-text
-
-
-# Systém práce v programu FreeCAD
+# Workflow a práce v modulech FreeCAD
 
 FreeCAD je **modulární** software na principu pracovních prostředí (*Workbench*). Filozofie práce v programu je odlišná od jiných modelovacích programů.
 

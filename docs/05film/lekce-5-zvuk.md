@@ -1,17 +1,18 @@
 ---
-id: lekce-3-kdenlive
+id: lekce-5-kdenlive-zvuk
 title: Film
-sidebar_position: 5
+sidebar_position: 7
 ---
 
-# Barvy a Color Grading
+# Zvuk
 
-## LUT
-Koncept. IO.
-## Formáty správy barev
-## Barevná dynamika
-## Principy tonality
-## Příklady
+## Zvukové stopy
+Zpracování zvuku a střih.
+## Soundtrack
+### Hudba
+### Ruchy
+
+## Dialogy a voiceover
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
@@ -26,6 +27,3 @@ import TabItem from '@theme/TabItem';
 <TabItem value="czv">Nastavení ‣ Nastavit aplikaci Krita ‣ Nastavení tabletu</TabItem>
 <TabItem value="env">Settings ‣ Configure Krita ‣ Tablet settings </TabItem>
 </Tabs>
-
-
-## High Key, Middle Key, Low Key
