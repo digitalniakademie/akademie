@@ -9,7 +9,7 @@ sidebar_position: 3
 ## První projekt
 :::note úkol
 
-- Vytvoř nový dokument z menu Soubor Nový Obecné. (File New General).
+- Vytvoř nový dokument z menu **Soubor ‣ Nový ‣ Obecné**. (*File ‣ New ‣ General*).
 
 :::
 
@@ -21,6 +21,7 @@ sidebar_position: 3
 ## Sítě
 
 ### Světla
+### Kamery
 ### Ostatní objekty
 
 ## Vlastnosti
