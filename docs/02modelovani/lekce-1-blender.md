@@ -5,6 +5,14 @@ sidebar_position: 3
 ---
 
 # Lekce 01: Objekty ve scéně
+
+## První projekt
+:::note úkol
+
+- Vytvoř nový dokument z menu Soubor Nový Obecné. (File New General).
+
+:::
+
 ![image](./images/blender-screen.png)
 ## Vytvoření a typy objektů
 

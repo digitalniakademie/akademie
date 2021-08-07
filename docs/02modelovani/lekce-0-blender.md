@@ -83,6 +83,8 @@ Po spuštění Blender otevře základní scénu v pracovní ploše Layout. Pře
 
 ![image](../img/01blender-okno.svg)
 
+Stiskni opakovaně <kbd>T</kbd>. Funkce zobrazuje **Nástroje** (*Toolbox*) a je aktuální pro danou pracovní plochu.
+
 ### Pracovní plochy
 Okna můžeš přesouvat a měnit jejich obsah a velikost podle potřeby.
 
@@ -96,12 +98,31 @@ Tvůj projekt se načte se základním nastavením plochy (UI).
 
 Ulož si pracovní plochu a vyzkoušej si přepínání pracovních ploch.
 
-### Přehled funkcí Blenderu
-Moduly. Layout a editační mód. Nastavení materiálů a uzlový mód v sekci shader.
-Co jde v Blenderu dělat.
-Jaký je nejefektivnější způsob ovládnutí programu?
-Polygonové modelování, sochařství konstrukce scény, materiály a textury, stylyzovaný a realistický render. Spolupráce s ostatními programy.
+## Přehled funkcí Blenderu
 
-Ovládání pohledu.
+Základní typy pracovních ploch jsou připravené jako template při vytváření nového dokumentu (Obecné, VFX, Sculpting atd.). Jedná se o specifické nastavení pracovních ploch a oken, funkce programu jsou stejné.
+
+Funkce programu Blender se rozšiřují pomocí Rozšíření (Add-ons). Některá rozšíření jsou součástí programu, a aktivují se v menu **Upravit ‣ Předvolby Rozšíření** (*Edit ‣ Preferences ‣ Add-ons*). Další se instalují ze staženého archívu .zip ve stejném menu. Některé dostupné moduly jsou volně dostupné, některé jsou komerční.
+
+Nejužitečnější volně dostupná rozšíření najdeš v lekci Pluginy a materiálové uzly.
+
+## Co jde v Blenderu dělat?
+Kompletní projekt od modelování po render nebo animaci. Střih a vizuální efekty. Modelování a digitální sochařství. Digitální kresba a malba. Motion design a animace. Přípravy pro 3D tisk.
+
+Kurz se zaměřuje na základní ovládání programu a modelování a digitální sochařství (a spolupráci s ostatními programy).
+
+## Jaký je nejefektivnější způsob ovládnutí programu?
+
+V kurzech se soustředíme se hlavně na pracovní plochy Layout a editační mód.
+
+Cílem je pochopení základů polygonového modelování.
+
+:::note tip
+
+Nejrychleji se postupy naučíš vlastními experimenty (všímej si například změn možností v **menu režimu** při změně pracovní plochy).
+
+![image](./images/blender-rezim.png)
+
+:::
 
 Můžeme začít.

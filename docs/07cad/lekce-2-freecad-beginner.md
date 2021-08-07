@@ -11,7 +11,8 @@ Co je parametrické modelování (Parametric Modeling)?
 Co je přímé modelování (Direct Modeling)?
 
 ## První projekt
-
+Hierarchie.
+Constraints.
 Korpus, součástka, sklenice
 
 ## Technický výkres
