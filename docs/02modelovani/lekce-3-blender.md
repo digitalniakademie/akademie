@@ -37,8 +37,8 @@ V kurzech budeme používat Workbench (pro konstrukci a modelování), Evee a Cy
 
 :::note Poznámka
 
-Nastavení materiálů a světel je většinou specifické pro renderovací modul. Některé moduly mají vlastní materiálové uzly a nastavení.
-Některé efekty materiálů, světel a stínování jsou správně zobrazitelné pouze v daném modulu. 
+Nastavení materiálů a světel je většinou specifické pro renderovací modul (*Render Engine*). Některé moduly mají vlastní materiálové uzly a nastavení.
+Některé efekty materiálů, světel a stínování jsou správně zobrazitelné pouze v daném modulu.
 
 :::
 
