@@ -52,10 +52,19 @@ Některé efekty materiálů, světel a stínování jsou správně zobraziteln�
 
 ## Render
 
-## Editační mód a ostatní módy
-![image](../img/blender01-edit.svg)
-![image](../img/blender01-edit.svg)
+### Evee
+Tento engine má skvělou rychlost a vytváří vynikající stylizované rendery. Nedokáže ale dobře realistická skla a optické efekty. Občas také vznikají obrazové artefakty.
 
+:::note Prosvítání objektem
+
+Chyby stínování v Evee se dají odstranit v sekci Render Properties ‣ Shadows (Zvýšit Cube Size na 2048 a zaškrtnout High Bit Depth).
+
+Nedoléhající stíny se dají opravit v nastavení **světla** v Object Data Properties ‣ Shadow ‣ zaškrtnout Contact Shadows
+
+:::
+
+### Cycles
+Realističtější a podstatně pomalejší engine. Některé efekty fungují pouze s Cycles.
 
 :::note úkol
 
