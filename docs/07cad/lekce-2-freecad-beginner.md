@@ -26,9 +26,13 @@ Trim. Pak vybrat a smazat.
 
 - Vazby (Constraints)
 
-Vertikální vazba <kbd>Shift</kbd>+<kbd>V</kbd>
-Horizontální vazba <kbd>Shift</kbd>+<kbd>H</kbd>
+Vazby je možné definovat mezi vrcholy a hranami objektů i mezi osami.
+
+**Vertikální vazba** <kbd>Shift</kbd>+<kbd>V</kbd>
+**Horizontální vazba** <kbd>Shift</kbd>+<kbd>H</kbd>
 Korpus, součástka, sklenice
+
+**Symetrická vazba** (*Symmetric Constraint*) je vhodná pro parametrické modelování součástek. Vyber osu a body na skice a nastav symetrickou vazbu.
 
 Výsledný objekt (v modulu Part Design i Sketcher) musí být spojitý! **Tělo** (Body) je tady vždy spojité těleso. Pro další části je nutné vytvořit další tělesa v hierarchii. Skica musí být uzavřená křivka.
 
@@ -42,6 +46,6 @@ Přestože lze součásti (hrany, plochy) volně vybírat, měnit lze pouze sou�
 
 :::note úkol
 
-Vymodelovat a exportovat pro 3D tisk.
+Vymodelovat plně definovaný objekt a exportovat pro Blender.
 
 :::
