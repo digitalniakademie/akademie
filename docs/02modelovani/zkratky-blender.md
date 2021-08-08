@@ -36,9 +36,17 @@ Do pole vyhledávání vlož název příkazu nebo stávající zkratku (Key Bin
 Přepíná úrovně subdivize modifikátoru Dělit povrch (*Subdivision Surface*)
 
 ## Zobrazení
-Přepínání zobrazení na numerické klávesnici (<kbd>0</kbd> je pohled kamery)
-### Mód zobrazení <kbd>Z</kbd>
+Přepínání zobrazení je na **numerické** klávesnici (<kbd>Num0</kbd> je pohled kamery)
 
+- Front, osa -Y <kbd>Num1</kbd>, Back +<kbd>Ctrl</kbd>
+- Right, osa +X <kbd>Num3</kbd>, Left +<kbd>Ctrl</kbd>
+- Top, osa +Z <kbd>Num7</kbd>, Bottom +<kbd>Ctrl</kbd>
+
+View ‣ Frame All <kbd>Home</kbd>, View ‣ Frame Selected <kbd>NumpadPeriod</kbd>
+
+### Camera to View <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>0</kbd>
+
+### Mód zobrazení <kbd>Z</kbd>
 
 ## Transformace
 Následné stisknutí kláves <kbd>X</kbd>, <kbd>Y</kbd>, <kbd>Z</kbd> omezuje trasformaci v dané ose.

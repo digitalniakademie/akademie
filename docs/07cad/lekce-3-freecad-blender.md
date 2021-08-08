@@ -15,8 +15,14 @@ sidebar_position: 4
 
 Options, autoload workbench. Part designer
 
+## Export:
+- Vyber tělesa v seznamu Kombinované zobrazení (Combo View). Pro výběr více těles použij <kbd>Ctrl</kbd> nebo <kbd>Shift</kbd>.
+- Použij <kbd>Ctrl</kbd>+<kbd>E</kbd> nebo menu Soubor ‣ Export.
+- Použij formát Collada .dae, nebo .stl.
 
-# Workflow a práce v modulech FreeCAD
+Barva tělesa přiřazená přes Kombinované zobrazení (Combo View) nebo přes <kbd>Ctrl</kbd>+<kbd>D</kbd> se vyexportuje do .dae.
+
+## Workflow a práce v modulech FreeCAD
 
 FreeCAD je **modulární** software na principu pracovních prostředí (*Workbench*). Filozofie práce v programu je odlišná od jiných modelovacích programů.
 

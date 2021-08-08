@@ -123,6 +123,8 @@ Nejrychleji se postupy naučíš vlastními experimenty (všímej si například
 
 ![image](./images/blender-rezim.png)
 
+Nové funkce a postupy se dají také rychle objevit prozkoumáním seznamů zkratek — a Blender jich má opravdu hodně!
+
 :::
 
 Můžeme začít.
