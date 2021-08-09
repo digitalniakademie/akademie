@@ -47,6 +47,22 @@ Zkontroluj funkčnost tabletu. Vytvoř nový soubor. Vyber nástroj štětec <kb
 <TabItem value="env">Settings ‣ Configure Krita ‣ Tablet settings </TabItem>
 </Tabs>
 
+
+
+:::tip Potíže s vyskakovací paletou
+
+![image](./images/krita-tabletfix.png)
+
+Na plátně otevřeného dokumentu vyzkoušej, jestli se po stisknutí pravého tlačítka myši (respektive daného tlačítka na peru grafického tabletu) objeví paleta štětců tak, aby jsi z ní mohl vybírat nástroje.
+
+![image](./images/krita-pop.png)
+
+Na konvertibilních zařízeních a v určitých sestavách s Linuxem a tabletem Wacom se může stát, že se vyskakovací paleta (Pop-up Palette) aktivovaná **pravým tlačítkem myši** zobrazuje příliš rychle. Problém odstraníš zaškrtnutím políčka *Use mouse events for right- and middle clicks*, označeného šipkou.
+
+Potvrď tlačítkem OK, a restartuj program Krita.
+
+:::
+
 :::note Grafický tablet bez displeje
 Nakresli perem čtverec nebo kruh. Je vertikální tah stejný jako horizontální? Pokud používáš více monitorů nebo vertikální displej, budeš muset nastavit u tabletu upravené proporce. Příklad u tabletu Wacom:
 

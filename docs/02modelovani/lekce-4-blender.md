@@ -17,6 +17,24 @@ Anglická verze
 
 ## Otestuj nejčastěji používané modifikátory
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs
+  groupId="jazykova-verze"
+  defaultValue="czv"
+  values={[
+    {label: 'V české verzi', value: 'czv'},
+    {label: 'V anglické verzi', value: 'env'},
+  ]
+}>
+<TabItem value="czv">
+useBaseUrl('../img/blender-mod-cz.png')
+</TabItem>
+<TabItem value="env">Edit ‣ Preferences ‣ Interface ‣ Input</TabItem>
+</Tabs>
+
+
 :::tip
 
  Modifikátor **Subdivision** přímo zapneš pomocí <kbd>Ctrl</kbd>+<kbd>1...</kbd>. Příklad: Subdivision level 2 aktivuješ pomocí <kbd>Ctrl</kbd>+<kbd>2</kbd>. Úrovně tak můžeš rychle přepínat.
