@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # Tipy pro pokročilé
 
-Tady jsou rychlé typy pro řešení konkrétních postupů v softwaru pro všechny kurzy.
+Tady jsou rychlé tipy pro řešení konkrétních postupů v softwaru pro všechny kurzy.
 
 ## Quick Tips
 
