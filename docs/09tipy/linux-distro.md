@@ -1,5 +1,5 @@
 ---
-id: utility-linux-windows
+id: linux-distro
 title: Linux
 sidebar_position: 2
 ---
