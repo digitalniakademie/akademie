@@ -5,7 +5,8 @@ sidebar_position: 3
 ---
 
 # Lekce 01: Objekty ve scéně
-
+Objekty do scény vložíš do scény v pracovní ploše Layout pře s menu režimu Přidat nebo zkratkou <kbd>Shift</kbd>+<kbd>A</kbd> a vybráním objektu z rychlého menu.
+ 
 ## První projekt
 :::note úkol
 

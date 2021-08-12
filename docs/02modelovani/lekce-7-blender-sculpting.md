@@ -1,11 +1,11 @@
 ---
-id: lekce-8-blender
+id: lekce-7-blender
 title: 3D Modelování
 sidebar_position: 9
 ---
 
 # Sculpting
-Výhody. Základy.
+Sochařství 1-3 lekce. Úvod. Postupy. Základy.
 ## Digitální sochařství
 Pracovní plocha a nástroje.
 

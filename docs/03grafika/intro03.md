@@ -31,6 +31,9 @@ sidebar_position: 1
 - Ilustrace
 - Propojení s ostatnímy programy - Pipeline
 
+- Lekce 1-6 Inkscape
+- Lekce 6-7 Scribus
+- Lekce 8 Úprava bitmap: Krita, Gimp, Darktable, Shotwell
 
 ## Software v kurzu
 

@@ -58,6 +58,9 @@ Test:
 
 ### Skládání - Assembly
 
+- skládání modelů z komponentů
+- export a import knihoven
+
 :::note úkol
 
 Vytvoř ISO dokumentaci k objektu.
