@@ -12,6 +12,8 @@ sidebar_position: 4
 
 - automatický import do Blenderu
 
+- úprava pro 3D tisk v Blenderu, .stl
+
 
 Options, autoload workbench. Part designer
 

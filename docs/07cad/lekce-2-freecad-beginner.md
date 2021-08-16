@@ -43,6 +43,13 @@ Výsledný objekt (v modulu Part Design i Sketcher) musí být spojitý! **Tělo
 
 Přestože lze součásti (hrany, plochy) volně vybírat, měnit lze pouze součásti aktivního Těla (Body), vybraného v seznamu Kombinované zobrazení (Combo View).
 
+## Konstrukční linky
+Konstrukční linky (Construction Lines) slouží k efektivnímu použití vazeb pro geometrické tvary.
+- barevné rozlišení
+
+## Externí reference
+Reference k externí geometrii. Je nutné dodržet strukturu dokumentu a hierarchii v Combo View.
+
 ## Technický výkres
 
 ## 3D tisk
