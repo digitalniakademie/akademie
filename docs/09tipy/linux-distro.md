@@ -5,6 +5,7 @@ sidebar_position: 2
 ---
 
 # Linux a kreativní software
+![image](../img/top-linux.jpg)
 
 Všechny programy v kurzech běží také na Linuxu (distribucí je mnoho set). Distribuce v článku jsou vybrané i s ohledem na snadnost instalace nejnovějších verzí grafických programů (proto tam není např. Linux Mint nepodporující Ubuntu Snap). Ideálně by měly distribuce běžet dobře na desktopu — i na laptopu a konvertibilních zařízeních (2v1), používaných často při grafické práci. Poznámky se týkají **základních** instalací (protože mnoho funkcí se dá v Linuxu upravit, doinstalovat nebo vyměnit).
 
@@ -31,6 +32,8 @@ Doporučené distribuce Linuxu pro design s ohledem na:
 - možnosti nastavení
 
 ### Zorin
+![image](../img/zorin-da.jpg)
+![image](../img/zorin-da2.jpg)
 
 - univerzální distribuce
 - nejlepší podpora konvertibilních zařízení
@@ -45,6 +48,7 @@ Doporučené distribuce Linuxu pro design s ohledem na:
 - základní instalace velice dobrá
 
 ### Peppermint
+![image](../img/peppermint-da.jpg)
 
 - efektivní a rychlé
 - jednoduché ovládání
@@ -58,7 +62,9 @@ Doporučené distribuce Linuxu pro design s ohledem na:
 
 - efektní a rychlé
 - autorotace
-- minimalizace oken nestandartní
+- minimalizace oken nestandartní (dá se nastavit doinstalací Elementary Tweaks)
+- zajímavá picture-in-picture funkce
+- předinstalovaná virtuální onscreen klávesnice Onboard
 
 ### Ubuntu Studio
 Ambiciózní distribuce, obsahující předinstalované kreativní programy pro grafiku i multimedia.
@@ -101,6 +107,6 @@ Uvedený Package Manager je pro řízení instalace aplikací, ne systémových 
 - Základní verze, distribuce, distro (např. Ubuntu, Debian, Arch Linux). Distribuce jsou i odvozené verze, deriváty, např. Manjaro je derivát Arch Linuxu, Red Hat Enterprise Linux (RHEL) je derivát Fedora, CentOS je derivát RHEL, AlmaLinux je derivát CentOS.
 - Desktop Environment (např. KDE Plasma, GNOME,  Xfce, LXDE)
 - Window Manager (např. Fluxbox, IceWM) pro X Window System (X11) grafického uživatelského rozhraní (např. KDE)
-- Compositor (např. Wayland)
+- Compositor, zobrazovací framework např. Wayland Compositor s protokolem Wayland, X Windows System s protokolem X11
 - Display Manager, např. GDM (používaný GNOME), SDDM (používaný KDE)
 - Package Manager, systém pro správu systémových balíčků a/nebo instalaci aplikací (např. Apt, Flatpak, Ubuntu Snap). Mohou mít GUI, např Synaptic je GUI pro Apt.
