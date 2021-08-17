@@ -42,10 +42,12 @@ Scribus je program pro počítačovou sazbu. Je určený na přípravu tiskovin,
 Kdenlive je program na úpravu videa. Naučíš se v něm základy střihu a postprodukce v kurzu [Filmový střih](05film/film).
 
 ## Natron
+![image](./img/screennatron.jpg)
 
 Natron slouží na přípravu animací a vizuálních efektů. Využívá vizuální programování pomocí  funkčních uzlů (*nodes*), podobně jako Blender. Má profesionální funkce a seznámíš se s ním v kurzu [Animace a vizuální efekty](06animace/animace).
 
 ## FreeCAD
+![image](./img/freecad-screen.jpg)
 
 FreeCAD je parametrický modelovací program pro průmyslový design. Dokáže vytvářet modely pro CAD/CAM a technické výkresy pro široké spektrum aplikací. Seznámíš se s ním v kurzu [CAD a 3D design](07cad/cad).
 
@@ -92,3 +94,18 @@ Software se rychle vyvíjí. Výhodou open-source řešení je kromě licence ta
 Návod ke stažení optimální verze je vždy v úvodní lekci kurzu.
 
 :::
+
+## Vývojové verze
+
+Vývojové a experimentální verze programů pro kurzy. Open source software se rychle vyvíjí a často se stane, že nastabilní vývojová (Development) verze obsahuje opravy nebo nové funkce, které stojí za to vyzkoušet hned (nedoporučuje se používat vývojové verze v kritických projektech).
+
+| Program  | Development Version                                                  | Poznámky                                                                 |
+|----------|----------------------------------------------------------------------|--------------------------------------------------------------------------|
+| Krita    | https://krita.org/en/download/krita-desktop/                         | Odkazy v sekci Nightly Builds                                            |
+| Blender  | https://builder.blender.org/download/daily/                          | Experimentální verze https://builder.blender.org/download/experimental/  |
+| Inkscape | https://inkscape.org/release/inkscape-dev/?latest=1                  |                                                                          |
+| Scribus  | https://www.scribus.net/downloads/unstable-branch/                   | Exper. verze https://sourceforge.net/projects/scribus/files/scribus-svn/ |
+| FreeCAD  | https://github.com/FreeCAD/FreeCAD-Bundle/releases/tag/weekly-builds |                                                                          |
+| Kdenlive | https://kdenlive.org/en/download/                                    | Odkazy v sekci Daily Builds dole                                         |
+| GIMP     | https://www.gimp.org/downloads/devel/                                |                                                                          |
+| G'MIC    | https://gmic.eu/files/prerelease/                                    | Experimentální plugin filtrů (GIMP, Krita)                               |
