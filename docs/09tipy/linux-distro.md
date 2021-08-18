@@ -31,32 +31,46 @@ Doporučené distribuce Linuxu pro design s ohledem na:
 - základ s desktopem Plasma
 - možnosti nastavení
 
+Velice funkční distribuce Ubuntu s desktopem KDE Plasma.
+
 ### Zorin
-![image](../img/zorin-da.jpg)
-![image](../img/zorin-da2.jpg)
+![image](../img/linux-zorin-da.jpg)
+![image](../img/linux-zorin-da2.jpg)
 
 - univerzální distribuce
-- nejlepší podpora konvertibilních zařízení
-- autorotace
+- nejlepší podpora konvertibilních zařízení (s problémovou systémovou onscreen klávesnicí, což je ale zatím typické pro většinu distribucí)
+- autorotace, vertikální zobrazení
 - alternativy layoutu desktopu
-- frakční škálování pouze experimentální verze
+- frakční škálování zatím pouze experimentální verze (200% bezproblémové)
 - snap i flatpak v základní instalaci
 
+Zorin OS je vhodný pro začátečníky. Nastavení je jednoduché a voleb je právě tolik, kolik je třeba. Je to téměř ideální Ubuntu distribuce, i ve volně dostupné verzi Core (verze Pro má více nastavení desktopu, předinstalované aplikace a je placená). Volná verze Core není nijak funkčně omezená.
+
 ### Kubuntu
+![image](../img/linux-kubuntu0.jpg)
+![image](../img/linux-kubuntu1.jpg)
 
 - univerzální a svižné
 - základní instalace velice dobrá
+- snadná instalace aplikací
+
+Kubuntu je velice rychlý systém s KDE Plasma desktopem, umožňující snadné přizpůsobení prostředí.
 
 ### Peppermint
-![image](../img/peppermint-da.jpg)
+![image](../img/linux-peppermint-da.jpg)
+![image](../img/linux-peppermint1.jpg)
 
 - efektivní a rychlé
 - jednoduché ovládání
+
+Peppermint je rychlá a stabilní distribuce s Xcfe desktopem.
 
 ### Pop!_OS
 
 - jednoduché a stylové
 - atraktivní ovládání
+
+Jednoduše ovladatelná distribuce se zajímavým designem a vyváženým výkonem.
 
 ### elementary OS
 
@@ -66,11 +80,25 @@ Doporučené distribuce Linuxu pro design s ohledem na:
 - zajímavá picture-in-picture funkce
 - předinstalovaná virtuální onscreen klávesnice Onboard
 
+Má unikátní rozhraní a ovládání, což je výhoda a může to být i nevýhoda, pokud je uživatel zvyklý na jiný systém. Doporučuji vyzkoušet. Je to velice funkční systém už v základní instalaci.
+
 ### Ubuntu Studio
-Ambiciózní distribuce, obsahující předinstalované kreativní programy pro grafiku i multimedia.
+![image](../img/linux-ubuntustudio0.jpg)
+![image](../img/linux-ubuntustudio1.jpg)
 
 - specializace na multimedia
-- nastavení JACK audio
+- nastavení JACK audio v systému
+- většina existujících programů pro design je nainstalovaná se systémem
+
+Ambiciózní distribuce, obsahující předinstalované kreativní programy pro grafiku i multimedia. Naprosto ideální pro vyzkoušení většiny kvalitních open source programů pro mediální tvorbu a design.
+
+
+### Fedora Design Suite
+
+- předinstalované grafické programy
+- dobré pro seznámení s Fedora distribucí Linuxu
+
+Ideální distro pro design, pro pokročilejší uživatele.
 
 ### Ostatní distribuce
 Programy běží samozřejmě i na jiných distribucích. U některých je někdy potřeba nastavit např. grafiku kvůli možným problémům s ovladači grafické karty (screen tearing, scroll tearing) nebo jiné ovladače manuálně. Některé v základním repositáři neobsahují aktuální verze programů, nebo mají komplikovanou instalaci správců balíčků a repozitářů pro nezkušeného uživatele. Distribuce Linuxu se často posuzují podle vzhledu, který ale tvoří **desktopové prostředí** (*Desktop Environment, DE*). Jádro samotné distribuce může být ale důležitější pro danou aplikaci/e.
@@ -85,19 +113,21 @@ Obecně lze říci, že Windows jsou vhodné pro nejširší spektrum aplikací 
 
 ## Seznam vybraných distribucí
 
-| Distribuce        | Package Manager    | Odkaz                                       |
-|-------------------|--------------------|---------------------------------------------|
-|                   |                    |                                             |
-| **Zorin**         | snap, flatpak, apt | https://zorinos.com/download/               |
-| **Kubuntu**       | snap               | https://kubuntu.org/getkubuntu/             |
-| **Peppermint**    | snap               | https://peppermintos.com/guide/downloading/ |
-| **Ubuntu Studio** | snap, apt          | https://ubuntustudio.org/download/          |
-| **elementary OS** | snap*              | https://elementary.io/                      |
-| **Pop!_OS**       | snap*              | https://pop.system76.com/                   |
-| **KDE Neon**      | snap*              | https://neon.kde.org/download               |
-| **deepin**        | snap*, dpkg, apt   | https://www.deepin.org/en/download/         |
-| **Mageia**        | snap*, urpmi, rpm  | https://www.mageia.org/en/downloads/        |
-|                   |                    |                                             |
+| Distribuce        | Package Manager    | Odkaz                                           |
+|-------------------|--------------------|-------------------------------------------------|
+|                   |                    |                                                 |
+| **Zorin**         | snap, flatpak, apt | https://zorinos.com/download/                   |
+| **Kubuntu**       | snap, flatpak\*    | https://kubuntu.org/getkubuntu/                 |
+| **Peppermint**    | snap               | https://peppermintos.com/guide/downloading/     |
+| **Ubuntu Studio** | snap, apt          | https://ubuntustudio.org/download/              |
+| **elementary OS** | snap\*             | https://elementary.io/                          |
+| **Pop!_OS**       | snap\*             | https://pop.system76.com/                       |
+| **KDE Neon**      | snap\*             | https://neon.kde.org/download                   |
+| **deepin**        | snap\*, dpkg, apt  | https://www.deepin.org/en/download/             |
+| **Mageia**        | snap\*, urpmi, rpm | https://www.mageia.org/en/downloads/            |
+| **Fedora DS**     | snap\*, flatpak\*  | https://labs.fedoraproject.org/en/design-suite/ |
+|                   | \*lze doinstalovat |                                                 |
+|                   |                    |                                                 |
 
 Uvedený Package Manager je pro řízení instalace aplikací, ne systémových balíčků. Označené položky je možné na systému doinstalovat.
 
