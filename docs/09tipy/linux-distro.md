@@ -27,11 +27,13 @@ Doporučené distribuce Linuxu pro design s ohledem na:
 - práce s videem a 3D grafikou
 
 ### KDE Neon
+![image](../img/linux-neon0.jpg)
+![image](../img/linux-neon1.jpg)
 
 - základ s desktopem Plasma
 - možnosti nastavení
 
-Velice funkční distribuce Ubuntu s desktopem KDE Plasma.
+Funkční distribuce Ubuntu s pokročilým desktopem KDE Plasma. Desktop má nastavitelné komponenty a layout je snadné upravit podle potřeby. Díky podpoře Ubuntu Snap a Flatpak manažerů softwaru už v základní instalaci je přidávání aplikací snadné. Systém běží velice plynule.
 
 ### Zorin
 ![image](../img/linux-zorin-da.jpg)
@@ -43,6 +45,7 @@ Velice funkční distribuce Ubuntu s desktopem KDE Plasma.
 - alternativy layoutu desktopu
 - frakční škálování zatím pouze experimentální verze (200% bezproblémové)
 - snap i flatpak v základní instalaci
+- atraktivní desktopové prostředí
 
 Zorin OS je vhodný pro začátečníky. Nastavení je jednoduché a voleb je právě tolik, kolik je třeba. Je to téměř ideální Ubuntu distribuce, i ve volně dostupné verzi Core (verze Pro má více nastavení desktopu, předinstalované aplikace a je placená). Volná verze Core není nijak funkčně omezená.
 
@@ -53,6 +56,7 @@ Zorin OS je vhodný pro začátečníky. Nastavení je jednoduché a voleb je pr
 - univerzální a svižné
 - základní instalace velice dobrá
 - snadná instalace aplikací
+- atraktivní desktop který se snadno upravuje
 
 Kubuntu je velice rychlý systém s KDE Plasma desktopem, umožňující snadné přizpůsobení prostředí.
 
@@ -66,6 +70,8 @@ Kubuntu je velice rychlý systém s KDE Plasma desktopem, umožňující snadné
 Peppermint je rychlá a stabilní distribuce s Xcfe desktopem.
 
 ### Pop!_OS
+![image](../img/linux-pop0.jpg)
+![image](../img/linux-pop1.jpg)
 
 - jednoduché a stylové
 - atraktivní ovládání
@@ -73,6 +79,8 @@ Peppermint je rychlá a stabilní distribuce s Xcfe desktopem.
 Jednoduše ovladatelná distribuce se zajímavým designem a vyváženým výkonem.
 
 ### elementary OS
+![image](../img/linux-elementary0.jpg)
+![image](../img/linux-elementary1.jpg)
 
 - efektní a rychlé
 - autorotace
@@ -80,7 +88,7 @@ Jednoduše ovladatelná distribuce se zajímavým designem a vyváženým výkon
 - zajímavá picture-in-picture funkce
 - předinstalovaná virtuální onscreen klávesnice Onboard
 
-Má unikátní rozhraní a ovládání, což je výhoda a může to být i nevýhoda, pokud je uživatel zvyklý na jiný systém. Doporučuji vyzkoušet. Je to velice funkční systém už v základní instalaci.
+Má unikátní rozhraní a ovládání, což je výhoda a může to být i nevýhoda, pokud je uživatel zvyklý na jiný systém (zkratky je nutné přenastavit). Doporučuji vyzkoušet. Je to velice funkční systém už v základní instalaci.
 
 ### Ubuntu Studio
 ![image](../img/linux-ubuntustudio0.jpg)
@@ -94,16 +102,24 @@ Ambiciózní distribuce, obsahující předinstalované kreativní programy pro 
 
 
 ### Fedora Design Suite
+![image](../img/linux-fedorads0.jpg)
+![image](../img/linux-fedorads1.jpg)
 
-- předinstalované grafické programy
+- předinstalované grafické programy Blender, Krita, GIMP, Inkscape, Scribus, Darktable, Shotwell
 - dobré pro seznámení s Fedora distribucí Linuxu
 
-Ideální distro pro design, pro pokročilejší uživatele.
+Fedora Design Suite je upravená verze distribuce Fedora, připravovaná agenturou Fedora Design Team. Je pro pokročilejší uživatele (znalost nastavení kodeků a ovladačů v Linuxu nutnost).
+
+Fedora využívá desktopové prostředí GNOME3, se všemi výhodami i nevýhodami (matoucí především pro uživatele jiných operačních systémů).
+
+Desktop je v podstatě obrázek pozadí pro funkci Aktivity. Na jednotlivé desktopy se rozmisťují otevřené aplikace, nejde na ně umístit ikony, odkazy nebo soubory (bez doinstalování různých rozšíření, nebo jiného desktopového prostředí). Pro další úpravy rozhraní je nutné nainstalovat např. aplikaci GNOME Tweaks (z aplikace Software). Je také vvýhodnější mít aspoň 16GB paměti.
+
+Je to kvalitní a svižný systém pro specifické využití.
 
 ### Ostatní distribuce
-Programy běží samozřejmě i na jiných distribucích. U některých je někdy potřeba nastavit např. grafiku kvůli možným problémům s ovladači grafické karty (screen tearing, scroll tearing) nebo jiné ovladače manuálně. Některé v základním repositáři neobsahují aktuální verze programů, nebo mají komplikovanou instalaci správců balíčků a repozitářů pro nezkušeného uživatele. Distribuce Linuxu se často posuzují podle vzhledu, který ale tvoří **desktopové prostředí** (*Desktop Environment, DE*). Jádro samotné distribuce může být ale důležitější pro danou aplikaci/e.
+Programy běží samozřejmě i na jiných distribucích. U některých je někdy potřeba nastavit např. grafiku kvůli možným problémům s ovladači grafické karty (screen tearing, scroll tearing) nebo jiné ovladače zařízení manuálně. Některé v základním repositáři neobsahují aktuální verze programů, nebo mají komplikovanou instalaci správců balíčků a repozitářů pro nezkušeného (a někdy i zkušeného) uživatele. Distribuce Linuxu se často posuzují podle vzhledu, který ale tvoří **desktopové prostředí** (*Desktop Environment, DE*). Jádro a varianta samotné distribuce může být ale důležitější pro danou aplikaci a stabilitu.
 
-Další kvalitní distribuce jsou například základní Ubuntu, Mageia, Debian 11, deepin, MATE, Solus, Fedora atd.
+Další kvalitní distribuce jsou například základní Ubuntu, MATE, Debian, deepin, Mageia, Solus, Fedora atd.
 
 ## Srovnání s Windows 11
 
@@ -120,9 +136,9 @@ Obecně lze říci, že Windows jsou vhodné pro nejširší spektrum aplikací 
 | **Kubuntu**       | snap, flatpak\*    | https://kubuntu.org/getkubuntu/                 |
 | **Peppermint**    | snap               | https://peppermintos.com/guide/downloading/     |
 | **Ubuntu Studio** | snap, apt          | https://ubuntustudio.org/download/              |
-| **elementary OS** | snap\*             | https://elementary.io/                          |
-| **Pop!_OS**       | snap\*             | https://pop.system76.com/                       |
-| **KDE Neon**      | snap\*             | https://neon.kde.org/download                   |
+| **elementary OS** | snap\*, flatpak    | https://elementary.io/                          |
+| **Pop!_OS**       | snap\*, flatpak    | https://pop.system76.com/                       |
+| **KDE Neon**      | snap, flatpak      | https://neon.kde.org/download                   |
 | **deepin**        | snap\*, dpkg, apt  | https://www.deepin.org/en/download/             |
 | **Mageia**        | snap\*, urpmi, rpm | https://www.mageia.org/en/downloads/            |
 | **Fedora DS**     | snap\*, flatpak\*  | https://labs.fedoraproject.org/en/design-suite/ |
