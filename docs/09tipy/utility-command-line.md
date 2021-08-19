@@ -1,6 +1,6 @@
 ---
 id: utility-linux-windows
-title: Utility
+title: Utility z příkazové řádky
 sidebar_position: 3
 ---
 
@@ -11,10 +11,14 @@ Užitečné programy, které nemusí přímo souviset s grafikou.
 ## Linux
 ### hardinfo
 Informace o systému.
+### htop
+Interaktivní systémový monitor a prohlížeč běžících procesů.
 ### bpytop
 Systémový monitor.
 ### lspci
 Příkaz pro zobrazení PCI připojených zařízeních (užitečné např. pro zjištění typu bezdrátového zařízení).
+### inxi
+Systémové informace z příkazové řádky.
 
 ## Windows
 

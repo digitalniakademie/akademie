@@ -9,7 +9,7 @@ sidebar_position: 2
 
 Všechny programy v kurzech běží také na Linuxu (distribucí je mnoho set). Distribuce v článku jsou vybrané i s ohledem na snadnost instalace nejnovějších verzí grafických programů (proto tam není např. Linux Mint nepodporující Ubuntu Snap). Ideálně by měly distribuce běžet dobře na desktopu — i na laptopu a konvertibilních zařízeních (2v1), používaných často při grafické práci. Poznámky se týkají **základních** instalací (protože mnoho funkcí se dá v Linuxu upravit, doinstalovat nebo vyměnit).
 
-Důležité hledisko je také snadná instalace správců balíčků (snap, flatpak) umožňující **jednoduchou instalaci aplikací z terminálu**. Přestože mnoho distribucí obsahuje různé verze prohlížečů, softwarových center a instalátorů aplikací, obecně se v nich špaatně vyhledává podle filtrů a aplikace nejsou nejaktuálnější.
+Důležité hledisko je také snadná instalace správců balíčků (snap, flatpak) umožňující **jednoduchou instalaci aplikací z terminálu**. Přestože mnoho distribucí obsahuje různé verze prohlížečů, softwarových center a instalátorů aplikací, obecně se v nich špatně vyhledává podle filtrů a aplikace nejsou nejaktuálnější.
 
 ## Distribuce Linuxu
 
@@ -75,8 +75,10 @@ Peppermint je rychlá a stabilní distribuce s Xcfe desktopem.
 
 - jednoduché a stylové
 - atraktivní ovládání
+- inspirované OS X
+- autorotace
 
-Jednoduše ovladatelná distribuce se zajímavým designem a vyváženým výkonem.
+Jednoduše ovladatelná distribuce se zajímavým ("moderním retro") designem a vyváženým výkonem. Je cílená na začínající s Linuxem — nemá mnoho nastavení desktopu, nejsou potřeba.   
 
 ### elementary OS
 ![image](../img/linux-elementary0.jpg)
@@ -84,11 +86,12 @@ Jednoduše ovladatelná distribuce se zajímavým designem a vyváženým výkon
 
 - efektní a rychlé
 - autorotace
+- design inspirovaný OS X
 - minimalizace oken nestandartní (dá se nastavit doinstalací Elementary Tweaks)
 - zajímavá picture-in-picture funkce
 - předinstalovaná virtuální onscreen klávesnice Onboard
 
-Má unikátní rozhraní a ovládání, což je výhoda a může to být i nevýhoda, pokud je uživatel zvyklý na jiný systém (zkratky je nutné přenastavit). Doporučuji vyzkoušet. Je to velice funkční systém už v základní instalaci.
+Má unikátní rozhraní a ovládání, což je výhoda a může to být i nevýhoda, pokud je uživatel zvyklý na jiný systém (zkratky je nutné přenastavit). Doporučuji vyzkoušet. Je to velice funkční systém už v základní instalaci — cílem je jednoduchý a přehledný systém.
 
 ### Ubuntu Studio
 ![image](../img/linux-ubuntustudio0.jpg)
@@ -108,18 +111,18 @@ Ambiciózní distribuce, obsahující předinstalované kreativní programy pro 
 - předinstalované grafické programy Blender, Krita, GIMP, Inkscape, Scribus, Darktable, Shotwell
 - dobré pro seznámení s Fedora distribucí Linuxu
 
-Fedora Design Suite je upravená verze distribuce Fedora, připravovaná agenturou Fedora Design Team. Je pro pokročilejší uživatele (znalost nastavení kodeků a ovladačů v Linuxu nutnost).
+Fedora Design Suite je upravená verze distribuce Fedora Workstation, připravovaná agenturou Fedora Design Team. Je pro pokročilejší uživatele (znalost nastavení kodeků a ovladačů v Linuxu nutnost).
 
-Fedora využívá desktopové prostředí GNOME3, se všemi výhodami i nevýhodami (matoucí především pro uživatele jiných operačních systémů).
+Fedora využívá desktopové prostředí GNOME 3.40, se všemi výhodami i nevýhodami (matoucí především pro uživatele jiných operačních systémů).
 
 Desktop je v podstatě obrázek pozadí pro funkci Aktivity. Na jednotlivé desktopy se rozmisťují otevřené aplikace, nejde na ně umístit ikony, odkazy nebo soubory (bez doinstalování různých rozšíření, nebo jiného desktopového prostředí). Pro další úpravy rozhraní je nutné nainstalovat např. aplikaci GNOME Tweaks (z aplikace Software). Je také vvýhodnější mít aspoň 16GB paměti.
 
 Je to kvalitní a svižný systém pro specifické využití.
 
 ### Ostatní distribuce
-Programy běží samozřejmě i na jiných distribucích. U některých je někdy potřeba nastavit např. grafiku kvůli možným problémům s ovladači grafické karty (screen tearing, scroll tearing) nebo jiné ovladače zařízení manuálně. Některé v základním repositáři neobsahují aktuální verze programů, nebo mají komplikovanou instalaci správců balíčků a repozitářů pro nezkušeného (a někdy i zkušeného) uživatele. Distribuce Linuxu se často posuzují podle vzhledu, který ale tvoří **desktopové prostředí** (*Desktop Environment, DE*). Jádro a varianta samotné distribuce může být ale důležitější pro danou aplikaci a stabilitu.
+Programy běží samozřejmě i na jiných distribucích. U některých je někdy potřeba nastavit např. grafiku kvůli možným problémům s ovladači grafické karty (screen tearing, scroll tearing) nebo jiné ovladače zařízení a kodeky na přehrávání médií manuálně. Některé v základním repositáři neobsahují aktuální verze programů, nebo mají komplikovanou instalaci správců balíčků a repozitářů pro nezkušeného (a někdy i zkušeného) uživatele. Distribuce Linuxu se často posuzují podle vzhledu, který ale tvoří **desktopové prostředí** (*Desktop Environment, DE*). Jádro a varianta samotné distribuce může být ale důležitější pro danou aplikaci a stabilitu.
 
-Další kvalitní distribuce jsou například základní Ubuntu, MATE, Debian, deepin, Mageia, Solus, Fedora atd.
+Další kvalitní distribuce jsou například základní Ubuntu, MATE, Manjaro, Debian, deepin (znalost čínštiny výhodou), Mageia, Solus, Fedora atd.
 
 ## Srovnání s Windows 11
 
@@ -155,4 +158,4 @@ Uvedený Package Manager je pro řízení instalace aplikací, ne systémových 
 - Window Manager (např. Fluxbox, IceWM) pro X Window System (X11) grafického uživatelského rozhraní (např. KDE)
 - Compositor, zobrazovací framework např. Wayland Compositor s protokolem Wayland, X Windows System s protokolem X11
 - Display Manager, např. GDM (používaný GNOME), SDDM (používaný KDE)
-- Package Manager, systém pro správu systémových balíčků a/nebo instalaci aplikací (např. Apt, Flatpak, Ubuntu Snap). Mohou mít GUI, např Synaptic je GUI pro Apt.
+- Package Manager, systém pro správu systémových balíčků a/nebo instalaci aplikací (např. Apt, Flatpak, Ubuntu Snap). Mohou mít grafické uživatelské rozhraní (GUI), např Synaptic je GUI pro Apt.
