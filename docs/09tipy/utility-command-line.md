@@ -1,14 +1,16 @@
 ---
 id: utility-linux-windows-commands
-title: Utility z příkazové řádky
+title: Systémové utility
 sidebar_position: 3
 ---
 
-# Utility
+# Systémové utility
 
-Užitečné programy, které nemusí přímo souviset s grafikou.
+Užitečné programy, které nemusí přímo souviset s grafikou. Umožňují získávat informace o systému — softwaru a hardwaru — důležité pro optimální nastavení a hledání chyb.
 
 ## Linux
+Aplikace s funkcí systémového monitoru jsou Gnome System Monitor (často předinstalovaný v systému), Stacer, Conky, Netdata ad. Další aplikace (mohou být předinstalované v systému):
+
 ### hardinfo
 Informace o systému.
 ### htop
@@ -22,11 +24,6 @@ Systémové informace z příkazové řádky.
 
 ## Windows
 
-### Ventoy
-Spouštění live .iso operačních systémů
-### Oracle VM VirtualBox
-Virtualizace operačních systémů.
-### Terminály a konzole
 Terminály **powershell**, **cmd** a **wt** (spouští se v uživatelském adresáři <kbd>Win</kbd>+<kbd>R</kbd>, nebo v aktuálním adresáři v navigačním podokně Průzkumníka souborů - Windows Explorer Address Bar)
 
 Pokud chceš spustit Windows Terminál Powershell (wt) z aktuálního adresáře jako Powershell (powershell) a Command Prompt (cmd),
@@ -36,20 +33,22 @@ wt -d plná-cesta-do-aktuálního-adresáře
 
 Powershell jako administrátor spustíš v okně <kbd>Win</kbd>+<kbd>R</kbd> s <kbd>Ctrl</kbd>+<kbd>Shift</kbd>, <kbd>Enter</kbd>.
 
-## Informace o systému
+### Informace o systému
 
-Utility spustitelné z terminálů nebo zkratkami.
+:::tip
+
+<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Esc</kbd> spustí Správce úloh (Task Manager), ve kterém se dají zjistit systémové informace (tab Výkon).
+
+:::
+
+Většinu důležitých základních informací ve Windows získáš z aplikace Správce úloh. Utility spustitelné z terminálů nebo zkratkami:
 
 Systémové Informace:
 
 ```
 systeminfo
 ```
-:::tip
 
-<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Esc</kbd> spustí Správce úloh (Task Manager), ve kterém se dají zjistit systémové informace (tab Výkon).
-
-:::
 
 ### Procesor
 Command Prompt:
@@ -91,3 +90,11 @@ Get-WmiObject win32_VideoController
 ```
 Get-WmiObject win32_VideoController | Format-Table Name,AdapterDACType,AdapterRAM,CurrentHorizontalResolution,CurrentVerticalResolution,CurrentRefreshRate,DriverVersion -autosize
 ```
+## Virtualizace a testování systémů
+
+### Ventoy
+
+Spouštění live .iso operačních systémů
+
+### Oracle VM VirtualBox
+Virtualizace operačních systémů. Další podobné oblíbené programy jsou VMware (Windows, Linux) a GNOME Boxes (Linux).

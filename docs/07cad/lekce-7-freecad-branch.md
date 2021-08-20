@@ -6,7 +6,7 @@ sidebar_position: 8
 
 # Verze FreeCADu
 
-V této lekci si ukážeme práci v upravené verzi FreeCADu, známé jako **Realthunder** Branch (nebo označovaná **Assembly3, Linkstage3** podle verze buildu). Tato verze (branch) je upravená tak, aby byla intuitivnější a přehlednější, a také odstraňuje některé chyby FreeCADu.
+V této lekci si ukážeme práci v experimentální verzi FreeCADu, známé jako **Realthunder** Branch (nebo označovaná **Assembly3, Linkstage3** podle verze buildu). Tato verze (branch) je upravená tak, aby byla intuitivnější a přehlednější, a také odstraňuje některé chyby FreeCADu.
 
 - workflow
 - prostředí
@@ -18,7 +18,29 @@ Aktuální verzi najdeš zde:
 
 https://github.com/realthunder/FreeCAD_assembly3/releases
 
-Instalace pro Windows a Linux.
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs
+  groupId="jazykova-verze"
+  defaultValue="win"
+  values={[
+    {label: 'Windows', value: 'win'},
+    {label: 'Linux', value: 'lin'},
+    {label: 'Mac', value: 'mac'},
+  ]
+}>
+<TabItem value="win">Instalace pro Windows: Stáhni .7z soubor ze seznamu (Daily nebo Stable). Rozbal archív do určeného adresáře. Program spustíš souborem freecad.exe, který je v podadresáři /bin.</TabItem>
+<TabItem value="lin">Instalace pro Linux: Stáhni .Appimage soubor ze seznamu (Daily nebo Stable). Soubor je spustitený.
+</TabItem>
+<TabItem value="mac">Instalace pro Mac: Stáhni .dmg soubor ze seznamu (Daily nebo Stable). Otevři soubor.</TabItem>
+</Tabs>
+
+
+
+
+
+
 
 ## Nastavení
 
@@ -27,20 +49,7 @@ Instalace pro Windows a Linux.
 ## Nový projekt
 
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
 
-<Tabs
-  groupId="jazykova-verze"
-  defaultValue="czv"
-  values={[
-    {label: 'CZ verze', value: 'czv'},
-    {label: 'EN verze', value: 'env'},
-  ]
-}>
-<TabItem value="czv">Program máš v české verzi</TabItem>
-<TabItem value="env">Program máš v anglické verzi</TabItem>
-</Tabs>
 
 
 
@@ -49,17 +58,6 @@ import TabItem from '@theme/TabItem';
 :::note tip
 Test:
 
- <Tabs
-  groupId="jazykova-verze"
-  defaultValue="czv"
-  values={[
-    {label: 'CZ verze', value: 'czv'},
-    {label: 'EN verze', value: 'env'},
-  ]
-}>
-<TabItem value="czv">Nastavení ‣ Nastavit aplikaci Krita ‣ Obecné ‣ Různé</TabItem>
-<TabItem value="env">Settings ‣ Configure Krita ‣ General ‣ Miscellaneous</TabItem>
-</Tabs>
 :::
 
 ### Konstrukce
@@ -67,6 +65,9 @@ Test:
 ### Part Design
 ### Sketcher
 ### Draft
+### Osvětlení
+Pokud je nastavený styl View × Draw Style × Shadow, je možné měnit pozici zdroje světla ikonou v menu. Escape potvrdí nové nastavení.
+
 ### Exporty
 
 ## Závěrem
