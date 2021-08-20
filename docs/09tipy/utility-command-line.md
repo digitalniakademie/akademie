@@ -1,5 +1,5 @@
 ---
-id: utility-linux-windows
+id: utility-linux-windows-commands
 title: Utility z příkazové řádky
 sidebar_position: 3
 ---

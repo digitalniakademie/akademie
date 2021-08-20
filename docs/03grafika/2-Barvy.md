@@ -7,6 +7,9 @@ sidebar_position: 4
 # Barvy a palety
 
 ## Teorie barev a grafický design
+- kontrast a rozpoznatelnost barev v designu
+- WCAG a postupy pro tvorbu palet
+
 ### Barevné modely
 ### Harmonie
 ### Vzorníky a palety
