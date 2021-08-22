@@ -68,6 +68,9 @@ Nakresli perem čtverec nebo kruh. Je vertikální tah stejný jako horizontáln
 
 ![image](./images/wacom-setup.png)
 
+Zkontroluj nastavení pera tabletu a přiřaď fukce tlačítkům (obvyklé nastavení je na dolním obrázku). Základní nastavení může být v různých systémech jiné, doporučuji nastavit tlačítka na pravé a prostřední tlačítko myši.
+
+![image](./images/wacom-setup-pen.png)
 :::
 
 ## Nastavení pokročilé palety barev

@@ -11,7 +11,8 @@ sidebar_position: 5
 ### Patkové (Serifové) fonty
 ### Bezpatkové (Bezserifové) fonty
 ### Další rozdělení
-
+## Pozitivní a negativní prostor
+Fonty vyhovují standardu.
 ## Mezinárodní
 Fonty vyhovují standardu.
 

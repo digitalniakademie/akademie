@@ -109,15 +109,20 @@ Ambiciózní distribuce, obsahující předinstalované kreativní programy pro 
 ![image](../img/linux-fedorads1.jpg)
 
 - předinstalované grafické programy Blender, Krita, GIMP, Inkscape, Scribus, Darktable, Shotwell
+- nejnovější technologie Linuxu v distribucích
 - dobré pro seznámení s Fedora distribucí Linuxu
+- pro pokročilé uživatele Linuxu
+- atypické ovládání
 
 Fedora Design Suite je upravená verze distribuce Fedora Workstation, připravovaná agenturou Fedora Design Team. Je pro pokročilejší uživatele (znalost nastavení kodeků a ovladačů v Linuxu nutnost).
 
-Fedora využívá desktopové prostředí GNOME 3.40, se všemi výhodami i nevýhodami (matoucí především pro uživatele jiných operačních systémů).
+Fedora využívá nové desktopové prostředí GNOME, se všemi výhodami i nevýhodami (matoucí především pro uživatele jiných operačních systémů). Většina uživatelů patrně doinstaluje rozšíření, která dodávají některé standardnější funkce a nastavení desktopu.
 
-Desktop je v podstatě obrázek pozadí pro funkci Aktivity. Na jednotlivé desktopy se rozmisťují otevřené aplikace, nejde na ně umístit ikony, odkazy nebo soubory (bez doinstalování různých rozšíření, nebo jiného desktopového prostředí). Pro další úpravy rozhraní je nutné nainstalovat např. aplikaci GNOME Tweaks (z aplikace Software). Je také vvýhodnější mít aspoň 16GB paměti.
+Desktop je totiž v podstatě obrázek pozadí pro funkci Aktivity. Na jednotlivé desktopy se rozmisťují otevřené aplikace, nejde na ně umístit ikony, odkazy nebo soubory (bez doinstalování různých rozšíření, nebo jiného desktopového prostředí). Pro další úpravy rozhraní je nutné nainstalovat např. aplikace Gnome Tweaks a Gnome Extensions (z aplikace Software). Je také výhodnější mít aspoň 16GB paměti.
 
-Je to kvalitní a svižný systém pro specifické využití.
+Dalšími zvláštnostmi je ovládání tabletu (kurzory tabletu a touchpadu jsou nezávislé), absence některých běžných kodeků pro video (musí se doinstalovat) a nestandartní chování funkce fullscreen (a grafiky vůbec) v některých programech.
+
+Je to kvalitní a svižný profesionální systém pro specifické využití, ale pro zkušené uživatele.
 
 ### Ostatní distribuce
 Programy běží samozřejmě i na jiných distribucích. U některých je někdy potřeba nastavit např. grafiku kvůli možným problémům s ovladači grafické karty (screen tearing, scroll tearing) nebo jiné ovladače zařízení a kodeky na přehrávání médií manuálně. Některé v základním repositáři neobsahují aktuální verze programů, nebo mají komplikovanou instalaci správců balíčků a repozitářů pro nezkušeného (a někdy i zkušeného) uživatele. Distribuce Linuxu se často posuzují podle vzhledu, který ale tvoří **desktopové prostředí** (*Desktop Environment, DE*). Jádro a varianta samotné distribuce může být ale důležitější pro danou aplikaci a stabilitu.

@@ -6,14 +6,22 @@ sidebar_position: 6
 
 # Základy grafického designu
 
-## Tvary a formy
-### Anatomie fontu
-### Patkové (Serifové) fonty
-### Bezpatkové (Bezserifové) fonty
-### Další rozdělení
+## Co je grafický design?
+Grafický design (někdy označovaný jako užitná grafika) je stejně jako průmyslový design kreativní obor, který se nachází v oblasti mezi uměním, vědou a průmyslem. Spojuje hlediska estetiky a užitnosti, cílem je vývoj praktického výrobku — tiskoviny, obalu, nebo vizuálního konceptu.
 
-## Pozitivní a negativní prostor
-Fonty vyhovují standardu.
+V grafickém designu je velký důraz na čitelnost výsledku, srozumitelnost pro co nejširší okruh lidí, kteří budou výsledný výrobek užívat. Grafický design využívá stylizaci, emblematiku a symboliku pro co nejkompaktnější předávání informací.
+
+V tomto oboru se estetická hlediska podřizují výsledné technologii a aplikaci. Důležité je to ve všech oblastech grafického designu — ať se jedná o přípravu knihy, logotypu nebo konceptuálního stylu.
+
+Tato pravidla ovlivňují výběr barev (barvy v grafickém designu musí být například čitelné i pro lidi s vadou zraku) i forem.  
+
+## Tvary a formy
+### Čitelnost
+### Užitnost
+### Estetika
+
+
+
 
 ## Proporce
 ### Rastrové kompozice
@@ -60,47 +68,3 @@ import TabItem from '@theme/TabItem';
 :::
 
 ### Jednotlivé fáze
-
-klávesách <kbd>Num +</kbd> a <kbd>Num -</kbd>. Pokud jsou na tvém tabletu programovací tlačítka nebo touch ring, doporučuji si nastavit tyto shortcuty (viz obrázek). Příklad nastavení u tabletu Wacom:
-
-![image](../img/wacom.jpg)
-
-### Vektorizace
-
-Možnosti klávesnice nastavíš v Blenderu tady:
-<Tabs
-  groupId="jazykova-verze"
-  defaultValue="czv"
-  values={[
-    {label: 'V české verzi', value: 'czv'},
-    {label: 'V anglické verzi', value: 'env'},
-  ]
-}>
-<TabItem value="czv">Upravit ‣ Předvolby ‣ Vstup</TabItem>
-<TabItem value="env">Edit ‣ Preferences ‣ Input</TabItem>
-</Tabs>
-
-
-### Test
-
-:::warning Poznámka
-
- Start>Nastavení>Čas a jazyk>Jazyk>Klávesnice>Klávesové zkratky pro jazyk zadávání>Otevře se okno Jazyky a služby pro zpracování textu, zvolte Změnit kombinaci kláves>>Oba sloupce nastavit na Nepřiřazeno. Použít.
-
- (Anglická verze Win10: Start>Settings>Time & Language>Language>Keyboard>Input Language Hotkeys, otevře se dialogové okno Text Services and Input Languages, v něm vyberte Change Key Sequence a nastavte všechny Key Sequence na Not Assigned.)
- Aplikujte.
-
- **Shorcut na přepínání klávesnic <kbd>Windows</kbd> + <kbd>SPACEBAR</kbd> bude dále funkční.**
-
-:::
-
-### Export
-
-Jak vrátit pracovní plochu do původního nastavení: Nastavení plochy se ukládá do souboru. Ulož projekt. V dialogu  otevření souboru <kbd>Ctrl</kbd> + <kbd>O</kbd> otevřete Settings (ikona kolečka vpravo nahoře) a odškrtněte Načíst UI (*Load UI* v anglické verzi).
-
-![image](../img/blender-plocha.jpg)
-
-### Instalace
-
-
-Můžeš začít.
