@@ -48,7 +48,9 @@ Intelektuální nebo duševní vlastnictví (Intelectual Property, IP) je velice
 
 :::note Poznámka
 
- Pokud se budeš grafickým designem zabývat profesionálně, téma intelektuálního vlastnictví — právní ochrany výsledků tvůrčí činnosti — bude pro tebe velice důležité. Zákony, které se týkají duševního vlastnictví, jsou často odlišné v jednotlivých státech. Používání ochranných známek se řídí mezinárodními úmluvami.
+ Pokud se budeš grafickým designem zabývat profesionálně, téma intelektuálního vlastnictví — právní ochrany výsledků tvůrčí činnosti — bude pro tebe velice důležité.
+
+ Zákony, které se týkají duševního vlastnictví, jsou často odlišné v jednotlivých státech. Používání ochranných známek se řídí mezinárodními úmluvami.
 
 :::
 

@@ -14,36 +14,20 @@ Fonty vyhovují standardu.
 
 ## Uživatelská rozhraní
 ### Metodika
-Zpravidla obsažené v souboru. Definované vektorem nebo bitmapou.
+Pravidla návrhů UI.
 ### Struktury
-Obsahují více řezů v jednom ttf souboru. Podpora Scribus, **Inkscape**. Pokud je aplikace podporuje, umožňují vytváření přechodových stylů řezů písem, které nejsou jako statické fonty dostupné.
-SEZNAM
+Testování UI.
 
-:::note Úpravy variabilních fontů
+:::note DIGITÁLNÍ TYPOGRAFIE
 
-Vybráním variabilního fontu se objeví v nastavení Písmo <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>T</kbd> možnost** Weight** (váha písma). Nastavením hodnoty vytvoříš variantu písma, která se objeví v dolní části seznamu řezů pro tento font.
+Rozdílem oproti designu pro tiskoviny je především variabilita rozměrů digitálního média. Při návrzích je nutné kontrolovat výstup aplikací na cílová zařízení.
 
 :::
+### Ikony
 
 
 ## Interaktivní aplikace
-Kerning a další v kapitole o sazbě.
-
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
-<Tabs
-  groupId="jazykova-verze"
-  defaultValue="czv"
-  values={[
-    {label: 'V české verzi', value: 'czv'},
-    {label: 'V anglické verzi', value: 'env'},
-  ]
-}>
-<TabItem value="czv">Upravit ‣ Předvolby ‣ Rozhraní ‣ Překlad</TabItem>
-<TabItem value="env">Edit ‣ Preferences ‣ Interface ‣ Translation</TabItem>
-</Tabs>
-
+Konzistence grafických prvků.
 
 :::note Poznámka
 
@@ -53,12 +37,23 @@ import TabItem from '@theme/TabItem';
 
 ## Motion Design
 
-Animace.
-
-klávesách <kbd>Num +</kbd> a <kbd>Num -</kbd>. Pokud jsou na tvém tabletu programovací tlačítka nebo touch ring, doporučuji si nastavit tyto shortcuty (viz obrázek). Příklad nastavení u tabletu Wacom:
-
-![image](../img/wacom.jpg)
+Součástí grafického designu může být animace textu nebo grafiky. Pro takové akční prvky se používá termín Motion Design. Je to samostatný obor vyžadující zkušenosti s animací (často spojenou se zvukem) a to jak 2D, tak 3D.
 
 
+:::note Úkol
 
-Můžeš začít.
+ Animované logo v .svg formátu
+
+
+ ![image](../img/wacom.jpg)
+
+:::
+
+:::note Úkol
+
+ Návrh sady ikon.
+
+
+ ![image](../img/wacom.jpg)
+
+:::

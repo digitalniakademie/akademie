@@ -1,7 +1,7 @@
 ---
 id: utility-linux-windows-commands
 title: Systémové utility
-sidebar_position: 3
+sidebar_position: 6
 ---
 
 # Systémové utility
