@@ -21,7 +21,9 @@ To je pro případ, že bys omylem vybral pro instalaci jinou jednotku nebo doš
 
 ### Ventoy
 
-Ventoy je ideální pro vyzkoušení různých operačních systémů. Po naformátování programem Ventoy pak .iso soubor/y na USB flash disk jednoduše nakopíruješ.
+Ventoy je ideální pro vyzkoušení různých operačních systémů. Po naformátování programem Ventoy (zaškrtni Secure Boot Support pro kompatibilitu) pak .iso soubor/y na USB flash disk jednoduše nakopíruješ .
+
+![image](../img/ventoy-da.jpg)
 
 https://www.ventoy.net/en/download.html
 
@@ -34,6 +36,8 @@ Ventoy USB naformátuje na **exFAT** formát, který na starých systémech (8+ 
 ### Rufus
 
 Rufus je formátovací utilita pro Windows. V menu vyber svoje USB (všechny soubory na něm budou smazány!) a stažený .iso soubor se systémem. Jako souborový systém vyber **FAT32** (bude fungovat i na starších počítačích). Rufus vytvoří bootovací USB.
+
+![image](../img/rufus-da.jpg)
 
 https://github.com/pbatard/rufus/releases
 
@@ -56,15 +60,17 @@ Před instalací systému **ZÁLOHUJ** svoje soubory ze VŠECH interních disků
 
 :::
 
-Při instalaci na prázdný disk, nebo pokud chceš Linux jako výhradní systém, stačí obvykle nabootovat z USB flash disku s instalační verzí distribuce (viz výše) a spustit instalaci. Specifický návod k instalaci — pokud je nutný — je obvykle na stránkách dané distribuce Linuxu.
+Při instalaci na **prázdný disk**, nebo pokud chceš Linux jako výhradní systém, stačí obvykle nabootovat z USB flash disku s instalační verzí distribuce (viz výše) a spustit instalaci. Specifický návod k instalaci — pokud je nutný — je obvykle na stránkách dané distribuce Linuxu.
 
-Pro duální systém (většinou s Windows) musíš nejprve vytvořit diskový oddíl (Partition), na který budeš Linux instalovat.
+Pro duální systém na stejném disku (většinou s Windows) musíš nejprve vytvořit diskový oddíl (Partition), na který budeš Linux instalovat. Duální systém se doporučuje v pořadí Windows, Linux (pokud instalace bude na stejném HDD).
 
 ### Vytvoření diskového oddílu
 
 - <kbd>Win</kbd>+<kbd>X</kbd>, Správa disků
-- Vybrat cílový disk, Zmenšit svazek. Vytvoří se nepřiřazený oddíl (Partition) dané velikosti.
-- Zkontrolovat a nabootovat Linux z USB
+- Vyber cílový disk a oddíl, pravé tlačítko na oddílu zobrazí menu, vyber Zmenšit svazek. Vytvoří se nepřiřazený oddíl (Partition) dané velikosti.
+- Nabootuj Linux z USB
+
+![image](../img/linux-disk.jpg)
 
 ### Systémové soubory blokují zmenšení partition
 
@@ -88,3 +94,5 @@ Uvedené pokyny jsou obecný postup, samotnou instalaci řídí instalační pro
 
 ### Duální boot
 Po úspěšné instalaci se nový systém nabootuje výběrem z GRUB menu, nebo ho nabootuješ výběrem z bootovacího menu (např. <kbd>F9</kbd>, podle typu počítače).
+
+Pokud se GRUB menu nezobrazí, nastav Linux v BIOSU jako primární bootovací disk (může být uveden v seznamu jako Windows Boot Manager)
