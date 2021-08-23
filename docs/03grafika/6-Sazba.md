@@ -1,7 +1,7 @@
 ---
 id: lekce-x-inkscape
 title: Grafika
-sidebar_position: 8
+sidebar_position: 9
 ---
 
 # Sazba (Typesetting)

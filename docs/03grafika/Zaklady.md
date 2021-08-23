@@ -1,27 +1,29 @@
 ---
 id: lekce-4-inkscape
 title: Grafika
-sidebar_position: 6
+sidebar_position: 1
 ---
 
 # Základy grafického designu
 
 ## Co je grafický design?
-Grafický design (někdy označovaný jako užitná grafika) je stejně jako průmyslový design kreativní obor, který se nachází v oblasti mezi uměním, vědou a průmyslem. Spojuje hlediska estetiky a užitnosti, cílem je vývoj praktického výrobku — tiskoviny, obalu, nebo vizuálního konceptu.
+Grafický design (někdy označovaný jako užitná grafika) je stejně jako průmyslový design kreativní obor, který se nachází v oblasti mezi uměním, vědou a průmyslem. Spojuje hlediska estetiky a užitnosti, cílem je vývoj praktického výrobku — tiskoviny, obalu, layoutu, grafického rozhraní nebo vizuálního konceptu.
 
-V grafickém designu je velký důraz na čitelnost výsledku, srozumitelnost pro co nejširší okruh lidí, kteří budou výsledný výrobek užívat. Grafický design využívá stylizaci, emblematiku a symboliku pro co nejkompaktnější předávání informací.
+V grafickém designu je velký důraz na čitelnost výsledku, srozumitelnost pro co nejširší okruh lidí, kteří budou výsledný výrobek užívat. Grafický design využívá stylizaci, emblematiku a symboliku pro co nejsrozumitelnější předávání informací.
 
 V tomto oboru se estetická hlediska podřizují výsledné technologii a aplikaci. Důležité je to ve všech oblastech grafického designu — ať se jedná o přípravu knihy, logotypu nebo konceptuálního stylu.
 
-Tato pravidla ovlivňují výběr barev (barvy v grafickém designu musí být například čitelné i pro lidi s vadou zraku) i forem.  
+Tato pravidla ovlivňují nejen výběr barev — barvy a kontrasty v grafickém designu musí být například čitelné i pro lidi s vadou zraku — ale i forem.
+
+Tato lekce je stručné shrnutí základních principů funkčního grafického designu.  
 
 ## Tvary a formy
 ### Čitelnost
+Srozumitelnost a čitelnost se týká nejenom textu, ale i barev, tvarů a forem.
 ### Užitnost
+Volba písma i grafických prvků musí být v souladu s plánovaným použitím díla. Velikost písma musí být přizpůsobená čitelnosti.
 ### Estetika
-
-
-
+Stylizace musí doplňovat obsah.
 
 ## Proporce
 ### Rastrové kompozice
@@ -63,8 +65,9 @@ import TabItem from '@theme/TabItem';
 
 :::note Poznámka
 
- Přestože je design vlastních fontů velice časově náročný. obvzvlvlášť pokud tvoříš kompletní sadu, základní principy se ti v praxi hodí pro tvorbu speciálních řad. Také speciální značky ve vlastním fontu ti mohou ušetřit hodně práce.
+ Postupy tvorby grafického designu si ukážeme na příkladech z typografie, sazby (Typesttingu), ilustrace a konceptuální grafiky.
 
 :::
 
 ### Jednotlivé fáze
+### Konceptuální design

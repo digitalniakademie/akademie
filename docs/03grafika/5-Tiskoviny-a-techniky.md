@@ -1,10 +1,10 @@
 ---
 id: lekce-5-inkscape
 title: Grafika
-sidebar_position: 7
+sidebar_position: 6
 ---
 
-# Tiskoviny a web
+# Tiskoviny a techniky tisku
 
 ## Typy tiskovin
 ### Ofsetové a digitální tisky

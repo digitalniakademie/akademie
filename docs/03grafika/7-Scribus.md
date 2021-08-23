@@ -1,7 +1,7 @@
 ---
 id: lekce-6-inkscape
 title: Grafika
-sidebar_position: 9
+sidebar_position: 10
 ---
 
 # Scribus a předtisková příprava

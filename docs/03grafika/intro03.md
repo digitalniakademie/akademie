@@ -1,7 +1,7 @@
 ---
 id: grafika
 title: Grafika
-sidebar_position: 1
+sidebar_position: 0
 ---
 
 # Co v lekcích najdeš
