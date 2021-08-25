@@ -27,17 +27,45 @@ Objekty do vložíš do scény v pracovní ploše **Layout** přes **menu režim
 
 ![image](./images/blender-add.png)
 
-### Polygonové objekty
-![image](../img/blender01-edit.svg)
+Při přidání objektu do scény je možné měnit parametry geometrie tvořeného objektu otevřením menu vlevo dole — po vložení objektu do scény menu zmizí, a objekt je pak možné editovat pouze jako síť (mesh) v editačním módu.
 
+![image](./images/blender-meshes.jpg)
+### Sítě (Meshes)
+Polygonová tělesa a geometrické tvary. Jedná se o objekty tvořené plochami, s editovatelnými vrcholy a hranami.
 
-### Sítě
-Polygonová tělesa a geometrické tvary.
 ### Světla
-Typy světel.
-Upravení síly světla a parametrů přes rychlé menu a vlastnosti objektu.
+
+![image](./images/blender-lights.jpg)
+
+Typy světel:
+
+- (1) **Bod** (Point)
+- (2) **Směrové** (Spot)
+- (3) **Slunce** (Sun) je intenzívní světelný zdroj a je určené i pro osvětlování pomocí radiozity v interiéru. Na rozdíl od ostaních zdrojů není důležité, kde ve scéně se nachází ikona objektu.
+- (4) **Oblast** (Area) má nastavení tvaru (čtverec, obdélník, disk, elipsa). Tvar zdroje je důležitý pro modelování stínů a odráží se na lesklých plochách.
+
+Intenzitu světla a parametry lze upravit interaktivně přes rychlé menu (označit světlo, pravé tlačítko, vybrat položku, táhnout myší) a vlastnosti objektu (Object Data Properties).
+
 ### Kamery
-Nastavení pohledu kamery. Nastavení aktuálního pohledu jako pohledu kamery. Pohyb kamery (Camera to View).
+Scéna může obsahovat jednu nebo více kamer. Pohled aktivní kamery zobrazíš klávesou <kbd>Numpad 0</kbd> nebo ikonou kamery (1). Další kamery můžeš přidat jako objekt do scény. Aktivní kameru změníš v menu režimu **Pohled ‣ Kamery ‣ Nastavit aktivní objekt jako kameru** (*View ‣ Cameras ‣ Set Active Object as Camera*), nebo zkratkou  <kbd>Ctrl</kbd>+<kbd>Numpad 0</kbd> — kamera musí být označená.
+
+:::note klávesnice na laptopech
+
+Na laptopech nebo systémech **bez numerické klávesnice** musíš pro používání těchto zkratek zapnout emulaci numerické klávesnice v **Upravit ‣ Předvolby ‣ Vstup ‣ Klávesnice ‣ Emulovat Numpad**.
+
+:::
+
+
+Nastavení aktuálního pohledu jako pohledu kamery <kbd>Ctrl</kbd>+<kbd>Numpad 0</kbd>, změní nastavení aktivní kamery tak, aby odpovídalo aktuálnímu pohledu.
+
+Pohyb pohledu kamery v okně je umožněný zaškrtnutím **Camera to View** (2) v tabu Pohled v postranním panelu.
+
+Vlastnosti a nastavení kamery měníš v doku vlastnosti (3).
+
+Orientace kamery je znázorněna trojůhelníkem (4).
+
+![image](./images/blender-cameras.jpg)
+
 ### Ostatní objekty
 Dalším typům objektů se budeme více věnovat v kurzu Modelování pro pokročilé. Zatím je dobré vědět, že v Blenderu můžeme pracovat i s:
 
@@ -62,11 +90,18 @@ Toto nastavení použiješ pro kužele, válce a komplexní objekty.
 
 ## Pohyb a pohledy scény
 
+pohled z kamery
+pohled pracovní plochy
+
 ## Transformace
 Aplikování transformace.
 
-## Základní zkratky
+## Skupiny
 
+## Základní zkratky
+G S R x,y,z, GG
+
+Shift A
 
 :::note úkol
 
