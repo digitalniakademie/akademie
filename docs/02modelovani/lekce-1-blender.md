@@ -31,7 +31,15 @@ Při přidání objektu do scény je možné měnit parametry geometrie tvořen�
 
 ![image](./images/blender-meshes.jpg)
 ### Sítě (Meshes)
-Polygonová tělesa a geometrické tvary. Jedná se o objekty tvořené plochami, s editovatelnými vrcholy a hranami.
+Polygonová tělesa a geometrické tvary. Jedná se o objekty tvořené plochami, s editovatelnými vrcholy a hranami. To, jak budou polygonové objekty ztvárněny, určuje nastavení normál a stínování.
+
+### Hladké a ploché stínování
+Stínování nastavíš z menu pravého tlačítka (nebo z menu režimu Objekt) na vybraném objektu.
+Pro lepší funkci vyhlazování normál je nutné zaškrtnout **Automatické vyhlazení** v Object Data Properties v nastavení Normály.
+
+Toto nastavení použiješ pro kužele, válce a komplexní objekty.
+
+![image](./images/blender-shading.png)
 
 ### Světla
 
@@ -46,8 +54,14 @@ Typy světel:
 
 Intenzitu světla a parametry lze upravit interaktivně přes rychlé menu (označit světlo, pravé tlačítko, vybrat položku, táhnout myší) a vlastnosti objektu (Object Data Properties).
 
+Dalším způsobem osvětlení scény je **mapa prostředí** (Environment Map), o které si povíme víc v lekci "Efektivní osvětlení a render".
+
 ### Kamery
-Scéna může obsahovat jednu nebo více kamer. Pohled aktivní kamery zobrazíš klávesou <kbd>Numpad 0</kbd> nebo ikonou kamery (1). Další kamery můžeš přidat jako objekt do scény. Aktivní kameru změníš v menu režimu **Pohled ‣ Kamery ‣ Nastavit aktivní objekt jako kameru** (*View ‣ Cameras ‣ Set Active Object as Camera*), nebo zkratkou  <kbd>Ctrl</kbd>+<kbd>Numpad 0</kbd> — kamera musí být označená.
+Scéna může obsahovat jednu nebo více kamer. Pohled aktivní kamery (který se bude renderovat) zobrazíš klávesou <kbd>Numpad 0</kbd> nebo ikonou kamery (1).
+
+![image](./images/blender-cameras.jpg)
+
+Další kamery můžeš přidat jako objekt do scény. Aktivní kameru změníš v menu režimu **Pohled ‣ Kamery ‣ Nastavit aktivní objekt jako kameru** (*View ‣ Cameras ‣ Set Active Object as Camera*), nebo zkratkou  <kbd>Ctrl</kbd>+<kbd>Numpad 0</kbd> — kamera musí být označená.
 
 :::note klávesnice na laptopech
 
@@ -58,13 +72,21 @@ Na laptopech nebo systémech **bez numerické klávesnice** musíš pro použív
 
 Nastavení aktuálního pohledu jako pohledu kamery <kbd>Ctrl</kbd>+<kbd>Numpad 0</kbd>, změní nastavení aktivní kamery tak, aby odpovídalo aktuálnímu pohledu.
 
-Pohyb pohledu kamery v okně je umožněný zaškrtnutím **Camera to View** (2) v tabu Pohled v postranním panelu.
+Pohyb pohledu kamery v okně je umožněný zaškrtnutím **Camera to View** (2) v tabu Pohled v postranním panelu. Ovládání je stejné jako ovládání pohledu (aktivní kamera musí být označená:
 
-Vlastnosti a nastavení kamery měníš v doku vlastnosti (3).
+-  <kbd>R</kbd> pro rotaci (rolování)
+- vertikální posun (Panning, Pitching) <kbd>R</kbd>, potom <kbd>X</kbd> a <kbd>X</kbd>, a pohyb myší
+- horizontální posun <kbd>R</kbd>, potom <kbd>Y</kbd> a <kbd>Y</kbd>
+- přiblížení (Dolly) <kbd>G</kbd>, potom <kbd>Z</kbd> a <kbd>Z</kbd>
+- nebo interaktivně s myší nebo perem s prostředním tlačítkem <kbd>MMB</kbd>, <kbd>Ctrl</kbd>+<kbd>MMB</kbd>.
 
-Orientace kamery je znázorněna trojůhelníkem (4).
+Vlastnosti a nastavení kamery měníš v doku vlastností objektu (3).
 
-![image](./images/blender-cameras.jpg)
+Orientace kamery je ve scéně znázorněna trojůhelníkem (4).
+
+Poměr stran kamery nastavíš v doku **Vlastnosti výstupu** (*Output Properties*).
+
+
 
 ### Ostatní objekty
 Dalším typům objektů se budeme více věnovat v kurzu Modelování pro pokročilé. Zatím je dobré vědět, že v Blenderu můžeme pracovat i s:
@@ -80,23 +102,21 @@ Dalším typům objektů se budeme více věnovat v kurzu Modelování pro pokro
 - Textem
 
 ## Vlastnosti
-### Hladké a ploché stínování
-Stínování nastavíš z menu pravého tlačítka (nebo z menu režimu Objekt).
-Pro lepší funkci vyhlazování normál je nutné zaškrtnout **Automatické vyhlazení** v Object Data Properties v nastavení Normály.
+**Vlastnosti** (*Properties*) jsou oblast v pravé dolní části okna Blenderu s doky pro nastavení vlastností objektů, renderování, materiálů atp.
 
-Toto nastavení použiješ pro kužele, válce a komplexní objekty.
 
-![image](./images/blender-shading.png)
 
-## Pohyb a pohledy scény
 
-pohled z kamery
-pohled pracovní plochy
 
 ## Transformace
-Aplikování transformace.
+Aplikování transformace. Omezení pohybu v osách.
 
 ## Skupiny
+V Blenderu se skupiny tvoří spojením objektů, přiřazením objektu vrstvě nebo kolekci.
+
+## Renderování scény a výstupu
+
+Render engines a nastavení výstupu.
 
 ## Základní zkratky
 G S R x,y,z, GG

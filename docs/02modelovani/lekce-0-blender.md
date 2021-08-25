@@ -79,16 +79,38 @@ Tady také nastavíš emulaci numerické klávesnice a v polních podmínkách o
 :::
 
 ## Blender pro úplné začátečníky
-Po spuštění Blender otevře základní scénu v pracovní ploše Layout. Přesuň kurzor do pracovního okna a stiskni <kbd>N</kbd>. Vysune se postranní panel.
+
+![image](./images/blender-axes.jpg)
+
+Po spuštění a výběru nastavení pracovního prostředí Obecné (General) Blender otevře základní scénu v pracovní ploše Layout. Přesuň kurzor do pracovního okna a stiskni <kbd>N</kbd>. Vysune se postranní panel.
 
 ![image](../img/01blender-okno.svg)
 
-Stiskni opakovaně <kbd>T</kbd>. Funkce zobrazuje **Nástroje** (*Toolbox*) a je aktuální pro danou pracovní plochu.
+Stiskni opakovaně <kbd>T</kbd>. Funkce zobrazuje **Nástroje** (*Toolbox*) a je aktuální pro danou pracovní plochu a režim.
+
+### Pohyb ve scéně a pohledy
+
+Pohled na scénu měníš s myší nebo perem pohybem s prostředním tlačítkem <kbd>MMB</kbd> pro rotaci, <kbd>Ctrl</kbd>+<kbd>MMB</kbd> pro zvětšení a <kbd>Shift</kbd>+<kbd>MMB</kbd> pro zvětšení.
+
+### Základní transformace
+Objekt vybereš kliknutím levým tlačítkem. Vyber kostku uprostřed scény. Obrysy vybraného objektu se zvýrazní. U vybraného objektu můžeš měnit pozici (1), natočení (2), velikost (3), nebo všechny transformace společně (4)  nástrojem v menu **Nástroje** (*Toolbox*) s ikonami vlevo. Změny se ovládají tažením v barevných osách (X, Y, Z) widgetu, který se zobrazí.
+
+![image](./images/blender-transtool.jpg)
+
+Stisknutím tlačítek <kbd>X</kbd>, <kbd>Y</kbd>, nebo <kbd>Z</kbd> když je nástroj transformace aktivní omezíš funkci transformace pro danou osu.
+
+:::note tip
+
+Vyzkoušej si transformace pomocí widgetů na kostce ve scéně.
+
+:::
+
+Efektivnější způsob transformace pomocí zkratek si ukážeme v příští lekci.  
 
 ### Pracovní plochy
 Okna můžeš přesouvat a měnit jejich obsah a velikost podle potřeby.
 
-Jak vrátit pracovní plochu do původního nastavení: Nastavení plochy se ukládá do souboru. Ulož projekt. V dialogu  otevření souboru <kbd>Ctrl</kbd> + <kbd>O</kbd> otevřete Settings (ikona kolečka vpravo nahoře) a odškrtněte Načíst UI (*Load UI* v anglické verzi).
+**Jak vrátit pracovní plochu do původního nastavení:** Nastavení plochy se ukládá do souboru. Ulož projekt. V dialogu  otevření souboru <kbd>Ctrl</kbd> + <kbd>O</kbd> otevřete Settings (ikona kolečka vpravo nahoře) a odškrtněte Načíst UI (*Load UI* v anglické verzi).
 
 ![image](../img/blender-plocha.jpg)
 
