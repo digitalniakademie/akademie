@@ -56,6 +56,15 @@ FreeCAD je parametrický modelovací program pro průmyslový design. Dokáže v
 
 ### Další programy
 
+## MeshLab
+![image](./img/screenmeshlab.jpg)
+
+Program na prohlížení, úpravu a kontrolu polygonových 3D sítí. Podporuje import a export .stl (Stanford), .dae (Collada), .obj (Alias Wavefront) a mnoha dalších formátů. Používá se také na čištění dat ze 3D scanů. Je dostupný zde https://www.meshlab.net/#download, případně se dá nejaktuálnější verze v Linuxu nainstalovat příkazem
+
+```
+sudo flatpak install meshlab -y
+```
+
 ## XnView MP
 
 Program na prohlížení, třídění a základní úpravu obrázků. Umí pracovat s mnoha typy souborů včetně RAW.
@@ -87,7 +96,7 @@ Všechny programy existují ve verzích pro Windows, Mac a Linux. Jedná se tak�
 
 ### Výhody open source
 
-Software se rychle vyvíjí. Výhodou open-source řešení je kromě licence také možnost vrátit se kdykoliv k verzi programu, na které projekt vzniknul. Aby byly kurzy dostupné pro každého, využívají přednostně Free Open Source (FOS) projekty.
+Software se rychle vyvíjí. Výhodou open-source řešení je kromě licence také možnost vrátit se kdykoliv k verzi programu, na které projekt vzniknul. Aby byly kurzy dostupné pro každého, využívají přednostně Free Open Source Software (FOSS) projekty.
 
 :::tip Aktuální verze softwaru
 

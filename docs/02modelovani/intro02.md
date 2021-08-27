@@ -1,7 +1,7 @@
 ---
 id: 3D-modelovani
 title: 3D Modelování
-sidebar_position: 1
+sidebar_position: 0
 ---
 
 # Co v kurzu najdeš
