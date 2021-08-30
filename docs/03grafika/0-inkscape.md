@@ -28,11 +28,11 @@ Po prvním spuštění Inkscape nabídne základní volby dokumentu, barevných 
 - Nastavení v kurzu jsou jednoduché symbolické ikony (Classic Symbolic) a tmavé téma programu
 
 ### Základní layout programu Inkscape
-Inkscape má podobné rozložení nástrojů jako jiné grafické vektorové programy.
+Inkscape má podobné rozložení nástrojů jako jiné grafické vektorové programy. Layout panelů lze měnit z menu Zobrazit (Výchozí, Vlastní, Široký).
 
 ![image](./images/inkscape-start.jpg)
 
-- Vlevo je lišta nástrojů (1). Spodní část horní lišty (2) mění obsah podle vybraných nástrojů. Menu dialogových oken (3) otevře okna, která mohou být ukotvená nebo plovoucí (viz níže). V základním nastavení se ti dialogová okna budou otvírat vpravo, jako ukotvená okna (*Tabs*). Nastavení různých typů přichytávání je v ikonovém menu vpravo (4).
+- Vlevo je lišta nástrojů (1). Spodní část horní lišty **panelu příkazů** (2) je **panel ovládání nástrojů** a mění obsah podle vybraných nástrojů. Menu dialogových oken (3) otevře okna, která mohou být ukotvená nebo plovoucí (viz níže). V základním nastavení se ti dialogová okna budou otvírat vpravo, jako ukotvená okna (*Tabs*). Nastavení různých typů přichytávání je v ikonovém menu panelu přichytávání vpravo (4).
 
 :::note Úkol
 
@@ -123,8 +123,23 @@ Možnosti dokumentu nastavíš zkratkou <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>D<
 Nastavení dokumentu se ukládá do souboru.
 
 ### Přehled nástrojů
+![image](./images/inkscape-tools.jpg)
+
 Vektorové a efektové nástroje, úprava křivek. Parametrické efekty křivek.
 Co jde v Inkscape dělat.
+
+### Objekty a cesty
+Aby bylo možné editovat jednotlivé body a křivky objektů, je nutné převést objekt na cesty v menu **Cesta ‣ Objekt na cestu**(*Path ‣ Object to Path*) nebo zkratkou <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>.
+
+![image](./images/inkscape-vectors.jpg)
+
+U objektů je možné měnit některé charakteristiky, dokud nejsou převedeny na cestu. U obdélníků je to zaoblení hran.
+
+![image](./images/inkscape-vectors2.jpg)
+
+Křivky — cesty — se formují pomocí kontrolních bodů a tečen, které definují průběh křivky.
+
+![image](./images/inkscape-paths.jpg)
 
 ### Text a fonty
 
