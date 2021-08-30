@@ -23,26 +23,30 @@ Po instalaci spusť program Inkscape.
 ## První spuštění Inkscape
 Po prvním spuštění Inkscape nabídne základní volby dokumentu, barevných motivů programu a ikon.
 
-- obr.
+![image](./images/inkscape-in.jpg)
+
+- Nastavení v kurzu jsou jednoduché symbolické ikony (Classic Symbolic) a tmavé téma programu
 
 ### Základní layout programu Inkscape
-Inkscape má podobné rozložení nástrojů jako jiné vektorové programy.
+Inkscape má podobné rozložení nástrojů jako jiné grafické vektorové programy.
 
-- obr
+![image](./images/inkscape-start.jpg)
+
+- Vlevo je lišta nástrojů (1). Spodní část horní lišty (2) mění obsah podle vybraných nástrojů. Menu dialogových oken (3) otevře okna, která mohou být ukotvená nebo plovoucí (viz níže). V základním nastavení se ti dialogová okna budou otvírat vpravo, jako ukotvená okna (*Tabs*). Nastavení různých typů přichytávání je v ikonovém menu vpravo (4).
 
 :::note Úkol
 
-Vyber nástroj Text z lišty nástrojů. Na horní liště nastav typ písma ze seznamu. Klikni do dokumentu a napiš text. Otevři dialogové okno textu přes menu **Text ‣ Text a písmo** (*Text ‣ Text and fonts*) nebo zkratkou <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>T</kbd>. Vyber část textu, vyber ze seznamu jiný font a potvrď volbou Použít vpravo dole.
+Vyber nástroj Text z lišty nástrojů (1). Na horní liště (2) nastav typ písma ze seznamu. Klikni do dokumentu a napiš text. Otevři dialogové okno textu přes menu **Text ‣ Text a písmo** (*Text ‣ Text and fonts*) nebo zkratkou <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>T</kbd>. Vyber část textu, vyber ze seznamu jiný font a potvrď volbou Použít vpravo dole.
 
-Otevři další dialogové okno přes menu **Objekt ‣ Výplň a tah** (*Text ‣ Text and fonts*) nebo zkratkou <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>F</kbd>. Nastav barvu výplně (A), tahu (B), a styl tahu (C).
+Otevři další dialogové okno přes menu **Objekt ‣ Výplň a tah** (*Object ‣ Fill and Stroke*) nebo zkratkou <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>F</kbd>. Nastav barvu výplně, tahu, a styl tahu v tabech v tomto dialogovém okně.
+
+![image](./images/inkscape-fill.jpg)
 
 Klikni na nástroj výběru objektu (ikona šipky). Kliknutím mimo objekt zrušíš výběr. Vyber objekt znovu a tažením ho přesuň na jiné místo dokumentu.
 
-Barvu objektu změníš také kliknutím na paletu s barvou, s označeným objektem (barvu obrysu když při kliknutí podržíš <kbd>Shift</kbd>. Vyzkoušej si tvorbu, obarvení a přesuny dalších textových objektů.
+Barvu objektu změníš také kliknutím na paletu s barvou v dolní liště, s označeným objektem (barvu **obrysu** změníš, když při kliknutí podržíš <kbd>Shift</kbd>). Vyzkoušej si tvorbu, obarvení a přesuny dalších textových objektů.
 
 :::
-
-V základním nastavení se ti dialogová okna budou otvírat vpravo, jako Tabs.
 
 ### Nastavení jazykové verze Inkscape
 Jazykovou verzi programu změníš v menu:
@@ -95,11 +99,11 @@ Nastavení najdeš v menu Upravit ‣ Předvolby ‣ Rozhraní ‣ Okna (*Edit �
 ## Inkscape pro úplné začátečníky
 
 
-Otevře v základním nastavení dokumentu se zavřenými dialogovými okny. Podoba se bude lišit podle nastavení rozhraní a témat.
+Inkscape se otevře v základním nastavení dokumentu se zavřenými dialogovými okny. Podoba se bude lišit podle nastavení rozhraní a témat.
 
-- volba základní
+### Otevření dokumentu ze šablony
 
-### Otevření dokumentu z template
+Dokument z nastavené šablony (Template) otevřeš z menu Soubor ‣ Nový ze šablony... (*File ‣ New from Template...*). Nejčastěji používané šablony asi budou "Prázdná stránka" s nastavením standardních velikostí pro tisk v mm A4, A5 atp., a "Plocha" pro práci v pixelech.
 
 ### Nastavení vlastností dokumentu
 
@@ -124,6 +128,9 @@ Co jde v Inkscape dělat.
 
 ### Text a fonty
 
-### Ukládání a export do .pdf
+Inkscape podporuje variabilní fonty (Variable Fonts).
+
+### Ukládání a export do .pdf a .png
+Základním formátem je .svg, ale program podporuje export do mnoha formátů včetně .pdf (**Soubor ‣ Uložit jako**, *File ‣ Save as*), do .png lze exportovat dialogovým oknem **Soubor ‣ Exportovat obrázek PNG** (*File ‣ Export Image as PNG*).
 
 Můžeme začít.
