@@ -40,6 +40,8 @@ Vybráním variabilního fontu se objeví v nastavení Písmo <kbd>Shift</kbd>+<
 
 :::
 
+## Písma, loga a grafické prvky
+
 ## Emblematika a piktogramy
 od písma, monogramu po Logotypy. Branding a CI.
 

@@ -123,7 +123,7 @@ Možnosti dokumentu nastavíš zkratkou <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>D<
 Nastavení dokumentu se ukládá do souboru.
 
 ### Přehled nástrojů
-Moduly. Layout a editační mód. Nastavení materiálů a uzlový mód v sekci shader.
+Vektorové a efektové nástroje, úprava křivek. Parametrické efekty křivek.
 Co jde v Inkscape dělat.
 
 ### Text a fonty
