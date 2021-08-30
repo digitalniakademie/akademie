@@ -99,7 +99,7 @@ Nastavení najdeš v menu Upravit ‣ Předvolby ‣ Rozhraní ‣ Okna (*Edit �
 ## Inkscape pro úplné začátečníky
 
 
-Inkscape se otevře v základním nastavení dokumentu se zavřenými dialogovými okny. Podoba se bude lišit podle nastavení rozhraní a témat.
+Inkscape se otevře v základním nastavení dokumentu se zavřenými dialogovými okny (okna textu, výplně a tahu, nastavení atd.). Přesná podoba programu se bude lišit podle nastavení rozhraní a témat.
 
 ### Otevření dokumentu ze šablony
 
@@ -125,15 +125,23 @@ Nastavení dokumentu se ukládá do souboru.
 ### Přehled nástrojů
 ![image](./images/inkscape-tools.jpg)
 
-Vektorové a efektové nástroje, úprava křivek. Parametrické efekty křivek.
-Co jde v Inkscape dělat.
+Vyzkoušej si nástroje z panelu nástrojů vlevo. Najdeš tam vektorové a efektové nástroje, a nástroje na úpravu křivek. Ikony jsou názorné.
+
+Nejčastěji používané nástroje:
+
+- Výběr <kbd>F1</kbd>
+- Úprava objektu nebo křivky (cesty) <kbd>F2</kbd>
+- Volné křivky <kbd>F6</kbd> a Beziérovy křivky/rovné křivky <kbd>Shift</kbd>+<kbd>F6</kbd>
+- Nástroje geometrických tvarů
+- Text
+- Lupa <kbd>F3</kbd>, zmenšení s klávesou <kbd>Shift2</kbd>
 
 ### Objekty a cesty
 Aby bylo možné editovat jednotlivé body a křivky objektů, je nutné převést objekt na cesty v menu **Cesta ‣ Objekt na cestu**(*Path ‣ Object to Path*) nebo zkratkou <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>.
 
 ![image](./images/inkscape-vectors.jpg)
 
-U objektů je možné měnit některé charakteristiky, dokud nejsou převedeny na cestu. U obdélníků je to zaoblení hran.
+U objektů je možné měnit některé charakteristiky, dokud nejsou převedeny na cestu. U obdélníků je to zaoblení hran, ovládané nástrojem editace cesty <kbd>F2</kbd>:
 
 ![image](./images/inkscape-vectors2.jpg)
 
@@ -141,9 +149,13 @@ Křivky — cesty — se formují pomocí kontrolních bodů a tečen, které de
 
 ![image](./images/inkscape-paths.jpg)
 
+Na cesty je možné aplikovat parametrické efekty, jak si ukážeme v příští lekci.
+
 ### Text a fonty
 
-Inkscape podporuje variabilní fonty (Variable Fonts).
+Inkscape podporuje variabilní fonty (Variable Fonts). Variabilní fonty umožňují parametricky měnit váhu písma ("tloušťku", weight).
+
+Seznam vybraných fontů s volnou licencí a českými znaky najdeš v příloze kurzu.
 
 ### Ukládání a export do .pdf a .png
 Základním formátem je .svg, ale program podporuje export do mnoha formátů včetně .pdf (**Soubor ‣ Uložit jako**, *File ‣ Save as*), do .png lze exportovat dialogovým oknem **Soubor ‣ Exportovat obrázek PNG** (*File ‣ Export Image as PNG*).

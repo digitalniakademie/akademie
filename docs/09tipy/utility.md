@@ -20,3 +20,5 @@ Zajímavou možností pro rychlou tvorbu jsou online editory VECTR https://vectr
 ## Modelování
 ### GLTF prohlížeč
 Prohlížeč 3D formátu GLTF https://gltf-viewer.donmccurdy.com/
+### HDRI a textury
+Polyhaven (dříve známé jako HDRI Haven) jsou stránky, kde je možné získat volně dostupné HDRI, textury a modely s CC0 public domain licencí a v profesionální kvalitě: https://polyhaven.com/
