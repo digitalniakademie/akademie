@@ -125,7 +125,7 @@ winget upgrade --all
 
 :::tip Pro pokročilé uživatele
 
-Laptopy pro grafiku dnes často používají tzv. **hybridní grafiku**, což je většinou integrovaná Intel HD karta pro vykreslování oken a nenáročných aplikací a NVidia pro graficky náročné aplikace. **Linux** preferuje opensource ovladače, a tato výkonná karta vyžaduje proprietární ovladače. Potíže s ovladači se projevují tzv. screen tearingem, pomalým vykreslováním videa, a dalšímy problémy. Doporučuji zjistit řešení u konkrétního výrobce.
+Laptopy pro grafiku dnes často používají tzv. **hybridní grafiku**, což je většinou integrovaná Intel HD karta pro vykreslování oken a nenáročných aplikací a NVidia pro graficky náročné aplikace. **Linux** preferuje opensource ovladače, a tato výkonná karta vyžaduje proprietární ovladače. Potíže s ovladači se projevují tzv. screen tearingem, pomalým vykreslováním videa, a dalšímy problémy. Doporučuji zjistit řešení u konkrétního výrobce grafické karty nebo autorů dané distribuce Linuxu.
 
 :::
 
@@ -150,6 +150,20 @@ Nebo instalovat najednou:
 
 ```
 sudo snap install krita && sudo snap install inkscape && sudo snap install blender --classic
+```
+
+Scribus a Natron, pokud nejsou v repozitáři package manageru distribuce, nainstaluješ v nejnovější verzi pomocí flatpaku.
+
+```
+sudo apt install flatpak
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+```
+V některých distribucích je jak snap tak i flatpak předinstalován.
+
+Programy pak nainstaluješ
+
+```
+sudo flatpak install scribus -y && sudo flatpak install natron -y
 ```
 
 Alternativně můžeš staženou verzi ve formátu .deb instalovat pomocí nástroje **gdebi**.
