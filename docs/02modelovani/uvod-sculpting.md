@@ -31,7 +31,7 @@ Modelování je tvarování hmoty objektu.
 
 ### Digitální techniky v sochařství
 
-Měření, 3D scan, 3D tisk a obrábění, výroba forem.
+Měření, 3D scan, 3D tisk a obrábění, výroba forem. Fotogrametrie.
 
 ### Technologická omezení
 

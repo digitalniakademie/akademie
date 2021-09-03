@@ -30,7 +30,7 @@ https://www.ventoy.net/en/download.html
 :::note UPOZORNĚNÍ
 U některých systémů musíš nastavit v BIOSU Boot mode na Legacy a/nebo Secure Boot v UEFI módu na Disabled, aby se automaticky nespouštěl hlavní operační systém.
 
-Ventoy USB naformátuje na **exFAT** formát, který na starých systémech (8+ let) nemusí jít nabootovat. V tom případě zvol možnost níže.
+Ventoy USB automaticky naformátuje na **exFAT** formát, který na starých systémech (8+ let) nemusí jít nabootovat. V tom případě přeformátuj první oddíl na USB flash disku na FAT32 (první partition může být exFAT/FAT32/NTFS/UDF/XFS/Ext2, 3, 4 ), nebo zvol možnost níže.
 
 :::
 ### Rufus
