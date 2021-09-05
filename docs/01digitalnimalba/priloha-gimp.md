@@ -1,7 +1,7 @@
 ---
 id: malba-gimp
 title: Kresba a malba
-sidebar_position: 13
+sidebar_position: 14
 ---
 
 # Příloha: Malování v GIMPu
@@ -21,7 +21,7 @@ GIMP se ti bude hodit i pro kurzy grafiky a fotografie, a obecně pro všechny a
 Aktuální verzi programu GIMP najdeš na https://www.gimp.org/downloads/ (i s pokyny pro instalaci v Linuxu), nebo ji ve Windows nainstaluješ pomocí
 
 ```
-winget gimp  
+winget install gimp  
 ```
 
 Nainstaluj a spusť program GIMP.
@@ -36,22 +36,25 @@ Dynamiku nastav buď na průhlednost (*Pressure Opacity*) nebo šířku tahu (*P
 
 ![image](./images/gimp-pressure.png)
 
-Pokud přítlak stále nefunguje, najdi v menu *Edit ‣ Input Devices* svůj tablet (stylus) v seznamu, a změň stav z *Disabled* na **Screen**. Ulož nastavení (*Save*).
+Pokud přítlak stále nefunguje, najdi v menu **Upravit ‣ Vstupní zařízení** (*Edit ‣ Input Devices*) svůj tablet (stylus) v seznamu, a změň stav z **Vypnutý** (*Disabled*) na **Obrazovka** (*Screen*). Ulož nastavení (*Save*).
 
 ![image](./images/gimp-tablet.png)
 
 
 ## Štětce
-GIMP nemá tak specializované algoritmické štětce, jako například Krita, ale přesto stojí za vyzkoušení. Štětec se skládá z textury (Brush), dynamiky (Dynamics) a modifikátorů obou.
+GIMP nemá tak specializované algoritmické štětce, jako například Krita, ale přesto stojí za vyzkoušení. Štětec se skládá z textury stopy, dynamiky (Dynamics) a modifikátorů obou.
 
 :::caution Upozornění
 Pokročilá nastavení **dynamiky** (*Dynamics*) NELZE měnit u zabudovaných (Default) nastavení pomocí mapovacího matrixu! Libovolný typ štětce a dynamiky si ale můžeš vytvořit. Vytvořenou dynamiku můžeš pak používat pro libovolný štětec.
 :::
 
 ### Typ štětce
-Předdefinované (Default) štětce. Kolekce.
+Předdefinované (Default) stopy štětců <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>B</kbd>. Štětce lze filtrovat podle štítků v horním rolovacím menu dialogového okna (a), a přiřazovat štítky v dolním menu (c) Zpět do okna se dostaneš kliknutím na název štítku (b).
 
-- obrázek
+![image](./images/gimp-brush3.png)
+
+Základní nabídka textur štětců není bohatá, je ale potřeba si  uvědomit, že vzájemnou kombinací parametrů a dynamik vzniká obrovské množství variant. Stopa může být bitmapa s alfakanálem i posloupnost bitmap a dá se snadno vytvořit přímo v GIMPu. Součástí stopy je i definice parametrů, dynamika se přiřazuje zvlášť.
+
 
 ### Dynamika
 
@@ -81,17 +84,27 @@ Vytvoř si vlastní dynamiku štětce. Experimentuj s nastavením různých typ�
 
 Nastavení dynamiky štětců v GIMPu je komplikovanější, umožňuje ale vytvářet zajímavé nástroje (například v kombinacích s dynamikou rychlosti), a to jak realistické, tak experimentální.
 
-### Vlastní štětce
+## Vlastní štětce
 
-Vytvoření textury.
-Export.
-Přiřazení dynamiky.
+GIMP umožňuje vytvářet vlastní štětce a dynamiky. Správa štětců se zatím musí provádět manuálně.
 
-:::note Poznámka
+:::note Management vlastních štětců
 
-Management vlastních štětců.
+Vytvořené štětce si ukládej do označených adresářů a průběžně zálohuj. Nemíchej svoje štětce se základními.
 
 :::
+### Jak vytvořit bitmapový štětec?
+Tento štětec může být grafika s alfakanálem a jeho barva bude napevno definovaná (obrázek musí být RGB).
+
+- vytvoř soubor s transparencí (64&times64, 128&times128px atp.)
+- vytvoř texturu štětce
+- vyexportuj jako **.gih** (při exportu stačí zaškrtnout typ souboru podle přípony a uložit soubor s příponou .gih)
+- vytvoř adresář v podadresáři ~GIMP/Brushes (viz níže)
+- zkopíruj .gih do svého adresáře
+- použij Refresh tlačítko v dialogovém okně Stopy (Brushes). Objeví se nové štětce v kolekci s názvem tvého adresáře
+
+### Jak vytvořit štětec, který bude měnit barvu podle palety?
+Aby štětec reagoval na vybranou barvu, stačí ho převést na režim grayscale v menu **Obrázek ‣ Režim ‣ Odstíny šedi** (*Image ‣ Mode ‣ Grayscale*) a vyexportovat jako **.gih**.
 
 ### Instalace štětců
 Instalace stažených balíků štětců probíhá překopírováním rozbalených archívů do podadresáře Brushes v adresáři instalace GIMPu a v okně štětců stisknout obnovovací (Refresh) tlačítko.
@@ -101,7 +114,7 @@ Instalace stažených balíků štětců probíhá překopírováním rozbalený
 
 :::note Poznámka
 
-Ve Windows bude GIMP v základní lokaci /Program Files/GIMP/"číslo verze". V Linuxu bude cesta /home/.config/GIMP/"číslo verze" (pokud byl program GIMP instalován přes Snap, bude v aresáři /home/snap/GIMP/"číslo verze" ).
+Ve Windows bude GIMP v základní lokaci /Program Files/GIMP 2/share/gimp/"číslo verze"/. V Linuxu bude cesta /home/.config/GIMP/"číslo verze"/ (pokud byl program GIMP instalován přes Snap, bude v aresáři /home/snap/GIMP/"číslo verze"/ ).
 
 :::
 
@@ -122,7 +135,7 @@ Zajímavé funkce:
 
 - Align <kbd>Q</kbd> zarovná vybrané objekty
 - Foreground Select (najdeš jako další volbu pod ikonou lasa) pro rychlé výběry a maskování
-- Inkoust, Airbrush a MyPaint Brush (najdeš jako další volby pod ikonou Paintbrush)
+- Inkoust (překvapivě dobrý jednoduchý kaligrafický nástroj), Airbrush a MyPaint Brush (najdeš jako další volby pod ikonou Paintbrush)
 
 ### Pipeta
 Rychlý výběr barvy s klávesou <kbd>Ctrl</kbd>, jako v programu Krita. Při přímé volbě nástroje <kbd>O</kbd> je možné nastavit zprůměrování vybraných barev.
@@ -151,6 +164,7 @@ GIMP používá vlastní sRGB barevný profil. Další profily lze přiřadit p�
 Výběr barevných palet je přístupný přes ikonu barvy popředí a pozadí v panelu nástrojů, nebo jako dok přes menu *Windows ‣ Dockable Dialogs*. Z ukotvených doků se dá přetažením směrem do dokumentu vytvořit plovoucí okno.
 
 ![image](./images/gimp-doky.png)
+
 
 :::note Cvičení
 
