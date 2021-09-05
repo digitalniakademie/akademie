@@ -96,15 +96,19 @@ Vytvořené štětce si ukládej do označených adresářů a průběžně zál
 ### Jak vytvořit bitmapový štětec?
 Tento štětec může být grafika s alfakanálem a jeho barva bude napevno definovaná (obrázek musí být RGB).
 
+![image](./images/gimp-brush-design1.png)
+
 - vytvoř soubor s transparencí (64&times64, 128&times128px atp.)
 - vytvoř texturu štětce
 - vyexportuj jako **.gih** (při exportu stačí zaškrtnout typ souboru podle přípony a uložit soubor s příponou .gih)
-- vytvoř adresář v podadresáři ~GIMP/Brushes (viz níže)
+- vytvoř svůj adresář v podadresáři ~GIMP/Brushes (viz níže)
 - zkopíruj .gih do svého adresáře
 - použij Refresh tlačítko v dialogovém okně Stopy (Brushes). Objeví se nové štětce v kolekci s názvem tvého adresáře
 
 ### Jak vytvořit štětec, který bude měnit barvu podle palety?
 Aby štětec reagoval na vybranou barvu, stačí ho převést na režim grayscale v menu **Obrázek ‣ Režim ‣ Odstíny šedi** (*Image ‣ Mode ‣ Grayscale*) a vyexportovat jako **.gih**.
+
+![image](./images/gimp-brush-design2.png)
 
 ### Instalace štětců
 Instalace stažených balíků štětců probíhá překopírováním rozbalených archívů do podadresáře Brushes v adresáři instalace GIMPu a v okně štětců stisknout obnovovací (Refresh) tlačítko.
@@ -157,11 +161,11 @@ Jinak mají vrstvy obvyklé režimy matematických překryvů a prolínání (Mu
 Užitečné funkce vrstev jsou pro digitální malbu například (1) Lock Alpha (umožňuje malovat pouze do částí vrstvy bez alfakanálu, funguje tak jako rychlá maska). Spojení všech viditelných vrstev je možné stisknutím ikony Merge Layer (2) s klávesou <kbd>Ctrl</kbd>. Maska vrstvy se přidá ikonou s maskou (3).
 
 ## Palety
-GIMP používá vlastní sRGB barevný profil. Další profily lze přiřadit přes *Image ‣ Color Management ‣ Assign Color Profile ‣ Assign ‣ Select color profile from disk*.
+GIMP používá vlastní sRGB barevný profil. Další profily lze přiřadit přes **Obrázek ‣ Správa barev ‣ Přiřadit profil barev ‣ Přiřadit ‣ Vyberte barevný profil z disku** (*Image ‣ Color Management ‣ Assign Color Profile ‣ Assign ‣ Select color profile from disk*).
 
 ![image](./images/gimp-colorpal.png)
 
-Výběr barevných palet je přístupný přes ikonu barvy popředí a pozadí v panelu nástrojů, nebo jako dok přes menu *Windows ‣ Dockable Dialogs*. Z ukotvených doků se dá přetažením směrem do dokumentu vytvořit plovoucí okno.
+Výběr barevných palet je přístupný přes ikonu barvy popředí a pozadí v panelu nástrojů, nebo jako dok přes menu **Okna ‣ Dokovatelná dialogová okna** (*Windows ‣ Dockable Dialogs*). Z ukotvených doků se dá přetažením směrem do dokumentu vytvořit plovoucí okno.
 
 ![image](./images/gimp-doky.png)
 
