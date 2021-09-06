@@ -84,8 +84,6 @@ Vyber nástroj Štětec <kbd>B</kbd>. V doku *Tool Options* uvidíš typy vyhlaz
 ![image](./images/krita-tooloptions.png)
 Na obrázku jsou možnosti nástrojů pro štětec a kapátko/pipetu (česká a anglická verze).
 
-## Pipeta na výběr barvy
-Zkratka <kbd>P</kbd> . Umožnuje najenom nabírat barvu z plátna, ale i interpolovat barvy. Funkci aktivuješ nastavením procent Míšení (*Blend*) v doku Možnosti nástrojů (viz obrázek). Jedním kliknutím pak nabereš barvu, druhým kliknutím nabereš druhou. Pipeta pak vytvoří interpolaci barev. Vyzkoušej si to. Nastavením míšení zpět na 100% tuto funkci zase vypneš.
 ## Výběr
 Nástroje výběru jsou v dolní části panelu nástrojů. Další možnosti najdeš v doku Možnosti nástrojů a v hlavním menu **Vybrat**(*Select*).
 
@@ -93,7 +91,7 @@ Nástroje výběru jsou v dolní části panelu nástrojů. Další možnosti na
 
 Funkce výběru ti dovoluje malovat pouze do označené části, po inverzi výběru pouze mimo ni. V panelu nástrojů jsou různé tvary výběru určené pro rychlé maskování. Tento nástroj funguje podobně jako v ostatních bitmapových programech. Jenom tady ho budeš používat častěji.
 
-:::info 
+:::info
 - Často používané zkratky jsou <kbd>Ctrl</kbd>+<kbd>A</kbd> pro vybrání celé vrstvy, <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>A</kbd> pro zrušení výběru a <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> pro inverzi výběru.
 - K výběru přidáváš se <kbd>Shift</kbd>, odebíráš z něj s <kbd>Alt</kbd>
 :::
@@ -102,8 +100,12 @@ Vybraná část se upravuje nástrojem Transformace <kbd>Ctrl</kbd>+<kbd>T</kbd>
 
 Pokud chceš upravit pouze výběr, klikni pravým tlačítkem na vybranou část (s jakýmkoliv aktivním nástrojem výběru) a z kontextového menu zvol **Upravit výběr** (v tom případě bude úprava probíhat v **Masce Výběru**, která se zobrazí v doku vrstev). Po úpravě klikni zpět na vrstvu malby a výběr bude aktivní.
 
-## Barevný selektor
+## Barevný selektor (pipeta)
 Pipeta <kbd>P</kbd> umožnuje nejenom nabírat barvu z plátna, ale i interpolovat barvy.
+
+Funkci aktivuješ nastavením procent **Míšení** (*Blend*) v doku **Možnosti nástrojů** (viz obrázek). Jedním kliknutím pak nabereš barvu, druhým kliknutím nabereš druhou. Pipeta pak vytvoří interpolaci barev. Nastavením míšení zpět na 100% tuto funkci zase vypneš.
+
+![image](./images/krita-pipeta.png)
 
 Vyzkoušej si to:
 
@@ -117,7 +119,7 @@ Vyzkoušej si to:
 
  Barevný selektor je nástroj, který se velice často používá v digitální malbě, pro plynulé barevné přechody i retuše.
 
-![image](./images/krita-pipeta.png)
+
 
 
 ## Režimy prolnutí u štětců a nástrojů

@@ -9,6 +9,8 @@ sidebar_position: 11
 
 V kurzu jsme zatím používali základní předinstalované zdroje. Můžeš si ale vytvářet vlastní štětce, palety, přechody, vzorky atp.
 
+Vytvořené balíčky zdrojů (*Resource Bundles*) se dají importovat, exportovat a sdílet.
+
 ## Vytvoření a úprava vlastních štětců a jiných zdrojů
 ![image](./images/krita-brushcreate1.png)
 
@@ -28,7 +30,7 @@ V kurzu jsme zatím používali základní předinstalované zdroje. Můžeš si
 
 Správu zdrojů najdeš v menu **Nastavení ‣ Spravovat Zdroje** (*Settings ‣ Manage Resources*). Ze stejného menu zdroje exportuješ i importuješ.
 
-![image](./images/krita-brushcreate5.png)
+![image](./images/krita-brushcreate4.png)
 
 - Pro vytvoření balíčku zdrojů vyber Create a Bundle
 
