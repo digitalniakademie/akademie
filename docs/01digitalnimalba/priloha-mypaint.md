@@ -53,7 +53,7 @@ Do režimu celé obrazovky bez rušivých oken se dostaneš z menu pravého tla�
 
 ## Vrstvy
 
-Vrstvy umožňují standardní překrývací režimy (Překrytí, Znásobení, Měkké světlo atd.). Práce s vrstvami je obvyklá jako v jiných programech, postrádá však rychlé maskování vrstev a podobné pokročilé funkce. Vrstvy je ale možné maskovat ve skupinách pomocí režimů vrstvy, např. **Cíl nahoře** (*Source Atop*):
+Vrstvy umožňují standardní překrývací režimy (Překrytí, Znásobení, Měkké světlo atd.). Práce s vrstvami je obvyklá jako v jiných programech, postrádá však rychlé maskování vrstev a podobné pokročilé funkce. Vrstvy je ale možné maskovat ve skupinách pomocí režimů (*Mode*) vrstvy, např. **Cíl nahoře** (*Destination Atop*):
 
 ![image](./images/mypaint-layer-mask.png)
 

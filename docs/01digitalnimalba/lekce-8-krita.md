@@ -5,16 +5,39 @@ sidebar_position: 11
 ---
 
 # Vlastní štětce a zdroje
-## Balíčky štětců - Resource Bundles
-Balíčky nainstaluješ v Nastavení ‣ Spravovat zdroje (Settings ‣ Manage Resources).
-V kurzu jsme používali základní předinstalované zdroje.
-## Vytvoření a úprava vlastních štětců
+## Balíčky štětců a jiných zdrojů - Resource Bundles
 
-## Profesionální zdroje
+V kurzu jsme zatím používali základní předinstalované zdroje. Můžeš si ale vytvářet vlastní štětce, palety, přechody, vzorky atp.
 
-blizzard
-štětce pro Blender
-seznam a recenze
+## Vytvoření a úprava vlastních štětců a jiných zdrojů
+![image](./images/krita-brushcreate1.png)
+
+- otevři editor štětců <kbd>F5</kbd> a seznam předvolených štětců (a)
+- vyber engine pro štětec z dropdown menu (b)
+- vyber základní typ štětce k úpravě (c)
+- každý engine má trochu jiné  nastavitelné možnosti (d)
+- po úpravě štětce ulož předvolbu (e)
+
+![image](./images/krita-brushcreate2.png)
+- pojmenuj štětec a nahraj nebo vytvoř ikonu pro štětec
+- kliknutím pravým tlačítkem na ikonu štětce v seznamu vyber z menu volbu přiřazení značky (tagu). Můžeš i vytvořit vlastní značky, kolekce štětců.
+
+![image](./images/krita-brushcreate3.png)
+
+## Export zdrojů
+
+Správu zdrojů najdeš v menu **Nastavení ‣ Spravovat Zdroje** (*Settings ‣ Manage Resources*). Ze stejného menu zdroje exportuješ i importuješ.
+
+![image](./images/krita-brushcreate5.png)
+
+- Pro vytvoření balíčku zdrojů vyber Create a Bundle
+
+![image](./images/krita-brushcreate6.png)
+
+- vyplň informace o balíčku a vyber položky ze seznamu dostupných zdrojů (jsou řazené podle typu)
+- balíček ulož  
+- vytvoří se soubor typu **.bundle**
+- knihovny .bundle se importují z menu **Nastavení ‣ Manage Resources Libraries** (*Settings ‣ Manage Resources Libraries*)
 
 :::note úkol
 
