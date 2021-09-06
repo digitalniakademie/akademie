@@ -36,7 +36,7 @@ Skutečný štětec je jako razítko, které se pohybuje po médiu a přenáší
 Okno štětců otevřeš klávesou <kbd>F5</kbd>. Algoritmy použité pro chování nástrojů si prohlédni v seznamu Nástroj (*Engines*). Je to například *Pixel Engine, Bristle, Spray, Sketch* atd. Předvolby můžeš prohledávat také v doku *Brush Presets* a vyskakovací kruhové paletě (*Pop-up Palette*).
 
 ![image](./images/krita-popup.png)
-**Vyskakovaci paletu**(*Pop-up Palette*) otevřeš pravým tlačítkem myši, pokud máš vybraný kreslící nástroj. Počet zobrazených předvoleb štětců ze seznamu (s daným štítkem - *tagem*) jde změnit.
+**Vyskakovaci paletu**(*Pop-up Palette*) otevřeš pravým tlačítkem myši, pokud máš vybraný kreslící nástroj. Počet zobrazených předvoleb štětců ze seznamu (s daným štítkem - *tagem*, značkou) jde změnit.
 :::note tip
 Nastavení počtu zobrazených předvoleb štětců na vyskakovací paletě najdeš v hlavním menu:
 
@@ -89,9 +89,21 @@ Zkratka <kbd>P</kbd> . Umožnuje najenom nabírat barvu z plátna, ale i interpo
 ## Výběr
 Funkce výběru ti dovoluje malovat pouze do označené části, po inverzi výběru pouze mimo ni. V panelu nástrojů jsou různé tvary výběru určené pro rychlé maskování. Tento nástroj funguje podobně jako v ostatních bitmapových programech. Jenom tady ho budeš používat častěji.
 ## Barevný selektor
-Pipeta. <keyb>P</keyb> Umožnuje nejenom nabírat barvu z plátna, ale i interpolovat barvy. Vyzkoušej si to.
+Pipeta <keyb>P</keyb> umožnuje nejenom nabírat barvu z plátna, ale i interpolovat barvy.
 
-![image](../img/aka-moc.svg)
+Vyzkoušej si to:
+
+- vyber nástroj pipety (Colour Selector) <keyb>P</keyb>
+- v Možnostech nástrojů nastav Mísení na přibližně na 50% (100% znamená vybrání původní barvy bez mísení, 0% vybrání druhé barvy bez mísení)
+- vyber nástroj štětec <keyb>B</keyb>
+- udělej dva tahy rozdílnou barvou (A), (B)
+- když je štětec stále vybraný, aktivuj pipetu pomocí <keyb>Ctrl</keyb>
+- kurzor se změní na pipetu, s klávesou  <keyb>Ctrl</keyb> klikni nejprve na prní barvu, pak na druhou
+- pro štětec se automaticky vytvoří přibližný meziodstín (C)
+
+ Barevný selektor je nástroj, který se velice často používá v digitální malbě, pro plynulé barevné přechody i retuše.
+
+![image](./images/krita-pipeta.png)
 
 
 ## Režimy prolnutí u štětců a nástrojů
