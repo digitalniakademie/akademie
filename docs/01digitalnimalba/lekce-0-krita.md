@@ -87,18 +87,32 @@ Na obrázku jsou možnosti nástrojů pro štětec a kapátko/pipetu (česká a 
 ## Pipeta na výběr barvy
 Zkratka <kbd>P</kbd> . Umožnuje najenom nabírat barvu z plátna, ale i interpolovat barvy. Funkci aktivuješ nastavením procent Míšení (*Blend*) v doku Možnosti nástrojů (viz obrázek). Jedním kliknutím pak nabereš barvu, druhým kliknutím nabereš druhou. Pipeta pak vytvoří interpolaci barev. Vyzkoušej si to. Nastavením míšení zpět na 100% tuto funkci zase vypneš.
 ## Výběr
+Nástroje výběru jsou v dolní části panelu nástrojů. Další možnosti najdeš v doku Možnosti nástrojů a v hlavním menu **Vybrat**(*Select*).
+
+![image](./images/krita-selection.png)
+
 Funkce výběru ti dovoluje malovat pouze do označené části, po inverzi výběru pouze mimo ni. V panelu nástrojů jsou různé tvary výběru určené pro rychlé maskování. Tento nástroj funguje podobně jako v ostatních bitmapových programech. Jenom tady ho budeš používat častěji.
+
+:::info 
+- Často používané zkratky jsou <kbd>Ctrl</kbd>+<kbd>A</kbd> pro vybrání celé vrstvy, <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>A</kbd> pro zrušení výběru a <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> pro inverzi výběru.
+- K výběru přidáváš se <kbd>Shift</kbd>, odebíráš z něj s <kbd>Alt</kbd>
+:::
+
+Vybraná část se upravuje nástrojem Transformace <kbd>Ctrl</kbd>+<kbd>T</kbd> i s vybraným obsahem.
+
+Pokud chceš upravit pouze výběr, klikni pravým tlačítkem na vybranou část (s jakýmkoliv aktivním nástrojem výběru) a z kontextového menu zvol **Upravit výběr** (v tom případě bude úprava probíhat v **Masce Výběru**, která se zobrazí v doku vrstev). Po úpravě klikni zpět na vrstvu malby a výběr bude aktivní.
+
 ## Barevný selektor
-Pipeta <keyb>P</keyb> umožnuje nejenom nabírat barvu z plátna, ale i interpolovat barvy.
+Pipeta <kbd>P</kbd> umožnuje nejenom nabírat barvu z plátna, ale i interpolovat barvy.
 
 Vyzkoušej si to:
 
-- vyber nástroj pipety (Colour Selector) <keyb>P</keyb>
+- vyber nástroj pipety (Colour Selector) <kbd>P</kbd>
 - v Možnostech nástrojů nastav Mísení na přibližně na 50% (100% znamená vybrání původní barvy bez mísení, 0% vybrání druhé barvy bez mísení)
-- vyber nástroj štětec <keyb>B</keyb>
+- vyber nástroj štětec <kbd>B</kbd>
 - udělej dva tahy rozdílnou barvou (A), (B)
-- když je štětec stále vybraný, aktivuj pipetu pomocí <keyb>Ctrl</keyb>
-- kurzor se změní na pipetu, s klávesou  <keyb>Ctrl</keyb> klikni nejprve na prní barvu, pak na druhou
+- když je štětec stále vybraný, aktivuj pipetu pomocí <kbd>Ctrl</kbd>
+- kurzor se změní na pipetu, s klávesou  <kbd>Ctrl</kbd> klikni nejprve na prní barvu, pak na druhou
 - pro štětec se automaticky vytvoří přibližný meziodstín (C)
 
  Barevný selektor je nástroj, který se velice často používá v digitální malbě, pro plynulé barevné přechody i retuše.
