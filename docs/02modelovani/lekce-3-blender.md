@@ -66,6 +66,10 @@ Nedoléhající stíny se dají opravit v nastavení **světla** v Object Data P
 ### Cycles
 Realističtější a podstatně pomalejší engine. Některé efekty fungují pouze s Cycles.
 
+### Zrychlení renderování pro Cycles
+
+Optimalizace. Správné nastavení pro Path Tracing.
+
 :::note úkol
 
 Vyzkoušejte tvorbu objektů a transformace.
