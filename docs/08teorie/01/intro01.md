@@ -4,10 +4,9 @@ title: Teorie
 sidebar_position: 1
 ---
 
-# O knihách
+# Abstract
 
 - Proporce a perspektiva
 - Barva
-- Efektivní osvětlení v prezentaci
+- Forma
 - Historie a vývoj
-- Knihy
