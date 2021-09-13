@@ -12,7 +12,7 @@ Rychlé tipy pro řešení konkrétních postupů v softwaru obecně pro všechn
 
 - rychlé tipy pro pokročilé
 - rozdělení tagy
-- najdete v sekci Blog
+- najdeš v sekci Blog
 
 
 ## Tutoriály pro specifické úkoly

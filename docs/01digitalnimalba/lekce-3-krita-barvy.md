@@ -139,6 +139,8 @@ Na obrázku je gamut pro standardní profil sRGB monitoru a pro tisk ve CMYKu (K
 ## Omezená paleta a maska gamutu
 Zatím jsme mluvili o gamutu v souvislosti s omezením zobrazovacích zařízení. Omezení palety, gamut, se také používá při malbě z důvodů udržení barevné strategie a **barevných harmonií**.
 
+Gamutové palety jsou palety s omezeným rozsahem; jsou harmonizované a vhodné pro rychlé použití.
+
 Krita umožňuje malbu s maskou gamutu. Aktivuj doky **Nastavení ‣ Doky ‣ Umělecká paleta** (*Settings ‣ Dockers ‣ Artistic Palette*) a
 **Nastavení ‣ Doky ‣ Masky Gamutu** (*Settings ‣ Dockers ‣ Gamut Masks*).
 
@@ -192,7 +194,15 @@ Typy vyhlazování. ohlazení. trik jak sjednotit barvy.
 ## Plánování harmonické palety
 Vytvoření harmonií a akcentů. Harmonie jsou závislé na kontextu. Ve výtvarném umění neexistuje jediné správné řešení pro všechny případy, je ale dobré vědět čeho se při tvorbě palety vyvarovat.
 
-Typy harmonií a palety
+- Typy harmonií a palety
+
+Jak jsme si ukázali, klasické harmonie vycházejí z myšlenky barevných akordů; harmonie se skládají z barev, rovnoměrně a symetricky vzdálených na kruhu barevného modelu.
+
+V praxi se používají varianty a syntézy těchto modelů, ve spojení s úpravou tonality a sytosti barev.
+
+- sjednocení a harmonizace palety
+
+- sjednocení gradientem
 
 ![image](../img/aka-moc.svg)
 
@@ -206,18 +216,18 @@ Míšení barev v digitální malbě
 Míšení barev v digitální malbě pro tisk.
 
 ## Blokování barev a gradienty
-Zjednodušená bloková malba a přidávání tónů.
-## Gamut a Harmonie
-Gamutové palety.
-
-![image](../img/aka-moc.svg)
+Zjednodušená bloková malba a přidávání tónů. Stínování.
 
 ## Barevná kompozice, harmonie a kontrast
 Harmonie a disharmonie
+- barvy v kontextu mohou měnit vnímání tvarů a proporcí
+
 ## Akcenty
 Poměr primárních, sekundárních barev a akcentů.
 
-Akcenty
+Pro akcenty a barevné detaily platí podobná pravidla jako pro detaily tvarů a forem.
+
+- vhodné charakteristiky akcentních barev (živost, chroma, intenzita)
 
 ![image](../img/aka-moc.svg)
 
@@ -235,3 +245,9 @@ omezený počet nástrojů a přepínání pomocí zkratek. Omezená paleta v kl
 Ukázka tonální malby s jednoduchou skicou.
 
 ![image](../img/aka-moc.svg)
+
+:::note úkol
+
+Vytvoř skicu s harmonickou paletou.
+
+:::
