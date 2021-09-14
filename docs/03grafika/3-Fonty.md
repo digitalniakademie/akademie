@@ -5,6 +5,24 @@ sidebar_position: 5
 ---
 
 # Fonty a tvorba písma
+Font je definovaná kolekce písem a znaků (glyfů), které sdílejí společný vizuální styl. Kvalitní font má propracovaný kerning, který určuje proporce toho, jak se následná písmena napojují za sebe.
+
+Klasické knižní fonty mají zpravidla verzi kurzívy neboli italiky (*Italic*) a verze s nižší a vyšší váhou (*weight*), většinou označené jako Tučné (*Bold*) nebo Tenké (*Thin*). Některé sady obsahují mnoho takových variant — označovaných jako **řezy** — určených k tomu, aby se různé typy stejného písma daly spolu harmonicky použít.
+
+Tvorbou fontů se kromě samostatných designerů zabývají takzvané písmolijny (*Foundry*), které vydávají licencovaná písma a řezy.
+
+V kurzech budeme používat písma s **Open Fonts** licencí, které jsou volně dostupné pro jakékoliv použití v designu a typografii.
+
+:::note Pravidla pro použití písem
+
+- Základním pravidlem pro použití písem je být ve výběru fontů co nejůspornější!
+- Každý řez se počítá jako další typ písma a typů písma v jednom dokumentu by mělo být co nejméně — **dva** nebo tři většinou stačí
+- Udržuj různé velikosti i stejného písma pod kontrolou v duchu předcházejícího pravidla
+- Existují výjimky, například v oblasti novin a časopisů, ale i v tomto případě jsou často typografie stránek logicky a systematicky propracované a rozdělené do segmentů
+- minimální doporučená velikost písma je 5 bodů, ale nepoužívej menší písmo než **7-8 bodů**!
+
+:::  
+
 
 ## Skupiny fontů
 Základní skupiny fontů jsou klasické, moderní. kombinované, historizující a dekorativní.
@@ -13,14 +31,14 @@ Základní skupiny fontů jsou klasické, moderní. kombinované, historizujíc�
 Jednotlivé části písmene (glyfu) nemají sjednocenou terminologii. Přesto je rozlišení jednotlivých elementů důležité pro pochopení funkčnosti písmene v rámci celého fontu.
 
 - části a příklady
+- Pozitivní a negativní prostor
+
 
 ### Patkové (Serifové) fonty
 ### Bezpatkové (Bezserifové) fonty
 ### Další rozdělení
-## Pozitivní a negativní prostor
-Fonty vyhovují standardu.
-## Mezinárodní
-Fonty vyhovují standardu.
+
+
 
 ## Typy formátů
 ### Statické fonty
@@ -63,14 +81,15 @@ import TabItem from '@theme/TabItem';
 :::
 
 ### Design
-
+Náčrt fontové sady.
 klávesách <kbd>Num +</kbd> a <kbd>Num -</kbd>. Pokud jsou na tvém tabletu programovací tlačítka nebo touch ring, doporučuji si nastavit tyto shortcuty (viz obrázek). Příklad nastavení u tabletu Wacom:
 
 ![image](../img/wacom.jpg)
 
 ### Vektorizace
 
-Možnosti klávesnice nastavíš v Blenderu tady:
+Převedení fontu na formát a nastavení ligatur, znaků a kerningu
+
 <Tabs
   groupId="jazykova-verze"
   defaultValue="czv"
@@ -84,11 +103,10 @@ Možnosti klávesnice nastavíš v Blenderu tady:
 </Tabs>
 
 
-### Open Fonts
 
 :::warning Poznámka
 
-Lokalizovan0 fonty.
+Lokalizované fonty. Mezinárodní kódování znaků.
 
 :::
 

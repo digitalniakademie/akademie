@@ -14,6 +14,12 @@ Fonty vyhovují standardu.
 ### Univerzální design
 - návrh společného stylu pro tiskoviny i web
 
+:::note Úkol
+
+ Wireframe v Inkscapu.
+
+:::
+
 ## Uživatelská rozhraní
 ### Metodika
 Pravidla návrhů UI.
@@ -33,7 +39,7 @@ Konzistence grafických prvků.
 
 :::note Poznámka
 
- Přestože je design vlastních fontů velice časově náročný. obvzvlvlášť pokud tvoříš kompletní sadu, základní principy se ti v praxi hodí pro tvorbu speciálních řad. Také speciální značky ve vlastním fontu ti mohou ušetřit hodně práce.
+ Návrh grafického rozhraní.
 
 :::
 
