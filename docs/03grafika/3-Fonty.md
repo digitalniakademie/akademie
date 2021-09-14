@@ -7,7 +7,13 @@ sidebar_position: 5
 # Fonty a tvorba písma
 
 ## Skupiny fontů
-### Anatomie fontu
+Základní skupiny fontů jsou klasické, moderní. kombinované, historizující a dekorativní.
+
+### Anatomie písma
+Jednotlivé části písmene (glyfu) nemají sjednocenou terminologii. Přesto je rozlišení jednotlivých elementů důležité pro pochopení funkčnosti písmene v rámci celého fontu.
+
+- části a příklady
+
 ### Patkové (Serifové) fonty
 ### Bezpatkové (Bezserifové) fonty
 ### Další rozdělení
@@ -78,26 +84,15 @@ Možnosti klávesnice nastavíš v Blenderu tady:
 </Tabs>
 
 
-### Test
+### Open Fonts
 
 :::warning Poznámka
 
- Start>Nastavení>Čas a jazyk>Jazyk>Klávesnice>Klávesové zkratky pro jazyk zadávání>Otevře se okno Jazyky a služby pro zpracování textu, zvolte Změnit kombinaci kláves>>Oba sloupce nastavit na Nepřiřazeno. Použít.
-
- (Anglická verze Win10: Start>Settings>Time & Language>Language>Keyboard>Input Language Hotkeys, otevře se dialogové okno Text Services and Input Languages, v něm vyberte Change Key Sequence a nastavte všechny Key Sequence na Not Assigned.)
- Aplikujte.
-
- **Shorcut na přepínání klávesnic <kbd>Windows</kbd> + <kbd>SPACEBAR</kbd> bude dále funkční.**
+Lokalizovan0 fonty.
 
 :::
 
-### Export
-
-Jak vrátit pracovní plochu do původního nastavení: Nastavení plochy se ukládá do souboru. Ulož projekt. V dialogu  otevření souboru <kbd>Ctrl</kbd> + <kbd>O</kbd> otevřete Settings (ikona kolečka vpravo nahoře) a odškrtněte Načíst UI (*Load UI* v anglické verzi).
-
-![image](../img/blender-plocha.jpg)
 
 ### Instalace
 
-
-Můžeš začít.
+Fonty se instalují v systému z menu. V Linuxu stačí fonty zkopírovat do adresáře ~.fonts.

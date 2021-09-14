@@ -6,6 +6,8 @@ sidebar_position: 4
 
 # Barvy a palety
 
+![image](./images/color-header-inst.svg)
+
 V grafickém designu je důležité uvažovat o barvách nejenom z pohledu harmonií a účinku, ale i s ohledem na kulturní zvyklosti, psychologii barev a konkrétní aplikaci v dané oblasti. Jsou psané i nepsané kodexy toho, jaké barevné palety se používají v různých oborech — jiné barvy se používají v cukrárenském průmyslu, a jiné pro výrobce pesticidů nebo v bankovnictví.
 
 Dalším aspektem je rozpoznatelnost a čitelnost barev a kontrastů; to je životně důležité především v komunikačních systémech (značky, informace, varování). Dobrý grafický design by měl být čitelný i pro osoby se sníženou zrakovou schopností či vadou zraku (dyschromatopsie, daltonismus).
