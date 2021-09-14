@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.45634577"
-     inkscape:cx="1322.4621"
-     inkscape:cy="36.156794"
+     inkscape:zoom="2.3111071"
+     inkscape:cx="964.68918"
+     inkscape:cy="168.10125"
      inkscape:current-layer="layer1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -1187,7 +1187,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect625543);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="580.66992"
          y="205.11556"
-         id="tspan167959">RGB</tspan></text>
+         id="tspan334497">RGB</tspan></text>
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.81832"
        id="circle678805"
@@ -1207,7 +1207,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect70246);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="580.66992"
          y="205.11556"
-         id="tspan167961">RGB</tspan></text>
+         id="tspan334499">RGB</tspan></text>
     <rect
        style="fill:#000000;stroke-width:6.29291;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        id="rect70583"
@@ -1503,7 +1503,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect92519);fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="580.66992"
            y="205.11556"
-           id="tspan167963">RGB</tspan></text>
+           id="tspan334501">RGB</tspan></text>
       <circle
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.81832"
          id="circle92511"
@@ -1523,7 +1523,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect92521);fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="580.66992"
            y="205.11556"
-           id="tspan167965">CMY</tspan></text>
+           id="tspan334503">CMY</tspan></text>
     </g>
     <path
        style="fill:#be40fe;fill-opacity:1;stroke:#000000;stroke-width:0.367001"
@@ -1712,7 +1712,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect139275);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="580.66992"
          y="205.11556"
-         id="tspan167967">RGB</tspan></text>
+         id="tspan334505">RGB</tspan></text>
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.81832"
        id="circle139265"
@@ -1733,7 +1733,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect139277);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="580.66992"
          y="205.11556"
-         id="tspan167969">CMY</tspan></text>
+         id="tspan334507">CMY</tspan></text>
     <rect
        style="fill:#000000;stroke-width:6.29289;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
        id="rect139305"
@@ -2007,7 +2007,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect161517);fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.33227"><tspan
            x="580.66992"
            y="205.11556"
-           id="tspan167971">RGB</tspan></text>
+           id="tspan334509">RGB</tspan></text>
       <ellipse
          style="fill:url(#radialGradient167413);fill-opacity:1;stroke:none;stroke-width:0.818319"
          id="circle161509"
@@ -2017,5 +2017,11 @@
          rx="57.447273"
          ry="57.421471" />
     </g>
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.29291;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       id="path334145"
+       cx="971.0047"
+       cy="162.80815"
+       r="22" />
   </g>
 </svg>
