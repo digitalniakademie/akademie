@@ -11,6 +11,8 @@ Fonty vyhovují standardu.
 ### Wireframes
 ### Grafické prvky
 ### Programování a design
+### Univerzální design
+- návrh společného stylu pro tiskoviny i web
 
 ## Uživatelská rozhraní
 ### Metodika
