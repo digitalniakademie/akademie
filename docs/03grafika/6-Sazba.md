@@ -7,6 +7,8 @@ sidebar_position: 9
 # Sazba (Typesetting)
 Sazba byl původně výraz pro sestavování litých písmen (liter) pro tisk. Digitální sazba se zabývá přípravou (lámáním) časopisů, knih a jiných tiskovin pro tisk.
 
+Už od počátku knihtisku se tisky doplňovaly i ilustracemi. Původní tisk z dřevěných štočků nahradily tisky z kamenných desek (litografie), kovových plechů a jiných materiálů.
+
 DTP a vývoj digitální sazby.
 
 ## Formáty tiskovin
