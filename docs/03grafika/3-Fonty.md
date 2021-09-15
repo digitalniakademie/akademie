@@ -7,7 +7,12 @@ sidebar_position: 5
 # Fonty a tvorba písma
 Font je definovaná kolekce písem a znaků (glyfů), které sdílejí společný vizuální styl. Kvalitní font má propracovaný kerning, který určuje proporce toho, jak se následná písmena napojují za sebe.
 
-Klasické knižní fonty mají zpravidla verzi kurzívy neboli italiky (*Italic*) a verze s nižší a vyšší váhou (*weight*), většinou označené jako Tučné (*Bold*) nebo Tenké (*Thin*). Některé sady obsahují mnoho takových variant — označovaných jako **řezy** — určených k tomu, aby se různé typy stejného písma daly spolu harmonicky použít.
+:::note Co je font?
+**Rodina písma** (*Typeface*) se často zjednodušeně označuje jako font. Font je ale technicky a historicky kolekce znaků (glyfů), které mohou náležet i do jedné rodiny písem — také varianty **velikosti** nebo **řezu** se považují za samostatné fonty.
+
+:::
+
+Klasická knižní písma mají zpravidla verzi kurzívy neboli italiky (*Italic*) a verze s nižší a vyšší váhou (*weight*), většinou označené jako Tučné (*Bold*) nebo Tenké (*Thin*). Některé sady obsahují mnoho takových variant — označovaných jako **řezy** — určených k tomu, aby se různé typy stejného písma daly spolu harmonicky použít.
 
 Tvorbou fontů se kromě samostatných designerů zabývají takzvané písmolijny (*Foundry*), které vydávají licencovaná písma a řezy.
 
@@ -23,29 +28,68 @@ V kurzech budeme používat písma s **Open Fonts** licencí, které jsou volně
 
 :::  
 
-
-## Skupiny fontů
-Základní skupiny fontů jsou klasické, moderní. kombinované, historizující a dekorativní.
-
-### Anatomie písma
+## Anatomie písma
 Jednotlivé části písmene (glyfu) nemají sjednocenou terminologii. Přesto je rozlišení jednotlivých elementů důležité pro pochopení funkčnosti písmene v rámci celého fontu.
 
-- části a příklady
-- Pozitivní a negativní prostor
+![image](./images/fonts-glyph.svg)
+
+1. serif
+2. negativní prostor (counter)
+3. apex
+4. terminal
+
+- **Pozitivní** prostor v designu a typografii je definovaný objekt a **negativní** prostor znamená prázdnou plochu ohraničenou objektem nebo prázdný prostor mezi jednotlivými elementy. Oba koncepty jsou  pro vyvážený design stejně důležité.
+
+Pokud se rozhodneš navrhovat písmo klasického typu (latinky odvozené od Římanů), budeš potřebovat hlubší znalost konstrukce písma nž je předmětem tohoto kurzu a studium kaligrafie.
+
+![image](./images/fonts-anatomy.svg)
+
+1. ascent
+2. median
+3. účaří
+4. descent
+5. výška majuskule písma
+6. výška minuskule písma (x-height)
+
+## Skupiny fontů
+Základní skupiny fontů rozdělené podle stylu designu jsou klasické, moderní, kombinované, ručně psané, historizující a dekorativní.
 
 
-### Patkové (Serifové) fonty
-### Bezpatkové (Bezserifové) fonty
-### Další rozdělení
 
+Glyfy vznikaly z psaného písma postupným zjednodušováním. Patky písem jsou odvozené od dynamiky ručně psaných písmen.
+
+Kapitálky rozhodují o zařazení do skupiny patkových nebo bezpatkových písem.
+
+### Patkové fonty
+
+Patkové (Serifové) fonty, označované jako antikva, jsou nejběžnější typ tiskacího písma.
+
+![image](./images/fonts-serif.svg)
+
+Egyptienka (*Slab serif*) neboli lineární **antikva** je varianta písma se zjednodušenou geometrickou patkou:
+
+![image](./images/fonts-slab.svg)
+
+### Bezpatkové fonty
+
+Bezpatkové (Bezserifové, *Sans Serif*) fonty, označované jako **grotesk**, se s spolu s patkovou antikvou často požívají pro sazbu delších textů a knih.
+
+![image](./images/fonts-sansserif.svg)
+
+V moderním grafickém designu se často používají kombinovaná písma, které mají prvky jak patkového, tak bezpatkového písma.
+
+### Další rozdělení podle určení nebo designu
+Speciální fonty mohou mít různé formy a jsou určené pro akcenty nebo zvláštní použití. Zpravidla nejsou vhodné pro bloky textu a odstavcový text.
+- Display fonty jsou určené pro velké formáty a krátké texty a mají výrazný design
+- Handwriting nebo Script je skupina fontů v podobě ručně psaných písem
 
 
 ## Typy formátů
-### Statické fonty
-Zpravidla obsažené v souboru. Definované vektorem nebo bitmapou.
-### Variabilní fonty (*Variable Fonts*)
-Obsahují více řezů v jednom ttf souboru. Podpora Scribus, **Inkscape**. Pokud je aplikace podporuje, umožňují vytváření přechodových stylů řezů písem, které nejsou jako statické fonty dostupné.
-SEZNAM
+
+Nejčastěji se budeš setkávat s formáty fontů TrueType **.ttf**, případně OpenType **.otf**.
+
+- **Statické fonty** jsou pevně definované v souboru pomocí vektorů nebo bitmap.
+- **Variabilní fonty** (*Variable Fonts*) umožňují vytváření přechodových stylů řezů písem, které nejsou jako statické fonty dostupné. Podporuje je  Scribus i **Inkscape**.
 
 :::note Úpravy variabilních fontů
 
@@ -76,15 +120,15 @@ import TabItem from '@theme/TabItem';
 
 :::note Poznámka
 
- Přestože je design vlastních fontů velice časově náročný. obvzvlvlášť pokud tvoříš kompletní sadu, základní principy se ti v praxi hodí pro tvorbu speciálních řad. Také speciální značky ve vlastním fontu ti mohou ušetřit hodně práce.
+ Přestože je design vlastních fontů velice časově náročný. zejména pokud tvoříš kompletní sadu, základní principy se ti v praxi hodí pro tvorbu speciálních řad. Také speciální značky ve vlastním fontu ti mohou ušetřit hodně práce.
 
 :::
 
 ### Design
-Náčrt fontové sady.
-klávesách <kbd>Num +</kbd> a <kbd>Num -</kbd>. Pokud jsou na tvém tabletu programovací tlačítka nebo touch ring, doporučuji si nastavit tyto shortcuty (viz obrázek). Příklad nastavení u tabletu Wacom:
+Konstrukce fontu vychází z designových zásad, které jsou společné pro všechny glyfy. Základem návrhu je řešení elementu glyfu nebo sady glyfů, které vytvoří jádro písmové sady.
 
-![image](../img/wacom.jpg)
+- Náčrt fontové sady.
+
 
 ### Vektorizace
 
