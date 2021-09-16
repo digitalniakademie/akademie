@@ -38,9 +38,18 @@ Jednotlivé části písmene (glyfu) nemají sjednocenou terminologii. Přesto j
 3. apex
 4. terminal
 
+:::note Pozitivní a negativní plochy
+
+
 - **Pozitivní** prostor v designu a typografii je definovaný objekt a **negativní** prostor znamená prázdnou plochu ohraničenou objektem nebo prázdný prostor mezi jednotlivými elementy. Oba koncepty jsou  pro vyvážený design stejně důležité.
 
-Pokud se rozhodneš navrhovat písmo klasického typu (latinky odvozené od Římanů), budeš potřebovat hlubší znalost konstrukce písma nž je předmětem tohoto kurzu a studium kaligrafie.
+![image](./images/fonts-positive.svg)
+
+- Encyklopedická znalost částí jednotlivých glyfů není tak důležitá jako pochopení jejich funkce — a mnoho těchto komponentů slouží právě k vyvažování pozitivního a negativního prostoru, ke zlepšení **čitelnosti** a **dynamiky** písma.
+:::
+
+Pokud se rozhodneš navrhovat písmo klasického typu (latinky odvozené od Římanů), budeš potřebovat hlubší znalost konstrukce písma než je předmětem tohoto kurzu, a nejlépe také studium kaligrafie.
+
 
 ![image](./images/fonts-anatomy.svg)
 
@@ -48,13 +57,16 @@ Pokud se rozhodneš navrhovat písmo klasického typu (latinky odvozené od Ří
 2. median
 3. účaří
 4. descent
-5. výška majuskule písma
-6. výška minuskule písma (x-height)
+5. výška majuskule (verzálky) písma
+6. výška minuskule (minusky) písma (x-height podle referenční výšky písmena **x**)
+
+## Kerning
+Kerning je úprava vzájemné vzdálenosti písmen. Prakticky se jedná o částečné překrytí definovaných prostorů glyfu. Dělá se kvůli lepší čitelnosti, vyváženosti ploch a plynulosti slov. Nastavuje se při tvorbě písma vždy pro konkrétní páry, nebo upravuje manuálně.
+
+![image](./images/fonts-kerning.svg)
 
 ## Skupiny fontů
 Základní skupiny fontů rozdělené podle stylu designu jsou klasické, moderní, kombinované, ručně psané, historizující a dekorativní.
-
-
 
 Glyfy vznikaly z psaného písma postupným zjednodušováním. Patky písem jsou odvozené od dynamiky ručně psaných písmen.
 
@@ -80,8 +92,8 @@ V moderním grafickém designu se často používají kombinovaná písma, kter�
 
 ### Další rozdělení podle určení nebo designu
 Speciální fonty mohou mít různé formy a jsou určené pro akcenty nebo zvláštní použití. Zpravidla nejsou vhodné pro bloky textu a odstavcový text.
-- Display fonty jsou určené pro velké formáty a krátké texty a mají výrazný design
-- Handwriting nebo Script je skupina fontů v podobě ručně psaných písem
+- Akcidenční (*Display Type*) fonty jsou určené pro velké formáty a krátké texty a mají výrazný design — jsou zkrátka pro zvláštní příležitosti
+- Skripty (*Handwriting, Script*) jsou fonty v podobě ručně psaných písem
 
 
 ## Typy formátů
@@ -91,15 +103,14 @@ Nejčastěji se budeš setkávat s formáty fontů TrueType **.ttf**, případn�
 - **Statické fonty** jsou pevně definované v souboru pomocí vektorů nebo bitmap.
 - **Variabilní fonty** (*Variable Fonts*) umožňují vytváření přechodových stylů řezů písem, které nejsou jako statické fonty dostupné. Podporuje je  Scribus i **Inkscape**.
 
-:::note Úpravy variabilních fontů
+:::note Úpravy variabilních fontů v Inkscapu
 
 Vybráním variabilního fontu se objeví v nastavení Písmo <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>T</kbd> možnost** Weight** (váha písma). Nastavením hodnoty vytvoříš variantu písma, která se objeví v dolní části seznamu řezů pro tento font.
 
 :::
 
 
-## Kerning
-Kerning a další v kapitole o sazbě.
+
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
