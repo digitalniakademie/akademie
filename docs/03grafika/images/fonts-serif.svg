@@ -11,6 +11,7 @@
    width="1500"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -23,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.1673333"
-     inkscape:cx="750"
-     inkscape:cy="249.71445"
+     inkscape:zoom="1.0006017"
+     inkscape:cx="697.08057"
+     inkscape:cy="205.37642"
      inkscape:current-layer="layer1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -36,7 +37,8 @@
      inkscape:window-height="989"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="false" />
   <defs
      id="defs32413">
     <filter
@@ -905,7 +907,8 @@
     <g
        aria-label="Libre Baskerville"
        id="text2146853"
-       style="font-size:106.667px;line-height:1.25;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville, Normal';letter-spacing:0px;word-spacing:0px;fill:#008080;stroke-width:0.999998">
+       style="font-size:106.667px;line-height:1.25;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville, Normal';letter-spacing:0px;word-spacing:0px;fill:#008080;stroke-width:0.999998"
+       transform="translate(0,-17.98552)">
       <path
          d="M 92.637303,110.77323 H 23.730422 v -4.05334 q 3.733345,-0.10667 5.973352,-0.64001 2.346674,-0.53333 3.626678,-1.81334 1.280004,-1.28 1.706672,-3.62667 0.426668,-2.346677 0.426668,-6.080022 V 44.853026 q 0,-3.733345 -0.426668,-5.973352 -0.320001,-2.346674 -1.493338,-3.626678 -1.06667,-1.386671 -3.20001,-1.813339 -2.13334,-0.533335 -5.546684,-0.746669 V 28.639642 H 57.22386 v 4.053346 q -3.413344,0.106667 -5.546684,0.640002 -2.026673,0.533335 -3.20001,1.920006 -1.06667,1.386671 -1.493338,3.840012 -0.320001,2.453341 -0.320001,6.506687 v 45.973477 q 0,4.480014 0.853336,7.360023 0.960003,2.773345 3.093343,4.373345 2.240007,1.49334 5.866685,2.13334 3.626677,0.53334 9.173361,0.53334 6.080019,0 10.240032,-0.64001 4.160013,-0.74666 6.933355,-2.45334 2.880009,-1.81334 4.480014,-4.906678 1.706672,-3.20001 2.880009,-8.213359 h 4.053346 z"
          id="path2029" />
@@ -955,113 +958,18 @@
          d="m 933.59825,100.8532 q -9.06669,10.9867 -22.50674,10.9867 -6.29335,0 -11.41336,-2.02667 -5.12002,-2.13334 -8.85337,-5.86669 -3.62667,-3.84001 -5.65335,-9.066691 -2.02667,-5.33335 -2.02667,-11.73337 0,-6.506687 2.13334,-12.053371 2.13334,-5.546684 5.97335,-9.493363 3.94668,-3.946679 9.28003,-6.186686 5.44002,-2.240007 11.84004,-2.240007 10.3467,0 16.00005,5.653351 5.65335,5.546684 5.65335,16.00005 0,1.493338 -0.64,1.813339 -0.53334,0.320001 -2.66668,0.320001 H 895.6248 q -0.21333,0.853336 -0.32,2.13334 -0.10667,1.173337 -0.10667,2.666675 0,5.546684 1.28001,10.133365 1.38667,4.480014 3.84001,7.680024 2.56001,3.200013 5.97335,5.013353 3.52001,1.70667 7.78669,1.70667 4.48001,0 8.32003,-1.92001 3.84001,-2.02667 7.89335,-6.506685 z M 915.9982,72.053111 q 2.13334,0 3.41334,-0.106667 1.28,-0.106667 1.92001,-0.426668 0.64,-0.320001 0.85333,-0.853336 0.21334,-0.640002 0.21334,-1.600005 0,-4.906682 -3.20001,-7.786691 -3.09335,-2.986676 -8.53336,-2.986676 -11.52004,0 -14.29338,13.760043 z"
          id="path2059" />
     </g>
-    <g
-       id="g400843"
-       transform="translate(417.90701,-49.780313)"
-       sodipodi:insensitive="true">
-      <rect
-         style="fill:#8080ff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.258267"
-         id="rect45522"
-         width="6.3157067"
-         height="20.832041"
-         x="-1062.1268"
-         y="486.24539"
-         inkscape:export-xdpi="96.534714"
-         inkscape:export-ydpi="96.534714"
-         transform="scale(-1,1)"
-         inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
-      <rect
-         style="fill:#fe8081;fill-opacity:1;fill-rule:evenodd;stroke-width:0.258267"
-         id="rect45524"
-         width="6.3157067"
-         height="20.832041"
-         x="-1055.8112"
-         y="486.24539"
-         inkscape:export-xdpi="96.534714"
-         inkscape:export-ydpi="96.534714"
-         transform="scale(-1,1)"
-         inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
-      <rect
-         style="fill:#ffd42a;fill-rule:evenodd;stroke-width:0.258267"
-         id="rect45526"
-         width="6.3157067"
-         height="20.832041"
-         x="-1049.4954"
-         y="486.24539"
-         inkscape:export-xdpi="96.534714"
-         inkscape:export-ydpi="96.534714"
-         transform="scale(-1,1)"
-         inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
-      <path
-         id="path45528"
-         style="fill:#ffb380;fill-rule:evenodd;stroke-width:0.258267"
-         d="m 1062.1269,507.07744 h -18.9471 l 8.7686,13.97104 h 1.41 z"
-         sodipodi:nodetypes="ccccc"
-         inkscape:export-xdpi="96.534714"
-         inkscape:export-ydpi="96.534714"
-         inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
-      <path
-         id="path45530"
-         style="fill:#f4e3d7;fill-rule:evenodd;stroke-width:0.258267"
-         d="m 1062.1269,507.07744 h -6.3156 l -3.3174,14.09288 0.8645,-0.12184 z"
-         sodipodi:nodetypes="ccccc"
-         inkscape:export-xdpi="96.534714"
-         inkscape:export-ydpi="96.534714"
-         inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
-      <path
-         id="path45532"
-         style="fill:#d38d5f;fill-rule:evenodd;stroke-width:0.258267"
-         d="m 1043.1799,507.07744 h 6.3157 l 3.3173,14.09288 -0.8644,-0.12184 z"
-         sodipodi:nodetypes="ccccc"
-         inkscape:export-xdpi="96.534714"
-         inkscape:export-ydpi="96.534714"
-         inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
-      <path
-         id="path45534"
-         style="fill:#333333;fill-rule:evenodd;stroke-width:0.258267"
-         d="m 1056.4724,516.12331 -7.7017,-0.1075 3.5196,5.53665 0.7035,-0.0131 z"
-         sodipodi:nodetypes="ccccc"
-         inkscape:export-xdpi="96.534714"
-         inkscape:export-ydpi="96.534714"
-         inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
-      <ellipse
-         style="fill:#8080ff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.258267"
-         id="ellipse45536"
-         cx="-1052.6215"
-         cy="525.61383"
-         rx="9.5167303"
-         ry="1.9033457"
-         inkscape:export-xdpi="96.534714"
-         inkscape:export-ydpi="96.534714"
-         transform="scale(-1,1)"
-         inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
-      <ellipse
-         style="fill:#f4e3d7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.258267"
-         id="ellipse45538"
-         cx="-1052.6215"
-         cy="486.1275"
-         rx="9.5167303"
-         ry="1.9033457"
-         inkscape:export-xdpi="96.534714"
-         inkscape:export-ydpi="96.534714"
-         transform="scale(-1,1)"
-         inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
-      <ellipse
-         style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.258263"
-         id="ellipse45540"
-         cx="-1052.6215"
-         cy="486.12732"
-         rx="3.7002831"
-         ry="0.74005651"
-         inkscape:export-xdpi="96.534714"
-         inkscape:export-ydpi="96.534714"
-         transform="scale(-1,1)"
-         inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
-    </g>
+    <image
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAArCAYAAACaebMMAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAA5NJREFUSIntll1oHFUUx393ZnZm d3Y2m91N0jSulU0JaaO0aUyVJla60qpIIzaFFioqjYoPapGCD9Y+LFJBfRLJgxS0gm8VH3wS8aEg ahFaTQhaiDVaSGKTxqSb7Nfs7tzrQ8jH7rapEp8k52nO/5z7u+fMuXMZARCPx6PJngePtLcl2iPh 8OaQE2wxTZ+jwLFM0yeltDRNc91isYRSmVKpnFnIZCdnb96cHL36x+iF7384Pz4+PivePPnq2QPJ hw537bgvqmkaANlsjsGPP+X69A2y2TyFYhG/aRIMBmhubOSV558hGLQBkFJyaXhk9usL336utd99 43HTKNULIVgypRSeJ/E8iZQS13WRcsVXSi3nCiHQ8Ncbvs4+oUY6Ls+kVddPv8ZQeguICJ6IIEuN Ob1k2dLQEAKUAq0sKaHlpgpRO5szWMgZzM2b+KwHCARiYwZAQ73gwO5ZYHZ5R662X1JDnQ9TZdOq cehDcbQHAA3q6ldiWnXyemwDtgHbgG3A/i8wI3M9MS897ffqgOXGlBVhpFo3Q77SPudKTX6xpM8Y 6WuJ4bn0wr7qYDQcSLS0qmqZYEsD3U2iRvfNjX2nxV8YfM32W1PVwVyhcMtWpN1Qo2n5dMb8y39c A3Ac+5AmKncruEU8T1auEhpeMFKpKYWenRkQyWRZA9j03PsXQ3X2l3eqzrOjIPQKTU9PXLR2HfwM Vk3T03P9ls/MV8DylTDpNFYWWsyX/XLhqeV2lx4Sxz8phBzr5dXJ2bxbWVmwEmbMT7wtdvZP18AA Ng8MngvZgV+W/HzBRcmVicpgbKW9zNQ1a1dfavX6mkPr2IFHDUP3YPGfI+8uVif9YZRuLrYnS0rP pA9Vr609MMDwBy+d/ebK5IuWoRELh6hzbLxQM+VYKyHHYXtUO9/U03/0H8EAnu1Luj9PzpvV+rbW LfLpvUn7iRMn3OrYbb/NR9qaj1lGZVjXNZ7ce++pW4HWrAzgrYGDo18M/9m25B/ev2fi1LuD8dvl r3lrbNsS6Lon6pcA8eYmtb9z+5618u9oH508ktrd3S3PvfPG4LpAS9bb2xv6T0D/xpYHcOaMuqtc 5n4h2KoUCWAT4ANCLL5bCSwAJWAKGAPGDIPLp0+LCQCRSqljwOtA5zqKGhKC9zRgJ9CxDhBAh1Ls EACplKoTgseUogvYCrQCESAMWIADZAAXSANzwG/AmBD8qBRfpVJi/m/9LUT+xT1m7QAAAABJRU5E rkJggg== "
+       width="19"
+       height="43"
+       id="image41008"
+       x="1455.5687"
+       y="434" />
     <g
        aria-label="Libre Caslon Text"
        id="text2150343"
-       style="font-size:106.667px;line-height:1.25;font-family:'Libre Caslon Text';-inkscape-font-specification:'Libre Caslon Text, Normal';letter-spacing:0px;word-spacing:0px;fill:#008080">
+       style="font-size:106.667px;line-height:1.25;font-family:'Libre Caslon Text';-inkscape-font-specification:'Libre Caslon Text, Normal';letter-spacing:0px;word-spacing:0px;fill:#008080"
+       transform="translate(0,-0.7528905)">
       <path
          d="m 43.930312,334.68135 h 30.826763 q 2.880009,-4.69335 4.693348,-9.28003 1.813339,-4.69335 4.26668,-11.9467 h 2.773342 l -3.946679,25.49341 H 23.663582 v -2.45334 l 9.066695,-2.02668 v -73.17356 l -9.066695,-2.02667 v -2.45334 h 30.400095 v 2.45334 l -10.133365,2.02667 z"
          id="path2127" />
@@ -1111,7 +1019,8 @@
     <g
        aria-label="AaBbCcDdEeRrQq"
        id="text1728"
-       style="font-size:137.86px;line-height:1.25;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville, Normal';letter-spacing:0px;word-spacing:0px;fill:#004040;stroke-width:0.999999">
+       style="font-size:137.86px;line-height:1.25;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville, Normal';letter-spacing:0px;word-spacing:0px;fill:#004040;stroke-width:0.999999"
+       transform="translate(0,-16.469433)">
       <path
          d="M 112.96429,194.10789 H 76.15567 q -2.34362,5.65226 -3.99794,10.06378 -1.65432,4.27366 -2.7572,7.44444 -0.96502,3.17078 -1.3786,5.37654 -0.41358,2.20576 -0.41358,3.58436 0,3.86008 2.48148,5.37654 2.48148,1.3786 8.2716,1.3786 v 5.23868 H 44.86145 v -5.23868 q 3.17078,-0.41358 5.37654,-1.10288 2.34362,-0.6893 3.99794,-1.93004 1.79218,-1.24074 3.03292,-3.17078 1.3786,-2.0679 2.61934,-4.96296 l 35.8436,-89.74686 h 5.92798 l 31.29422,77.75304 q 3.17078,7.72016 5.5144,12.4074 2.34362,4.54938 4.54938,6.893 2.20576,2.34362 4.68724,3.03292 2.61934,0.6893 6.2037,0.6893 v 5.37654 h -44.94236 v -5.37654 q 7.30658,0 10.06378,-1.3786 2.7572,-1.3786 2.7572,-4.54938 0,-1.3786 -0.13786,-2.48148 -0.13786,-1.24074 -0.55144,-2.61934 -0.27572,-1.3786 -0.96502,-3.03292 -0.55144,-1.79218 -1.51646,-4.1358 z m -34.05142,-6.893 h 31.43208 l -15.30246,-40.6687 z"
          id="path2080" />
@@ -1158,7 +1067,8 @@
     <g
        aria-label="AaBbCcDdEeRrQq"
        id="text14905"
-       style="font-size:137.86px;line-height:1.25;font-family:'Libre Caslon Text';-inkscape-font-specification:'Libre Caslon Text, Normal';letter-spacing:0px;word-spacing:0px;fill:#004040;stroke-width:0.999999">
+       style="font-size:137.86px;line-height:1.25;font-family:'Libre Caslon Text';-inkscape-font-specification:'Libre Caslon Text, Normal';letter-spacing:0px;word-spacing:0px;fill:#004040;stroke-width:0.999999"
+       transform="translate(0,2.000123)">
       <path
          d="m 135.43547,447.8218 q 1.24074,3.30864 2.61934,4.96296 1.3786,1.65432 3.86008,2.34362 2.61934,0.6893 7.5823,1.10288 v 3.17078 h -43.83948 v -3.17078 q 6.34156,-0.27572 9.23662,-0.6893 3.03292,-0.55144 3.99794,-1.3786 0.96502,-0.96502 0.96502,-2.48148 0,-2.0679 -1.51646,-6.06584 l -9.09876,-25.22838 H 75.87995 l -7.44444,20.81686 q -1.51646,4.27366 -1.51646,6.47942 0,3.58436 3.4465,5.5144 3.4465,1.93004 10.75308,3.03292 v 3.17078 H 42.37997 v -3.17078 q 7.16872,-1.10288 10.75308,-2.7572 3.72222,-1.65432 5.5144,-4.27366 1.79218,-2.7572 3.72222,-8.2716 l 26.74484,-74.85798 -3.58436,-8.13374 13.51028,-7.44444 z M 107.17417,414.87326 92.69887,374.756 h -0.55144 l -14.33744,40.11726 z"
          id="path2176" />

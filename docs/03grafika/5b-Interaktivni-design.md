@@ -5,10 +5,12 @@ sidebar_position: 7
 ---
 
 # Interaktivní design
-Fonty vyhovují standardu.
+Návrhy pro interaktivní média vyžadují plánování pro různé režimy zobrazení, a formát zobrazení navíc nemusí být pevně určen (což může vytvářet potíže například u proporcí). Nicméně platí stejné konceptuální zásady designu jako u tiskovin.
 
 ## Webové stránky
+- stránky, portfolia, obchody, prezentace, informační a dokumentační projekty
 ### Wireframes
+- mockup a wireframe
 ### Grafické prvky
 ### Programování a design
 ### Univerzální design
@@ -21,6 +23,7 @@ Fonty vyhovují standardu.
 :::
 
 ## Uživatelská rozhraní
+Uživatelská rozhraní pro interaktivní aplikace  (GUI). Konzistence grafických prvků.
 ### Metodika
 Pravidla návrhů UI.
 ### Struktury
@@ -32,10 +35,8 @@ Rozdílem oproti designu pro tiskoviny je především variabilita rozměrů dig
 
 :::
 ### Ikony
+Ikony jsou miniaturní hieroglyfy.
 
-
-## Interaktivní aplikace
-Konzistence grafických prvků.
 
 :::note Poznámka
 
@@ -52,16 +53,11 @@ Součástí grafického designu může být animace textu nebo grafiky. Pro tako
 
  Animované logo v .svg formátu
 
-
- ![image](../img/wacom.jpg)
-
 :::
 
 :::note Úkol
 
  Návrh sady ikon.
 
-
- ![image](../img/wacom.jpg)
 
 :::

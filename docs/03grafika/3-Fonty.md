@@ -10,6 +10,8 @@ Font je definovaná kolekce písem a znaků (glyfů), které sdílejí společn�
 :::note Co je font?
 **Rodina písma** (*Typeface*) se často zjednodušeně označuje jako font. Font je ale technicky a historicky kolekce znaků (glyfů), které mohou náležet i do jedné rodiny písem — také varianty **velikosti** nebo **řezu** se považují za samostatné fonty.
 
+![image](./images/fonts-family.svg)
+
 :::
 
 Klasická knižní písma mají zpravidla verzi kurzívy neboli italiky (*Italic*) a verze s nižší a vyšší váhou (*weight*), většinou označené jako Tučné (*Bold*) nebo Tenké (*Thin*). Některé sady obsahují mnoho takových variant — označovaných jako **řezy** — určených k tomu, aby se různé typy stejného písma daly spolu harmonicky použít.
@@ -47,8 +49,6 @@ Jednotlivé části písmene (glyfu) nemají sjednocenou terminologii. Přesto j
 
 - Encyklopedická znalost částí jednotlivých glyfů není tak důležitá jako pochopení jejich funkce — a mnoho těchto komponentů slouží právě k vyvažování pozitivního a negativního prostoru, ke zlepšení **čitelnosti** a **dynamiky** písma.
 :::
-
-Pokud se rozhodneš navrhovat písmo klasického typu (latinky odvozené od Římanů), budeš potřebovat hlubší znalost konstrukce písma než je předmětem tohoto kurzu, a nejlépe také studium kaligrafie.
 
 
 ![image](./images/fonts-anatomy.svg)
@@ -109,7 +109,13 @@ Vybráním variabilního fontu se objeví v nastavení Písmo <kbd>Shift</kbd>+<
 
 :::
 
+Fonty mohou existovat v různých jazykových verzích, nebo být navržené s mezinárodní kolekcí znaků.
+ 
+:::warning České znaky
 
+Zdaleka ne všechny fonty mají mezinárodní kódování znaků a jsou lokalizované. Pokud budeš tvořit návrhy v češtině, vždy zkontroluj jestli je písmo **plně** lokalizované (některá písma jsou lokalizovaná pouze částečně, takže některé znaky mohou chybět)!
+
+:::
 
 
 import Tabs from '@theme/Tabs';
@@ -129,6 +135,10 @@ import TabItem from '@theme/TabItem';
 
 ## Tvorba vlastních fontů
 
+Pokud se rozhodneš navrhovat písmo klasického typu (latinky odvozené od Římanů), budeš potřebovat hlubší znalost konstrukce písma než je předmětem tohoto kurzu (pomůže také studium kaligrafie).
+
+Akcidenční typy fontů si ale naopak vytvoříš poměrně snadno.
+
 :::note Poznámka
 
  Přestože je design vlastních fontů velice časově náročný. zejména pokud tvoříš kompletní sadu, základní principy se ti v praxi hodí pro tvorbu speciálních řad. Také speciální značky ve vlastním fontu ti mohou ušetřit hodně práce.
@@ -139,11 +149,21 @@ import TabItem from '@theme/TabItem';
 Konstrukce fontu vychází z designových zásad, které jsou společné pro všechny glyfy. Základem návrhu je řešení elementu glyfu nebo sady glyfů, které vytvoří jádro písmové sady.
 
 - Náčrt fontové sady.
+- vytvoř si mapu znaků, ve skicáři nebo v počítači
+- můžeš pracovat podle vzoru nebo podle vlastní inspirace
+- naskenuj mapu znaků, pokud jsi netvořil v kreslícím programu
 
 
 ### Vektorizace
 
 Převedení fontu na formát a nastavení ligatur, znaků a kerningu
+
+- mapu znaků otevři v Inkscapu
+- jednotlivé znaky překresli, a vyčisti přebytečné uzlové body a křivky
+- jednotlivé glyfy přesuň do vrstev
+- použij rozšíření
+- vyexportuj
+- kerning nastavíš v programu FontFoundry
 
 <Tabs
   groupId="jazykova-verze"
@@ -158,14 +178,6 @@ Převedení fontu na formát a nastavení ligatur, znaků a kerningu
 </Tabs>
 
 
-
-:::warning Poznámka
-
-Lokalizované fonty. Mezinárodní kódování znaků.
-
-:::
-
-
 ### Instalace
 
-Fonty se instalují v systému z menu. V Linuxu stačí fonty zkopírovat do adresáře ~.fonts.
+Fonty se instalují ve Windows z menu pravého tlačítka, nebo kliknutím na soubor s fontem a zvolením tlačítka Nainstalovat. V Linuxu stačí fonty zkopírovat do adresáře ~.fonts.

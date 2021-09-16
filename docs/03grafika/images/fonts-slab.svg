@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.1673333"
-     inkscape:cx="750.00002"
-     inkscape:cy="249.71446"
+     inkscape:zoom="0.41271465"
+     inkscape:cx="606.95689"
+     inkscape:cy="267.73947"
      inkscape:current-layer="layer1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -902,14 +902,6 @@
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       style="fill:#ff8000;fill-opacity:1;stroke:none;stroke-width:0.999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 1656.0062,5.7390735 V 56.076493 l 50.9701,25.16874 v -50.33745 z"
-       id="path1786412" />
-    <path
-       style="fill:#804000;fill-opacity:1;stroke:none;stroke-width:0.999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1656.0062,-44.598376 50.9701,-25.168711 v 50.337421 l -50.9701,25.1687395 z"
-       id="path1786414" />
     <g
        id="g400843"
        transform="translate(417.90701,-49.780313)"
@@ -1013,28 +1005,6 @@
          transform="scale(-1,1)"
          inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:156.747px;line-height:1.25;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:1"
-       x="-374.95013"
-       y="617.60858"
-       id="text2140164"><tspan
-         sodipodi:role="line"
-         id="tspan2140162"
-         x="-374.95013"
-         y="617.60858"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:156.747px;font-family:Bitter;-inkscape-font-specification:'Bitter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">Bitter</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:156.747px;line-height:1.25;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:1"
-       x="-371.77597"
-       y="783.47522"
-       id="text2140776"><tspan
-         sodipodi:role="line"
-         id="tspan2140774"
-         x="-371.77597"
-         y="783.47522"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:156.747px;font-family:Merriweather;-inkscape-font-specification:'Merriweather, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">Merriweather</tspan></text>
     <g
        aria-label="Roboto Slab"
        id="text2146853"
@@ -1158,26 +1128,6 @@
          d="m 1166.2051,260.57364 v -8.54893 l 10.9722,-1.88481 v -24.43514 q -3.5003,4.10618 -8.347,6.19293 -4.7793,2.08674 -10.9049,2.08674 -8.8855,0 -15.2804,-4.37543 -6.3276,-4.44276 -9.6933,-12.31855 -3.3657,-7.87579 -3.3657,-18.37685 V 197.5 q 0,-11.71271 3.3657,-20.53091 3.3657,-8.81819 9.7606,-13.66483 6.3949,-4.91396 15.3477,-4.91396 6.3949,0 11.3761,2.42332 4.9813,2.35601 8.4817,6.93339 l 1.077,-8.01042 h 11.4435 v 90.40331 l 10.2991,1.88481 v 8.54893 z m -4.914,-36.95563 q 5.5198,0 9.3567,-2.42332 3.9042,-2.42332 6.5295,-6.86608 v -36.55174 q -2.6253,-4.10619 -6.5295,-6.52951 -3.9042,-2.42332 -9.2221,-2.42332 -6.3275,0 -10.4337,3.7023 -4.1062,3.63498 -6.1256,10.09717 -2.0195,6.46218 -2.0195,14.87649 v 1.4136 q 0,11.03957 4.5101,17.90565 4.5101,6.79876 13.9341,6.79876 z"
          id="path203" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:156.747px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:1"
-       x="747.23242"
-       y="889.78845"
-       id="text2150343-7"><tspan
-         sodipodi:role="line"
-         id="tspan2150341-0"
-         x="747.23242"
-         y="889.78845"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:156.747px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">Roboto Slab</tspan></text>
-    <rect
-       style="fill:#004040;stroke-width:25.9465;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000;fill-opacity:1"
-       id="rect5902"
-       width="202.41771"
-       height="178.60725"
-       x="-433.22452"
-       y="86.168777"
-       rx="3.7799101"
-       ry="3.7799101" />
     <g
        aria-label="AaBbCcDdEeRrQq"
        id="text14905"
