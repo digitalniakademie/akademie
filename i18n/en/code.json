@@ -1,4 +1,22 @@
 {
+  "Digitální malba a modelování": {
+    "message": "Digital Painting and 3D Modeling"
+  },
+  "Nauč se malovat v rychlokurzu digitální malby! Program ukazuje techniky, založené na klasické kresbě a malbě, upravené pro efektivní digitální tvorbu a design.": {
+    "message": "en Nauč se malovat v rychlokurzu digitální malby! Program ukazuje techniky, založené na klasické kresbě a malbě, upravené pro efektivní digitální tvorbu a design."
+  },
+  "Grafika a typografie": {
+    "message": "Graphic Design and Typesetting"
+  },
+  "Chceš vědět víc o grafickém designu a tvorbě knih? Kurzy navazují na program digitální malby a rozšiřují téma o užitnou grafiku a digitální sazbu.": {
+    "message": "en Chceš vědět víc o grafickém designu a tvorbě knih? Kurzy navazují na program digitální malby a rozšiřují téma o užitnou grafiku a digitální sazbu."
+  },
+  "Filmový střih a animace": {
+    "message": "Film Editing and Animation"
+  },
+  "Filmový střih přesouvá kreativitu do další dimenze. Objev základy filmového vyprávění a práci s časem! V kurzech využiješ svoje znalosti grafiky pro tvorbu trikových a 3D animací a vizuálních efektů.": {
+    "message": "en Filmový střih přesouvá kreativitu do další dimenze. Objev základy filmového vyprávění a práci s časem! V kurzech využiješ svoje znalosti grafiky pro tvorbu trikových a 3D animací a vizuálních efektů."
+  },
   "Digitální Akademie": {
     "message": "Digital Academy"
   },
@@ -6,26 +24,7 @@
     "message": "Creative Short Courses Are Cool"
   },
   "Co zde najdete - 3 min ⏱️": {
-    "message": "What You Can Find Here - 3 min ⏱️"
-  },
-  "Digitální malba a modelování": {
-    "message": "Digital Painting and 3D Modeling"
-  },
-  "Nauč se malovat v rychlokurzu digitální malby! Program ukazuje techniky, založené na klasické kresbě a malbě, upravené pro efektivní digitální tvorbu a design.": {
-    "message": "1Nauč se malovat v rychlokurzu digitální malby! Program ukazuje techniky, založené na klasické kresbě a malbě, upravené pro efektivní digitální tvorbu a design."
-  },
-  "Grafika a typografie": {
-    "message": "Graphic Design and Typesetting"
-  },
-  "Chceš vědět víc o grafickém designu a tvorbě knih? Kurzy navazují  na program digitální malby
-  a rozšiřují téma o užitnou grafiku a digitální sazbu.": {
-    "message": "1 Chceš vědět víc o grafickém designu a tvorbě knih? Kurzy navazují na program digitální malby a rozšiřují téma o užitnou grafiku a digitální sazbu."
-  },
-  "Filmový střih a animace": {
-    "message": "Film Editing and Animation"
-  },
-  "Filmový střih přesouvá kreativitu do další dimenze. Objev základy filmového vyprávění a práci s časem! V kurzech využiješ svoje znalosti grafiky pro tvorbu trikových a 3D animací a vizuálních efektů.": {
-    "message": "1Filmový střih přesouvá kreativitu do další dimenze. Objev základy filmového vyprávění a práci s časem! V kurzech využiješ svoje znalosti grafiky pro tvorbu trikových a 3D animací a vizuálních efektů."
+    "message": "What You Can Find Here? - 3 min ⏱️"
   },
   "theme.NotFound.title": {
     "message": "Page Not Found",
