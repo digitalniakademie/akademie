@@ -4,7 +4,7 @@
     "description": "The title in the navbar"
   },
   "item.label.Rychlokurzy": {
-    "message": "Rychlokurzy",
+    "message": "Cursos",
     "description": "Navbar item with label Rychlokurzy"
   },
   "item.label.Blog": {
@@ -12,11 +12,11 @@
     "description": "Navbar item with label Blog"
   },
   "item.label.Instalace": {
-    "message": "Instalace",
+    "message": "Instalación",
     "description": "Navbar item with label Instalace"
   },
   "item.label.Studijní materiály": {
-    "message": "Studijní materiály",
+    "message": "Materiales de Estudio",
     "description": "Navbar item with label Studijní materiály"
   }
 }

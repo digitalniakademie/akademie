@@ -4,6 +4,20 @@ module.exports = {
   i18n: {
     defaultLocale: 'cs',
     locales: ['cs', 'en', 'de', 'es' ],
+    localeConfigs: {
+      cs: {
+        label: 'Česky',
+      },
+      en: {
+        label: 'English',
+      },
+      de: {
+        label: 'Deutsch',
+      },
+      es: {
+        label: 'Español',
+      },
+    },
   },
   title: 'Digitální Akademie',
   tagline: 'Kreativní rychlokurzy jsou prima',
