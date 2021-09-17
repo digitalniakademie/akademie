@@ -1,0 +1,46 @@
+{
+  "link.title.Rychlokurzy": {
+    "message": "Schnellkurse",
+    "description": "The title of the footer links column with title=Rychlokurzy in the footer"
+  },
+  "link.title.Komunita": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Komunita in the footer"
+  },
+  "link.title.Novinky": {
+    "message": "Neu",
+    "description": "The title of the footer links column with title=Novinky in the footer"
+  },
+  "link.item.label.Úvodem": {
+    "message": "Einführung",
+    "description": "The label of footer link with label=Úvodem linking to /docs/intro"
+  },
+  "link.item.label.Software": {
+    "message": "Software",
+    "description": "The label of footer link with label=Software linking to /docs/software"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "The label of footer link with label=Instagram linking to https://www.instagram.com/digitalniakademie"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://discord.gg/VUZjQhaP4e"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/DigiAkademie"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to /blog"
+  },
+  "link.item.label.Materiály ke stažení": {
+    "message": "Herunterladen",
+    "description": "The label of footer link with label=Materiály ke stažení linking to https://github.com/digitalniakademie/akademieskripta"
+  },
+  "copyright": {
+    "message": "Copyright © 2021 Digitální Akademie. Texte und Illustrationen von Daniel Sandner © 2021. Der Inhalt dieses Projekts selbst ist unter der <a href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/\">Creative Commons (CC BY-NC-ND 4.0)</a> lizenziert, und der zugrunde liegende Quellcode, der zum Formatieren und Anzeigen dieser Inhalte verwendet wird, ist unter der <a href=\"https://github.com/github/choosealicense.com/blob/gh-pages/LICENSE.md\">MIT-Lizenz</a> lizenziert.",
+    "description": "The footer copyright"
+  }
+}

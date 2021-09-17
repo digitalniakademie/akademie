@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Digitální Akademie",
+    "description": "The title in the navbar"
+  },
+  "item.label.Rychlokurzy": {
+    "message": "Rychlokurzy",
+    "description": "Navbar item with label Rychlokurzy"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Instalace": {
+    "message": "Instalace",
+    "description": "Navbar item with label Instalace"
+  },
+  "item.label.Studijní materiály": {
+    "message": "Studijní materiály",
+    "description": "Navbar item with label Studijní materiály"
+  }
+}

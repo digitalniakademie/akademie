@@ -1,8 +1,9 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
+
 module.exports = {
   i18n: {
-    defaultLocale: 'cz',
-    locales: ['cz', 'en'],
+    defaultLocale: 'cs',
+    locales: ['cs', 'en', 'de', 'es' ],
   },
   title: 'Digitální Akademie',
   tagline: 'Kreativní rychlokurzy jsou prima',
@@ -29,6 +30,10 @@ module.exports = {
           label: 'Rychlokurzy',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
+        {
+          type: 'localeDropdown',
+          position: 'left',
+        },
         {
           type: 'doc',
           docId: 'pokyny',

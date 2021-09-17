@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Digitální kresba a malba ": {
+    "message": "Digitální kresba a malba ",
+    "description": "The label for category Digitální kresba a malba  in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Modelování a sochařství": {
+    "message": "Modelování a sochařství",
+    "description": "The label for category Modelování a sochařství in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Grafika a typografie": {
+    "message": "Grafika a typografie",
+    "description": "The label for category Grafika a typografie in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Fotografie a retuše": {
+    "message": "Fotografie a retuše",
+    "description": "The label for category Fotografie a retuše in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Filmový střih": {
+    "message": "Filmový střih",
+    "description": "The label for category Filmový střih in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Animace a vizuální efekty": {
+    "message": "Animace a vizuální efekty",
+    "description": "The label for category Animace a vizuální efekty in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.CAD a 3D design": {
+    "message": "CAD a 3D design",
+    "description": "The label for category CAD a 3D design in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Knihy": {
+    "message": "Knihy",
+    "description": "The label for category Knihy in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Teorie umění": {
+    "message": "Teorie umění",
+    "description": "The label for category Teorie umění in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tipy pro další studium": {
+    "message": "Tipy pro další studium",
+    "description": "The label for category Tipy pro další studium in sidebar tutorialSidebar"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "link.title.Rychlokurzy": {
+    "message": "Short Courses",
+    "description": "The title of the footer links column with title=Rychlokurzy in the footer"
+  },
+  "link.title.Komunita": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Komunita in the footer"
+  },
+  "link.title.Novinky": {
+    "message": "News",
+    "description": "The title of the footer links column with title=Novinky in the footer"
+  },
+  "link.item.label.Úvodem": {
+    "message": "Intro",
+    "description": "The label of footer link with label=Úvodem linking to /docs/intro"
+  },
+  "link.item.label.Software": {
+    "message": "Software",
+    "description": "The label of footer link with label=Software linking to /docs/software"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "The label of footer link with label=Instagram linking to https://www.instagram.com/digitalniakademie"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://discord.gg/VUZjQhaP4e"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/DigiAkademie"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to /blog"
+  },
+  "link.item.label.Materiály ke stažení": {
+    "message": "Downloads",
+    "description": "The label of footer link with label=Materiály ke stažení linking to https://github.com/digitalniakademie/akademieskripta"
+  },
+  "copyright": {
+    "message": "Copyright © 2021 Digitální Akademie. Written and Illustrated by Daniel Sandner © 2021. The content of this project itself is licensed under the <a href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/\">Creative Commons (CC BY-NC-ND 4.0)</a> license and the underlying source code used to format and display that content is licensed under the <a href=\"https://github.com/github/choosealicense.com/blob/gh-pages/LICENSE.md\">MIT license</a>.",
+    "description": "The footer copyright"
+  }
+}

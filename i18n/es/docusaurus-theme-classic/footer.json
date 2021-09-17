@@ -1,0 +1,46 @@
+{
+  "link.title.Rychlokurzy": {
+    "message": "Cursos",
+    "description": "The title of the footer links column with title=Rychlokurzy in the footer"
+  },
+  "link.title.Komunita": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Komunita in the footer"
+  },
+  "link.title.Novinky": {
+    "message": "Noticias",
+    "description": "The title of the footer links column with title=Novinky in the footer"
+  },
+  "link.item.label.Úvodem": {
+    "message": "Introducción",
+    "description": "The label of footer link with label=Úvodem linking to /docs/intro"
+  },
+  "link.item.label.Software": {
+    "message": "Software",
+    "description": "The label of footer link with label=Software linking to /docs/software"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "The label of footer link with label=Instagram linking to https://www.instagram.com/digitalniakademie"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://discord.gg/VUZjQhaP4e"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/DigiAkademie"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to /blog"
+  },
+  "link.item.label.Materiály ke stažení": {
+    "message": "Descargar",
+    "description": "The label of footer link with label=Materiály ke stažení linking to https://github.com/digitalniakademie/akademieskripta"
+  },
+  "copyright": {
+    "message": "Copyright © 2021 Digitální Akademie. Escrito e ilustrado por Daniel Sandner © 2021. El contenido de este proyecto en sí está autorizado bajo la licencia  <a href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/\">Creative Commons (CC BY-NC-ND 4.0)</a>, y el código fuente subyacente utilizado para formatear y mostrar ese contenido está bajo la <a href=\"https://github.com/github/choosealicense.com/blob/gh-pages/LICENSE.md\">licencia MIT</a>. ",
+    "description": "The footer copyright"
+  }
+}
