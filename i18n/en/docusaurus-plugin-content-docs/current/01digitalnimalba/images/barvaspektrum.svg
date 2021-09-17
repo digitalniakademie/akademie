@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="540"
+   viewBox="0 0 1080 540"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="barvaspektrum.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview32418"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.66535631"
+     inkscape:cx="680.08673"
+     inkscape:cy="307.35411"
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true" />
+  <defs
+     id="defs32413">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient82386">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop82372" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="0.08842283"
+         id="stop82388" />
+      <stop
+         style="stop-color:#ff7f2a;stop-opacity:1"
+         offset="0.20281658"
+         id="stop82374" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1"
+         offset="0.35648465"
+         id="stop82376" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1"
+         offset="0.49753001"
+         id="stop82378" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1"
+         offset="0.64049619"
+         id="stop82380" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1"
+         offset="0.78908777"
+         id="stop82382" />
+      <stop
+         style="stop-color:#680096;stop-opacity:1;"
+         offset="0.91904104"
+         id="stop82823" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop82384" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient81202">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="0"
+         id="stop81198" />
+      <stop
+         style="stop-color:#ff7f2a;stop-opacity:1"
+         offset="0.20281658"
+         id="stop81408" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1"
+         offset="0.35648465"
+         id="stop81474" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1"
+         offset="0.49753001"
+         id="stop81604" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1"
+         offset="0.64049619"
+         id="stop81734" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1"
+         offset="0.78908777"
+         id="stop81864" />
+      <stop
+         style="stop-color:#800080;stop-opacity:1"
+         offset="1"
+         id="stop81200" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient81202"
+       id="linearGradient81204"
+       x1="24.550251"
+       y1="110.99898"
+       x2="794.72461"
+       y2="110.99899"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0621846,0,0,1.0621846,17.216386,144.42225)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient82386"
+       id="linearGradient82106"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0621846,0,0,1.0621846,17.216386,-32.766063)"
+       x1="24.550251"
+       y1="110.99898"
+       x2="794.72461"
+       y2="110.99899" />
+  </defs>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.258267"
+       id="rect45522"
+       width="6.3157067"
+       height="20.832041"
+       x="-1062.1268"
+       y="486.24539"
+       inkscape:export-xdpi="96.534714"
+       inkscape:export-ydpi="96.534714"
+       transform="scale(-1,1)"
+       inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
+    <rect
+       style="fill:#fe8081;fill-opacity:1;fill-rule:evenodd;stroke-width:0.258267"
+       id="rect45524"
+       width="6.3157067"
+       height="20.832041"
+       x="-1055.8112"
+       y="486.24539"
+       inkscape:export-xdpi="96.534714"
+       inkscape:export-ydpi="96.534714"
+       transform="scale(-1,1)"
+       inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
+    <rect
+       style="fill:#ffd42a;fill-rule:evenodd;stroke-width:0.258267"
+       id="rect45526"
+       width="6.3157067"
+       height="20.832041"
+       x="-1049.4954"
+       y="486.24539"
+       inkscape:export-xdpi="96.534714"
+       inkscape:export-ydpi="96.534714"
+       transform="scale(-1,1)"
+       inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
+    <path
+       id="path45528"
+       style="fill:#ffb380;fill-rule:evenodd;stroke-width:0.258267"
+       d="m 1062.1269,507.07744 h -18.9471 l 8.7686,13.97104 h 1.41 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="96.534714"
+       inkscape:export-ydpi="96.534714"
+       inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
+    <path
+       id="path45530"
+       style="fill:#f4e3d7;fill-rule:evenodd;stroke-width:0.258267"
+       d="m 1062.1269,507.07744 h -6.3156 l -3.3174,14.09288 0.8645,-0.12184 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="96.534714"
+       inkscape:export-ydpi="96.534714"
+       inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
+    <path
+       id="path45532"
+       style="fill:#d38d5f;fill-rule:evenodd;stroke-width:0.258267"
+       d="m 1043.1799,507.07744 h 6.3157 l 3.3173,14.09288 -0.8644,-0.12184 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="96.534714"
+       inkscape:export-ydpi="96.534714"
+       inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
+    <path
+       id="path45534"
+       style="fill:#333333;fill-rule:evenodd;stroke-width:0.258267"
+       d="m 1056.4724,516.12331 -7.7017,-0.1075 3.5196,5.53665 0.7035,-0.0131 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="96.534714"
+       inkscape:export-ydpi="96.534714"
+       inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
+    <ellipse
+       style="fill:#8080ff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.258267"
+       id="ellipse45536"
+       cx="-1052.6215"
+       cy="525.61383"
+       rx="9.5167303"
+       ry="1.9033457"
+       inkscape:export-xdpi="96.534714"
+       inkscape:export-ydpi="96.534714"
+       transform="scale(-1,1)"
+       inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
+    <ellipse
+       style="fill:#f4e3d7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.258267"
+       id="ellipse45538"
+       cx="-1052.6215"
+       cy="486.1275"
+       rx="9.5167303"
+       ry="1.9033457"
+       inkscape:export-xdpi="96.534714"
+       inkscape:export-ydpi="96.534714"
+       transform="scale(-1,1)"
+       inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
+    <ellipse
+       style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke-width:0.258263"
+       id="ellipse45540"
+       cx="-1052.6215"
+       cy="486.12732"
+       rx="3.7002831"
+       ry="0.74005651"
+       inkscape:export-xdpi="96.534714"
+       inkscape:export-ydpi="96.534714"
+       transform="scale(-1,1)"
+       inkscape:export-filename="C:\Users\dansa\Documents\Krita-Malba\ellipse45540.png" />
+    <rect
+       style="fill:#ff000b;stroke-width:4.08326"
+       id="rect230"
+       width="117.52482"
+       height="117.52482"
+       x="38.686855"
+       y="397.7536" />
+    <rect
+       style="fill:#ff8000;fill-opacity:1;stroke-width:4.08326"
+       id="rect232"
+       width="117.52482"
+       height="117.52482"
+       x="156.21169"
+       y="397.7536" />
+    <rect
+       style="fill:#ffff00;stroke-width:4.08326"
+       id="rect314"
+       width="117.52482"
+       height="117.52482"
+       x="273.73648"
+       y="397.7536" />
+    <rect
+       style="fill:#00ff00;stroke-width:4.08326"
+       id="rect316"
+       width="117.52482"
+       height="117.52482"
+       x="391.26132"
+       y="397.7536" />
+    <rect
+       style="fill:#00ffff;stroke-width:4.08326"
+       id="rect318"
+       width="117.52482"
+       height="117.52482"
+       x="508.78613"
+       y="397.7536" />
+    <rect
+       style="fill:#0000ff;stroke-width:4.08326"
+       id="rect320"
+       width="117.52482"
+       height="117.52482"
+       x="626.31091"
+       y="397.7536" />
+    <rect
+       style="fill:#800080;stroke-width:4.08326"
+       id="rect322"
+       width="117.52482"
+       height="117.52482"
+       x="743.83575"
+       y="397.7536" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.995px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06218"
+       x="66.598167"
+       y="503.01486"
+       id="text9559"><tspan
+         sodipodi:role="line"
+         id="tspan9557"
+         x="66.598167"
+         y="503.01486"
+         style="stroke-width:1.06218">rubeus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.995px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06218"
+       x="182.11678"
+       y="503.01486"
+       id="text13435"><tspan
+         sodipodi:role="line"
+         id="tspan13433"
+         x="182.11678"
+         y="503.01486"
+         style="stroke-width:1.06218">aureus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.995px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06218"
+       x="303.62759"
+       y="503.01486"
+       id="text20969"><tspan
+         sodipodi:role="line"
+         id="tspan20967"
+         x="303.62759"
+         y="503.01486"
+         style="stroke-width:1.06218">flavus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.995px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06218"
+       x="425.29712"
+       y="503.01486"
+       id="text28101"><tspan
+         sodipodi:role="line"
+         id="tspan28099"
+         x="425.29712"
+         y="503.01486"
+         style="stroke-width:1.06218">viridis</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.995px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06218"
+       x="530.22021"
+       y="503.01486"
+       id="text35615"><tspan
+         sodipodi:role="line"
+         id="tspan35613"
+         x="530.22021"
+         y="503.01486"
+         style="stroke-width:1.06218">cæruleus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.995px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06218"
+       x="657.64386"
+       y="503.01486"
+       id="text59027"><tspan
+         sodipodi:role="line"
+         id="tspan59025"
+         x="657.64386"
+         y="503.01486"
+         style="stroke-width:1.06218">indicus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.995px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06218"
+       x="767.13055"
+       y="503.01486"
+       id="text72455"><tspan
+         sodipodi:role="line"
+         id="tspan72453"
+         x="767.13055"
+         y="503.01486"
+         style="stroke-width:1.06218">violaceus</tspan></text>
+    <rect
+       style="fill:url(#linearGradient81204);fill-opacity:1;stroke-width:3.07114"
+       id="rect80940"
+       width="822.67377"
+       height="117.5248"
+       x="38.686855"
+       y="211.87758" />
+    <rect
+       style="fill:url(#linearGradient82106);fill-opacity:1;stroke-width:3.07114"
+       id="rect82104"
+       width="822.67377"
+       height="117.5248"
+       x="38.686855"
+       y="34.689262" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.995px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06218"
+       x="66.598167"
+       y="503.01486"
+       id="text83338"><tspan
+         sodipodi:role="line"
+         id="tspan83336"
+         x="66.598167"
+         y="503.01486"
+         style="stroke-width:1.06218">rubeus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.995px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06218"
+       x="53.851948"
+       y="134.42497"
+       id="text83342"><tspan
+         sodipodi:role="line"
+         id="tspan83340"
+         x="53.851948"
+         y="134.42497"
+         style="stroke-width:1.06218">~700nm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.995px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06218"
+       x="778.3031"
+       y="134.42497"
+       id="text90526"><tspan
+         sodipodi:role="line"
+         id="tspan90524"
+         x="778.3031"
+         y="134.42497"
+         style="stroke-width:1.06218">~400nm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.995px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06218"
+       x="547.15619"
+       y="134.42497"
+       id="text96933"><tspan
+         sodipodi:role="line"
+         id="tspan96931"
+         x="547.15619"
+         y="134.42497"
+         style="stroke-width:1.06218">~500nm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.995px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06218"
+       x="250.19536"
+       y="134.42497"
+       id="text101849"><tspan
+         sodipodi:role="line"
+         id="tspan101847"
+         x="250.19536"
+         y="134.42497"
+         style="stroke-width:1.06218">~600nm</tspan></text>
+    <path
+       id="rect191751"
+       style="stroke-width:2.89134;fill:#200000;fill-opacity:1"
+       d="M 23.78676,109.76768 7.7025988,94.385306 23.78676,78.760654 h 15.697214 v 31.007026 z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="path196634"
+       style="fill:#200000;fill-opacity:1;stroke-width:2.89134"
+       d="m 873.76409,78.760654 16.08416,15.382374 -16.08416,15.624652 H 858.06688 V 78.760654 Z"
+       sodipodi:nodetypes="cccccc" />
+  </g>
+</svg>

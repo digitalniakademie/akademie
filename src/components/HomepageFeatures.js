@@ -15,16 +15,18 @@ const FeatureList = [
       </>
     ),
   },
+  
   {
     title: <Translate>Grafika a typografie</Translate>,
     Svg: require('../../static/img/ikona-2.svg').default,
     description: (
       <>
         <Translate>Chceš vědět víc o grafickém designu a tvorbě knih? Kurzy navazují  na program digitální malby
-        a rozšiřují téma o užitnou grafiku a digitální sazbu.</Translate>
+        a rozšiřují téma o užitnou grafiku a digitální sazbu tiskovin.</Translate>
          </>
     ),
   },
+
   {
     title: <Translate>Filmový střih a animace</Translate>,
     Svg: require('../../static/img/ikona-3.svg').default,
