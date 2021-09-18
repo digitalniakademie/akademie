@@ -1,0 +1,1708 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1500"
+   height="500"
+   viewBox="0 0 396.87499 132.29167"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="header-fonty2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="1500mm"
+     showguides="true"
+     units="px"
+     inkscape:zoom="1.1673333"
+     inkscape:cx="750"
+     inkscape:cy="249.71445"
+     inkscape:window-width="1920"
+     inkscape:window-height="989"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-paths="false"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-page="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       position="218.31298,217.18902"
+       orientation="0,-1"
+       id="guide14416" />
+    <sodipodi:guide
+       position="-435.3759,281.53274"
+       orientation="0,-1"
+       id="guide184101" />
+    <sodipodi:guide
+       position="-435.37589,281.53275"
+       orientation="0,-1"
+       id="guide184103" />
+    <sodipodi:guide
+       position="-431.61803,281.53276"
+       orientation="0,-1"
+       id="guide184105" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient388294">
+      <stop
+         style="stop-color:#f72605;stop-opacity:1;"
+         offset="0"
+         id="stop388290" />
+      <stop
+         style="stop-color:#f72605;stop-opacity:0;"
+         offset="1"
+         id="stop388292" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient384092">
+      <stop
+         style="stop-color:#ffe6d5;stop-opacity:1;"
+         offset="0"
+         id="stop384088" />
+      <stop
+         style="stop-color:#ffe6d5;stop-opacity:0;"
+         offset="1"
+         id="stop384090" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient353005">
+      <stop
+         style="stop-color:#a4852d;stop-opacity:1;"
+         offset="0"
+         id="stop353001" />
+      <stop
+         style="stop-color:#b48525;stop-opacity:1"
+         offset="1"
+         id="stop353003" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient342054">
+      <stop
+         style="stop-color:#c8861b;stop-opacity:1;"
+         offset="0"
+         id="stop342050" />
+      <stop
+         style="stop-color:#968534;stop-opacity:1"
+         offset="1"
+         id="stop342052" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient340423">
+      <stop
+         style="stop-color:#8f8438;stop-opacity:1;"
+         offset="0"
+         id="stop340419" />
+      <stop
+         style="stop-color:#8f8438;stop-opacity:0;"
+         offset="1"
+         id="stop340421" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient317447">
+      <stop
+         style="stop-color:#1266b3;stop-opacity:1;"
+         offset="0"
+         id="stop317443" />
+      <stop
+         style="stop-color:#1266b3;stop-opacity:0;"
+         offset="1"
+         id="stop317445" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient312300">
+      <stop
+         style="stop-color:#c8861b;stop-opacity:1;"
+         offset="0"
+         id="stop312296" />
+      <stop
+         style="stop-color:#008080;stop-opacity:1"
+         offset="1"
+         id="stop312298" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient311547">
+      <stop
+         style="stop-color:#c8861b;stop-opacity:1;"
+         offset="0"
+         id="stop311543" />
+      <stop
+         style="stop-color:#c8861b;stop-opacity:0;"
+         offset="1"
+         id="stop311545" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient271585">
+      <stop
+         style="stop-color:#c8861b;stop-opacity:1;"
+         offset="0"
+         id="stop271581" />
+      <stop
+         style="stop-color:#800000;stop-opacity:1"
+         offset="1"
+         id="stop271583" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient271585"
+       id="radialGradient271587"
+       cx="32.677933"
+       cy="15.404021"
+       fx="32.677933"
+       fy="15.404021"
+       r="19.058924"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-9.1805895e-7,1.9310423,-1.352013,0,53.504403,-47.698447)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient311547"
+       id="radialGradient311549"
+       cx="-39.197727"
+       cy="42.326279"
+       fx="-39.197727"
+       fy="42.326279"
+       r="1.5954301"
+       gradientTransform="matrix(0,-13.77155,9.4986427,-3.6654428e-7,-441.2399,-488.82122)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient312300"
+       id="radialGradient312146"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-9.1805895e-7,1.9310423,-1.352013,0,269.98083,16.8556)"
+       cx="32.677933"
+       cy="15.404021"
+       fx="32.677933"
+       fy="15.404021"
+       r="19.058924" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient317447"
+       id="linearGradient317449"
+       x1="13.097975"
+       y1="267.50385"
+       x2="13.097975"
+       y2="247.5574"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient271585"
+       id="radialGradient327685"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-3.5139313e-7,0.7391192,-0.51749191,0,166.8508,86.412988)"
+       cx="32.677933"
+       cy="15.404021"
+       fx="32.677933"
+       fy="15.404021"
+       r="19.058924" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient311547"
+       id="radialGradient336206"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-6.4009013,4.4148897,-1.7036671e-7,-77.952462,22.456798)"
+       cx="-39.197727"
+       cy="42.326279"
+       fx="-39.197727"
+       fy="42.326279"
+       r="1.5954301" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient342054"
+       id="radialGradient336210"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.44788783,0.30082364,-0.26279245,-0.39123762,316.6678,12.205687)"
+       cx="32.076191"
+       cy="24.401331"
+       fx="32.076191"
+       fy="24.401331"
+       r="19.058924" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient340423"
+       id="radialGradient340425"
+       cx="288.70718"
+       cy="27.289999"
+       fx="288.70718"
+       fy="27.289999"
+       r="8.858428"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.93271701,-0.67717303,0.58751582,0.80921269,6.5372389,206.29734)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient353005"
+       id="radialGradient353007"
+       cx="293.51752"
+       cy="8.1036158"
+       fx="293.51752"
+       fy="8.1036158"
+       r="4.429214"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.7750211,-0.90730338,0.31076517,0.95048672,-523.5181,266.71068)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient317447"
+       id="linearGradient358639"
+       gradientUnits="userSpaceOnUse"
+       x1="13.097975"
+       y1="267.50385"
+       x2="13.097975"
+       y2="247.5574"
+       gradientTransform="translate(6.2723663,-75.904628)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient384092"
+       id="radialGradient383894"
+       cx="364.01981"
+       cy="12.843109"
+       fx="364.01981"
+       fy="12.843109"
+       r="9.907095"
+       gradientTransform="matrix(2.3747154,0,0,0.77511722,-498.19114,4.488792)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient384092"
+       id="radialGradient384432"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.3747154,0,0,-0.77511722,1209.3761,21.738798)"
+       cx="364.01981"
+       cy="12.843109"
+       fx="364.01981"
+       fy="12.843109"
+       r="9.907095" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient388294"
+       id="linearGradient388426"
+       x1="361.77548"
+       y1="26.102125"
+       x2="352.47638"
+       y2="26.102125"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0244971,0,0,0.90741848,-7.9702798,4.3651798)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient311547"
+       id="radialGradient388658"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-23.918286,-12.231122,9.524631,-14.611866,-1004.6399,177.18592)"
+       cx="-39.197727"
+       cy="42.326279"
+       fx="-39.197727"
+       fy="42.326279"
+       r="1.5954301" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient311547"
+       id="radialGradient447843"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.44653957,-5.6179463,9.468779,0.75262088,-374.97329,-162.66987)"
+       cx="-39.197727"
+       cy="42.326279"
+       fx="-39.197727"
+       fy="42.326279"
+       r="1.5954301" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffe680;stroke:none;stroke-width:0.79375;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect659"
+       width="131.49791"
+       height="396.08124"
+       x="0.39687857"
+       y="-396.47812"
+       rx="1.0001012"
+       ry="1.0001012"
+       transform="rotate(90)"
+       sodipodi:insensitive="true" />
+    <rect
+       style="fill:#80e5ff;stroke:none;stroke-width:0.79375;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect869"
+       width="131.49791"
+       height="131.49791"
+       x="132.68854"
+       y="0.39687857"
+       rx="1.0001012"
+       ry="1.0001012"
+       sodipodi:insensitive="true" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.888288;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect81446"
+       width="49.285316"
+       height="49.285316"
+       x="172.49855"
+       y="24.642662"
+       rx="0.8568095"
+       ry="0.8568095"
+       transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.888288;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect81448"
+       width="49.285316"
+       height="49.285316"
+       x="123.21327"
+       y="24.642662"
+       rx="0.8568095"
+       ry="0.8568095"
+       transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.888288;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect81450"
+       width="49.285316"
+       height="49.285316"
+       x="73.927979"
+       y="24.642662"
+       rx="0.8568095"
+       ry="0.8568095"
+       transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.888288;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect81452"
+       width="49.285316"
+       height="49.285316"
+       x="172.49855"
+       y="-24.642647"
+       rx="0.8568095"
+       ry="0.8568095"
+       transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.888288;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect81454"
+       width="49.285316"
+       height="49.285316"
+       x="123.21327"
+       y="-24.642647"
+       rx="0.8568095"
+       ry="0.8568095"
+       transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#ff9955;stroke:#008080;stroke-width:0.889228;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect178423"
+       width="66.462036"
+       height="66.462036"
+       x="74.135368"
+       y="7.6733341"
+       rx="0.85596734"
+       ry="0.85596734"
+       transform="matrix(0.89561671,0.4448266,-0.89561671,0.4448266,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#f7573e;fill-opacity:1;stroke:#000000;stroke-width:0.888288;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect81456"
+       width="49.285316"
+       height="49.285316"
+       x="73.927979"
+       y="-24.642647"
+       rx="0.8568095"
+       ry="0.8568095"
+       transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.888288;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect81458"
+       width="49.285316"
+       height="49.285316"
+       x="172.49855"
+       y="-73.927994"
+       rx="0.8568095"
+       ry="0.8568095"
+       transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.888288;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect81460"
+       width="49.285316"
+       height="49.285316"
+       x="123.21327"
+       y="-73.927994"
+       rx="0.8568095"
+       ry="0.8568095"
+       transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.888288;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect81462"
+       width="49.285316"
+       height="49.285316"
+       x="73.927979"
+       y="-73.927994"
+       rx="0.8568095"
+       ry="0.8568095"
+       transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       style="fill:#801d0e;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 44.110215,43.969842 V 87.939684 L 88.220348,109.9246 V 65.954758 Z"
+       id="path81464"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       style="fill:#f72605;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 132.33051,43.969842 V 87.939684 L 88.220348,109.9246 V 65.954758 Z"
+       id="path81466"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <g
+       aria-label="a"
+       transform="skewY(25)"
+       id="text81470"
+       style="font-weight:bold;font-size:66.338px;line-height:1.25;font-family:'Libre Caslon Text';-inkscape-font-specification:'Libre Caslon Text, Bold';letter-spacing:0px;word-spacing:0px;fill:#eba026;stroke-width:0.264583"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482">
+      <path
+         d="m 57.384508,64.560921 q -4.112956,0 -6.434786,-2.056478 -2.32183,-2.122816 -2.32183,-5.771406 0,-4.975349 4.709998,-7.960559 4.709998,-2.98521 14.727035,-4.378308 v -4.842674 q 0,-3.117886 -0.398028,-4.709998 -0.33169,-1.592112 -1.194084,-2.255492 -0.796056,-0.66338 -2.454506,-0.66338 -2.520844,0 -3.98028,1.260422 -1.393097,1.194084 -1.393097,3.250562 0,0.464366 0.132676,1.525774 0.132676,0.928732 0.132676,1.393098 0,1.857464 -1.32676,3.184224 -1.32676,1.260422 -3.250562,1.260422 -1.923802,0 -3.184224,-1.260422 -1.194084,-1.260422 -1.194084,-3.250562 0,-2.122816 1.393098,-4.179294 1.393098,-2.056478 3.847604,-3.714928 5.108025,-3.3169 12.537881,-3.3169 6.899152,0 9.088306,3.3169 0.796056,1.260422 1.127746,3.3169 0.398028,1.99014 0.398028,5.572392 v 13.665627 q 0,2.918872 0.597042,4.245632 0.597042,1.32676 1.923802,1.32676 1.525774,0 2.918872,-1.592112 l 1.525774,2.189154 q -2.122816,2.255492 -4.510984,3.383238 -2.32183,1.061408 -5.174364,1.061408 -3.184224,0 -4.909012,-1.260422 -1.65845,-1.32676 -2.189154,-3.98028 h -0.265352 q -4.842674,5.240702 -10.879431,5.240702 z m 6.103095,-6.235772 q 2.786196,0 4.577322,-1.923802 v -8.889291 q -3.250562,0.66338 -5.041688,1.459436 -1.791126,0.796056 -2.587182,1.99014 -0.729717,1.127746 -0.729717,3.051547 0,2.189154 0.928731,3.250562 0.928732,1.061408 2.852534,1.061408 z"
+         id="path419525" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.888288;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect100092"
+       width="49.285316"
+       height="49.285316"
+       x="172.49855"
+       y="-73.927963"
+       rx="0.8568095"
+       ry="0.8568095"
+       transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#1266b3;stroke:#008080;stroke-width:0.889228;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;fill-opacity:1"
+       id="rect178425"
+       width="66.462036"
+       height="66.462036"
+       x="123.30033"
+       y="-90.915215"
+       rx="0.85596734"
+       ry="0.85596734"
+       transform="matrix(0.89561671,0.4448266,-0.89561671,0.4448266,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#f7573e;fill-opacity:1;stroke:#000000;stroke-width:0.888288;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect100094"
+       width="49.285316"
+       height="49.285316"
+       x="123.21327"
+       y="-123.21327"
+       rx="0.8568095"
+       ry="0.8568095"
+       transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       style="fill:#801d0e;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 176.44065,21.984926 v 43.969832 l 44.11013,21.984916 V 43.969842 Z"
+       id="path100096"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       style="fill:#f72605;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 264.66094,21.984926 V 65.954758 L 220.55078,87.939674 V 43.969842 Z"
+       id="path100098"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <g
+       aria-label="c"
+       transform="skewY(-28.088499)"
+       id="text100102"
+       style="font-weight:bold;font-size:66.338px;line-height:1.25;font-family:'Libre Caslon Text';-inkscape-font-specification:'Libre Caslon Text, Bold';letter-spacing:0px;word-spacing:0px;fill:#801d0e;stroke-width:0.264583"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482">
+      <path
+         d="m 242.34384,202.7616 q -5.10803,0 -9.22098,-2.25549 -4.04662,-2.32183 -6.36845,-6.36845 -2.25549,-4.04662 -2.25549,-9.15464 0,-5.37338 2.52084,-9.61901 2.52084,-4.31197 6.96549,-6.70014 4.51098,-2.38817 10.14971,-2.38817 3.98028,0 7.16451,1.19409 3.18422,1.12774 4.97535,3.18422 1.85746,1.99014 1.85746,4.44465 0,2.05647 -1.19408,3.25056 -1.19409,1.19408 -3.25056,1.19408 -2.2555,0 -3.18423,-1.19408 -0.92873,-1.26042 -1.19408,-3.11789 -0.33169,-2.71986 -1.3931,-4.11295 -0.99507,-1.3931 -3.44958,-1.3931 -4.17929,0 -6.50112,3.44957 -2.32183,3.44958 -2.32183,9.75169 0,6.36845 2.45451,9.68535 2.52084,3.3169 7.42985,3.3169 6.03676,0 9.81803,-4.37831 l 0.46436,-0.5307 1.85746,1.45943 -0.33169,0.79606 q -1.99013,4.70999 -5.7714,7.09816 -3.78127,2.38817 -9.22098,2.38817 z"
+         id="path419588" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.888288;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect126431"
+       width="49.285316"
+       height="49.285316"
+       x="271.06915"
+       y="-123.21328"
+       rx="0.8568095"
+       ry="0.8568095"
+       transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.888288;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect126433"
+       width="49.285316"
+       height="49.285316"
+       x="221.78387"
+       y="-123.21328"
+       rx="0.8568095"
+       ry="0.8568095"
+       transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#ff9955;stroke:#008080;stroke-width:0.889228;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect183928"
+       width="66.462036"
+       height="66.462036"
+       x="221.88876"
+       y="-140.08011"
+       rx="0.85596734"
+       ry="0.85596734"
+       transform="matrix(0.89561671,0.4448266,-0.89561671,0.4448266,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#167cd9;fill-opacity:1;stroke:#000000;stroke-width:0.888288;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect126439"
+       width="49.285316"
+       height="49.285316"
+       x="221.78387"
+       y="-172.49858"
+       rx="0.8568095"
+       ry="0.8568095"
+       transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       style="fill:#0d4980;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 308.77107,43.969819 V 87.93966 l 44.11013,21.98492 V 65.954735 Z"
+       id="path126447"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       style="fill:#1266b3;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 396.99137,43.969819 V 87.93966 L 352.8812,109.92458 V 65.954735 Z"
+       id="path126449"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <g
+       aria-label="B"
+       transform="skewY(-25)"
+       id="text140659"
+       style="font-weight:bold;font-size:51.4074px;line-height:1.25;font-family:'Libre Caslon Text';-inkscape-font-specification:'Libre Caslon Text, Bold';letter-spacing:0px;word-spacing:0.00172439px;fill:#004040;stroke-width:0.264583"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482">
+      <path
+         d="m 378.78621,252.319 0.46267,-0.71971 q 3.59851,0.0514 6.22029,0.92533 2.62178,0.82252 4.06118,2.7246 1.43941,1.85066 1.43941,4.98651 0,3.18726 -1.59363,5.44919 -1.54222,2.26192 -4.62666,3.44429 -3.08445,1.18237 -7.65971,1.18237 h -15.37081 v -3.70133 l 4.78089,-1.388 -0.97674,1.49082 v -28.78815 l 1.18237,1.54223 -4.98652,-1.388 v -3.70134 l 10.84696,-0.25703 h 5.29497 q 3.75274,0 6.37451,0.97674 2.62178,0.92533 4.00978,2.93022 1.388,1.95348 1.388,5.03792 0,4.21541 -2.72459,6.52874 -2.67319,2.26193 -8.12237,2.7246 z m -2.36474,-13.00608 h -4.67807 l 1.13096,-1.13096 v 12.18355 l -1.13096,-1.02814 h 3.54711 q 1.95348,0 3.4957,-0.46267 1.59363,-0.46267 2.51896,-1.59363 0.92533,-1.18237 0.92533,-3.18726 0,-1.90207 -0.77111,-2.93022 -0.77111,-1.02815 -2.1077,-1.43941 -1.28518,-0.41126 -2.93022,-0.41126 z m 0,25.75511 q 2.00489,0 3.59852,-0.46267 1.59363,-0.46266 2.51896,-1.64503 0.92533,-1.18237 0.92533,-3.23867 0,-2.00489 -0.82252,-3.13585 -0.82251,-1.18237 -2.1077,-1.64504 -1.28518,-0.46266 -2.82741,-0.46266 h -5.96325 l 1.13096,-1.28519 v 13.05748 l -1.13096,-1.18237 z"
+         style="font-family:Bitter;-inkscape-font-specification:'Bitter, Bold'"
+         id="path425602" />
+    </g>
+    <rect
+       style="fill:#e8b73e;fill-opacity:1;stroke:#000000;stroke-width:0.889035;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect184107"
+       width="23.032869"
+       height="23.032869"
+       x="186.93625"
+       y="64.230705"
+       rx="0.85680735"
+       ry="0.85680735"
+       transform="matrix(0.89549191,0.44507779,-0.89549191,0.44507779,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#e8b73e;fill-opacity:1;stroke:#000000;stroke-width:0.889035;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect184109"
+       width="23.032869"
+       height="23.032869"
+       x="163.90337"
+       y="41.197853"
+       rx="0.85680735"
+       ry="0.85680735"
+       transform="matrix(0.89549191,0.44507779,-0.89549191,0.44507779,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="mix-blend-mode:multiply;fill:#c8861b;fill-opacity:0.5;stroke:none;stroke-width:0.889035;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect195583"
+       width="23.032869"
+       height="23.032869"
+       x="163.90338"
+       y="64.230705"
+       rx="0.85680735"
+       ry="0.85680735"
+       transform="matrix(0.89549191,0.44507779,-0.89549191,0.44507779,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       style="fill:#c8861b;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 89.256078,101.53741 v 20.50284 l 20.625742,10.25141 v -20.50283 z"
+       id="path184111"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       style="fill:#e8b73e;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 130.50757,101.53741 v 20.50284 l -20.62575,10.25141 v -20.50283 z"
+       id="path184113"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <g
+       aria-label="x"
+       transform="skewY(-28.088499)"
+       id="text206804"
+       style="font-weight:bold;font-size:29.988px;line-height:1.25;font-family:'Libre Caslon Text';-inkscape-font-specification:'Libre Caslon Text, Bold';letter-spacing:0px;word-spacing:0px;fill:#801d0e;stroke-width:0.264583"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482">
+      <path
+         d="m 128.92246,188.06133 q 0.38984,0.56977 0.32987,0.80967 -0.03,0.20992 -0.53979,0.20992 h -3.83846 q -0.71971,0 -1.01959,-0.47981 l -3.08877,-4.34826 q -0.2399,-0.35986 -0.35985,-0.35986 -0.09,0 -0.35986,0.32987 l -3.14874,4.37825 q -0.29988,0.47981 -0.9896,0.47981 h -2.45902 q -0.5098,0 -0.68972,-0.26989 -0.17993,-0.2699 0.32986,-0.92963 l 4.91804,-6.32747 q 0.17992,-0.26989 0.14994,-0.44982 0,-0.20992 -0.17993,-0.47981 l -4.85806,-6.59736 q -0.20991,-0.26989 -0.09,-0.53978 0.11995,-0.29988 0.53978,-0.29988 h 3.65854 q 0.38984,0 0.59976,0.11995 0.20991,0.09 0.35985,0.35985 l 2.78889,3.92843 q 0.26989,0.41984 0.50979,0 l 2.63895,-3.92843 q 0.17993,-0.26989 0.35985,-0.35985 0.20992,-0.11995 0.62975,-0.11995 h 2.69892 q 0.44982,0 0.47981,0.20991 0.06,0.20992 -0.14994,0.47981 l -4.46821,6.05758 q -0.20992,0.26989 -0.17993,0.44982 0.03,0.17993 0.20992,0.44982 l 5.21791,7.22711 z"
+         style="font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Bold'"
+         id="path419546" />
+    </g>
+    <rect
+       style="fill:#e8b73e;fill-opacity:1;stroke:#000000;stroke-width:0.889035;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect215650"
+       width="23.032869"
+       height="23.032869"
+       x="107.96889"
+       y="-61.903156"
+       rx="0.85680735"
+       ry="0.85680735"
+       transform="matrix(0.89549191,0.44507779,-0.89549191,0.44507779,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#e8b73e;fill-opacity:1;stroke:#000000;stroke-width:0.889035;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect215652"
+       width="23.032869"
+       height="23.032869"
+       x="84.936005"
+       y="-84.936005"
+       rx="0.85680735"
+       ry="0.85680735"
+       transform="matrix(0.89549191,0.44507779,-0.89549191,0.44507779,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="mix-blend-mode:multiply;fill:#c8861b;fill-opacity:0.5;stroke:none;stroke-width:0.889035;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect215654"
+       width="23.032869"
+       height="23.032869"
+       x="84.93602"
+       y="-61.903156"
+       rx="0.85680735"
+       ry="0.85680735"
+       transform="matrix(0.89549191,0.44507779,-0.89549191,0.44507779,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       style="fill:#c8861b;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 131.49329,10.251411 v 20.50284 l 20.62575,10.251411 V 20.502831 Z"
+       id="path215656"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       style="fill:#e8b73e;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 172.74479,10.251411 v 20.50284 L 152.11904,41.005662 V 20.502831 Z"
+       id="path215658"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <g
+       aria-label="z"
+       transform="skewY(-28.088499)"
+       id="text215662"
+       style="font-size:29.988px;line-height:1.25;font-family:Domine;-inkscape-font-specification:'Domine, Normal';letter-spacing:0px;word-spacing:0px;fill:#801d0e;stroke-width:0.264583"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482">
+      <path
+         d="m 166.63148,118.65727 0.59976,-4.07837 h 1.70931 v 5.75769 h -13.28468 v -1.67932 l 9.83606,-12.83487 h -7.01719 l -0.71971,3.92843 h -1.70932 v -5.60776 h 12.77489 v 1.67933 l -9.83606,12.83487 z"
+         id="path419567" />
+    </g>
+    <path
+       style="mix-blend-mode:multiply;fill:#1266b3;fill-opacity:0.5;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 172.74479,10.251411 v 20.50284 l -20.62575,10.251411 -6.21809,-3.03103 0.98181,-21.61018 18.49971,-9.7662798 z"
+       id="path221846"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#e8b73e;fill-opacity:1;stroke:#000000;stroke-width:0.891725;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect227608"
+       width="11.469172"
+       height="11.469172"
+       x="129.80859"
+       y="106.87024"
+       rx="0.85678065"
+       ry="0.85678065"
+       transform="matrix(0.89724564,0.44153172,-0.89724564,0.44153172,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#ecc360;fill-opacity:1;stroke:#000000;stroke-width:0.891725;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect227610"
+       width="11.469172"
+       height="11.469172"
+       x="118.3394"
+       y="95.401077"
+       rx="0.85678065"
+       ry="0.85678065"
+       transform="matrix(0.89724564,0.44153172,-0.89724564,0.44153172,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="mix-blend-mode:multiply;fill:#c8861b;fill-opacity:0.5;stroke:none;stroke-width:0.891725;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect227612"
+       width="11.469172"
+       height="11.469172"
+       x="118.33941"
+       y="106.87024"
+       rx="0.85678065"
+       ry="0.85678065"
+       transform="matrix(0.89724564,0.44153172,-0.89724564,0.44153172,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       style="fill:#c8861b;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 10.290662,99.437201 v 10.128009 l 10.290666,5.064 V 104.5012 Z"
+       id="path227614"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       style="fill:#e8b73e;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 30.871993,99.437201 v 10.128009 l -10.290665,5.064 V 104.5012 Z"
+       id="path227616"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.8874px;line-height:1.25;font-family:Domine;-inkscape-font-specification:'Domine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffe680;fill-opacity:1;stroke-width:0.264583"
+       x="21.579929"
+       y="125.21047"
+       id="text227620"
+       transform="matrix(1.0049903,-0.53104231,0,0.9950345,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482"><tspan
+         sodipodi:role="line"
+         id="tspan227618"
+         x="21.579929"
+         y="125.21047"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.8874px;font-family:Domine;-inkscape-font-specification:'Domine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffe680;fill-opacity:1;stroke-width:0.264583">o</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.888987;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect238412"
+       width="24.55599"
+       height="24.55599"
+       x="221.92682"
+       y="0.18425113"
+       rx="0.85680765"
+       ry="0.85680765"
+       transform="matrix(0.895461,0.44513997,-0.895461,0.44513997,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#f7573e;fill-opacity:1;stroke:#000000;stroke-width:0.888987;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect238414"
+       width="24.55599"
+       height="24.55599"
+       x="197.37086"
+       y="-24.37174"
+       rx="0.85680765"
+       ry="0.85680765"
+       transform="matrix(0.895461,0.44513997,-0.895461,0.44513997,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#1266b3;fill-opacity:1;stroke:#000000;stroke-width:0.888987;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect238506"
+       width="24.55599"
+       height="24.55599"
+       x="197.37088"
+       y="0.18423687"
+       rx="0.85680765"
+       ry="0.85680765"
+       transform="matrix(0.895461,0.44513997,-0.895461,0.44513997,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       style="fill:#801d0e;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 176.57294,87.939677 v 21.861703 l 21.98893,10.93085 V 98.870517 Z"
+       id="path238416"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       style="fill:#f72605;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 220.5508,87.939677 v 21.861703 l -21.98893,10.93085 V 98.870517 Z"
+       id="path238418"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <g
+       aria-label="a"
+       transform="matrix(1.0013092,0.46569796,0,0.99869249,0,0)"
+       id="text238422"
+       style="font-weight:bold;font-size:33.0263px;line-height:1.25;font-family:'Libre Caslon Text';-inkscape-font-specification:'Libre Caslon Text, Bold';letter-spacing:0px;word-spacing:0px;fill:#f72605;stroke-width:0.264583;fill-opacity:1"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482">
+      <path
+         d="m 182.95065,26.316612 q -2.04763,0 -3.20355,-1.023815 -1.15592,-1.056842 -1.15592,-2.873288 0,-2.476973 2.34487,-3.963156 2.34487,-1.486183 7.33184,-2.179736 v -2.410919 q 0,-1.552236 -0.19816,-2.344868 -0.16513,-0.792631 -0.59447,-1.122894 -0.39632,-0.330263 -1.22198,-0.330263 -1.255,0 -1.98158,0.6275 -0.69355,0.594473 -0.69355,1.618289 0,0.231184 0.0661,0.759604 0.0661,0.462369 0.0661,0.693553 0,0.924736 -0.66053,1.585262 -0.66052,0.6275 -1.61829,0.6275 -0.95776,0 -1.58526,-0.6275 -0.59447,-0.6275 -0.59447,-1.618289 0,-1.056841 0.69355,-2.080656 0.69355,-1.023816 1.91552,-1.8494732 2.54303,-1.6513149 6.24197,-1.6513149 3.43474,0 4.52461,1.6513149 0.39631,0.6275002 0.56144,1.6513152 0.19816,0.990789 0.19816,2.774209 v 6.803417 q 0,1.453157 0.29724,2.113683 0.29724,0.660526 0.95776,0.660526 0.75961,0 1.45316,-0.792631 l 0.7596,1.089868 q -1.05684,1.122894 -2.24578,1.684341 -1.15592,0.528421 -2.57606,0.528421 -1.58526,0 -2.44394,-0.6275 -0.82566,-0.660526 -1.08987,-1.981577 h -0.1321 q -2.41092,2.609077 -5.41632,2.609077 z m 3.03842,-3.104472 q 1.38711,0 2.27882,-0.957763 v -4.425524 q -1.61829,0.330263 -2.51,0.726579 -0.89171,0.396316 -1.28803,0.990789 -0.36329,0.561447 -0.36329,1.51921 0,1.089867 0.46237,1.618288 0.46237,0.528421 1.42013,0.528421 z"
+         id="path419609"
+         style="fill:#f72605;fill-opacity:1" />
+    </g>
+    <rect
+       style="fill:#ff9955;stroke:none;stroke-width:0.888288;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;fill-opacity:1"
+       id="rect244641"
+       width="49.285316"
+       height="49.285316"
+       x="271.06912"
+       y="-73.927963"
+       rx="0.8568095"
+       ry="0.8568095"
+       transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       id="rect250807"
+       style="fill:#995c33;fill-opacity:1;stroke:#000000;stroke-width:0.793749;paint-order:stroke fill markers;stop-color:#000000"
+       d="m 310.30475,87.93966 42.57648,21.22052 v 0.7644 l -42.57648,21.22052 h -1.53368 V 87.93966 Z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#ecd576;fill-opacity:1;stroke:none;stroke-width:0.888286;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect251078"
+       width="24.327999"
+       height="24.327999"
+       x="296.02643"
+       y="-48.970646"
+       rx="0.8568095"
+       ry="0.8568095"
+       transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#e8b73e;fill-opacity:1;stroke:#000000;stroke-width:0.891725;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect255752"
+       width="11.469172"
+       height="11.469172"
+       x="309.8183"
+       y="-47.11153"
+       rx="0.85678065"
+       ry="0.85678065"
+       transform="matrix(0.89724564,0.44153172,-0.89724564,0.44153172,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#ecc360;fill-opacity:1;stroke:#000000;stroke-width:0.891725;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect255754"
+       width="11.469172"
+       height="11.469172"
+       x="298.34912"
+       y="-58.580692"
+       rx="0.85678065"
+       ry="0.85678065"
+       transform="matrix(0.89724564,0.44153172,-0.89724564,0.44153172,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="mix-blend-mode:multiply;fill:#c8861b;fill-opacity:0.5;stroke:none;stroke-width:0.891725;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect255756"
+       width="11.469172"
+       height="11.469172"
+       x="298.34912"
+       y="-47.11153"
+       rx="0.85678065"
+       ry="0.85678065"
+       transform="matrix(0.89724564,0.44153172,-0.89724564,0.44153172,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       style="fill:#c8861b;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 309.96308,110.92937 v 10.12801 l 10.29067,5.064 v -10.12801 z"
+       id="path255758"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       style="fill:#e8b73e;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 330.54441,110.92937 v 10.12801 l -10.29066,5.064 v -10.12801 z"
+       id="path255760"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <g
+       aria-label="u"
+       transform="matrix(1.0049903,0.473948,0,0.99503448,0,0)"
+       id="text255764"
+       style="font-size:14.8874px;line-height:1.25;font-family:Domine;-inkscape-font-specification:'Domine, Normal';letter-spacing:0px;word-spacing:0px;fill:#ffe680;stroke-width:0.264583"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482">
+      <path
+         d="m 311.61457,-33.7992 v 4.213134 q 0,0.952794 0.0447,1.444078 0.0596,0.476397 0.19354,0.74437 0.16376,0.357298 0.49128,0.550834 0.32753,0.178649 0.75926,0.178649 0.40196,0 0.77415,-0.148874 0.37218,-0.148874 0.65504,-0.40196 0.61038,-0.550834 0.66993,-1.712051 v -3.974936 l -1.2952,-0.28286 V -33.7992 h 2.73928 v 7.145952 l 1.14633,0.282861 v 0.610383 l -2.30755,0.148874 -0.16376,-1.637614 h -0.0596 q -0.43173,0.759257 -1.1761,1.205879 -0.74437,0.431735 -1.59295,0.431735 -0.56572,0 -1.04212,-0.208424 -0.46151,-0.223311 -0.72948,-0.595496 -0.28286,-0.416847 -0.41685,-1.176104 -0.13399,-0.759258 -0.13399,-2.024687 v -3.290115 l -0.99745,-0.28286 V -33.7992 Z"
+         id="path425581" />
+    </g>
+    <rect
+       style="mix-blend-mode:multiply;fill:url(#radialGradient311549);fill-opacity:1;stroke:none;stroke-width:0.79375;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect281616"
+       width="3.1908603"
+       height="30.308842"
+       x="-40.339016"
+       y="26.152174"
+       rx="0"
+       ry="0"
+       transform="rotate(-60)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#9f3a0c;fill-opacity:1;stroke:none;stroke-width:0.793753;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect266117"
+       width="3.0039625"
+       height="39.074581"
+       x="27.31864"
+       y="23.973001"
+       rx="1.0001012"
+       ry="1.0001012"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <circle
+       style="fill:#c8861b;fill-opacity:1;stroke:none;stroke-width:0.793753;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="path266141"
+       cx="28.820621"
+       cy="25.687799"
+       r="19.058924"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <circle
+       style="fill:url(#radialGradient271587);fill-opacity:1;stroke:none;stroke-width:0.793753;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="circle271549"
+       cx="28.820621"
+       cy="25.687799"
+       r="19.058924"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="mix-blend-mode:multiply;fill:url(#linearGradient317449);fill-opacity:1;stroke:none;stroke-width:0.79375;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect312138"
+       width="3.1908603"
+       height="30.308842"
+       x="11.993754"
+       y="245.90329"
+       rx="0"
+       ry="0"
+       transform="rotate(-60)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#42825f;fill-opacity:1;stroke:none;stroke-width:0.793753;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect312140"
+       width="3.0039625"
+       height="39.074581"
+       x="243.79507"
+       y="88.527046"
+       rx="1.0001012"
+       ry="1.0001012"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <circle
+       style="fill:#c8861b;fill-opacity:1;stroke:none;stroke-width:0.793753;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="circle312142"
+       cx="245.29706"
+       cy="90.241844"
+       r="19.058924"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <circle
+       style="fill:url(#radialGradient312146);fill-opacity:1.0;stroke:none;stroke-width:0.793753;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="circle312144"
+       cx="245.29706"
+       cy="90.241844"
+       r="19.058924"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <ellipse
+       style="fill:#1266b3;fill-opacity:1;stroke:none;stroke-width:0.80952;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="path322560"
+       cx="158.94745"
+       cy="74.62925"
+       rx="6.2834091"
+       ry="2.9727244"
+       transform="matrix(0.96140998,0.27511971,0,1,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <circle
+       style="fill:url(#radialGradient327685);fill-opacity:1;stroke:none;stroke-width:0.793753;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="circle327683"
+       cx="157.40292"
+       cy="114.50205"
+       r="7.294929"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="mix-blend-mode:multiply;fill:url(#radialGradient336206);fill-opacity:1;stroke:none;stroke-width:0.793751;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect336196"
+       width="1.4830852"
+       height="14.087296"
+       x="108.38291"
+       y="261.81213"
+       rx="0"
+       ry="0"
+       transform="rotate(-60)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#9f3a0c;fill-opacity:1;stroke:none;stroke-width:0.793751;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect336198"
+       width="1.3962166"
+       height="18.161537"
+       x="292.47272"
+       y="25.871185"
+       rx="1.0001012"
+       ry="1.0001012"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <circle
+       style="fill:#c8861b;fill-opacity:1;stroke:none;stroke-width:0.793751;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="circle336200"
+       cx="293.17081"
+       cy="26.668209"
+       r="8.858428"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <circle
+       style="fill:url(#radialGradient340425);fill-opacity:1;stroke:none;stroke-width:0.793751;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="circle336202"
+       cx="293.17081"
+       cy="26.668209"
+       r="8.858428"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <circle
+       style="fill:url(#radialGradient336210);fill-opacity:1;stroke:none;stroke-width:0.793748;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="circle336208"
+       cx="293.17081"
+       cy="15.790684"
+       r="6.6438212"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <circle
+       style="fill:url(#radialGradient353007);fill-opacity:1;stroke:none;stroke-width:0.79375;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="circle336212"
+       cx="293.17081"
+       cy="6.3557825"
+       r="4.429214"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="mix-blend-mode:multiply;fill:url(#linearGradient358639);fill-opacity:1;stroke:none;stroke-width:0.79375;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect358637"
+       width="3.1908603"
+       height="30.308842"
+       x="18.266121"
+       y="169.99867"
+       rx="0"
+       ry="0"
+       transform="rotate(-62.592823)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#b48525;fill-opacity:1;stroke:none;stroke-width:0.870014;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect358246"
+       width="2.6264389"
+       height="40.517342"
+       x="226.94099"
+       y="-128.72972"
+       rx="0.92069584"
+       ry="0.76635677"
+       transform="matrix(0.71528503,0.69883284,-0.18525655,0.98269019,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#b48525;fill-opacity:1;stroke:none;stroke-width:0.870014;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect358250"
+       width="9.7692385"
+       height="1.6485842"
+       x="222.8987"
+       y="-87.57048"
+       rx="0.92069584"
+       ry="0.76635677"
+       transform="matrix(0.83236692,0.55422496,-2.1503554e-8,1,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#b48525;fill-opacity:1;stroke:none;stroke-width:0.870014;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect358252"
+       width="9.7692385"
+       height="1.6485842"
+       x="221.25865"
+       y="-80.605721"
+       rx="0.92069584"
+       ry="0.76635677"
+       transform="matrix(0.83236692,0.55422496,-2.1503554e-8,1,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#b48525;fill-opacity:1;stroke:none;stroke-width:0.870014;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect358254"
+       width="9.7692385"
+       height="1.6485842"
+       x="220.00197"
+       y="-73.982689"
+       rx="0.92069584"
+       ry="0.76635677"
+       transform="matrix(0.83236692,0.55422496,-2.1503554e-8,1,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#b48525;fill-opacity:1;stroke:none;stroke-width:0.870014;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect358256"
+       width="9.7692385"
+       height="1.6485842"
+       x="218.44156"
+       y="-67.446869"
+       rx="0.92069584"
+       ry="0.76635677"
+       transform="matrix(0.83236692,0.55422496,-2.1503554e-8,1,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#b48525;fill-opacity:1;stroke:none;stroke-width:0.870014;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect358258"
+       width="9.7692385"
+       height="1.6485842"
+       x="217.17995"
+       y="-60.653858"
+       rx="0.92069584"
+       ry="0.76635677"
+       transform="matrix(0.83236692,0.55422496,-2.1503554e-8,1,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#b48525;fill-opacity:1;stroke:none;stroke-width:0.870014;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect358260"
+       width="9.7692385"
+       height="1.6485842"
+       x="216.56573"
+       y="-53.970932"
+       rx="0.92069584"
+       ry="0.76635677"
+       transform="matrix(0.83236692,0.55422496,-2.1503554e-8,1,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#b48525;fill-opacity:1;stroke:none;stroke-width:0.870014;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect358360"
+       width="2.6264389"
+       height="40.517342"
+       x="235.63664"
+       y="-131.55302"
+       rx="0.92069584"
+       ry="0.76635677"
+       transform="matrix(0.71528503,0.69883284,-0.18525655,0.98269019,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       id="rect358918"
+       style="fill:#e8b73e;stroke-width:0.870015;paint-order:stroke fill markers;stop-color:#000000"
+       transform="matrix(0.71528502,0.69883284,-0.18525655,0.98269019,0,0)"
+       d="m 227.47892,-127.95166 0.44159,0 c 0.28691,0 0.51905,0.19162 0.51789,0.43108 l -0.17796,36.830089 c -0.001,0.23945 0,0 -0.51789,0.43107 l -0.44159,0 c -0.28691,0 -0.51904,-0.19162 -0.51789,-0.43107 l 0.17796,-36.830089 c 0.001,-0.23946 0.23098,-0.43108 0.51789,-0.43108 z"
+       sodipodi:nodetypes="sssscssss"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       id="rect371402"
+       style="fill:#e8b73e;stroke-width:0.870015;paint-order:stroke fill markers;stop-color:#000000"
+       transform="matrix(0.71528502,0.69883284,-0.18525655,0.98269019,0,0)"
+       d="m 236.15453,-131.55302 h 0.44159 c 0.28691,0 0.51961,0.19131 0.51789,0.43107 l -0.26853,37.375392 c -0.002,0.23977 -0.23098,0.43108 -0.51789,0.43108 l -0.44159,0 c -0.28691,0 -0.51962,-0.19131 -0.51789,-0.43108 l 0.26853,-37.375392 c 0.002,-0.23976 0.23098,-0.43107 0.51789,-0.43107 z"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       id="rect372177"
+       style="fill:#b48525;stroke-width:0.79375;paint-order:stroke fill markers;stop-color:#000000"
+       d="m 293.61169,93.184877 -0.56153,0.463848 c -0.36485,0.301375 -0.5985,0.828512 -0.51659,1.180725 l 6.82836,29.3648 c 0.0819,0.3522 0.43568,0.3941 0.80053,0.0927 l 0.56154,-0.46384 c 0.36483,-0.30137 0.51658,-1.18071 0.51658,-1.18071 l -6.82836,-29.364805 c -0.0819,-0.3522 -0.43569,-0.394107 -0.80053,-0.09274 z"
+       sodipodi:nodetypes="sssssscss"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#b48525;fill-opacity:1;stroke:none;stroke-width:0.850303;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect372179"
+       width="9.3315802"
+       height="1.3938501"
+       x="-338.43304"
+       y="261.93863"
+       rx="0.87944907"
+       ry="0.64794165"
+       transform="matrix(-0.87140514,0.49056404,2.5433443e-8,1,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#b48525;fill-opacity:1;stroke:none;stroke-width:0.850303;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect372181"
+       width="9.3315802"
+       height="1.3938501"
+       x="-339.9996"
+       y="267.82721"
+       rx="0.87944907"
+       ry="0.64794165"
+       transform="matrix(-0.87140514,0.49056404,2.5433443e-8,1,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#b48525;fill-opacity:1;stroke:none;stroke-width:0.850303;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect372183"
+       width="9.3315802"
+       height="1.3938501"
+       x="-341.19998"
+       y="273.42688"
+       rx="0.87944907"
+       ry="0.64794165"
+       transform="matrix(-0.87140514,0.49056404,2.5433443e-8,1,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#b48525;fill-opacity:1;stroke:none;stroke-width:0.850303;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect372185"
+       width="9.3315802"
+       height="1.3938501"
+       x="-342.69049"
+       y="278.95279"
+       rx="0.87944907"
+       ry="0.64794165"
+       transform="matrix(-0.87140514,0.49056404,2.5433443e-8,1,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       id="rect372918"
+       style="mix-blend-mode:multiply;fill:#c8861b;fill-opacity:0.5;stroke-width:0.891725;paint-order:stroke fill markers;stop-color:#000000"
+       transform="matrix(0.89724564,0.44153172,-0.89724564,0.44153172,0,0)"
+       d="m 296.46678,-28.877806 9.75561,0 c 0.47466,0 0.25962,0.530267 0.85678,0.85678 l 1.32414,0.724001 c 0.59716,0.326512 -0.38212,0.85678 -0.85678,0.85678 h -9.75561 c -0.47465,0 -0.25962,-0.530268 -0.85678,-0.85678 L 295.61,-28.021026 c -0.59716,-0.326513 0.38213,-0.85678 0.85678,-0.85678 z"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#b48525;fill-opacity:1;stroke:none;stroke-width:0.850303;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect372187"
+       width="9.3315802"
+       height="1.3938501"
+       x="-343.8956"
+       y="284.6962"
+       rx="0.87944907"
+       ry="0.64794165"
+       transform="matrix(-0.87140514,0.49056404,2.5433443e-8,1,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       id="rect372191"
+       style="fill:#b48525;stroke-width:0.79375;paint-order:stroke fill markers;stop-color:#000000"
+       d="m 287.3194,95.77569 c -0.13353,0.0032 -0.29099,0.06957 -0.45061,0.201418 l -0.56171,0.463566 c -0.36486,0.301377 -0.59791,0.828726 -0.51626,1.180983 l 6.12005,26.401053 2.46856,0.99136 -6.71017,-28.944336 c -0.0461,-0.198038 -0.17814,-0.298137 -0.34986,-0.294044 z"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       id="path372193"
+       style="fill:#e8b73e;stroke-width:0.793751;paint-order:stroke fill markers;stop-color:#000000"
+       d="m 293.84129,92.894624 -0.31586,0.260914 c -0.20522,0.169522 -0.33677,0.466054 -0.29058,0.664158 l 6.1558,26.402334 c 0.0462,0.19817 0,0 0.4503,0.0522 l 0.31586,-0.2609 c 0.29058,-0.66416 0.33677,-0.46606 0.29058,-0.66416 l -6.1558,-26.402331 c -0.0462,-0.198182 -0.24507,-0.221687 -0.4503,-0.05217 z"
+       sodipodi:nodetypes="ssssccssss"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       id="path372195"
+       style="fill:#e8b73e;stroke-width:0.793751;paint-order:stroke fill markers;stop-color:#000000"
+       d="m 287.15694,95.738963 -0.31586,0.260913 c -0.20522,0.169522 -0.3357,0.465875 -0.29058,0.66415 l 5.86563,25.776744 c 0.0451,0.19814 0.24508,0.22169 0.4503,0.0522 l 0.31586,-0.26091 c 0.20523,-0.16952 0.29058,-0.66416 0.29058,-0.66416 l -5.86563,-25.776739 c -0.0451,-0.198156 -0.24507,-0.221679 -0.4503,-0.05216 z"
+       sodipodi:nodetypes="sssssscsss"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       id="rect388656"
+       style="mix-blend-mode:multiply;fill:url(#radialGradient388658);stroke-width:0.793751;paint-order:stroke fill markers;stop-color:#000000"
+       d="m 347.17552,26.522658 -20.66975,9.092856 17.89294,9.149595 21.21982,-8.811032 z"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       id="rect373350"
+       style="fill:#ffe6d5;stroke-width:0.79375;paint-order:stroke fill markers;stop-color:#000000"
+       d="m 350.2305,11.820396 h 10.96355 c 0.43079,0 0.66146,-0.213728 0.77759,0.688723 l 3.69935,28.749197 c 0.0489,0.379099 -0.34679,0.688724 -0.77758,0.688724 h -19.26516 c -0.43079,0 -0.83806,-0.31095 -0.77759,-0.688724 l 4.60226,-28.749197 c 0.0604,-0.377774 0.3468,-0.688723 0.77758,-0.688723 z"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       id="rect373350-7"
+       style="fill:#800000;fill-opacity:1;stroke-width:0.79375;paint-order:stroke fill markers;stop-color:#000000"
+       d="m 363.39073,22.435602 c -2.05507,0.935482 -4.9916,1.471969 -8.07741,1.475697 -2.81517,-0.0015 -5.51908,-0.446855 -7.54271,-1.242174 l -1.45588,9.093325 c 2.01342,1.219115 5.38566,1.952082 8.99859,1.955873 3.77545,-1.36e-4 7.28039,-0.796294 9.25857,-2.103114 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <ellipse
+       style="fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.79375;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="path373393"
+       cx="355.25986"
+       cy="42.731663"
+       rx="10.871265"
+       ry="4.4179149"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <ellipse
+       style="fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.79375;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="ellipse374484"
+       cx="355.25986"
+       cy="13.244125"
+       rx="10.871265"
+       ry="4.4179149"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <ellipse
+       style="fill:#ffe6d5;fill-opacity:1;stroke:none;stroke-width:0.79375;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="ellipse374486"
+       cx="355.25986"
+       cy="10.444935"
+       rx="10.871265"
+       ry="4.4179149"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       id="rect383661"
+       style="mix-blend-mode:screen;fill:url(#radialGradient383894);fill-opacity:1;stroke-width:0.793752;paint-order:stroke fill markers;stop-color:#000000"
+       d="M 365.52991,12.871583 384.5881,5.434635 h 1.24139 v 15.35832 l -1.24139,-10e-7 -19.05819,-7.436949 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       id="path384430"
+       style="mix-blend-mode:screen;fill:url(#radialGradient384432);fill-opacity:1;stroke-width:0.793752;paint-order:stroke fill markers;stop-color:#000000"
+       d="m 345.65501,13.356007 -19.05819,7.436948 h -1.2414 V 5.434635 l 1.2414,9e-7 19.05819,7.4369491 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       id="path384434"
+       style="fill:url(#linearGradient388426);fill-opacity:1;stroke-width:0.79375;paint-order:stroke fill markers;stop-color:#000000"
+       d="m 363.39073,22.435602 c -2.05507,0.935482 -4.9916,1.471969 -8.07741,1.475697 -2.81517,-0.0015 -5.51908,-0.446855 -7.54271,-1.242174 l -1.45588,9.093325 c 2.01342,1.219115 5.38566,1.952082 8.99859,1.955873 3.77545,-1.36e-4 7.28039,-0.796294 9.25857,-2.103114 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#e8b73e;fill-opacity:1;stroke:#000000;stroke-width:0.891725;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect389438"
+       width="11.469172"
+       height="11.469172"
+       x="245.57689"
+       y="-77.870689"
+       rx="0.42664555"
+       ry="0.42664555"
+       transform="matrix(0.89724564,0.44153172,-0.89724564,0.44153172,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#e8b73e;fill-opacity:1;stroke:#000000;stroke-width:0.891725;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect389440"
+       width="11.469172"
+       height="11.469172"
+       x="234.10771"
+       y="-89.339836"
+       rx="0.42664555"
+       ry="0.42664555"
+       transform="matrix(0.89724564,0.44153172,-0.89724564,0.44153172,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="mix-blend-mode:multiply;fill:#c8861b;fill-opacity:0.5;stroke:none;stroke-width:0.891725;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect389442"
+       width="11.469172"
+       height="11.469172"
+       x="234.10771"
+       y="-77.870689"
+       rx="0.42664555"
+       ry="0.42664555"
+       transform="matrix(0.89724564,0.44153172,-0.89724564,0.44153172,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       style="fill:#c8861b;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 279.92127,68.983607 v 10.12801 l 10.29067,5.064 v -10.12801 z"
+       id="path389444"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       style="fill:#e8b73e;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 300.5026,68.983607 v 10.12801 l -10.29066,5.064 v -10.12801 z"
+       id="path389446"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <g
+       aria-label="m"
+       transform="matrix(1.0049903,-0.53104228,0,0.99503448,0,0)"
+       id="text389450"
+       style="font-weight:bold;font-size:8.70866px;line-height:1.25;font-family:Bitter;-inkscape-font-specification:'Bitter, Bold';letter-spacing:0px;word-spacing:0px;fill:#801d0e;stroke-width:0.264583"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482">
+      <path
+         d="m 294.56359,232.45227 -0.17417,0.0435 q 0.41801,-0.42672 0.88828,-0.63573 0.47027,-0.21772 0.89699,-0.21772 0.54865,0 0.91441,0.36577 0.37448,0.35705 0.37448,1.106 v 2.6213 l -0.11322,-0.17417 0.6967,0.20901 v 0.62702 h -2.29038 v -0.62702 l 0.63573,-0.19159 -0.14805,0.18288 v -2.37746 q 0,-0.41802 -0.17417,-0.61832 -0.16546,-0.2003 -0.43543,-0.2003 -0.22643,0 -0.50511,0.13934 -0.27867,0.13934 -0.55735,0.40931 l 0.0871,-0.26997 q 0.0174,0.0697 0.0174,0.13063 0,0.0522 0,0.0958 v 2.66485 l -0.11321,-0.17417 0.60961,0.20901 v 0.62702 h -2.212 v -0.62702 l 0.63573,-0.19159 -0.13934,0.18288 v -2.37746 q 0,-0.41802 -0.17417,-0.61832 -0.17417,-0.2003 -0.43543,-0.2003 -0.22643,0 -0.50511,0.13063 -0.27867,0.13063 -0.53993,0.39189 l 0.0784,-0.18288 v 2.85644 l -0.11321,-0.18288 0.60961,0.19159 v 0.62702 h -2.29909 v -0.62702 l 0.73153,-0.20901 -0.14805,0.17417 v -3.31799 l 0.14805,0.20029 -0.73153,-0.21771 v -0.62703 l 1.53273,-0.0697 0.15675,0.83603 -0.15675,-0.061 q 0.4093,-0.40931 0.87086,-0.61832 0.47027,-0.21772 0.89699,-0.21772 0.4006,0 0.71411,0.2003 0.31352,0.19159 0.47027,0.60961 z"
+         id="path425560" />
+    </g>
+    <path
+       style="mix-blend-mode:multiply;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 300.32297,68.747324 0.17963,10.364293 -4.96404,2.13534 -0.26978,-9.630363 -10.50192,-5.930715 5.22288,-2.200371 z"
+       id="path389452"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       style="fill:#80e5ff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 396.47812,131.89479 352.88122,109.16018 396.99136,87.939659 396.875,132.29166"
+       id="path401133"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       id="path401133-1"
+       style="fill:#167cd9;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 386.32625,97.023473 c -0.44982,-0.002 -0.93184,0.0359 -1.44589,0.11317 -2.05632,0.30918 -4.60984,1.27739 -7.66001,2.905247 l -15.37062,8.20363 v 3.70107 l 3.80388,-0.92553 v 4.20956 l 11.42257,5.95623 c 0.65535,-0.27359 1.26987,-0.48 1.84071,-0.6134 1.06243,-0.25856 1.90232,-0.17515 2.51923,0.2496 0.61687,0.45901 0.92501,1.35678 0.92501,2.69337 0,0.14259 -0.004,0.28248 -0.0109,0.42117 l 5.7278,2.98689 c 0.10242,-0.18294 0.20371,-0.36606 0.29766,-0.5519 0.92533,-1.79616 1.38803,-3.72268 1.38803,-5.77897 0,-2.81028 -0.908,-4.50181 -2.72439,-5.07463 -1.17909,-0.36842 -2.76606,-0.25518 -4.75525,0.33383 1.21002,-0.79968 2.31775,-1.63084 3.31555,-2.49597 1.74786,-1.48116 3.10166,-3.11151 4.06125,-4.89169 0.95961,-1.74592 1.4397,-3.66412 1.4397,-5.75469 0,-2.12484 -0.53128,-3.657737 -1.59369,-4.598687 -0.7711,-0.71942 -1.83123,-1.08236 -3.18069,-1.0883 z m -5.0741,7.021267 c 0.55959,0.007 1.03193,0.1534 1.41748,0.44029 0.6169,0.45901 0.92554,1.37419 0.92554,2.74505 0,1.33659 -0.27435,2.52784 -0.8227,3.57446 -0.54835,1.08089 -1.25111,2.00466 -2.10788,2.77037 -0.8568,0.76571 -1.79909,1.42274 -2.82723,1.97146 l -4.83224,2.57865 v -10.58953 l 3.54705,-1.89343 c 1.3366,-0.71333 2.53632,-1.19923 3.59876,-1.45779 0.39841,-0.097 0.76547,-0.14348 1.10122,-0.13953 z"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       id="circle442008"
+       style="mix-blend-mode:multiply;fill:#1266b3;fill-opacity:0.27855864;stroke:none;stroke-width:0.793753;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       d="m 155.44843,107.53004 a 7.2949289,7.2949289 0 0 0 -5.3821,7.03419 7.2949289,7.2949289 0 0 0 7.29516,7.29517 7.2949289,7.2949289 0 0 0 2.87115,-0.59429 7.9374393,7.9374393 0 0 1 -7.32669,-7.91321 7.9374393,7.9374393 0 0 1 2.54248,-5.82186 z"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <rect
+       style="fill:#801d0e;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0683452"
+       id="rect447823"
+       width="5.7471929"
+       height="18.924643"
+       x="76.777611"
+       y="11.431373"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482"
+       transform="matrix(0.99964605,-0.02660406,0,1,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png" />
+    <rect
+       style="fill:#fe8081;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0683452"
+       id="rect447825"
+       width="5.7471929"
+       height="18.924643"
+       x="82.524803"
+       y="11.431373"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482"
+       transform="matrix(0.99964605,-0.02660406,0,1,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png" />
+    <rect
+       style="fill:#ffd42a;fill-rule:evenodd;stroke-width:0.0683452"
+       id="rect447827"
+       width="5.7471929"
+       height="18.924643"
+       x="88.272148"
+       y="11.431373"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482"
+       transform="matrix(0.99964605,-0.02660406,0,1,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png" />
+    <path
+       id="path447829"
+       style="fill:#ffb380;fill-rule:evenodd;stroke-width:0.068333"
+       d="m 76.750445,28.313347 17.23548,-0.458722 -7.97647,12.904168 -1.28263,0.03412 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png" />
+    <path
+       id="path447831"
+       style="fill:#f4e3d7;fill-rule:evenodd;stroke-width:0.068333"
+       d="m 76.750445,28.313347 5.74507,-0.152931 3.01771,12.722238 -0.7864,-0.08965 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png" />
+    <path
+       id="rect447841"
+       style="mix-blend-mode:multiply;fill:url(#radialGradient447843);stroke-width:0.79375;paint-order:stroke fill markers;stop-color:#000000"
+       transform="rotate(-60)"
+       d="m 3.6489619,76.026613 9.8314971,6.472026 -3.129363,12.366645 H 7.1602359 Z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
+    <path
+       id="path447833"
+       style="fill:#d38d5f;fill-rule:evenodd;stroke-width:0.068333"
+       d="m 93.985815,27.854667 -5.74516,0.152847 -3.01762,12.882863 0.78633,-0.131624 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png" />
+    <path
+       id="path447835"
+       style="fill:#333333;fill-rule:evenodd;stroke-width:0.068333"
+       d="m 81.894125,36.394101 7.00597,-0.283987 -3.20166,5.114882 -0.63993,0.0067 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png" />
+    <ellipse
+       style="fill:#f4e3d7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0683452"
+       id="ellipse447837"
+       cx="85.427422"
+       cy="11.324225"
+       rx="8.6600733"
+       ry="1.7290742"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482"
+       transform="matrix(0.99964605,-0.02660406,0,1,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png" />
+    <ellipse
+       style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0683442"
+       id="ellipse447839"
+       cx="85.427422"
+       cy="11.324073"
+       rx="3.3671985"
+       ry="0.6722964"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482"
+       transform="matrix(0.99964605,-0.02660406,0,1,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png" />
+  </g>
+</svg>

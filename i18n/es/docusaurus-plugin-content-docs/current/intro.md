@@ -64,7 +64,7 @@ Para que los cursos sean lo más accesibles posible, todas las lecciones utiliza
 ## ¡Empiece a aprender hoy!
 Las lecciones están diseñadas para ser lo más efectivas posible. El texto se centra en elementos y procedimientos **esenciales** para el conocimiento funcional de los programas. El objetivo es utilizar nuevas técnicas lo más rápido posible.
 
-## Themes
+## Temas y asignaturas
 
 [Digital Drawing and Painting](01digitalnimalba/kresba-a-malba) (Krita)  
 [3D Modeling and Sculpting](02modelovani/3D-modelovani) (Blender)  

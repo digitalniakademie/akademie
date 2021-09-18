@@ -5,6 +5,9 @@ sidebar_position: 3
 ---
 
 # Inkscape: Vektorové objekty
+
+![image](./images/header-vectors.svg)
+
 Inkscape nabízí řadu zajímavých nástrojů na vytváření a úpravu vektorových objektů. V programu lze také aplikovat bitmapové efekty a filtry.
 
 ## Rozdíl mezi bitmapovou a vektorovou grafikou

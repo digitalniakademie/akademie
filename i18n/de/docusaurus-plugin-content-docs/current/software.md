@@ -4,7 +4,7 @@ title: Software in Kursen
 sidebar_position: 12
 ---
 
-# Software a utility
+# Software in Kursen
 
 ### Seznam programů použitých v kurzech
 

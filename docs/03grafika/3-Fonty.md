@@ -5,6 +5,9 @@ sidebar_position: 5
 ---
 
 # Fonty a tvorba písma
+
+![image](./images/header-fonty2.svg)
+
 Font je definovaná kolekce písem a znaků (glyfů), které sdílejí společný vizuální styl. Kvalitní font má propracovaný kerning, který určuje proporce toho, jak se následná písmena napojují za sebe.
 
 :::note Co je font?
@@ -110,7 +113,7 @@ Vybráním variabilního fontu se objeví v nastavení Písmo <kbd>Shift</kbd>+<
 :::
 
 Fonty mohou existovat v různých jazykových verzích, nebo být navržené s mezinárodní kolekcí znaků.
- 
+
 :::warning České znaky
 
 Zdaleka ne všechny fonty mají mezinárodní kódování znaků a jsou lokalizované. Pokud budeš tvořit návrhy v češtině, vždy zkontroluj jestli je písmo **plně** lokalizované (některá písma jsou lokalizovaná pouze částečně, takže některé znaky mohou chybět)!
