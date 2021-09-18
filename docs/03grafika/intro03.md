@@ -5,6 +5,7 @@ sidebar_position: 0
 ---
 
 # Co v lekcích najdeš
+### Grafika a typografie
 ![image](../img/toppicture3.png)
 - Vektorová grafika a Inkscape
 - Scribus: Typesetting a sazba tiskovin
