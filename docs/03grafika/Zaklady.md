@@ -6,6 +6,8 @@ sidebar_position: 1
 
 # Základy grafického designu
 
+![image](./images/header-graphicdesign.svg)
+
 ## Co je grafický design?
 Grafický design (někdy označovaný jako užitná grafika) je stejně jako průmyslový design kreativní obor, který se nachází v oblasti mezi uměním, vědou a průmyslem. Spojuje hlediska estetiky a užitnosti, cílem je vývoj praktického výrobku — tiskoviny, obalu, layoutu, grafického rozhraní nebo vizuálního konceptu.
 
@@ -18,25 +20,33 @@ Tato pravidla ovlivňují nejen výběr barev — barvy a kontrasty v grafickém
 Tato lekce je stručné shrnutí základních principů funkčního grafického designu.  
 
 ## Tvary a formy
-### Čitelnost
+- **Čitelnost:**
 Srozumitelnost a čitelnost se týká nejenom textu, ale i barev, tvarů a forem.
-### Užitnost
+- **Užitnost:**
 Volba písma i grafických prvků musí být v souladu s plánovaným použitím díla. Velikost písma musí být přizpůsobená čitelnosti.
-### Estetika
+- **Estetika:**
 Stylizace musí doplňovat obsah.
 
 ## Proporce
-### Rastrové kompozice
+
+- kodexy a kánony
+- tvary papírů
+
 ### Harmonické modely
 
-Zpravidla obsažené v souboru. Definované vektorem nebo bitmapou.
+Harmonie tvarů a barev.
+
+### Rastrové kompozice
+
+
 ### Mřížky (*Grids*)
-Obsahují více řezů v jednom ttf souboru. Podpora Scribus, **Inkscape**. Pokud je aplikace podporuje, umožňují vytváření přechodových stylů řezů písem, které nejsou jako statické fonty dostupné.
-SEZNAM
+Vytvářejí rámce layoutu a pomáhají vytvářet konzistenci celkového návrhu. Umožňují varianty a kombinaci elementů.
 
-:::note Úpravy variabilních fontů
+:::note cvičení
 
-Vybráním variabilního fontu se objeví v nastavení Písmo <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>T</kbd> možnost** Weight** (váha písma). Nastavením hodnoty vytvoříš variantu písma, která se objeví v dolní části seznamu řezů pro tento font.
+Nastavení pravítek v Inkscapu
+
+<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>T</kbd> možnost** Weight** (váha písma).
 
 :::
 
@@ -46,7 +56,7 @@ Vybráním variabilního fontu se objeví v nastavení Písmo <kbd>Shift</kbd>+<
 od písma, monogramu po Logotypy. Branding a CI.
 
 ## Práce s grafikou a písmem
-Kerning a další v kapitole o sazbě.
+Základní proporce a kontrasty v písmu a grafických objektech. Písmo (Kerning), monogramy.
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

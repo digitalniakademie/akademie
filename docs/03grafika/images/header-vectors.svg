@@ -27,9 +27,9 @@
      width="1500mm"
      showguides="false"
      units="px"
-     inkscape:zoom="0.15016666"
-     inkscape:cx="236.40401"
-     inkscape:cy="302.99669"
+     inkscape:zoom="1.2013333"
+     inkscape:cx="811.18206"
+     inkscape:cy="394.97782"
      inkscape:window-width="1920"
      inkscape:window-height="989"
      inkscape:window-x="-9"
@@ -39,6 +39,18 @@
      inkscape:snap-bbox="true" />
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient31203">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop31199" />
+      <stop
+         style="stop-color:#800000;stop-opacity:1"
+         offset="1"
+         id="stop31201" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient514898">
@@ -149,16 +161,6 @@
        gradientTransform="matrix(0.80321788,0,0,0.80321788,73.441668,26.055052)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient512956"
-       id="linearGradient515549"
-       gradientUnits="userSpaceOnUse"
-       x1="-34.219688"
-       y1="-81.288376"
-       x2="-32.966499"
-       y2="-38.923992"
-       gradientTransform="matrix(0,-0.37901599,0.37901599,0,218.98114,72.686075)" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient513911"
        id="linearGradient516224"
        gradientUnits="userSpaceOnUse"
@@ -169,34 +171,18 @@
        y2="26.964474" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient512956"
-       id="linearGradient516226"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-0.37901599,0.37901599,0,242.29625,87.110158)"
-       x1="-34.219688"
-       y1="-81.288376"
-       x2="-32.966499"
-       y2="-38.923992" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient512956"
-       id="linearGradient546157"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-0.19329296,0.19329296,0,186.01456,104.98364)"
-       x1="-34.219688"
-       y1="-81.288376"
-       x2="-32.966499"
-       y2="-38.923992" />
+       xlink:href="#linearGradient31203"
+       id="linearGradient31335"
+       x1="734.30273"
+       y1="428.30435"
+       x2="682.6947"
+       y2="428.30435"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       id="path515539"
-       style="mix-blend-mode:soft-light;fill:url(#linearGradient515549);fill-opacity:1;stroke-width:0.793746;paint-order:stroke fill markers;stop-color:#000000"
-       d="m 185.81765,133.67823 h 0.005 c 0.007,1.16941 0.93859,2.28998 2.59106,3.11754 3.46149,1.73074 9.07367,1.73074 12.53516,0 1.6524,-0.82758 2.58366,-1.94815 2.59086,-3.11754 h 0.005 V 75.223519 h -17.72747 z"
-       sodipodi:nodetypes="ccccccccc" />
     <rect
        style="fill:#ffe680;stroke:none;stroke-width:0.79375;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
        id="rect659"
@@ -813,33 +799,14 @@
        r="14.850153" />
     <path
        id="path515537"
-       style="fill:#ff0000;fill-opacity:1;stroke-width:0.793746;paint-order:stroke fill markers;stop-color:#000000"
-       d="m 185.81765,134.18203 h 0.005 c 0.007,1.16941 0.93859,2.28998 2.59106,3.11754 3.46149,1.73074 9.07367,1.73074 12.53516,0 1.6524,-0.82758 2.58366,-1.94815 2.59086,-3.11754 h 0.005 V 75.223519 h -17.72747 z"
-       sodipodi:nodetypes="ccccccccc" />
-    <circle
-       style="fill:#f78c7c;fill-opacity:1;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="circle515541"
-       cx="193.14764"
-       cy="-24.512718"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
-       r="7.0073714" />
-    <circle
-       style="fill:#f72605;fill-opacity:1;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="circle515543"
-       cx="193.14764"
-       cy="-24.512718"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
-       r="3.5036857" />
-    <path
-       id="path516214"
-       style="mix-blend-mode:soft-light;fill:url(#linearGradient516226);fill-opacity:1;stroke-width:0.793746;paint-order:stroke fill markers;stop-color:#000000"
-       d="m 209.13276,148.10232 h 0.005 c 0.007,1.1694 0.93859,2.28997 2.59106,3.11753 3.46149,1.73075 9.07367,1.73075 12.53517,0 1.65239,-0.82758 2.58365,-1.94815 2.59086,-3.11753 h 0.005 V 89.647603 h -17.72746 z"
-       sodipodi:nodetypes="ccccccccc" />
+       style="fill:#ff0000;fill-opacity:1;stroke-width:2.99998;paint-order:stroke fill markers;stop-color:#000000"
+       d="M 702.30078 284.30859 L 702.30273 498.5 L 769.30273 498.5 L 769.30273 284.30859 L 702.30078 284.30859 z "
+       transform="scale(0.26458333)" />
     <path
        id="path516216"
-       style="fill:#ff0000;fill-opacity:1;stroke-width:0.793746;paint-order:stroke fill markers;stop-color:#000000"
-       d="m 209.13276,148.60612 h 0.005 c 0.007,1.1694 0.93859,2.28997 2.59106,3.11753 3.46149,1.73075 9.07367,1.73075 12.53517,0 1.65239,-0.82757 2.58365,-1.94814 2.59086,-3.11753 h 0.005 V 89.647603 h -17.72746 z"
-       sodipodi:nodetypes="ccccccccc" />
+       style="fill:#ff0000;fill-opacity:1;stroke-width:2.99998;paint-order:stroke fill markers;stop-color:#000000"
+       d="M 790.42188 338.82617 L 790.42383 498.5 L 857.42383 498.5 L 857.42383 338.82617 L 790.42188 338.82617 z "
+       transform="scale(0.26458333)" />
     <circle
        style="fill:#167edd;fill-opacity:1;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="circle516218"
@@ -862,15 +829,10 @@
        transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
        r="3.5036857" />
     <path
-       id="path546149"
-       style="mix-blend-mode:soft-light;fill:url(#linearGradient546157);fill-opacity:1;stroke-width:0.793748;paint-order:stroke fill markers;stop-color:#000000"
-       d="m 169.10163,136.0888 h 0.003 c 0.004,0.59638 0.47867,1.16786 1.32141,1.5899 1.76531,0.88266 4.62744,0.88266 6.39276,0 0.8427,-0.42205 1.31763,-0.99353 1.3213,-1.5899 h 0.003 v -29.8111 h -9.04077 z"
-       sodipodi:nodetypes="ccccccccc" />
-    <path
        id="path546151"
-       style="fill:#ff0000;fill-opacity:1;stroke-width:0.793748;paint-order:stroke fill markers;stop-color:#000000"
-       d="m 169.10163,136.34573 h 0.003 c 0.004,0.59639 0.47867,1.16786 1.32141,1.58991 1.76531,0.88265 4.62744,0.88265 6.39276,0 0.8427,-0.42206 1.31763,-0.99353 1.3213,-1.58991 h 0.003 V 106.2777 h -9.04077 z"
-       sodipodi:nodetypes="ccccccccc" />
+       style="fill:#ff0000;fill-opacity:1;stroke-width:2.99999;paint-order:stroke fill markers;stop-color:#000000"
+       d="M 639.12695 401.67969 L 639.125 497.92578 L 673.29688 497.92578 L 673.29688 401.67969 L 639.12695 401.67969 z "
+       transform="scale(0.26458333)" />
     <circle
        style="fill:#f78c7c;fill-opacity:1;stroke-width:0.887437;paint-order:stroke fill markers;stop-color:#000000"
        id="circle546153"
@@ -1033,5 +995,24 @@
        style="fill:#bdc28e;fill-opacity:1;stroke-width:2.99999;paint-order:stroke fill markers;stop-color:#000000"
        d="M 150.50391 387.62305 C 150.11004 387.62468 149.71502 387.62801 149.32031 387.63477 C 142.58101 387.74988 136.37843 388.44556 130.75586 389.81445 L 168.19336 408.5332 C 176.01519 406.93128 183.23265 404.45099 190.11133 398.79492 C 188.16937 397.15729 185.82502 395.64712 183.13281 394.30078 C 174.47511 389.9724 162.71374 387.57234 150.50391 387.62305 z "
        transform="scale(0.26458333)" />
+    <path
+       id="path31167"
+       style="fill:url(#linearGradient31335);fill-opacity:1;stroke-width:2.99998;paint-order:stroke fill markers;stop-color:#000000"
+       d="M 702.30078 284.30859 L 702.30273 498.5 L 769.30273 498.5 L 769.30273 284.30859 L 702.30078 284.30859 z "
+       transform="scale(0.26458333)" />
+    <circle
+       style="fill:#f78c7c;fill-opacity:1;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
+       id="circle515541"
+       cx="193.14764"
+       cy="-24.512718"
+       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
+       r="7.0073714" />
+    <circle
+       style="fill:#f72605;fill-opacity:1;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
+       id="circle515543"
+       cx="193.14764"
+       cy="-24.512718"
+       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
+       r="3.5036857" />
   </g>
 </svg>
