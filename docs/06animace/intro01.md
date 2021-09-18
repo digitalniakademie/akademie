@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 
 # Co v lekcích najdeš
-
+![image](../img/toppicture3.png)
 - Základy animace
 - Akcenty a stylizace
 - Motion Design

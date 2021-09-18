@@ -9,6 +9,9 @@
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="header-vectors.svg"
+   inkscape:export-filename="C:\Users\quant\OneDrive\Documents\header-vectors.png"
+   inkscape:export-xdpi="96.590782"
+   inkscape:export-ydpi="96.590782"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,9 +30,9 @@
      width="1500mm"
      showguides="false"
      units="px"
-     inkscape:zoom="1.2013333"
-     inkscape:cx="811.18206"
-     inkscape:cy="394.97782"
+     inkscape:zoom="1.1673333"
+     inkscape:cx="750"
+     inkscape:cy="249.71445"
      inkscape:window-width="1920"
      inkscape:window-height="989"
      inkscape:window-x="-9"
@@ -211,7 +214,10 @@
        height="16.004971"
        x="208.70711"
        y="-24.497091"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
+       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <rect
        style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887436;paint-order:stroke fill markers;stop-color:#000000"
        id="rect455992"
@@ -219,7 +225,10 @@
        height="24.651094"
        x="247.30438"
        y="-24.301397"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
+       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <rect
        style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887436;paint-order:stroke fill markers;stop-color:#000000"
        id="rect455994"
@@ -227,10 +236,16 @@
        height="24.651094"
        x="205.80173"
        y="-57.12674"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
+       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <g
        id="g555905"
-       transform="translate(0,-4.2333335)">
+       transform="translate(0,-4.2333335)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482">
       <rect
          style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887436;paint-order:stroke fill markers;stop-color:#000000"
          id="rect456036"
@@ -263,23 +278,10 @@
        height="12.325547"
        x="311.74942"
        y="-95.369484"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457789"
-       width="12.325547"
-       height="12.325547"
-       x="299.42386"
-       y="-95.369484"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457791"
-       width="12.325547"
-       height="12.325547"
-       x="287.09833"
-       y="-95.369484"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
+       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <rect
        style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="rect457793"
@@ -287,23 +289,10 @@
        height="12.325547"
        x="311.74942"
        y="-107.69503"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457795"
-       width="12.325547"
-       height="12.325547"
-       x="299.42386"
-       y="-107.69503"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457797"
-       width="12.325547"
-       height="12.325547"
-       x="287.09833"
-       y="-107.69503"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
+       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <rect
        style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="rect457799"
@@ -311,7 +300,10 @@
        height="12.325547"
        x="311.74942"
        y="-120.02058"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
+       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <rect
        style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="rect457801"
@@ -319,87 +311,10 @@
        height="12.325547"
        x="299.42386"
        y="-120.02058"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457803"
-       width="12.325547"
-       height="12.325547"
-       x="287.09833"
-       y="-120.02058"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457805"
-       width="12.325547"
-       height="12.325547"
-       x="274.77277"
-       y="-95.369484"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457807"
-       width="12.325547"
-       height="12.325547"
-       x="262.4472"
-       y="-95.369484"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457809"
-       width="12.325547"
-       height="12.325547"
-       x="250.12167"
-       y="-95.369484"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457811"
-       width="12.325547"
-       height="12.325547"
-       x="274.77277"
-       y="-107.69503"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457813"
-       width="12.325547"
-       height="12.325547"
-       x="262.4472"
-       y="-107.69503"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457815"
-       width="12.325547"
-       height="12.325547"
-       x="250.12167"
-       y="-107.69503"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457817"
-       width="12.325547"
-       height="12.325547"
-       x="274.77277"
-       y="-120.02058"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457819"
-       width="12.325547"
-       height="12.325547"
-       x="262.4472"
-       y="-120.02058"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457821"
-       width="12.325547"
-       height="12.325547"
-       x="250.12167"
-       y="-120.02058"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
+       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <rect
        style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="rect457823"
@@ -407,7 +322,10 @@
        height="12.325547"
        x="311.74942"
        y="-58.392857"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
+       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <rect
        style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="rect457825"
@@ -415,7 +333,10 @@
        height="12.325547"
        x="299.42386"
        y="-58.392857"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
+       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <rect
        style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="rect457827"
@@ -423,7 +344,10 @@
        height="12.325547"
        x="287.09833"
        y="-58.392857"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
+       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <rect
        style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="rect457829"
@@ -431,23 +355,10 @@
        height="12.325547"
        x="311.74942"
        y="-70.718399"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457831"
-       width="12.325547"
-       height="12.325547"
-       x="299.42386"
-       y="-70.718399"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457833"
-       width="12.325547"
-       height="12.325547"
-       x="287.09833"
-       y="-70.718399"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
+       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <rect
        style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="rect457835"
@@ -455,23 +366,10 @@
        height="12.325547"
        x="311.74942"
        y="-83.043945"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457837"
-       width="12.325547"
-       height="12.325547"
-       x="299.42386"
-       y="-83.043945"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457839"
-       width="12.325547"
-       height="12.325547"
-       x="287.09833"
-       y="-83.043945"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
+       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <rect
        style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="rect457841"
@@ -479,7 +377,10 @@
        height="12.325547"
        x="274.77277"
        y="-58.392857"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
+       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <rect
        style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="rect457843"
@@ -487,7 +388,10 @@
        height="12.325547"
        x="262.4472"
        y="-58.392857"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
+       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <rect
        style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="rect457845"
@@ -495,23 +399,10 @@
        height="12.325547"
        x="250.12167"
        y="-58.392857"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457847"
-       width="12.325547"
-       height="12.325547"
-       x="274.77277"
-       y="-70.718399"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457849"
-       width="12.325547"
-       height="12.325547"
-       x="262.4472"
-       y="-70.718399"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
+       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <rect
        style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="rect457851"
@@ -519,52 +410,40 @@
        height="12.325547"
        x="250.12167"
        y="-70.718399"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457853"
-       width="12.325547"
-       height="12.325547"
-       x="274.77277"
-       y="-83.043945"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457855"
-       width="12.325547"
-       height="12.325547"
-       x="262.4472"
-       y="-83.043945"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
-    <rect
-       style="fill:#1266b3;fill-opacity:0.278559;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
-       id="rect457857"
-       width="12.325547"
-       height="12.325547"
-       x="250.12167"
-       y="-83.043945"
-       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)" />
+       transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <circle
        style="fill:#1266b3;fill-opacity:1;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="circle457859"
        cx="287.09833"
        cy="-83.043945"
        transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
-       r="36.97665" />
+       r="36.97665"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <rect
        style="fill:#1266b3;fill-opacity:1;stroke-width:0.79375;paint-order:stroke fill markers;stop-color:#000000"
        id="rect457861"
        width="93.544502"
        height="46.885376"
        x="284.29306"
-       y="44.456898" />
+       y="44.456898"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <circle
        style="fill:#167edd;fill-opacity:1;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="circle457863"
        cx="235.00467"
        cy="-135.1376"
        transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
-       r="36.97665" />
+       r="36.97665"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <rect
        style="fill:none;stroke:none;stroke-width:0.888288;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
        id="rect81448"
@@ -575,7 +454,7 @@
        rx="0.8568095"
        ry="0.8568095"
        transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
-       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
        inkscape:export-xdpi="95.997482"
        inkscape:export-ydpi="95.997482" />
     <rect
@@ -588,28 +467,28 @@
        rx="0.8568095"
        ry="0.8568095"
        transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
-       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
        inkscape:export-xdpi="95.997482"
        inkscape:export-ydpi="95.997482" />
     <path
        style="fill:#801d0e;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 88.578398,43.723936 V 87.693775 L 132.68854,109.6787 V 65.708856 Z"
        id="path81464"
-       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
        inkscape:export-xdpi="95.997482"
        inkscape:export-ydpi="95.997482" />
     <path
        style="fill:#f72605;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 176.7987,43.723936 V 87.693775 L 132.68854,109.6787 V 65.708856 Z"
        id="path81466"
-       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
        inkscape:export-xdpi="95.997482"
        inkscape:export-ydpi="95.997482" />
     <path
        style="fill:#f7573e;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 99.672079,60.319501 V 82.161922 L 121.59486,93.083135 V 71.240711 Z"
        id="path460593"
-       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
        inkscape:export-xdpi="95.997482"
        inkscape:export-ydpi="95.997482" />
     <rect
@@ -622,28 +501,28 @@
        rx="0.4229345"
        ry="0.4229345"
        transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
-       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
        inkscape:export-xdpi="95.997482"
        inkscape:export-ydpi="95.997482" />
     <path
        style="fill:#f72605;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 165.70501,60.319501 V 82.161922 L 143.78223,93.083135 V 71.240711 Z"
        id="path465162"
-       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
        inkscape:export-xdpi="95.997482"
        inkscape:export-ydpi="95.997482" />
     <path
        style="fill:#ffe680;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 110.76576,65.851339 v 10.778743 l 10.8291,5.389373 V 71.240711 Z"
        id="path465164"
-       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
        inkscape:export-xdpi="95.997482"
        inkscape:export-ydpi="95.997482" />
     <path
        style="fill:#ffe680;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 110.76576,65.851339 v 10.778743 l 10.8291,5.389373 V 71.240711 Z"
        id="path469224"
-       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
        inkscape:export-xdpi="95.997482"
        inkscape:export-ydpi="95.997482" />
     <rect
@@ -656,22 +535,28 @@
        rx="0.20599702"
        ry="0.20599702"
        transform="matrix(0.89499584,0.44607448,-0.89499584,0.44607448,0,0)"
-       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
        inkscape:export-xdpi="95.997482"
        inkscape:export-ydpi="95.997482" />
     <path
        style="fill:#ffe680;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="m 132.68849,44.004669 -1e-5,10.571376 -10.6051,-5.285687 z"
-       id="path469712" />
+       id="path469712"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <path
        style="fill:#80e5ff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 132.68849,44.004671 1e-5,10.571376 10.6051,-5.285687 z"
-       id="path474320" />
+       id="path474320"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <path
        style="fill:#80e5ff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 154.61133,65.851339 v 10.778743 l -10.8291,5.389373 V 71.240711 Z"
        id="path478497"
-       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\fonts-insta.png"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
        inkscape:export-xdpi="95.997482"
        inkscape:export-ydpi="95.997482" />
     <circle
@@ -680,18 +565,30 @@
        cx="235.00467"
        cy="-135.1376"
        transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
-       r="18.488325" />
+       r="18.488325"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <path
        style="fill:#f78c7c;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="m 99.672078,82.161921 11.093682,-5.531839 10.8291,5.389372 V 93.083133 L 99.672078,82.161921"
-       id="path497873" />
+       id="path497873"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <path
        style="fill:#f78c7c;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 165.70501,82.161922 -11.09368,-5.531839 -10.8291,5.389372 v 11.063679 l 21.92278,-10.921212"
-       id="path501972" />
+       id="path501972"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <g
        id="g515251"
-       transform="translate(14.287503)">
+       transform="translate(14.287503)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482">
       <circle
          style="fill:#1266b3;fill-opacity:1;stroke-width:0.887439;paint-order:stroke fill markers;stop-color:#000000"
          id="circle514394"
@@ -796,79 +693,118 @@
        cx="262.2016"
        cy="-82.489883"
        transform="matrix(0.96046849,0.27838873,-0.96046849,0.27838873,0,0)"
-       r="14.850153" />
+       r="14.850153"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <path
        id="path515537"
        style="fill:#ff0000;fill-opacity:1;stroke-width:2.99998;paint-order:stroke fill markers;stop-color:#000000"
        d="M 702.30078 284.30859 L 702.30273 498.5 L 769.30273 498.5 L 769.30273 284.30859 L 702.30078 284.30859 z "
-       transform="scale(0.26458333)" />
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <path
        id="path516216"
        style="fill:#ff0000;fill-opacity:1;stroke-width:2.99998;paint-order:stroke fill markers;stop-color:#000000"
        d="M 790.42188 338.82617 L 790.42383 498.5 L 857.42383 498.5 L 857.42383 338.82617 L 790.42188 338.82617 z "
-       transform="scale(0.26458333)" />
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <circle
        style="fill:#167edd;fill-opacity:1;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="circle516218"
        cx="222.3078"
        cy="-21.419645"
        transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
-       r="7.0073714" />
+       r="7.0073714"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <circle
        style="fill:#1266b3;fill-opacity:1;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="circle516220"
        cx="222.3078"
        cy="-21.419645"
        transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
-       r="3.5036857" />
+       r="3.5036857"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <circle
        style="mix-blend-mode:multiply;fill:url(#linearGradient516224);fill-opacity:1;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="circle516222"
        cx="222.3078"
        cy="-21.419645"
        transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
-       r="3.5036857" />
+       r="3.5036857"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <path
        id="path546151"
        style="fill:#ff0000;fill-opacity:1;stroke-width:2.99999;paint-order:stroke fill markers;stop-color:#000000"
        d="M 639.12695 401.67969 L 639.125 497.92578 L 673.29688 497.92578 L 673.29688 401.67969 L 639.12695 401.67969 z "
-       transform="scale(0.26458333)" />
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <circle
        style="fill:#f78c7c;fill-opacity:1;stroke-width:0.887437;paint-order:stroke fill markers;stop-color:#000000"
        id="circle546153"
        cx="215.98938"
        cy="21.87409"
        transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
-       r="3.5736632" />
+       r="3.5736632"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <circle
        style="fill:#f72605;fill-opacity:1;stroke-width:0.887437;paint-order:stroke fill markers;stop-color:#000000"
        id="circle546155"
        cx="215.98938"
        cy="21.87409"
        transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
-       r="1.7868316" />
+       r="1.7868316"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <path
        id="path546161"
        style="fill:#ff0000;fill-opacity:1;stroke-width:0.793748;paint-order:stroke fill markers;stop-color:#000000"
        d="m 242.9309,109.4926 h 0.006 c 0.008,1.2376 0.99332,2.42349 2.74214,3.29931 3.66329,1.83164 9.60266,1.83164 13.26598,0 1.74873,-0.87584 2.73429,-2.06173 2.7419,-3.29931 h 0.006 l 0,-7.43803 H 242.9319 Z"
-       sodipodi:nodetypes="ccccccccc" />
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <circle
        style="fill:#f78c7c;fill-opacity:1;stroke-width:0.887437;paint-order:stroke fill markers;stop-color:#000000"
        id="circle546163"
        cx="255.37437"
        cy="-26.718313"
        transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
-       r="7.4159122" />
+       r="7.4159122"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <circle
        style="fill:#f72605;fill-opacity:1;stroke-width:0.887437;paint-order:stroke fill markers;stop-color:#000000"
        id="circle546165"
        cx="255.37437"
        cy="-26.718313"
        transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
-       r="3.7079561" />
+       r="3.7079561"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <g
        id="g555226"
-       transform="translate(-5.2916669)">
+       transform="translate(-5.2916669)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482">
       <path
          id="path546664"
          style="fill:#ff0000;fill-opacity:1;stroke-width:0.793748;paint-order:stroke fill markers;stop-color:#000000"
@@ -934,85 +870,127 @@
        id="path555228"
        style="fill:#ff0000;fill-opacity:1;stroke-width:0.793748;paint-order:stroke fill markers;stop-color:#000000"
        d="m 15.462428,109.02199 h 0.01549 c 0.02057,3.18445 2.555894,6.23584 7.055753,8.4894 9.425949,4.71296 24.708438,4.71296 34.134465,0 4.499627,-2.25361 7.035554,-5.305 7.055135,-8.4894 h 0.01549 v -7.11591 H 15.465 Z"
-       sodipodi:nodetypes="ccccccccc" />
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <circle
        style="fill:#f78c7c;fill-opacity:1;stroke-width:0.887439;paint-order:stroke fill markers;stop-color:#000000"
        id="circle555230"
        cx="136.65665"
        cy="92.383385"
        transform="matrix(0.89442718,0.44721362,-0.89442718,0.44721362,0,0)"
-       r="19.081755" />
+       r="19.081755"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <circle
        style="fill:#f72605;fill-opacity:1;stroke-width:0.887439;paint-order:stroke fill markers;stop-color:#000000"
        id="circle555232"
        cx="136.65665"
        cy="92.383385"
        transform="matrix(0.89442718,0.44721362,-0.89442718,0.44721362,0,0)"
-       r="9.5408773" />
+       r="9.5408773"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <circle
        style="fill:#f72605;fill-opacity:1;stroke-width:0.887439;paint-order:stroke fill markers;stop-color:#000000"
        id="circle555234"
        cx="136.65665"
        cy="92.383385"
        transform="matrix(0.89442718,0.44721362,-0.89442718,0.44721362,0,0)"
-       r="9.5408773" />
+       r="9.5408773"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <path
        id="path555236"
        style="fill:#ffe680;fill-opacity:1;stroke-width:0.793747;paint-order:stroke fill markers;stop-color:#000000"
-       d="m 39.507865,102.56182 a 12.068362,6.034181 0 0 0 -8.121042,1.76361 12.068362,6.034181 0 0 0 -1.839623,1.18893 12.068362,6.034181 0 0 0 1.839623,1.18955 12.068362,6.034181 0 0 0 17.067041,0 12.068362,6.034181 0 0 0 1.846421,-1.18955 12.068362,6.034181 0 0 0 -1.846421,-1.18893 12.068362,6.034181 0 0 0 -8.945999,-1.76361 z" />
+       d="m 39.507865,102.56182 a 12.068362,6.034181 0 0 0 -8.121042,1.76361 12.068362,6.034181 0 0 0 -1.839623,1.18893 12.068362,6.034181 0 0 0 1.839623,1.18955 12.068362,6.034181 0 0 0 17.067041,0 12.068362,6.034181 0 0 0 1.846421,-1.18955 12.068362,6.034181 0 0 0 -1.846421,-1.18893 12.068362,6.034181 0 0 0 -8.945999,-1.76361 z"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <path
        id="path555238"
        style="fill:#ff0000;fill-opacity:1;stroke-width:0.793748;paint-order:stroke fill markers;stop-color:#000000"
        d="m 15.462428,109.02199 h 0.01549 c 0.02057,3.18445 2.555894,6.23584 7.055753,8.4894 9.425949,4.71296 24.708438,4.71296 34.134465,0 4.499627,-2.25361 7.035554,-5.305 7.055135,-8.4894 h 0.01549 v -7.11591 H 15.465 Z"
-       sodipodi:nodetypes="ccccccccc" />
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <circle
        style="fill:#f78c7c;fill-opacity:1;stroke-width:0.887439;paint-order:stroke fill markers;stop-color:#000000"
        id="circle555240"
        cx="136.65665"
        cy="92.383385"
        transform="matrix(0.89442718,0.44721362,-0.89442718,0.44721362,0,0)"
-       r="19.081755" />
+       r="19.081755"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <circle
        style="fill:#f72605;fill-opacity:1;stroke-width:0.887439;paint-order:stroke fill markers;stop-color:#000000"
        id="circle555242"
        cx="136.65665"
        cy="92.383385"
        transform="matrix(0.89442718,0.44721362,-0.89442718,0.44721362,0,0)"
-       r="9.5408773" />
+       r="9.5408773"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <circle
        style="fill:#f72605;fill-opacity:1;stroke-width:0.887439;paint-order:stroke fill markers;stop-color:#000000"
        id="circle555244"
        cx="136.65665"
        cy="92.383385"
        transform="matrix(0.89442718,0.44721362,-0.89442718,0.44721362,0,0)"
-       r="9.5408773" />
+       r="9.5408773"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <path
        id="path555246"
        style="fill:#ffe680;fill-opacity:1;stroke-width:0.793747;paint-order:stroke fill markers;stop-color:#000000"
-       d="m 39.507865,102.56182 a 12.068362,6.034181 0 0 0 -8.121042,1.76361 12.068362,6.034181 0 0 0 -1.839623,1.18893 12.068362,6.034181 0 0 0 1.839623,1.18955 12.068362,6.034181 0 0 0 17.067041,0 12.068362,6.034181 0 0 0 1.846421,-1.18955 12.068362,6.034181 0 0 0 -1.846421,-1.18893 12.068362,6.034181 0 0 0 -8.945999,-1.76361 z" />
+       d="m 39.507865,102.56182 a 12.068362,6.034181 0 0 0 -8.121042,1.76361 12.068362,6.034181 0 0 0 -1.839623,1.18893 12.068362,6.034181 0 0 0 1.839623,1.18955 12.068362,6.034181 0 0 0 17.067041,0 12.068362,6.034181 0 0 0 1.846421,-1.18955 12.068362,6.034181 0 0 0 -1.846421,-1.18893 12.068362,6.034181 0 0 0 -8.945999,-1.76361 z"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <path
        id="path555917"
        style="fill:#bdc28e;fill-opacity:1;stroke-width:2.99999;paint-order:stroke fill markers;stop-color:#000000"
        d="M 150.50391 387.62305 C 150.11004 387.62468 149.71502 387.62801 149.32031 387.63477 C 142.58101 387.74988 136.37843 388.44556 130.75586 389.81445 L 168.19336 408.5332 C 176.01519 406.93128 183.23265 404.45099 190.11133 398.79492 C 188.16937 397.15729 185.82502 395.64712 183.13281 394.30078 C 174.47511 389.9724 162.71374 387.57234 150.50391 387.62305 z "
-       transform="scale(0.26458333)" />
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <path
        id="path31167"
        style="fill:url(#linearGradient31335);fill-opacity:1;stroke-width:2.99998;paint-order:stroke fill markers;stop-color:#000000"
        d="M 702.30078 284.30859 L 702.30273 498.5 L 769.30273 498.5 L 769.30273 284.30859 L 702.30078 284.30859 z "
-       transform="scale(0.26458333)" />
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <circle
        style="fill:#f78c7c;fill-opacity:1;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="circle515541"
        cx="193.14764"
        cy="-24.512718"
        transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
-       r="7.0073714" />
+       r="7.0073714"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
     <circle
        style="fill:#f72605;fill-opacity:1;stroke-width:0.887435;paint-order:stroke fill markers;stop-color:#000000"
        id="circle515543"
        cx="193.14764"
        cy="-24.512718"
        transform="matrix(0.89442719,0.4472136,-0.89442719,0.4472136,0,0)"
-       r="3.5036857" />
+       r="3.5036857"
+       inkscape:export-filename="C:\Users\quant\OneDrive\Documents\vector-insta.png"
+       inkscape:export-xdpi="95.997482"
+       inkscape:export-ydpi="95.997482" />
   </g>
 </svg>
