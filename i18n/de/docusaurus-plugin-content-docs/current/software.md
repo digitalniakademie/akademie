@@ -1,6 +1,6 @@
 ---
 id: software
-title: Software in Courses
+title: Software in Kursen
 sidebar_position: 12
 ---
 

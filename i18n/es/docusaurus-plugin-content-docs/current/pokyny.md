@@ -1,6 +1,6 @@
 ---
 id: pokyny
-title: Installation 
+title: Instalación 
 sidebar_position: 13
 ---
 Software v kurzech je **open source a volně dostupný** software (FOSS). Instalace aktuální verze je popsána vždy v úvodní lekci daného kurzu.  
