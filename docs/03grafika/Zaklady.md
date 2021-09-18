@@ -50,7 +50,7 @@ Nastavení pravítek v Inkscapu
 
 :::
 
-## Písma, loga a grafické prvky
+
 
 ## Emblematika a piktogramy
 od písma, monogramu po Logotypy. Branding a CI.
@@ -81,5 +81,9 @@ import TabItem from '@theme/TabItem';
 
 :::
 
-### Jednotlivé fáze
-### Konceptuální design
+Jednotlivé fáze zahrnují práci s grafickými elementy.
+
+### Písma, loga a grafické prvky
+Elementy grafické práce. Práce s fotografiemi a příprava pro realizaci.
+### Konceptuální design a ilustrace
+Konceptuální design stejně jako ilustrace definují jednotný styl.

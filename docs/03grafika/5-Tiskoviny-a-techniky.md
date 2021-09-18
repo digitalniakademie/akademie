@@ -14,8 +14,21 @@ Tato lekce obsahuje stručné shrnutí tiskových technologií, se kterými se m
 ## Typy tiskovin
 ### Formáty
 
-- tabulka formátů
+![image](./images/inkscape-papersizes.svg)
+
+- tabulka nejběžnějších formátů ISO řady A
+
+
+|    | Rozměr (mm) |    | Rozměr (mm) |    | Rozměr (mm) |
+|----|-------------|----|-------------|----|-------------|
+| A0 | 841 × 1189  | A3 | 297 × 420   | A6 | 105 × 148   |
+| A1 | 594 × 841   | A4 | 210 × 297   | *A7* | 74 × 105    |
+| A2 | 420 × 594   | A5 | 148 × 210   | *A8* | 52 × 74     |
+
 - tisk na formát
+
+nastavení spadávek.
+
 ### Merkantilní tiskoviny
 - reklamní a prezentační použití
 

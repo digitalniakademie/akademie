@@ -9,36 +9,36 @@ Sazba byl původně výraz pro sestavování litých písmen (liter) pro tisk. D
 
 Už od počátku knihtisku se tisky doplňovaly i ilustracemi. Původní tisk z dřevěných štočků nahradily tisky z kamenných desek (litografie), kovových plechů a jiných materiálů.
 
-DTP a vývoj digitální sazby.
+S příchodem počítačů, které byly dostatečně výkonné a vešly se na stůl, nastala éra digitální sazby (*Desktop publishing*, zkráceně DTP) a vývoj digitální přípravy tiskovin pokračuje dodnes.
 
 ## Formáty tiskovin
 Standardní formáty. Skládání a lomy.
 ## Textové bloky
 Pravidla pro českou sazbu.
 ## Typografická pravidla
+- sirotek, řeka apod.
 ## Grafický design tiskovin
-### Pravidla v češtině
-
+- spadávky a přetisky
 
 ## Export pro tisk
-Fonty vyhovují standardu.
+Formáty.
 
 ## Práce se styly
+Inkscape a jednoduchá sazba
 ### Nadpisy
-Zpravidla obsažené v souboru. Definované vektorem nebo bitmapou.
+Titulkz a velikosti.
 ### Odstavec (*Paragraph*)
-Obsahují více řezů v jednom ttf souboru. Podpora Scribus, **Inkscape**. Pokud je aplikace podporuje, umožňují vytváření přechodových stylů řezů písem, které nejsou jako statické fonty dostupné.
-SEZNAM
+Práce s odstavci. Podpora Scribus, **Inkscape**.
 ### Barvy
-:::note Pozor CMYK
+:::note Pozor, zlý CMYK
 
 Vybráním variabilního fontu se objeví v nastavení Písmo <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>T</kbd> možnost** Weight** (váha písma). Nastavením hodnoty vytvoříš variantu písma, která se objeví v dolní části seznamu řezů pro tento font.
 
 :::
 
 
-## Kerning
-Kerning a další v kapitole o sazbě.
+## Kerning v Inkscapu
+Nastavení - Kerning - u hotových písem.
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -55,12 +55,11 @@ import TabItem from '@theme/TabItem';
 <TabItem value="env">Edit ‣ Preferences ‣ Interface ‣ Translation</TabItem>
 </Tabs>
 
-## Tvorba vlastních fontů
+## Práce s fonty
 
 :::note Poznámka
 
- Přestože je design vlastních fontů velice časově náročný. obzvlášť pokud tvoříš kompletní sadu, základní principy se ti v praxi hodí pro tvorbu speciálních řad. Také speciální značky ve vlastním fontu ti mohou ušetřit hodně práce.
-
+ Pravidla pro práci s fonty, opakování.
 :::
 
 ### Design
@@ -85,7 +84,7 @@ Možnosti klávesnice nastavíš v Blenderu tady:
 </Tabs>
 
 
-### Test
+### Potíže se sazbou
 
 :::warning Poznámka
 
@@ -99,12 +98,9 @@ Možnosti klávesnice nastavíš v Blenderu tady:
 :::
 
 ### Export
+Inkscape budeme používat spíše pro grafický design, úkoly sazby složitějších textů necháme na Scribus.
 
-Jak vrátit pracovní plochu do původního nastavení: Nastavení plochy se ukládá do souboru. Ulož projekt. V dialogu  otevření souboru <kbd>Ctrl</kbd> + <kbd>O</kbd> otevřete Settings (ikona kolečka vpravo nahoře) a odškrtněte Načíst UI (*Load UI* v anglické verzi).
+:::note Cvičení
 
-![image](../img/blender-plocha.jpg)
-
-### Instalace
-
-
-Můžeš začít.
+ Vytvoř jednoduchou tiskovinu a vyexportuj pro Scribus jako křivky.
+:::
