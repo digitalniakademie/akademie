@@ -28,6 +28,10 @@ Niemand ist je ein Experte geworden **durch das Anschauen von Videos im Internet
 
 Die Kurse unterstützen die deutsche und englische Installation von Programmen. Der Grund ist die Praxis, dass viele Fachleute das System und die Software in verschiedenen Sprachversionen verwenden. Manchmal ist es sehr schwierig, sich in unbekannten Begriffen zurechtzufinden, und es gibt auch mehrere mögliche Übersetzungen. Bei wichtigen Begriffen wird auch das englische Original im Text angegeben. Wo die Terminologie nicht etabliert ist, liste ich auch alternative Begriffe auf, die in der Praxis verwendet werden oder prägnanter sind.
 
+:::info die Info
+Im Blog-Bereich der Website finden Sie aktuelle Informationen und Ankündigungen über die laufende Arbeit an Übersetzungen und die Entwicklung aller Sprachversionen.
+:::
+
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
@@ -35,12 +39,12 @@ import TabItem from '@theme/TabItem';
   groupId="jazykova-verze"
   defaultValue="czv"
   values={[
-    {label: 'CZ verze', value: 'czv'},
-    {label: 'EN verze', value: 'env'},
+    {label: 'DE Version', value: 'czv'},
+    {label: 'EN Version', value: 'env'},
   ]
 }>
-<TabItem value="czv">Program máš v české verzi</TabItem>
-<TabItem value="env">Program máš v anglické verzi</TabItem>
+<TabItem value="czv">Sie haben das Programm in der deutschen Version</TabItem>
+<TabItem value="env">Sie haben die englische Version des Programms</TabItem>
 </Tabs>
 
 ## Benötigen die Kurse eine leistungsfähige Computerausrüstung?
@@ -59,7 +63,7 @@ Computertechnologie ist nur ein Werkzeug. Wenn Sie das, was Sie haben, effektiv 
 
 Um die Kurse so zugänglich wie möglich zu machen, verwenden alle Lektionen professionelle, lizenzierte Software, die kostenlos heruntergeladen werden kann. Alle Programme existieren auch in Versionen für die gängigsten Betriebssysteme.
 
-:::
+
 ## Fangen Sie noch heute an!
 Der Unterricht ist so effektiv wie möglich gestaltet. Der Text konzentriert sich auf Elemente und Verfahren, die für die funktionale Kenntnis der Programme **wesentlich** sind. Ziel ist es, neue Techniken so schnell wie möglich anzuwenden.
 

@@ -2,15 +2,15 @@
 sidebar_position: 0
 ---
 
-# Intro: Creativity and Open Source
+# Creativity and Open Source
 ![image](./img/akademieprehled2.svg)
-## Course goals and methodology
+## Goals and Methodology
 
-The lessons on this site extend the content of the **Digital Academy** video series on YouTube. The software is selected to form a functional complete system for digital creation.
+The lessons on this site extend the content of the **Digital Academy** video series on YouTube. The software is selected to form an alternative, fully functional open source system for digital creators.
 
 The lessons are designed with the aim of making their content and described procedures as transferable as possible to other programs. The courses aim to create a basis for further study and own experiments.   
 
-## Who is this program for?
+## Who Is This Program For?
 
 The courses are intended for artists, architects, designers and those interested in digital creation.
 
@@ -22,25 +22,16 @@ No one has ever become an expert **by watching videos on the internet**. You hav
 
 :::
 
-## Language versions of software
-The courses support Czech and English installation of programs. The reason is the practice that many professionals use the system and software in different language versions. Sometimes it is very difficult to find your way around terms you are not used to, and they also have several possible translations. In the case of important terms, the English original is also given in the text. Where the terminology is not established, I also list alternative terms that are used in the field or are more concise.
+## Alternative Language Versions
+The courses support Czech, German, Spanish, and English installations of programs. The reason is the practice that many professionals use the system and software in different language versions. Sometimes it is very difficult to find your way around terms you are not used to, and they also have several possible translations.
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
+In the case of important terms, an alternative is also given in the text. Where the terminology is not established, I also list alternative terms that are used in the field or are more concise.
 
-<Tabs
-  groupId="jazykova-verze"
-  defaultValue="czv"
-  values={[
-    {label: 'CZ verze', value: 'czv'},
-    {label: 'EN verze', value: 'env'},
-  ]
-}>
-<TabItem value="czv">Program máš v české verzi</TabItem>
-<TabItem value="env">Program máš v anglické verzi</TabItem>
-</Tabs>
+:::info
+Watch the Blog section of the site for an updated info and announcements about ongoing work on translations and development of all language versions.
+:::
 
-## Do the courses require powerful equipment?
+## Do the Courses Require Powerful Equipment?
 
 The courses assume at least average computer equipment for graphics applications. Some software uses a two-button mouse with a scroll wheel, and a numeric keypad is an advantage. Drawing and painting courses require a graphics tablet with pressure (although in theory it is possible to paint with a mouse ...).
 
@@ -52,12 +43,12 @@ Computer technology is just a tool. If you can use what you have effectively, yo
 
 :::
 
-## Why open-source?
+## Why Open Source?
 
 To make the courses as accessible as possible, all lessons use professional, licensed software that is free to download. All programs also exist in versions for the most common operating systems.
 
-:::
-## Get started today!
+
+## Get Started Today!
 The lessons are designed to be as effective as possible. The text focuses on elements and procedures that are **essential** for the functional knowledge of the programs. The goal is to use new techniques as quickly as possible.
 
 ## Themes
@@ -72,6 +63,6 @@ The lessons are designed to be as effective as possible. The text focuses on ele
 
 :::tip
 
-Don't be distracted by ** anything ** while learning. The courses provide a fundamentals for further discovery in the given field. Each video lesson will fit in fifteen minutes. To study the text part, reserve the segments after fifteen minutes with a break. After each new topic, try the exercises.
+Don't be distracted by **anything** while learning. The courses provide a fundamentals for further discovery in the given field. Each video lesson will fit in fifteen minutes. To study the text part, reserve the segments after fifteen minutes with a break. After each new topic, try the exercises.
 
 :::

@@ -124,7 +124,7 @@ module.exports = {
         },
         blog: {
           showReadingTime: true,
-          blogSidebarTitle: 'Novinky',
+          blogSidebarTitle: '⇣',
           // Please change this to your repo.
           editUrl:
             'https://github.com/digitalniakademie/akademie/blog/',

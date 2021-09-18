@@ -32,13 +32,17 @@ import TabItem from '@theme/TabItem';
   groupId="jazykova-verze"
   defaultValue="czv"
   values={[
-    {label: 'CZ verze', value: 'czv'},
-    {label: 'EN verze', value: 'env'},
+    {label: 'ES versión', value: 'czv'},
+    {label: 'EN versión', value: 'env'},
   ]
 }>
-<TabItem value="czv">Program máš v české verzi</TabItem>
-<TabItem value="env">Program máš v anglické verzi</TabItem>
+<TabItem value="czv">Tienes el programa en la versión en español</TabItem>
+<TabItem value="env">Tienes la versión en inglés del programa</TabItem>
 </Tabs>
+
+:::info información
+Mire la sección Blog del sitio para obtener información actualizada y anuncios sobre el trabajo en curso en las traducciones y el desarrollo de todas las versiones lingüísticas.
+:::
 
 ## ¿Los cursos requieren un equipo potente?
 
