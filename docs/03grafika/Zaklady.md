@@ -28,16 +28,36 @@ Volba písma i grafických prvků musí být v souladu s plánovaným použitím
 Stylizace musí doplňovat obsah.
 
 ## Proporce
+Systém funguje podle daných pravidel. Grafická práce se pohybuje v oblasti harmonických matematických modelů, protože i samotné médium je tak navržené (materiály jsou připravené ve standardních formátech).
+
+### Harmonické modely a zlatý řez
+Zlatý řez (*Golden Ratio*, sectio aurea, &#934;/&#981;  [fí]) je matematická konstanta, považovaná za harmonický proporční poměr (1: ~1.618).
+
+![image](./images/proportions-golden2.svg)
+
+Harmonie tvarů a barev.
+
+
+Poměry stran standardních formátů ISO DIN A4  jsou v Lichtenbergově poměru 1: ~1.4142.
+
+
+
+![image](./images/proportions.svg)
 
 - kodexy a kánony
 - tvary papírů
 
-### Harmonické modely
+![image](./images/proportions-golden.svg)
 
-Harmonie tvarů a barev.
+![image](./images/proportions-pythagoras.svg)
+
+
+Formáty mohou být atypické.
+
 
 ### Rastrové kompozice
 
+Harmonické systémy efektivně využiješ při proporcionálním rozdělení plochy.
 
 ### Mřížky (*Grids*)
 Vytvářejí rámce layoutu a pomáhají vytvářet konzistenci celkového návrhu. Umožňují varianty a kombinaci elementů.
@@ -52,26 +72,6 @@ Nastavení pravítek v Inkscapu
 
 
 
-## Emblematika a piktogramy
-od písma, monogramu po Logotypy. Branding a CI.
-
-## Práce s grafikou a písmem
-Základní proporce a kontrasty v písmu a grafických objektech. Písmo (Kerning), monogramy.
-
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
-<Tabs
-  groupId="jazykova-verze"
-  defaultValue="czv"
-  values={[
-    {label: 'V české verzi', value: 'czv'},
-    {label: 'V anglické verzi', value: 'env'},
-  ]
-}>
-<TabItem value="czv">Upravit ‣ Předvolby ‣ Rozhraní ‣ Překlad</TabItem>
-<TabItem value="env">Edit ‣ Preferences ‣ Interface ‣ Translation</TabItem>
-</Tabs>
 
 ## Komplexní grafický design
 
@@ -83,7 +83,14 @@ import TabItem from '@theme/TabItem';
 
 Jednotlivé fáze zahrnují práci s grafickými elementy.
 
+### Emblematika a piktogramy
+od písma, monogramu po Logotypy. Branding a CI.
+
+
 ### Písma, loga a grafické prvky
-Elementy grafické práce. Práce s fotografiemi a příprava pro realizaci.
+Elementy grafické práce. Práce s fotografiemi a příprava pro realizaci. Práce s grafikou a písmem
+Základní proporce a kontrasty v písmu a grafických objektech. Písmo (Kerning), monogramy.
 ### Konceptuální design a ilustrace
 Konceptuální design stejně jako ilustrace definují jednotný styl.
+## Aplikace grafického designu
+Základy grafického designu, jako jsou barevné harmonie, kontrasty, teorie tvarů a forem a typografie využiješ ve všech oblastech grafického designu i ilustrace. 

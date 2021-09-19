@@ -29,6 +29,8 @@ Tato lekce obsahuje stručné shrnutí tiskových technologií, se kterými se m
 
 nastavení spadávek.
 
+![image](./images/inkscape-papersizes.svg)
+
 ### Merkantilní tiskoviny
 - reklamní a prezentační použití
 
