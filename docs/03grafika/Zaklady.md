@@ -31,19 +31,20 @@ Stylizace musí doplňovat obsah.
 Systém funguje podle daných pravidel. Grafická práce se pohybuje v oblasti harmonických matematických modelů, protože i samotné médium je tak navržené (materiály jsou připravené ve standardních formátech).
 
 ### Harmonické modely a zlatý řez
-Zlatý řez (*Golden Ratio*, sectio aurea, &#934;/&#981;  [fí]) je matematická konstanta, považovaná za harmonický proporční poměr (1: ~1.618).
+**Zlatý řez** (*Golden Ratio*, sectio aurea, &#934;/&#981;  [fí]) je matematická konstanta, považovaná za harmonický proporční poměr (1: ~1.618).
 
 ![image](./images/proportions-golden2.svg)
 
-Harmonie tvarů a barev.
+Harmonie tvarů a barev. Barevné proporcionální modely a harmonie. Racionální a soběpodobné modely.
 
 
-Poměry stran standardních formátů ISO DIN A4  jsou v Lichtenbergově poměru 1: ~1.4142.
+Poměry stran standardních formátů ISO DIN A4  jsou v **Lichtenbergově poměru** 1: ~1.4142 ( neboli strany jsou ve vzájemném poměru 1: √2)
 
 
 
 ![image](./images/proportions.svg)
 
+**Stříbrný řez** (silver ratio, silver mean)
 - kodexy a kánony
 - tvary papírů
 
@@ -51,27 +52,30 @@ Poměry stran standardních formátů ISO DIN A4  jsou v Lichtenbergově poměru
 
 ![image](./images/proportions-pythagoras.svg)
 
+**Integer** geometrické harmonické poměry.
 
-Formáty mohou být atypické.
+Formáty mohou být atypické. Možností proporčních systémů je mnoho. Ve skutečnosti se kánony zlatého řezu v historii nepoužívaly příliš často. Geometrické modely vznikaly na základě konkrétní aplikace, výtvarné školy a kulturního zázemí.
+
+Rozměry tiskovin vycházejí i ze zavedených jednotek (palec) i z praktičnosti (text nebyl nikdy tištěný do krajů a musel mít racionální velikost). Formáty také určovala výroba tiskovin a rozvoj polygrafického průmyslu.
 
 
 ### Rastrové kompozice
 
-Harmonické systémy efektivně využiješ při proporcionálním rozdělení plochy.
+Harmonické systémy efektivně využiješ při proporcionálním rozdělení plochy. Rastrové systémy se používají při sazbě tiskovin s mnoha komponenty (noviny, časopisy) i při designu interaktivních aplikací.
 
-### Mřížky (*Grids*)
+![image](./images/designgrids-2.svg)
+
+### Rastry, rámce, mřížky (*Grids*)
 Vytvářejí rámce layoutu a pomáhají vytvářet konzistenci celkového návrhu. Umožňují varianty a kombinaci elementů.
 
+![image](./images/designgrids-1.svg)
 :::note cvičení
 
 Nastavení pravítek v Inkscapu
 
-<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>T</kbd> možnost** Weight** (váha písma).
+<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>T</kbd> možnost **Weight** (váha písma).
 
 :::
-
-
-
 
 ## Komplexní grafický design
 
@@ -93,4 +97,6 @@ Základní proporce a kontrasty v písmu a grafických objektech. Písmo (Kernin
 ### Konceptuální design a ilustrace
 Konceptuální design stejně jako ilustrace definují jednotný styl.
 ## Aplikace grafického designu
-Základy grafického designu, jako jsou barevné harmonie, kontrasty, teorie tvarů a forem a typografie využiješ ve všech oblastech grafického designu i ilustrace. 
+Základy grafického designu, jako jsou barevné harmonie, kontrasty, teorie tvarů a forem a typografie využiješ ve všech oblastech grafického designu i ilustrace.
+
+Tisk na formát a spadávky. Formáty papírů.
