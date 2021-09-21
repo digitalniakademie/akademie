@@ -5,6 +5,7 @@ sidebar_position: 10
 ---
 
 # Scribus a předtisková příprava
+![image](./images/scribus-screen.png)
 Scribus je open source řešení sazby tiskovin. Důvodem pro specializovaný software je optimální sazba vícestránkových dokumentů, obsahujících mnoho textu a vyžadujících trochu jinou filozofii správy dokumentu. Skribus nabízí kvalitní typesetting a přípravu dokumentů také v barevném prostoru CMYK, spolu s definovatelnými přímými barvami.
 
 ## Instalace a nastavení
@@ -22,6 +23,40 @@ winget install scribus
 :::
 
 ## Pracovní plocha Scribus
+
+![image](./images/scribus-screen.png)
+
+## Postup práce při sazbě
+:::note Příprava návrhu
+Vytvoříš design layoutu s rozvžením stran a použitými typy a velikostmi fontů.
+:::note
+
+:::note Příprava podkladů
+Texty, obrázky, tabulky a grafické prvky připravíš v dostatečném rozlišení a správných formátech. U bitmapových obrázků je to 300dpi na daný formát. Obrázky do rámců **musí** být bitmapy (.png, .tiff apod.). Grafické prvky mohou být vektory .svg.
+:::note
+
+:::note Příprava stránek
+Podle návrhu si připravíš template a master template stránek.
+:::note
+:::info Zálohy
+Během práce si průběžně ukládej indexované zálohy.
+:::note
+:::note Definice stylů
+Podle návrhu připravíš styly pro titulky, podtitulky a odstavcový text.
+:::note
+
+:::note Sazba
+Připravíš základní sazbu s texty a obrázky.
+:::note
+
+:::note Export
+Exportuješ do .pdf s ořezovými značkami a spadávkou pro kontrolu.
+:::note
+
+:::note Kontrola
+Zkontroluješ soubor .pdf.
+:::note
+
 ## Styly
 ### Odstavce
 ### Nadpisy
@@ -44,8 +79,8 @@ Zkratky:
 :::
 
 
-## Kerning a pravidla tiskové strany
-Kapitola o sazbě.
+## Pravidla tiskové strany
+Kapitola o sazbě. Plynulost textu.
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
