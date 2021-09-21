@@ -29,6 +29,14 @@ Tato lekce obsahuje stručné shrnutí tiskových technologií, se kterými se m
 
 nastavení spadávek.
 
+:::note cvičení
+
+Nastavení pravítek v Inkscapu
+
+<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>T</kbd> možnost **Weight** (váha písma).
+
+:::
+
 ![image](./images/inkscape-papersizes.svg)
 
 ### Merkantilní tiskoviny

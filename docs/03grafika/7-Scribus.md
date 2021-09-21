@@ -25,7 +25,8 @@ winget install scribus
 ## Styly
 ### Odstavce
 ### Nadpisy
-### Barvy
+### Barvy a separace plátů
+- CMYK a přímé barvy
 ## Základní sazba textů
 ## Práce s obrázky
 
@@ -66,5 +67,46 @@ import TabItem from '@theme/TabItem';
 :::note Úkol
 
  Vytvoř template pro skládanou brožuru.
+
+:::
+
+## Ghostscript a kontrola CMYK separací
+
+Pokud nemáš k dispozici program na prohlížení CMYK separací, můžeš z vytvořeného .pdf vygenerovat jednotlivé pláty pro kontrolu v grafickém editoru pomocí programu Ghostscript.
+
+- vytvoř adresář, kam se vygenerují separace (v příkladu je to C:/gs)
+- pokud nemáš nastavenou systémovou cestu pro Ghostscript, překopíruj testovací soubor (v příkladu mujsoubor.pdf) do adresáře, kde máš nainstalovaný GS, ~gs/bin.
+
+:::note jak nastavit cestu ve Windows
+Příkaz do terminálu cmd.exe (default umístění instalace Ghostscriptu):
+
+```
+set path=C:\Program Files\gs\gs9.54.0\bin;%path%
+```
+Potom můžeš spouštět Ghostscript odkudkoliv.
+
+:::
+
+Windows:
+
+```
+ gswin64c -sDEVICE=tiffsep -o C:\gs\test%d.tiff mujsoubor.pdf
+```
+
+Linux:
+
+```
+gs -sDEVICE=tiffsep -dNOPAUSE -dBATCH -dSAFER -r150x150 -sOutputFile=test%04d.tif mujsoubor.pdf
+```
+- otevři soubory v **GIMPu**
+- soubory můžeš otevřít do jednoho dokumentu ve vrstvách z menu nebo pomocí <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>O</kbd>
+- v menu **Okna ‣ Dokovatelná dialogová okna** (*Windows ‣ Dockers*) vyber okno Pointer
+- v okně Ukazatel/Pointer vyber v rolovacím menu barevný prostor CMYK
+- v okně Ukazatel/Pointer se ti teď ukazují informace o barvách pixelu pod kurzorem
+- aktuální barevný plát poznáš z názvu souboru vlevo nahoře
+
+:::note Úkol
+
+ Vytvoř dokument obsahující CMYK a přímé barvy. Pomocí Ghostcriptu vygeneruj separované pláty a zkontroluj poměry složek.
 
 :::
