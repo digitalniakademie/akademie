@@ -13,11 +13,29 @@ S příchodem počítačů, které byly dostatečně výkonné a vešly se na st
 
 ## Formáty tiskovin
 Standardní formáty. Skládání a lomy.
-## Textové bloky
-Pravidla pro českou sazbu.
-## Typografická pravidla
-- sirotek, řeka apod.
+
+- typické formy tiskovin - skládačky
+- sudá a lichá
+
+## Typografická pravidla pro textové bloky
+:::note Pravidla pro českou sazbu.
+Čeština a polština nedovoluje ukončování řádků jedno a dvoupísmennými slovy.
+:::
+
+Nežádoucí jevy v blocích textů (na které nezávisle určitě narazíš sám) jsou:
+
+- **Vdovy** (Widows) jsou osamělé řádky přetékající na další blok textu nebo stranu
+- **Sirotci** (Orphans) označují osamělé řádky začínající odstavec na konci sloupce nebo strany
+- **Řeka** (River) je souvislá prázdná plocha nebo linka vznikající ve sloupcích a odstavcích mezerami mezi slovy (tento prostor pak upoutává pozornost především v justifikovaném textu)
+- **Hadr** (Rag) je příliš nevyrovnaná délka následujících řádků ve sloupci nebo bloku textu
+- nevhodná vzdálenost mezi řádky pro zvolený font
+- špatně nebo nevhodně rozdělená slova (Runts)
+
+
+K odstranění a zmírnění těchto jevů používáme **rozdělování slov** (*Hyphenation*) a úpravu parametrů textu (tracking) a odstavců, což si ukážeme v programu Scribus.
+
 ## Grafický design tiskovin
+- jednoduché sazby v Inkscapu
 - spadávky a přetisky
 
 ## Export pro tisk
@@ -26,9 +44,11 @@ Formáty.
 ## Práce se styly
 Inkscape a jednoduchá sazba
 ### Nadpisy
-Titulkz a velikosti.
+Titulky a velikosti.
 ### Odstavec (*Paragraph*)
 Práce s odstavci. Podpora Scribus, **Inkscape**.
+
+
 ### Barvy
 :::note Pozor, zlý CMYK
 
@@ -66,41 +86,11 @@ import TabItem from '@theme/TabItem';
 
 klávesách <kbd>Num +</kbd> a <kbd>Num -</kbd>. Pokud jsou na tvém tabletu programovací tlačítka nebo touch ring, doporučuji si nastavit tyto shortcuty (viz obrázek). Příklad nastavení u tabletu Wacom:
 
-![image](../img/wacom.jpg)
-
-### Vektorizace
-
-Možnosti klávesnice nastavíš v Blenderu tady:
-<Tabs
-  groupId="jazykova-verze"
-  defaultValue="czv"
-  values={[
-    {label: 'V české verzi', value: 'czv'},
-    {label: 'V anglické verzi', value: 'env'},
-  ]
-}>
-<TabItem value="czv">Upravit ‣ Předvolby ‣ Vstup</TabItem>
-<TabItem value="env">Edit ‣ Preferences ‣ Input</TabItem>
-</Tabs>
 
 
-### Potíže se sazbou
 
-:::warning Poznámka
-
- Start>Nastavení>Čas a jazyk>Jazyk>Klávesnice>Klávesové zkratky pro jazyk zadávání>Otevře se okno Jazyky a služby pro zpracování textu, zvolte Změnit kombinaci kláves>>Oba sloupce nastavit na Nepřiřazeno. Použít.
-
- (Anglická verze Win10: Start>Settings>Time & Language>Language>Keyboard>Input Language Hotkeys, otevře se dialogové okno Text Services and Input Languages, v něm vyberte Change Key Sequence a nastavte všechny Key Sequence na Not Assigned.)
- Aplikujte.
-
- **Shorcut na přepínání klávesnic <kbd>Windows</kbd> + <kbd>SPACEBAR</kbd> bude dále funkční.**
-
-:::
-
-### Export
-Inkscape budeme používat spíše pro grafický design, úkoly sazby složitějších textů necháme na Scribus.
 
 :::note Cvičení
 
- Vytvoř jednoduchou tiskovinu a vyexportuj pro Scribus jako křivky.
+ Vytvoř jednoduchou sazbu tiskoviny v Inkscapu a vyexportuj pro Scribus jako křivky.
 :::

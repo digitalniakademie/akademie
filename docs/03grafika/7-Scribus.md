@@ -26,6 +26,13 @@ winget install scribus
 
 ![image](./images/scribus-screen.png)
 
+Objekty se do dokumentu umísťují pomocí **rámců** (Frames). Základní typy jsou:
+- Textový rámec
+- Obrázkový rámec
+Grafické prvky se dají umístit i mimo rámec přímo do dokumentu.
+
+Práce s vrsvami a hloubkou. Zamykání vrstev.
+
 ## Postup práce při sazbě
 :::note Příprava návrhu
 Vytvoříš design layoutu s rozvžením stran a použitými typy a velikostmi fontů.
@@ -58,11 +65,20 @@ Zkontroluješ soubor .pdf.
 :::note
 
 ## Styly
+Typ fontu i parametry textových rámců a vybraných částí textu se dají měnit přímo, **VŽDY** ale používej **styly**. Důvodem je to, že styly můžeš posléze snadno upravovat, a to kdekoliv v dokumentu najednou. Máš také jasný přehled o typografii dokumentu na jednom místě.
+
 ### Odstavce
+
+Odstavec (Paragraph) je blok textu. Pokud je oddělený (pomocí Enter nebo Sh)
 ### Nadpisy
 ### Barvy a separace plátů
 - CMYK a přímé barvy
 ## Základní sazba textů
+Ukončení odstavce vložíme klávesou <kbd>Enter</kbd>. Odsazení bez ukončení odstavce (Hard Line Break) pomocí <kbd>Shift</kbd>+<kbd>Enter</kbd> — v Editoru textů (Story Editor) je označený červenou
+
+:::note Editor textů
+Editoru textů (Story Editor) otevřeš po označení textového rámce z menu **Úpravy Upravit text...** (Edit Edit text...) nebo zkratkou <kbd>Ctrlt</kbd>+<kbd>Shift</kbd>+<kbd>T</kbd>.
+
 ## Práce s obrázky
 
 ## Typy formátů a export pro tisk
@@ -97,7 +113,9 @@ import TabItem from '@theme/TabItem';
 <TabItem value="env">Edit ‣ Preferences ‣ Interface ‣ Translation</TabItem>
 </Tabs>
 
-## Tvorba vlastních master templatů
+## Tvorba vlastních vzorových stránek
+
+- Vzorové stránky (Templates, Master Templates) určují parametry strany, rozmístění vodítek a elementů
 
 :::note Úkol
 
@@ -108,6 +126,8 @@ import TabItem from '@theme/TabItem';
 ## Ghostscript a kontrola CMYK separací
 
 Pokud nemáš k dispozici program na prohlížení CMYK separací, můžeš z vytvořeného .pdf vygenerovat jednotlivé pláty pro kontrolu v grafickém editoru pomocí programu Ghostscript.
+
+Tímto způsobem můžeš kontrolovat přetisky (overprint, většinou černého textu), nežádoucí jevy nebo chyby a separované pláty jednotlivých složek a přímých barev.
 
 - vytvoř adresář, kam se vygenerují separace (v příkladu je to C:/gs)
 - pokud nemáš nastavenou systémovou cestu pro Ghostscript, překopíruj testovací soubor (v příkladu mujsoubor.pdf) do adresáře, kde máš nainstalovaný GS, ~gs/bin.
