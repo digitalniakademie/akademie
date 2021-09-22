@@ -5,15 +5,39 @@ sidebar_position: 7
 ---
 
 # Interaktivní design
-Návrhy pro interaktivní média vyžadují plánování pro různé režimy zobrazení, a formát zobrazení navíc nemusí být pevně určen (což může vytvářet potíže například u proporcí). Nicméně platí stejné konceptuální zásady designu jako u tiskovin.
+Návrhy pro interaktivní média vyžadují plánování pro různé režimy zobrazení, a formát zobrazení navíc nemusí být pevně určen (což může vytvářet potíže například u proporcí). Nicméně platí stejné konceptuální zásady designu jako u tiskovin a existují i ustálené formáty.
+
+![image](./images/inkscape-websizes.svg)
+
+|        |             |                       |      |
+|--------|-------------|-----------------------|------|
+| FHD    | 1920 x 1080 |                       | 16:9 |
+| 2K     | 2048 × 1080 |                       |      |
+| QHD    | 2560 x 1440 |                       | 16:9 |
+| UHD    | 3840 x 2160 | Broadcasting Standard | 16:9 |
+| 4K     | 4096 x 2160 | Digital Cinema        |      |
+| 8K UHD | 7680 × 4320 |                       | 16:9 |
+|        |             |                       |      |
+
+Výrobci někdy zaměňují formáty (hlavně UHD a 4K) nebo uvádějí na trh atypické formáty pod různými názvy.
+
+Mobilní trh jsou obrovský distribuční kanál digitálního interaktivního obsahu, a existuje mnoho dalších formátů zobrazení: 18:9, 19:9, 19:10 ad.
 
 ## Webové stránky
 - stránky, portfolia, obchody, prezentace, informační a dokumentační projekty
+- internetové profily a portfolia
+- sociální sítě
+
 ### Wireframes
 - mockup a wireframe
+- digitální makety
+
 ### Grafické prvky
+- aktivní a pasívní
+- call to action
 ### Programování a design
-### Univerzální design
+- konec rámcového designu?
+- univerzální design
 - návrh společného stylu pro tiskoviny i web
 
 :::note Úkol
