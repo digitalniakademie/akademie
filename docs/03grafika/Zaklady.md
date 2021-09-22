@@ -130,31 +130,7 @@ Vytvářejí rámce layoutu a pomáhají vytvářet konzistenci celkového návr
 
 ![image](./images/designgrids-1.svg)
 
-Rozvržení layoutu je dobrý základ, ale určení rozmístění pro harmonický design není nezávislé na obsahu jednotlivých buněk.   
-
-## Komplexní grafický design
-
-:::note Poznámka
-
- Postupy tvorby grafického designu si ukážeme na příkladech z typografie, sazby (Typesttingu), ilustrace a konceptuální grafiky.
-
-:::
-
-Jednotlivé fáze zahrnují práci s grafickými elementy.
-
-### Emblematika a piktogramy
-od písma, monogramu po Logotypy. Branding a CI.
-
-
-### Písma, loga a grafické prvky
-Elementy grafické práce. Práce s fotografiemi a příprava pro realizaci. Práce s grafikou a písmem
-Základní proporce a kontrasty v písmu a grafických objektech. Písmo (Kerning), monogramy.
-### Konceptuální design a ilustrace
-Konceptuální design stejně jako ilustrace definují jednotný styl.
-## Aplikace grafického designu
-Základy grafického designu, jako jsou barevné harmonie, kontrasty, teorie tvarů a forem a typografie využiješ ve všech oblastech grafického designu i ilustrace.
-
-Tisk na formát a spadávky.
+Rozvržení layoutu je dobrý základ, ale určení rozmístění pro harmonický design není nezávislé na obsahu jednotlivých buněk. Také formát, materiál a aplikace ovlivňují design.    
 
 :::note Poznámka
 Běžné formáty papírů jsou ISO (mezinárodní standard, např. A4, A+, B4) a ANSI (US a Jižní Amerika). ANSI formáty nemají v různých formátech stejný poměr stran.
@@ -162,3 +138,49 @@ Běžné formáty papírů jsou ISO (mezinárodní standard, např. A4, A+, B4) 
 ![image](./images/formaty-us.svg)
 
 :::
+
+## Komplexní grafický design a vizuální komunikace
+
+:::note Poznámka
+
+ Postupy tvorby grafického designu si ukážeme na příkladech z typografie, sazby (Typesttingu), ilustrace a konceptuální grafiky.
+
+:::
+
+Komplexní grafický design se zabývá řešením vizuální komunikace. Jednotlivé fáze zahrnují práci s grafickými elementy. Jsou to základní a doplňující grafické prvky, typografie, barevné palety a definice proporcí — zkrátka výtvarný jazyk, určený k předávání vizuálních informací.
+
+Grafický design kombinuje výtvarné umění, literaturu a technické průmyslové obory.
+
+### Emblematika a piktogramy
+Vizuální komunikace pracuje se symboly, emblémy (spojení symbolů do významových struktur), kontrasty a harmoniemi.
+
+Symbolika, emblematika a piktogramy jsou základem tvorby logotypů, grafických značek, ikon i komplexního designu tiskovin, obalů nebo interaktivních aplikací.
+
+### Písma, loga a grafické prvky
+
+Design písma využívá základní proporce a kontrasty v grafických objektech.
+
+Stejné vizuální principy pozitivního a negativního prostoru, ochranného prostoru, dynamiky a plynulosti linií používáme při designu grafických značek (log) i dalších komponentů grafického stylu.
+
+### Konceptuální design a ilustrace
+Konceptuální design stejně jako ilustrace definují jednotný styl. Konzistence stylu je důležitá pro sérii ilustrací, i pro jednotný vizuální styl komunikace firmy nebo projektu.
+
+## Aplikace grafického designu
+Základy grafického designu, jako jsou barevné harmonie, kontrasty, teorie tvarů a forem a typografie využiješ ve všech oblastech grafického designu i ilustrace.
+
+Elementy grafické práce:
+
+- Konceptuální design
+- Grafické návrhy
+- Tvorba písem a ilustrací
+- Design grafů a tabulek
+- Práce s grafikou a písmem
+- Práce s fotografiemi a ilustracemi
+- Příprava pro realizaci
+- Tvorba nebo příprava maket
+- Grafický design aplikací a komponentů
+- Design uživatelských rozhraní
+
+Grafický design se uplatňuje ve všech oblastech průmyslu, od tvorby knih, časopisů, plakátů a jiných tiskovin, přes návrhy obalů a etiket, až po marketingové a reklamní materiály.
+
+V případě grafických návrhů rozhraní pro aplikace může funkční grafický design přesahovat do oblasti multimediálního designu (motion design), kterému se budeme více věnovat v kurzu animace.
