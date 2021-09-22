@@ -24,12 +24,14 @@ Tyto pravidla platí jak pro design grafických prvků, uživatelských rozhran�
 
 ![image](./images/color-wheel.svg)
 
-- nejčastější modely pro design a tisk
-- RGBA a CMYK
-- vzorníky
+- nejčastější modely pro design a tisk jsou RGB(A) a CMY(K)
+- barevný prostor je specifická definice rozsahu barev s určitým barevným modelem
+- barevné modely nezohledňují skutečný fyzikální rozsah barev ani možnosti jejich vnímání
+- v grafických programech je z praktických důvodů výběr z několika barevných modelů (často bez ohledu na barevný prostor, ve kterém se dokument zrovna nachází)
+- pro lepší věrnost reprodukovaných barev se v polygrafii používá kalibrace zařízení a pro kontrolu a design se používají tištěné barevné vzorníky
 
 ![image](./images/color-model-inkscape.svg)
-- RGB
+- RGB prostor s aproximací CMY(K) barev
 ### Vzorníky a palety
 V praxi se požívají různé typy barevných vzorníků (swatches), které slouží k náhledu pro tisk na různé typy papírů nebo speciální materiály.
 
@@ -45,11 +47,25 @@ Pro naše účely se spokojíme s omezenými možnostmi Inkscapu jako kreslicíh
 ### Color Management a profily
 Náhled barev na monitoru nemusí odpovídat výstupu, především když se jedná o tiskový výstup (ale platí to pro jakoukoliv úpravu barev i pro fotografii nebo film). K základnímu nastavení patří správný barevný profil pro daný monitor. Existují i kalibrovaná zařízení a interface na kalibraci, které se používají v profesionálních provozech.
 
-- monitory a kalibrace
-- nastavení
+Profily přiřadíš nebo změníš v menu **Soubor ‣ Vlastnosti dokumentu ‣ Barvy** (*File ‣ Document Properties ‣ Colors*).
 
 ### Harmonie
-- tvorba rychlých harmonických sestav
+
+![image](./images/color-harmony.svg)
+
+Rychlou harmonickou barevnou sestavu vytvoříš následujícím postupem:
+
+- vyber dominantní barvu, která bude na návrhu převládat. Barva musí vystihovat náladu, kterou chceš docílit. U komerčních prací bude odpovídat aplikaci, produktu nebo oboru, ve kterém se tvůj design má uplatnit. Dominantní barva nemusí být nejvýraznější
+-  veber komplementární nebo neutrální barvu, která bude dopňkový barevný tón
+- vyber kontrastní barvu, která bude vytvářet barevný akcent
+tvorba rychlých harmonických sestav
+- barvy nemusí mít stejnou saturaci ani světlost
+- tyto tři barvy budou základ palety
+- další varianty rychle vytvoříš překryvem barevnou vrstvou s efektem Násobit nebo Překryv (Multiply, Overlay) v Inkscapu nebo kreslicím programu
+
+Takových náčrtů si vytvoř několik. Vzájemným porovnáním pak zjistíš, která barevná paleta nejvíce odpovídá očekávanému efektu.
+
+![image](./images/ink-barvy.svg)
 
 ## Kontrast a čitelnost
 Princip práce s barevnými plochami je podobný práci s vrstvami detailů nebo perspektivními plány v malbě. Je dobré si vytvořit tři základní skupiny barev: dominantní převládající barevný tón, sekundární doplňkový tón a zvýrazňující akcentový tón. Samozřejmě, každá grafika nebude mít pouze tři barvy (uvažuj spíš ve smyslu barevných skupin), stejně tak rozlišující parametr barvy nemusí být odstín. Stejně bude působit i světelný nebo chromatický kontrast.  
@@ -82,9 +98,8 @@ První obrázek je předchozí příklad bez barevné (HSL) saturace. Další p�
 Při práci s kontrasty v grafice je také důležité uvědomit si efekt optické iluze, vznikající vzájemným působením tvarů a barev (světlý čtvereček v tmavém poli působí, že je o něco větší než tmavý čtvereček na světlém poli). Kontrast je základní pro naše pochopení **tvarů, forem a proporcí**. Tento efekt se dá velice dobře využít v abstraktní a ornamentální tvorbě.
 
 ## Tvorba palet
-Inkscape a barevné modely.
 
-:::info Krita a vzorníky palet
+:::info Inkscape a vzorníky palet
 
 Základní aktivní paleta je zobrazená ve spodní části hlavního okna. Paletu změníš ikonou šipky **(B)** a výběrem palety ze seznamu).
 
