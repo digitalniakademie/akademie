@@ -39,10 +39,12 @@ K odstranění a zmírnění těchto jevů používáme **rozdělování slov** 
 - spadávky a přetisky
 
 ## Export pro tisk
-Formáty.
+- formáty souborů
+- spadávky a přetisky
+
 
 ## Práce se styly
-Inkscape a jednoduchá sazba
+- Inkscape a jednoduchá sazba
 ### Nadpisy
 Titulky a velikosti.
 ### Odstavec (*Paragraph*)

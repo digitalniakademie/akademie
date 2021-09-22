@@ -25,29 +25,41 @@ Tato lekce obsahuje stručné shrnutí tiskových technologií, se kterými se m
 | A1 | 594 × 841   | A4 | 210 × 297   | *A7* | 74 × 105    |
 | A2 | 420 × 594   | A5 | 148 × 210   | *A8* | 52 × 74     |
 
+S těmito formáty se budeš setkávat nejčastěji, v tiskárenském průmyslu se použivají z praktických důvodů např. formáty A+ a B (kvůli přesahům) a C na tisk obálek. Formáty se nařezávají z paletového papíru, takže formát tiskoviny může mít libovolné proporce.  
+
 - tisk na formát
 
-nastavení spadávek.
+- nastavení přesahů spadávek.
 
 :::note cvičení
+Nastavení formátu dokumentu v Inkscapu: <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>D</kbd>
 
-Nastavení pravítek v Inkscapu
+Nastavení pravítek a mřížek v Inkscapu.
 
-<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>T</kbd> možnost **Weight** (váha písma).
+
 
 :::
 
-![image](./images/inkscape-papersizes.svg)
+![image](./images/inkscape-papersizes2.svg)
 
+### Výběr materiálů, technik tisku a povrchové úpravy
+- typy papírů
+- typy laků
+- ražby
+- výseky
+- atypické materiály
 ### Merkantilní tiskoviny
 - reklamní a prezentační použití
 
 ### Obaly
+- potisky obalů
+- design tvaru obalů
+- výsekové formy
 
 ### Noviny, knihy, časopisy
-
+- standardní formáty
 ## Techniky tisku
-Tisk z plochy a z výšky.
+Grafické techniky - tisk z plochy, hloubky a z výšky.
 ### Ofsetové a digitální tisky
 - přesahy a ohyby
 ### Sítotisk (*Screenprint*)
@@ -55,11 +67,11 @@ Tisk z plochy a z výšky.
 - Scribus a export do .pdf
 ### Přímé barvy
 - speciální vzorové barvy
-
+- tisk do souboru a kontrola separovaných plátů
 ### Tvorba maket
 - makety pro tiskoviny a modely obalů
 
 ## Elektronické dokumenty
 Přestože technicky nepatří mezi tiskařské techniky, tisk do dokumentu je dnes rozšířená forma distribuce tiskovin. Nejčastěji se setkáš s dokumenty typu **.pdf**, které mohou mít i interaktivní prvky.
 
-Návrh designu elektronických dokumentů, jako jsou e-mailové přílohy, prezentace a design pro sociální sítě jsou stejně časté úkoly grafického designera jako přípravy a návrhy pro klasický tisk.
+Návrh designu elektronických dokumentů, jako jsou e-mailové přílohy, vizitky, prezentace a design pro sociální sítě jsou stejně časté úkoly grafického designera jako přípravy a návrhy pro klasický tisk.

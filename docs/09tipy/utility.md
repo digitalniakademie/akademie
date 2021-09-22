@@ -10,7 +10,7 @@ Užitečné aplikace a odkazy, které souvisí s tématy kurzů a jsou volně do
 
 ## Grafika a malba
 ### Generátor barevných harmonií
-Komplexní kalkulátor barevných harmoní a palet https://color.adobe.com/create/color-wheel
+Kalkulátor barevných palet a gradientů s jednoduchým nastavením dominantní barvy https://mycolor.space/ a komplexní kalkulátor barevných harmoní a palet https://color.adobe.com/create/color-wheel
 ### Kalkulátor harmonií
 Online kalkulátor barevných harmoní. https://www.sessions.edu/color-calculator/
 ### Typesetting

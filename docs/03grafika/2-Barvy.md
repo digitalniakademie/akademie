@@ -56,7 +56,7 @@ Profily přiřadíš nebo změníš v menu **Soubor ‣ Vlastnosti dokumentu ‣
 Rychlou harmonickou barevnou sestavu vytvoříš následujícím postupem:
 
 - vyber dominantní barvu, která bude na návrhu převládat. Barva musí vystihovat náladu, kterou chceš docílit. U komerčních prací bude odpovídat aplikaci, produktu nebo oboru, ve kterém se tvůj design má uplatnit. Dominantní barva nemusí být nejvýraznější
--  veber komplementární nebo neutrální barvu, která bude dopňkový barevný tón
+-  vyber komplementární nebo neutrální barvu, která bude dopňkový barevný tón
 - vyber kontrastní barvu, která bude vytvářet barevný akcent
 tvorba rychlých harmonických sestav
 - barvy nemusí mít stejnou saturaci ani světlost
