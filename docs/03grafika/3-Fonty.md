@@ -42,6 +42,10 @@ Jednotlivé části písmene (glyfu) nemají sjednocenou terminologii. Přesto j
 2. negativní prostor (counter)
 3. apex
 4. terminal
+5. crossbar (vynecháním nebo omezením prvků, které neruší čitelnost se často písmo stylizuje nebo modernizuje)
+6. bracket
+7. stem
+
 
 :::note Pozitivní a negativní plochy
 
@@ -98,7 +102,7 @@ Speciální fonty mohou mít různé formy a jsou určené pro akcenty nebo zvl�
 - Akcidenční (*Display Type*) fonty jsou určené pro velké formáty a krátké texty a mají výrazný design — jsou zkrátka pro zvláštní příležitosti
 - Skripty (*Handwriting, Script*) jsou fonty v podobě ručně psaných písem
 
-Kombinace a párování fontů tak, aby výsledek působil esteticky je jeden z hlavních úkolů designera při práci s fonty. Dobrý začátek je udržovat minimalizmus v použití fontů, používat fonty z jedné rodiny a využívat kontrastů váhy a velikosti fontů. 
+Kombinace a párování fontů tak, aby výsledek působil esteticky je jeden z hlavních úkolů designera při práci s fonty. Dobrý začátek je udržovat minimalizmus v použití fontů, používat fonty z jedné rodiny a využívat kontrastů váhy a velikosti fontů.
 
 ## Typy formátů
 
