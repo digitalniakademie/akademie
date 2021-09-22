@@ -34,6 +34,7 @@ Tuto zkratku si přiřaď sám, není v základním nastavení. Je velmi užite�
 ### Výběr elipsa <kbd>J</kbd>
 ### Výběr obdélník <kbd>Ctrl</kbd>+<kbd>R</kbd>
 ### Invertovat výběr <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd>
+### Převést na cestu <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>
 
 ###   Posunout <kbd>T</kbd>
 ###   Transformovat <kbd>Ctrl</kbd>+<kbd>T</kbd>
