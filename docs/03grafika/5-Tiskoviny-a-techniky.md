@@ -72,17 +72,23 @@ Grafické techniky - tisk z plochy, hloubky a z výšky.
 - makety pro tiskoviny a modely obalů
 - náhledy tiskových stran
 
-:::note Inkscape: Export do pdf
+:::note Inkscape: Export do pdf přes Scribus
+Inkscape umí ukládat .pdf i se spadávkami (pokud chceš tiskový soubor s ořezovými značkami, budeš potřebovat Scribus)
+
 Jak nastavit stránku pro tiskový náhled:
+
 - objekty, které mají být tištěny do krajů stránky, musí stránku přesahovat o 5mm
 - **Soubor ‣ Uložit jako** (*File ‣ Save as*), vyber **Portable Document Format (.pdf)**
 - při exportu do .pdf nastav spadávky
-- vyexportuj stránku jako .pdf
+- ulož stránku jako .pdf
+- pro import do programu Scribus ti stačí .svg (které můžeš importovat i mimo obrazový rámec)
 #### Poznámky pro přípravu
 
 - trasformace objektů <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd>  
-- vodítka kolem formátu stránky zobrazíš ve Vlastnostech dokumentu (Document Properties) <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>D</kbd>: vyber **Vodítka ‣ Zobrazovat vodítka kolem stránky** 
-- pro náhled tiskové strany si vytvoř ořezové značky, nebo použij program Scribus
+- vodítka kolem formátu stránky zobrazíš ve Vlastnostech dokumentu (Document Properties) <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>D</kbd>: vyber **Vodítka ‣ Zobrazovat vodítka kolem stránky**
+- pro náhled tiskové strany si vytvoř ořezové značky, nebo použij program Scribus. Na obrázku je v Inkscapu uložené .svg vyexportované jako .pdf přes Scribus s tiskovými značkami.
+
+![image](./images/inkscape-scribus.png)
 :::
 ## Elektronické dokumenty
 Přestože technicky nepatří mezi tiskařské techniky, tisk do dokumentu je dnes rozšířená forma distribuce tiskovin. Nejčastěji se setkáš s dokumenty typu **.pdf**, které mohou mít i interaktivní prvky.

@@ -54,10 +54,17 @@ Podle návrhu připravíš styly pro titulky, podtitulky a odstavcový text.
 
 :::note Sazba
 Připravíš základní sazbu s texty a obrázky.
+
+Otevřít okno **Okna ‣ Zarovnat a rozmístit**.
 :::note
 
 :::note Export
 Exportuješ do .pdf s ořezovými značkami a spadávkou pro kontrolu.
+- **Soubor ‣ Exportovat ‣ Uložit jako PDF**
+- v tabu Předtisková kontrola zaškrtni ořezové značky, nastav Posun na 5pt
+- pokud máš spadávky nastavené v dokumentu, zaškrtni Použít spadávku dokumentu
+- Pokud ne, nastav spadávky na 5mm
+
 :::note
 
 :::note Kontrola
