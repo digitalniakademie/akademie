@@ -123,6 +123,17 @@ import TabItem from '@theme/TabItem';
 
 :::
 
+:::note Scribus: Náhled tiskové strany a export do pdf
+Jak nastavit stránku pro tiskový náhled:
+- objekty, které mají být tištěny do krajů stránky, musí stránku přesahovat o 5mm
+- **Soubor ‣ Uložit jako** (*File ‣ Save as*), vyber **Portable Document Format (.pdf)**
+- při exportu do .pdf nastav ořezové značky, případně další tiskové značky (pro náhled ti budou většinou stačit ořezové značky)
+- vyexportuj stránku jako .pdf
+#### Poznámky pro přípravu
+
+
+:::
+
 ## Ghostscript a kontrola CMYK separací
 
 Pokud nemáš k dispozici program na prohlížení CMYK separací, můžeš z vytvořeného .pdf vygenerovat jednotlivé pláty pro kontrolu v grafickém editoru pomocí programu Ghostscript.
