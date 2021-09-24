@@ -27,7 +27,7 @@ Přílohy:
 ## Software v kurzu
 
 Hlavní program: Krita  
-Utility: XnView MP 
+Utility: XnView MP
 Další programy: GIMP, MyPaint
 
 ## Poznámky

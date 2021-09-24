@@ -5,6 +5,7 @@ sidebar_position: 0
 ---
 
 # Co v kurzu najdeš
+### Modelování a sochařství
 Základní ovládání programu Blender v aplikaci pro digitální modelování, design a vizualizace.
 ![image](../img/toppicture2.png)
 - Modelování ve 3D

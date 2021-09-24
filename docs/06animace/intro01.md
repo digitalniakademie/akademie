@@ -8,10 +8,14 @@ sidebar_position: 1
 ![image](../img/toppicture3.png)
 - Základy animace
 - Akcenty a stylizace
-- Motion Design
+- 2D animace (Krita, Blender)
+- 3D animace (Blender)
+- Motion Design (Blender)
+- Animace typografie (Blender)
+- Animace efektů (Natron)
 
 ## Software v kurzu
 
-Hlavní: Blender, Natron  
+Hlavní: Blender, Krita, Natron  
 Utility: Gimp, G'MIC  
 Zdroje:
