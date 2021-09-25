@@ -11,6 +11,12 @@ Už od počátku knihtisku se tisky doplňovaly i ilustracemi. Původní tisk z 
 
 S příchodem počítačů, které byly dostatečně výkonné a vešly se na stůl, nastala éra digitální sazby (*Desktop publishing*, zkráceně DTP) a vývoj digitální přípravy tiskovin pokračuje dodnes.
 
+## Postup práce se zdroji
+
+- Inkscape: Vektorový grafický design a ilustrace, návrh typografie
+- GIMP, Krita: Příprava bitmapových souborů (fotografie, ilustrace)
+- Scribus: Sestavení vícestránkových dokumentů a sazba
+
 ## Formáty tiskovin
 Standardní formáty. Skládání a lomy.
 
@@ -19,7 +25,7 @@ Standardní formáty. Skládání a lomy.
 
 ## Typografická pravidla pro textové bloky
 :::note Pravidla pro českou sazbu.
-Čeština a polština nedovoluje ukončování řádků jedno a dvoupísmennými slovy.
+Čeština a polština nedovoluje ukončování řádků jedno a dvoupísmennými slovy. V programu Scribus funkci nastavíš v menu **Extras ‣ Krátká slova** (*Extras ‣ Short Words*). Ve stejném menu najdeš i automatické rozdělování slov (Hyphenate/Dehyphenate Text).
 :::
 
 Nežádoucí jevy v blocích textů (na které nezávisle určitě narazíš sám) jsou:
@@ -44,38 +50,39 @@ K odstranění a zmírnění těchto jevů používáme **rozdělování slov** 
 
 
 ## Práce se styly
-- Inkscape a jednoduchá sazba
-### Nadpisy
-Titulky a velikosti.
+- Inkscape nepodporuje práci se styly jako Scribus, ale styl objektu i textu se dá kopírovat pomocí <kbd>Ctrl</kbd>+<kbd>C</kbd> pro kopírování stylu, a <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>V</kbd> pro vložení stylu na objekt. Tímto způsobem se dají kopírovat jak barvy tahu a výplně, tak styly písma včetně kerningu.
+
+### Nadpisy a velikosti písem
+
+
+
+- běžná velikost titulku 24pt
+- běžná velikost nadpisu 16pt
+- běžná velikost textu 10pt
+- velikost drobného textu 7pt
+
+![image](./images/ink-nadpisy.svg)
+
 ### Odstavec (*Paragraph*)
-Práce s odstavci. Podpora Scribus, **Inkscape**.
+Inkscape dovoluje práci s odstavci ve formě blokového textu (umožňuje použití *hard line break* <kbd>Shift</kbd>+<kbd>Enter</kbd>).
 
+Lze nastavit i vzdálenost mezi písmeny a slovy u vybraného textu. Pokročilejší práce s odstavci, rozdělováním slov a styly je v programu **Scribus**.
 
+![image](./images/ink-blocktext.svg)
 ### Barvy
 :::note Pozor, zlý CMYK
 
-Vybráním variabilního fontu se objeví v nastavení Písmo <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>T</kbd> možnost** Weight** (váha písma). Nastavením hodnoty vytvoříš variantu písma, která se objeví v dolní části seznamu řezů pro tento font.
+CMYKové separace anebo separace přímých barev vytvořené v Inkscapu je nutné přebarvit v programu Scribus.
 
 :::
 
 
 ## Kerning v Inkscapu
-Nastavení - Kerning - u hotových písem.
+Kerning u krátkých textů nastavíš označením části textu, a vložením hodnoty kerningu v horním kontextovém menu textového nástroje (všechny kerningové funkce nejde aplikovat u blokových textů).
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
+![image](./images/ink-kerning.svg)
 
-<Tabs
-  groupId="jazykova-verze"
-  defaultValue="czv"
-  values={[
-    {label: 'V české verzi', value: 'czv'},
-    {label: 'V anglické verzi', value: 'env'},
-  ]
-}>
-<TabItem value="czv">Upravit ‣ Předvolby ‣ Rozhraní ‣ Překlad</TabItem>
-<TabItem value="env">Edit ‣ Preferences ‣ Interface ‣ Translation</TabItem>
-</Tabs>
+
 
 ## Práce s fonty
 
@@ -85,10 +92,6 @@ import TabItem from '@theme/TabItem';
 :::
 
 ### Design
-
-klávesách <kbd>Num +</kbd> a <kbd>Num -</kbd>. Pokud jsou na tvém tabletu programovací tlačítka nebo touch ring, doporučuji si nastavit tyto shortcuty (viz obrázek). Příklad nastavení u tabletu Wacom:
-
-
 
 
 
