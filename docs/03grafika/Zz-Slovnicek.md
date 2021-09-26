@@ -5,7 +5,7 @@ sidebar_position: 14
 ---
 
 # Slovník pojmů
-Termíny z typografie a grafického designu.
+Termíny z typografie a grafického designu. Hledaný termín najdi pomocí <kbd>Ctrl</kbd>+<kbd>F</kbd>.
 
 kerning
 
@@ -16,6 +16,8 @@ sirotek
 vdova
 
 přesahy
+
+ořezové značky
 
 separace
 

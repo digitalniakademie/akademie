@@ -38,6 +38,7 @@ Mobilní trh jsou obrovský distribuční kanál digitálního interaktivního o
 ### Programování a design
 - konec rámcového designu?
 - univerzální design
+- rovnováha mezi velikostí fontu a šířkou sloupce textu
 - návrh společného stylu pro tiskoviny i web
 
 :::note Úkol

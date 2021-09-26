@@ -69,6 +69,9 @@ Inkscape dovoluje práci s odstavci ve formě blokového textu (umožňuje použ
 Lze nastavit i vzdálenost mezi písmeny a slovy u vybraného textu. Pokročilejší práce s odstavci, rozdělováním slov a styly je v programu **Scribus**.
 
 ![image](./images/ink-blocktext.svg)
+
+ Šířka a členění odstavce ovlivňuje čitelnost. Ideální šířka sloupce odstavce se pohybuje mezi 50–75 znaky na řádku, včetně mezer a interpunkce. Proto je vhodnější, pokud to šířka stránky umožňuje, rozdělit textovou stránku na více sloupců. Členění textu do odstavce se řídí logikou a strukturou textu, dálka odstavce však málokdy přesahuje 125 slov.
+
 ### Barvy
 :::note Pozor, zlý CMYK
 
@@ -82,7 +85,7 @@ Kerning u krátkých textů nastavíš označením části textu, a vložením h
 
 ![image](./images/ink-kerning.svg)
 
-
+Nastavení kerningu může dramaticky změnit estetické působení fontu, a umožňovat kombinaci s ostatními fonty. Kerning se zadává v bodech (points, pt) v pozitivních a negativních hodnotách.
 
 ## Práce s fonty
 
