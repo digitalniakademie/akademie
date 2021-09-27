@@ -11,6 +11,15 @@ sidebar_position: 4
 
 Program má dva hlavní režimy, *lighttable* pro správu kolekcí fotografií a *darkroom* pro úpravu a retuše fotografií. Umožňuje zpracování mnoha běžných i RAW formátů od různých výrobců fotoaparátů a kamer.
 
+## Černobílá fotografie
+- kolorovat podle vzoru
+- tonalita
+- kontrast a barva v černobílé
+
+## Barvy ve fotografii
+- barevné transformace, CLUT
+- chroma, saturace, vividity
+
 ## RAW
 Obrázkový formát RAW obsahuje minimálně zpracovaný obrázek, sejmutý senzorem digitálního fotoaparátu nebo kamery. Výhodou je možnost zpracovat snímek v grafickém editoru, což umožňuje konzistentnější výsledky zejména v případě sérií fotografií. Formát je také minimálně komprimovaný a bez ořezu.
 
