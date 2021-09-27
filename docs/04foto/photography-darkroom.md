@@ -40,5 +40,31 @@ Formáty mohou být například:
 
 ## Úpravy
 :::note Úpravy v Darktable
-Změny jsou nedestruktivní. Na fotografii se úpravy modulů aplikují při exportu z režimu *lightable*. Pokud chceš vytvořit varianty, obrázek snadno zkopíruješ pomocí <kbd>Ctrl</kbd>+<kbd>D</kbd>.
+Změny jsou nedestruktivní. Na fotografii se úpravy modulů aplikují při exportu z režimu *lighttable* (menu vpravo) nebo *darkroom* (z menu vlevo). Pokud chceš vytvořit varianty, obrázek snadno zkopíruješ pomocí <kbd>Ctrl</kbd>+<kbd>D</kbd>.
 :::
+
+Aplikované moduly jsou zobrazeny v menu *history*. Celý řetězec změn lze uložit jako styl ikonou vpravo pod seznamem změn (*create new style*).
+
+## Moduly
+![image](./images/darktable-contrastequalizer.png)
+- Contrast equalizer
+
+![image](./images/darktable-monochrome.png)
+- Monochrome
+
+![image](./images/darktable-surfaceblur.png)
+- Surface Blur
+
+![image](./images/darktable-colorcorrection.png)
+- Color Correction
+
+![image](./images/darktable-colorzones.png)
+- Color Zones
+
+## Zkratky
+Zkratky lze nastavit v preferencích v odkazu *shortcuts*.
+- skrýt okraje <kbd>B</kbd>
+- skrýt spodní panel <kbd>Ctrl</kbd>+<kbd>F</kbd>
+- prohlídka na celou obrazovku se stisknutým <kbd>W</kbd>, nebo <kbd>Tab</kbd>
+- Fullscreen <kbd>F11</kbd>
+- Ukončit <kbd>Ctrl</kbd>+<kbd>Q</kbd>

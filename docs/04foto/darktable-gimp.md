@@ -20,6 +20,21 @@ winget install darktable
 ```
 Jazykovou verzi nastavíš v preferencích (ikona ozubeného kola na horním menu na stranách lightable nebo darkroom).
 
+:::note Výkon Darktable
+
+Některé moduly vyžadují velký výpočetní výkon. Nastavení systému lze upravit v preferencích pod cpu/gpu/memory.
+
+:::
+
+### Pracovní plochy Darktable
+Interface má nestandardní layout a ovládá se ikonami. Hlavní pracovní plochy jsou *lighttable* a *darkroom*. Postranní menu se dají zobrazit a skrýt ikonou šipky.
+
+:::note Jak zobrazit a skrýt menu v Darktable
+
+Pokud se nezobrazuje spodní menu se styly v ploše *darkroom*, stiskni spodní šipku několikrát pro zobrazení různých režimů spodní lišty.
+
+:::
+
 ## Instalace a nastavení GIMP
 Najdi aktuální verzi na https://www.gimp.org/. Stáhni a spusť soubor.  Pokud používáš Package Manager pro Windows, nejnovější stabilní verzi nainstaluješ příkazem
 
@@ -27,5 +42,6 @@ Najdi aktuální verzi na https://www.gimp.org/. Stáhni a spusť soubor.  Pokud
 winget install gimp
 ```
 Jazykovou verzi nastavíš v menu **Upravit ‣ Předvolby ‣ Rozhraní ‣ Jazyk** (*Edit ‣ Preferences ‣ Interface ‣ Language*)
+### Pracovní plocha GIMP
 
 ## Workflow
