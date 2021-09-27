@@ -11,6 +11,10 @@ sidebar_position: 4
 
 Program má dva hlavní režimy, *lighttable* pro správu kolekcí fotografií a *darkroom* pro úpravu a retuše fotografií. Umožňuje zpracování mnoha běžných i RAW formátů od různých výrobců fotoaparátů a kamer.
 
+:::note Kolekce v Darktable
+V režimu lightable vyber *import ‣ add to library*. Adresář se zobrazí v tabu *collections*. V případě přidání nebo odebrání fotografií mimo Darktable v systému, importuj adresář znovu.
+:::
+
 ## Černobílá fotografie
 - kolorovat podle vzoru
 - tonalita
@@ -18,7 +22,7 @@ Program má dva hlavní režimy, *lighttable* pro správu kolekcí fotografií a
 
 ## Barvy ve fotografii
 - barevné transformace, CLUT
-- chroma, saturace, vividity
+- chroma, saturace, vibrance, kontrast
 
 ## RAW
 Obrázkový formát RAW obsahuje minimálně zpracovaný obrázek, sejmutý senzorem digitálního fotoaparátu nebo kamery. Výhodou je možnost zpracovat snímek v grafickém editoru, což umožňuje konzistentnější výsledky zejména v případě sérií fotografií. Formát je také minimálně komprimovaný a bez ořezu.
@@ -35,3 +39,6 @@ Formáty mohou být například:
 - .3rf, .fff (Hasselblad)
 
 ## Úpravy
+:::note Úpravy v Darktable
+Změny jsou nedestruktivní. Na fotografii se úpravy modulů aplikují při exportu z režimu *lightable*. Pokud chceš vytvořit varianty, obrázek snadno zkopíruješ pomocí <kbd>Ctrl</kbd>+<kbd>D</kbd>.
+:::

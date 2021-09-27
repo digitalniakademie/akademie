@@ -4,7 +4,7 @@ title: Fotografie
 sidebar_position: 3
 ---
 
-# Kompozice
+# Kompozice scény
 
 
 ## Témata
