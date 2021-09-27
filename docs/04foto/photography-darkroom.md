@@ -42,8 +42,17 @@ Formáty mohou být například:
 :::note Úpravy v Darktable
 Změny jsou nedestruktivní. Na fotografii se úpravy modulů aplikují při exportu z režimu *lighttable* (menu vpravo) nebo *darkroom* (z menu vlevo). Pokud chceš vytvořit varianty, obrázek snadno zkopíruješ pomocí <kbd>Ctrl</kbd>+<kbd>D</kbd>.
 :::
-
+### Režim Darkroom
 Aplikované moduly jsou zobrazeny v menu *history*. Celý řetězec změn lze uložit jako styl ikonou vpravo pod seznamem změn (*create new style*).
+
+![image](./images/darktable.svg)
+- (1-5) základní oddíly modulů, (6) nastavení zobrazení modulů
+- (7) zobrazení skupin obrázků (soubory lze seskupovat <kbd>Ctrl</kbd>+<kbd>G</kbd>) a rušit skupiny <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>G</kbd>)
+- (8) nastavení  (*preference*)
+- (9) zobrazení informací o barevných kanálech
+- (10) styly
+- (11) zobrazení do dalšího okna na další monitor
+- (12) zobrazení gamutů (focus peaking, color assessment ISO12646, raw overexposed warning, clipping warning, soft proof overlay, gamut check)
 
 ## Moduly
 ![image](./images/darktable-contrastequalizer.png)
