@@ -36,6 +36,9 @@ Pokud se nezobrazuje spodní menu se styly v ploše *darkroom*, stiskni spodní 
 :::
 
 ## Instalace a nastavení GIMP
+
+![image](./images/gimp-screenphoto.png)
+
 Najdi aktuální verzi na https://www.gimp.org/. Stáhni a spusť soubor.  Pokud používáš Package Manager pro Windows, nejnovější stabilní verzi nainstaluješ příkazem
 
 ```
