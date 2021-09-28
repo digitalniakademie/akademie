@@ -22,11 +22,11 @@ Při manuálním nastavení expozice se vyvažují tři nastavitelné hodnoty: r
 
 Světelnost také ovlivňuje změna ohniskové vzdálenosti objektivu a další optické elementy, jako předsádky a filtry.
 
-### Expoziční čas
-Rychlost závěrky (*Shutter Speed*) určuje u fotoaparátů expoziční čas. Udává se ve v sekundách a ve zlomcích sekundy. 2'' jsou dvě sekundy, 1/25 je čtvrtina, 1/100 setina sekundy, kdy se snímek exponuje.
+### Expoziční čas (S)
+Rychlost závěrky (*Shutter Speed*) určuje u fotoaparátů expoziční čas. Udává se ve v sekundách a ve zlomcích sekundy. 2'' jsou dvě sekundy, 1/25 je čtvrtina, 1/100 setina sekundy, kdy se snímek exponuje. Na ovládacích prvcích kamer se označuje písmenem **(S)**.
 
-### Clona
-*Clonové číslo* neboli apertura (*F-stop, Aperture*) je poměr ohniskové vzdálenosti a průměru otvoru otevřené clony objektivu.  Výraz apertura ve fotografii zjednodušeně označuje otvor ve cloně. Čím vyšší clonové číslo *f*, tím menší apertura. Objektivy umožňují nastavení clony manuálně nebo elektronicky.
+### Clona (A)
+*Clonové číslo* neboli apertura (*F-stop, Aperture*) je poměr ohniskové vzdálenosti a průměru otvoru otevřené clony objektivu.  Výraz apertura ve fotografii zjednodušeně označuje otvor ve cloně, v případě objektivů světelnost. Čím vyšší clonové číslo *f*, tím menší apertura a nižší světelnost. Objektivy umožňují nastavení clony manuálně nebo elektronicky.
 
 ![image](./images/photo-fstop.svg)
 
@@ -38,10 +38,13 @@ Rychlost závěrky (*Shutter Speed*) určuje u fotoaparátů expoziční čas. U
 
 Typ clony v kameře a počet lamel určuje tvar světelných zdrojů, viditelný na fotografii při delší expozici.
 
+Na ovládacích prvcích kamer se apertura označuje písmenem **(A)**.
+
+
 ### ISO
 Odvozené od citlivosti filmu ("rychlost filmu"), v digitální fotografii označuje nastavenou světelnou citlivost senzoru. Vyšší ISO zpravidla způsobuje vyšší obrazový šum ve fotografii. ISO se uvádí v sekvenci úrovní ISO100, ISO200, ISO400 ISO800 apod.
 
-## Optika
+## Optika a objektivy
 Optické členy, digitální foto a bezzrcadlové fotoaparáty, mobilní fotoaparáty.
 - ilustrace
 ### Hloubka ostrosti
@@ -58,8 +61,22 @@ Hloubka ostrosti je důležitá pro výtvarné vyjádření fotografie. Umožňu
 V celkových pohledech je mělká hloubka ostrosti většinou nežádoucí.
 
 ### Ohnisková vzdálenost
+Čím kratší ohnisková vzdálenost, tím širší úhel záběru. Bod ohniska **(F)** je senzor kamery, **(f)** je ohnisková vzdálenost.
+
+![image](./images/photo-focal.svg)
+
+Ohnisková vzdálenost (*Focal Length*) se udává v milimetrech (u objektivu s **pevnou ohniskovou vzdáleností**, *Prime Lens*), nebo jako rozsah v milimetrech, například 18-35mm (tzv. *Zoom Lens*).
+
+Variabilní ohnisková vzdálenost je vhodná pro:
 - kreativní blokování
-- práce s hloubkou ostrosti
+- flexibilní práce s hloubkou ostrosti
+- svobodnější kompoziční rozhodnutí
+
+Objektivy s pevným ohniskem, jako jsou objektivy s vysokou světelností nebo objektivy mobilních zařízení jsou vhodné i pro dokumentační fotografie, protože fotografa nutí pracovat blízko subjektu a to se projevuje na energii fotografie.
+
+- jako **širokoúhlé** se označují objektivy s ohniskovou vzdáleností 24-35mm
+- jako **rybí oko** (*Fisheye*) se označují objektivy s ohniskovou vzdáleností nižší než 24mm
+- **teleobjektivy** (*Telephoto, Long Lens*) mají naopak ohniskovou vzdálenost 85mm a více (zpravidla v rozmezí 150-300mm pro běžné výrobky, v extrému až 1700mm).
 
 ### Čočky a aberace
 U teleobjektivů a makroobjektivů, které se často používají při efektu mělké hloubky ostrosti, je důležitý tvar a struktura rozostření světelných zdrojů (*Bokeh Effect*). Efekt vzniká sférickou aberací čoček (anamorfické filmové čočky vytvářejí eliptický "bokeh" efekt).
