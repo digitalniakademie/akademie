@@ -109,7 +109,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Digitální Akademie. Text a ilustrace © ${new Date().getFullYear()} Daniel Sandner. Samotný obsah tohoto projektu je licencován pod licencí <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons (CC BY-NC-ND 4.0)</a> a základní zdrojový kód používaný k formátování a zobrazení tohoto obsahu pod <a href="https://github.com/github/choosealicense.com/blob/gh-pages/LICENSE.md">licencí MIT</a>. `,
+      copyright: `Copyright © ${new Date().getFullYear()} Digitální Akademie. Text a ilustrace © ${new Date().getFullYear()} Daniel Sandner. Samotný obsah tohoto projektu je poskytován pod licencí <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons (CC BY-NC-ND 4.0)</a> a základní zdrojový kód používaný k formátování a zobrazení tohoto obsahu pod <a href="https://github.com/digitalniakademie/akademie/blob/main/LICENSE">licencí MIT</a>. `,
     },
   },
   presets: [
