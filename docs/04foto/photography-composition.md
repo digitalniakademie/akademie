@@ -48,3 +48,4 @@ Tyto principy platí i pro technickou fotografii, kde je hlavní důraz na srozu
 
 ## Aranžování
 - blokování
+- maketa a náčrt kompozice
