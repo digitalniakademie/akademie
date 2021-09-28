@@ -49,7 +49,7 @@ Aplikované moduly jsou zobrazeny v menu *history*. Celý řetězec změn lze ul
 - (1-5) základní oddíly modulů, (6) nastavení zobrazení modulů
 - (7) zobrazení skupin obrázků (soubory lze seskupovat <kbd>Ctrl</kbd>+<kbd>G</kbd>) a rušit skupiny <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>G</kbd>)
 - (8) nastavení  (*preference*)
-- (9) zobrazení informací o barevných kanálech
+- (9) histogram, zobrazení informací o barevných kanálech
 - (10) styly
 - (11) zobrazení do dalšího okna na další monitor
 - (12) zobrazení gamutů (focus peaking, color assessment ISO12646, raw overexposed warning, clipping warning, soft proof overlay, gamut check)

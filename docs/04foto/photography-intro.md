@@ -7,7 +7,7 @@ sidebar_position: 2
 # Stručný úvod do fotografie
 
 
-Základní pojmy důležité pro digitální fotografii. Optické členy. Objektivy (*Camera lenses, Photographic Objectives*). Světelnost.
+Základní pojmy důležité pro digitální fotografii. Optické členy. Objektivy (*Camera lenses, Photographic Objectives*). Světelnost. Informace v této lekci mají za cíl seznámení s koncepty fotografie bez ohledu na technické vybavení.
 
 ## Expozice
 Digitální kamery mají zabudovaný expozimetr a automatické měření expozice. Ovládání manuálního nastavení je zásadní pro kreativní fotografii.
@@ -24,7 +24,7 @@ Světelnost také ovlivňuje změna ohniskové vzdálenosti objektivu a další 
 
 ### Expoziční čas
 Rychlost závěrky (*Shutter Speed*) určuje u fotoaparátů expoziční čas. Udává se ve v sekundách a ve zlomcích sekundy. 2'' jsou dvě sekundy, 1/25 je čtvrtina, 1/100 setina sekundy, kdy se snímek exponuje.
-- ilustrace
+
 ### Clona
 *Clonové číslo* neboli apertura (*F-stop, Aperture*) je poměr ohniskové vzdálenosti a průměru otvoru otevřené clony objektivu.  Výraz apertura ve fotografii zjednodušeně označuje otvor ve cloně. Čím vyšší clonové číslo *f*, tím menší apertura. Objektivy umožňují nastavení clony manuálně nebo elektronicky.
 
@@ -40,9 +40,6 @@ Typ clony v kameře a počet lamel určuje tvar světelných zdrojů, viditelný
 
 ### ISO
 Odvozené od citlivosti filmu ("rychlost filmu"), v digitální fotografii označuje nastavenou světelnou citlivost senzoru. Vyšší ISO zpravidla způsobuje vyšší obrazový šum ve fotografii. ISO se uvádí v sekvenci úrovní ISO100, ISO200, ISO400 ISO800 apod.
-
-- ilustrace
-
 
 ## Optika
 Optické členy, digitální foto a bezzrcadlové fotoaparáty, mobilní fotoaparáty.
@@ -65,7 +62,7 @@ V celkových pohledech je mělká hloubka ostrosti většinou nežádoucí.
 - práce s hloubkou ostrosti
 
 ### Čočky a aberace
-- Bokeh efekt
+U teleobjektivů a makroobjektivů, které se často používají při efektu mělké hloubky ostrosti, je důležitý tvar a struktura rozostření světelných zdrojů (*Bokeh Effect*). Efekt vzniká sférickou aberací čoček (anamorfické filmové čočky vytvářejí eliptický "bokeh" efekt).
 
 ## Digitální fotografie
 Funkci světelně citlivých zrn filmu v digitální fotografii zastávají elementy CMOS senzoru. Rozlišení senzoru ovlivňuje kvalitu a rozlišení fotografie.
