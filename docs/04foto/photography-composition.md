@@ -11,12 +11,25 @@ Kompozice scény určuje styl vizuálního vyprávění. Správná kompozice fot
 Základy kompozičních principů je nutné znát jak pro pořizování, tak pro úpravu snímků. Kompoziční pravidla jsou paleta nástrojů, které ti usnadní tvorbu a vytvoří prostor pro lepší kreativní rozhodnutí.
 
 ## Základní kompozice
-Tvorba kompozice začíná už výběrem tématu a určením subjektu.
+Tvorba kompozice začíná už výběrem tématu a určením subjektu. Hlavní (primární) subjekt je centrem zájmu, a vedlejší (sekundární) subjekt vyvažuje a doplňuje kompozici. Takovým vedlejším motivem může být i pozadí scény. U složitějších kompozicí platí stejný princip pro skupiny subjektů.  
 
-- téma a motiv
-- hlavní a vedlejší subjekt
+- téma a motiv souvisí s primárním subjektem
+- sekundárních subjektů může být více
+- jednotlivé kompoziční prvky lze kombinovat, hlavní kompoziční myšlenka musí být jasná
 - práce s prostorovými plány
 - kompoziční plán a rámování
+
+![image](./images/photo-compositions.svg)
+
+1. centrální
+2. radiální: využívá sbíhající se linie
+3. symetrická: symetrie mohou být jakkoliv orientované
+4. diagonální
+5. proporcionální: využívá harmonické poměrové systémy, jako je zlatý řez nebo pravidelné rozdělení (často třetinové)
+6. kruhová nebo spirální
+7. geometrická: nejčastěji trojůhelníková kompozice
+8. kompozice rámu
+9. kompozice opakování a vzorů
 
 Většina digitálních zařízení je vybavená kompoziční mřížkou pro rychlou kontrolu základních kompozičních modelů.
 - mřížky
@@ -34,13 +47,27 @@ Jednotlivé prvky techniky kompozice jsou:
 - Dynamika pohybu
 
 ## Chyby kompozice
-- nejčastější chyby
-- vyplnění formátu
-- horizontály nebo vertikály nejsou paralelní s okraji snímku
+
+![image](./images/photo-mistakes.svg)
+
+1. křivky nebo linie kolidují s okrajem snímku
+2. nečitelné překrytí subjektů
+3. horizont není paralelní s okrajem snímku
+4. vertikály nebo horizontály nejsou paralelní s okrajem snímku
+5. špatné vyplnění snímku
+6. hlavní subjekt příliš blízko okrajům snímku, špatný ořez
+7. není jasný primární subjekt
+8. sekundární subjekt nebo pozadí je výraznější než primární subjekt
+9. křivky nebo linie subjektů kolidují
+
+- malé odchylky jsou rušivé, velké mohou být součástí kompozičního záměru (například náklon kamery pro větší dynamiku)
+- hlavní podstatnou chybou je absence subjektu a tématu ve scéně
 
 ## Proporce a mytologie zlatého řezu
 
 Pro vyrovnanou kompozici je dobré znát různé proporční modely. Proporce jsou vzájemné poměry jednotlivých prvků scény. Také práce na ořezu snímku a volba finálního formátu se řídí proporčními pravidly.
+
+![image](./images/photo-golden.svg)
 
 - Zlatý řez, stříbrný řez, Lichtenbergův poměr a geometrický poměr
 
@@ -78,8 +105,8 @@ Tyto principy platí i pro technickou fotografii, kde je hlavní důraz na srozu
 - opakování a vzory jako součást kompozice
  - pozitivní a negativní prostor, rámování klidnou plochou
  - low-key a high-key (tonalita převažujícího stínu a světla)
- - omezená dynamika tónů, podexpozice a přeexpozice
- - využití delší doby expozice a efekty rozmazání pohyblivých objektů nebo pozadí (*Panning*)
+ - omezená dynamika tónů, podexpozice a přeexpozice (doporučuji provádět až v editačním programu během úpravy snímků)
+ - využití delší doby expozice a efekty rozmazání pohyblivých objektů nebo pozadí (*Panning*, kamera sleduje objekt a pozadí je rozmazané)
  - ořezávání záběru (doporučuji provádět až v editačním programu) a odstranění zbytečných nebo rušivých prvků
 
 

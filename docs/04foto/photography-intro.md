@@ -77,14 +77,17 @@ Objektivy s pevným ohniskem, jako jsou objektivy s vysokou světelností nebo o
 - jako **širokoúhlé** se označují objektivy s ohniskovou vzdáleností 24-35mm
 - jako **rybí oko** (*Fisheye*) se označují objektivy s ohniskovou vzdáleností nižší než 24mm
 - **teleobjektivy** (*Telephoto, Long Lens*) mají naopak ohniskovou vzdálenost 85mm a více (zpravidla v rozmezí 150-300mm pro běžné výrobky, v extrému až 1700mm).
+- **makroobjektivy** můžou mít různou ohniskovou vzdálenost, jejich výhodou je možnost zaostření na velmi krátké vzdálenosti, a disponují maximálním zvětšením (*Reproduction Ratio*) v poměru 1:1.
 
 ### Čočky a aberace
 U teleobjektivů a makroobjektivů, které se často používají při efektu mělké hloubky ostrosti, je důležitý tvar a struktura rozostření světelných zdrojů (*Bokeh Effect*). Efekt vzniká sférickou aberací čoček (anamorfické filmové čočky vytvářejí eliptický "bokeh" efekt).
 
 ## Digitální fotografie
 Funkci světelně citlivých zrn filmu v digitální fotografii zastávají elementy CMOS senzoru. Rozlišení senzoru ovlivňuje kvalitu a rozlišení fotografie.
-- plnoformátové
-- senzory
+- běžné poměry stran digitální fotografie jsou 1:1, 4:5, 4:3, 3:2 a 16:9
+- plnoformátový senzor (Full-frame Sensor) je senzor odpovídající rozměrem políčku 35mm kinofilmu (36×24mm)
+- Micro Four Thirds (2x crop) typy jako alternativa k plnoformátovým SLR
+- senzory mají různou hustotu
 ### Vybavení
 Zrcadlovky, digitální závěrky, mobilní fotoaparáty. Těla a objektivy. Předsádky a filtry. Studiové vybavení, světla, odrazové a rozptylové plochy.
 ### Barevná teplota a vyvážení bílé

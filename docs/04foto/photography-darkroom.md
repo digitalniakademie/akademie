@@ -19,6 +19,7 @@ V režimu lightable vyber *import ‣ add to library*. Adresář se zobrazí v t
 - kolorovat podle vzoru
 - tonalita
 - kontrast a barva v černobílé
+- zónový tonální systém
 
 ## Barvy ve fotografii
 - barevné transformace, CLUT
