@@ -69,10 +69,14 @@ Pro vyrovnanou kompozici je dobré znát různé proporční modely. Proporce js
 
 ![image](./images/photo-golden.svg)
 
-- Zlatý řez, stříbrný řez, Lichtenbergův poměr a geometrický poměr
+- Zlatý řez, stříbrný řez, a geometrický třetinový poměr
 
-Zlatý řez je poměr dvou délek, kterým je možné se řídit. Zabudované překryvné mřížky kamer jsou často tomto poměru.
+Zlatý řez je poměr dvou délek, kterým je možné se řídit pro tvorbu kompozice. Zabudované překryvné mřížky kamer jsou ale často ve třetinovém poměru.
 Ideální harmonický proporční poměr ale závisí na mnoha faktorech.
+
+Kompoziční efekt také ovlivňují proporce snímků. Toto jsou nejčastější poměry formátů:
+
+![image](./images/photo-cameraproportions.svg)
 
 Na vnímání proporcí má také vliv vyváženost tvarů, barev a kontrastu. Záměrné disproporce mohou být součástí uměleckého stylu nebo motivem fotografie.
 
