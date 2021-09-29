@@ -7,7 +7,7 @@ sidebar_position: 2
 # Stručný úvod do fotografie
 
 
-Základní pojmy důležité pro digitální fotografii. Optické členy. Objektivy (*Camera lenses, Photographic Objectives*). Světelnost. Informace v této lekci mají za cíl seznámení s koncepty fotografie bez ohledu na technické vybavení.
+Základní pojmy důležité pro digitální fotografii. Informace v této lekci mají za cíl seznámení s koncepty fotografie bez ohledu na specifické technické vybavení.
 
 ## Expozice
 Digitální kamery mají zabudovaný expozimetr a automatické měření expozice. Ovládání manuálního nastavení je zásadní pro kreativní fotografii.
@@ -46,7 +46,10 @@ Odvozené od citlivosti filmu ("rychlost filmu"), v digitální fotografii ozna�
 
 ## Optika a objektivy
 Optické členy, digitální foto a bezzrcadlové fotoaparáty, mobilní fotoaparáty.
-- ilustrace
+- Optické členy.
+- Objektivy (*Camera lenses, Photographic Objectives*).
+- Světelnost.
+
 ### Hloubka ostrosti
 
 Hloubka ostrosti je důležitá pro výtvarné vyjádření fotografie. Umožňuje oddělovat jednotlivé plány scény, případně detail a pozadí nebo popředí. Správné použití hloubky ostrosti se i podvědomě spojuje s profesionální kinematografií a fotografií.
@@ -80,7 +83,11 @@ Objektivy s pevným ohniskem, jako jsou objektivy s vysokou světelností nebo o
 - **makroobjektivy** můžou mít různou ohniskovou vzdálenost, jejich výhodou je možnost zaostření na velmi krátké vzdálenosti, a disponují maximálním zvětšením (*Reproduction Ratio*) v poměru 1:1.
 
 ### Čočky a aberace
-U teleobjektivů a makroobjektivů, které se často používají při efektu mělké hloubky ostrosti, je důležitý tvar a struktura rozostření světelných zdrojů (*Bokeh Effect*). Efekt vzniká sférickou aberací čoček (anamorfické filmové čočky vytvářejí eliptický "bokeh" efekt).
+U teleobjektivů a makroobjektivů, které se často používají při efektu mělké hloubky ostrosti, je důležitý tvar a struktura rozostření světelných zdrojů (*Bokeh Effect*). Efekt vzniká **sférickou aberací** čoček (anamorfické filmové čočky vytvářejí eliptický "bokeh" efekt).
+
+**Chromatická aberace** je barevný posun, znatelný na snímcích blízko okrajů čočky. Efekt je způsobený tím, že se rozdílné vlnové délky světla lámou nestejnoměrně. Výrazná chromatická aberace objektivu (*Color Fringing*) je nežádoucí.
+
+*Purple Fringing*, nebo *Blooming* se projevuje na kontrastních přesvětlených hranicích na snímku, a je způsobený senzorem, i když připomíná chromatickou aberaci objektivu.  
 
 ## Digitální fotografie
 Funkci světelně citlivých zrn filmu v digitální fotografii zastávají elementy CMOS senzoru. Rozlišení senzoru ovlivňuje kvalitu a rozlišení fotografie.
@@ -96,7 +103,9 @@ Barevnou teplotu ovlivňuje osvětlení scény a odražené světlo prostředí.
 To je metoda automatického snímání více snímků následně za sebou, s různým nastavení expozice, kompenzace nebo vyvážení bílé.
 
 Bracketing je vhodný použít pro scény s velkým kontrastem a následná úprava v editačním programu umožňuje vytvořit kombinovaný snímek s dobrým vykreslením.
+
 ### HDR
-- vyšší dynamický rozsah
+Některá digitální zařízení umožňují snímání s **vyšším dynamickým rozsahem** (*High Dynamic Range, HDR*). Znamená to větší tonální rozsah — rozsah světlých a tmavých tónu. Dovoluje rozsáhlé úpravy expozice i po sejmutí snímku.
+
 ### RAW
-- vyvolávání datových souborů
+RAW jsou datové soubory sezoru z digitálního zařízení, s minimálními softwarovými úpravami. Práce s RAW soubory umožňuje větší volnost při úpravách fotografií.
