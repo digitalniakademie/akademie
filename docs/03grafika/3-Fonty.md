@@ -188,4 +188,12 @@ Převedení fontu na formát a nastavení ligatur, znaků a kerningu
 
 ### Instalace
 
-Fonty se instalují ve Windows z menu pravého tlačítka, nebo kliknutím na soubor s fontem a zvolením tlačítka Nainstalovat. V Linuxu stačí fonty zkopírovat do adresáře ~.fonts.
+Fonty se instalují ve Windows z menu pravého tlačítka, nebo kliknutím na soubor s fontem a zvolením tlačítka Nainstalovat.
+
+:::info Instalace fontů ve Windows
+
+ Pro instalaci fontů všechny fonty rozbal do  podadresářů. Pomocí <kbd>Ctrl</kbd>+<kbd>F</kbd> najdi všechny *.ttf soubory v umístění, označ je a pravým tlačítkem nainstaluj.
+
+:::
+
+ V Linuxu stačí fonty zkopírovat do adresáře ~.fonts.
