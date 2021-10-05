@@ -1,7 +1,13 @@
 ---
 id: kresba-a-malba
 sidebar_position: 0
+sidebar_label: Co zde najdeš
+pagination_label: Digitální kresba a malba
 ---
+
+# Digitální kresba a malba
+## Úvod
+
 
 # Kresba a malba: Přehled témat
 ![image](../img/toppicture1.png)

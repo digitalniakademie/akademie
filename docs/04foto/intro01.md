@@ -2,9 +2,14 @@
 id: foto
 title: Fotografie
 sidebar_position: 1
+sidebar_label: Co v kurzu najdeš
+pagination_label: Fotografie a retuše
+
 ---
 
-# Co v kurzu najdeš
+# Fotografie a retuše
+## Co v kurzu najdeš
+
 ![image](../img/toppicture4.png)
 - Digitální fotografie
 - Kompozice a fotografické vyprávění
