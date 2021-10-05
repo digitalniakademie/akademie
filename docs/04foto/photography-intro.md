@@ -7,18 +7,22 @@ sidebar_position: 2
 # Stručný úvod do fotografie
 
 
-Základní pojmy důležité pro digitální fotografii. Informace v této lekci mají za cíl seznámení s koncepty fotografie bez ohledu na specifické technické vybavení.
+Základní pojmy důležité pro digitální fotografii. Informace v této lekci mají za cíl seznámení s koncepty fotografie bez ohledu na specifické technické vybavení. Principy expozice fotografie je nutné znát i pro následnou úpravu fotografií v editoru.
 
 ## Expozice
 Digitální kamery mají zabudovaný expozimetr a automatické měření expozice. Ovládání manuálního nastavení je zásadní pro kreativní fotografii.
+![image](./images/photo-speed-aperture-iso.svg)
 
-![image](./images/photo-triangle.svg)
 
-Při manuálním nastavení expozice se vyvažují tři nastavitelné hodnoty: rychlost závěrky (S), apertura (A), a citlivost (ISO). Digitální kamery mají kombinovaná nastavení, dopočítávající hodnoty podle priorit — priorita času (S), priorita závěrky (A), kombinované (P) — vzhledem k expozičním tabulkám fotoaparátu.
+Při manuálním nastavení expozice se vyvažují tři nastavitelné hodnoty: rychlost závěrky (S), apertura (A), a citlivost (ISO). Digitální kamery mají i kombinovaná nastavení, dopočítávající hodnoty podle priorit — priorita času (S), priorita závěrky (A), kombinované (P) — vzhledem k expozičním tabulkám fotoaparátu.
 
 - Vyšší ISO hodnoty citlivosti senzoru způsobují šum, zvláště ve tmavých plochách.
 - Nižší rychlost závěrky způsobuje u rychlých objektů pohybové rozmazání (*Motion Blur, MB*).
 - Změna apertury ovlivňuje hloubku ostrosti (*Depth of Field, DOF*).
+
+![image](./images/photo-triangle.svg)
+
+
 
 Světelnost také ovlivňuje změna ohniskové vzdálenosti objektivu a další optické elementy, jako předsádky a filtry.
 
