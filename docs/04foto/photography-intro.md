@@ -104,7 +104,9 @@ Zrcadlovky, digitální závěrky, mobilní fotoaparáty. Těla a objektivy. Př
 ### Barevná teplota a vyvážení bílé
 Barevnou teplotu ovlivňuje osvětlení scény a odražené světlo prostředí. K vyrovnání barevné teploty slouží funkce vyvážení bílé (*White Balance, WB*)
 ### Bracketing
-To je metoda automatického snímání více snímků následně za sebou, s různým nastavení expozice, kompenzace nebo vyvážení bílé.
+To je metoda automatického snímání více snímků následně za sebou, s různým nastavením expozice, kompenzace nebo vyvážení bílé (některé kamery umožňují i bracketing zaostření nebo poměru stran snímku).
+
+Většinou je možné nastavení pořadí snímků ve formátu 0/-/+.
 
 Bracketing je vhodný použít pro scény s velkým kontrastem a následná úprava v editačním programu umožňuje vytvořit kombinovaný snímek s dobrým vykreslením.
 
