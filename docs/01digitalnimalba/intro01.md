@@ -1,15 +1,13 @@
 ---
 id: kresba-a-malba
 sidebar_position: 0
-sidebar_label: Co zde najdeš
+sidebar_label: "Kresba a malba: Přehled témat"
 pagination_label: Digitální kresba a malba
 ---
 
 # Digitální kresba a malba
-## Úvod
+## Úvod a přehled témat
 
-
-# Kresba a malba: Přehled témat
 ![image](../img/toppicture1.png)
 - Krita: Instalace a nastavení programu.
 - Jaké možnosti program nabízí
