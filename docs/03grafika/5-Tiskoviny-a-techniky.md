@@ -60,6 +60,7 @@ Nastavení pravítek a mřížek v Inkscapu.
 - standardní formáty
 ## Techniky tisku
 Grafické techniky - tisk z plochy, hloubky a z výšky.
+- polotónový tisk, skládající barevné tóny
 ### Ofsetové a digitální tisky
 - přesahy a ohyby
 ### Sítotisk (*Screenprint*)
