@@ -16,7 +16,7 @@ Využitím tohoto efektu vytvoříš iluzi hloubky.
 Tyto efekty se používají i když maluješ interiér. Optické triky. Kamera. 
 Malování vzdálených objektů a další atmosférické triky - rozmazání obrysů.
 ## Vliv zakřivení prostředí a horizont
-
+Pro malbu a skicování v plenéru je důležité správně určit horizont. To bude základní linka, podle které budeme určovat geometrii scény. Pokud objekty nesjednotíme v perspektivě, obraz nebude působit věrohodně, obzvlášť pokud malujeme architekturu nebo obecně známé formy.
 
 :::note úkol
 
