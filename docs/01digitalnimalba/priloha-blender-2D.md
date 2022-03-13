@@ -1,36 +1,38 @@
 ---
-id: malba-mypaint
+id: malba-blender-2D
 title: Kresba a malba
-sidebar_position: 15
+sidebar_position: 16.1
 ---
 
-# Příloha: Malování v MyPaint
+# Příloha: Malování v Blenderu
 
-Jak Krita, tak GIMP podporují MyPaint štětce. Mypaint je open source program na malování se zajímavou sadou nástrojů a možností. Je vynikající na skicování a blokování forem. Umožňuje pracovat ve vrstvách.
+Jak využít nástroje Blenderu 3D pro kreslení a malování. 
+Blender má nástroje na skicování, je možné vytvářet 2D malby přímo v Blenderu. Umožňuje pracovat ve vrstvách.
 
-Aktuální verzi programu MyPaint najdeš na https://github.com/mypaint/mypaint/releases/ (instalátor i standalone verze pro Windows a AppImage pro Linux), nebo ji ve Windows nainstaluješ pomocí
+## Grease Pencil
+- režimy
 
 ```
-winget install mypaint
+winget install blenderfoundation.blender
 ```
 
 :::note poznámka na začátek
-Program MyPaint je ve stálém vývoji, na některých systémech může být pomalejší.
+Skicovací tužka Grease Pencil je 3D nástroj, užitečný pro 2D malbu a náčrty.
 :::
 
 ![image](./images/mypaint-screen-1.png)
 
-## Nastavení a principy programu
+## Nastavení pro malbu a principy práce
 
-- Jazyk aplikace MyPaint změníš v menu **Úpravy ‣ Nastavení ‣ Pohled** (*Edit ‣ Settings ‣ View*). Ve stejném menu je i nastavení tabletu.
-
+- Štětce
+- 3D scéna
 - Program ukládá jako .png, .jpg a .ora (OpenRaster).
 
 - PNG s transparencí lze vyexportovat pouze volbou typu souboru v rolovacím menu ukládacího formátu při ukládání (RGBA). Standardní export je v základním nastavení s pozadím textury plátna. Pozadí se dá změnit v menu **Vrstva ‣ Volič pozadí** (*Layer ‣ Background*)
 
 - Plátno na malování je neomezené, dá se limitovat rámečkem **Soubor ‣ Povolit rámeček** (*File ‣ Allow Frame*) a nastavit ikonou rámu v horní liště. V programu MyPaint tedy není dané rozlišení, jak je obvyklé v jiných programech — obrázek je prostě tak velký, jak velké je pomalované plátno. Rozměry rámečku se ale dají určit ikonou rámu (a) v nastavení rámečku (b) zadáním rozměru v pixelech (c).
 
-- MyPaint je určený spíše pro ala prima digitální techniky, nemá nástroje výběru ani maskování. Síla programu je v rychlém skicování a unikátních štětcích.
+- Blender lze použít pro ala prima digitální techniky, nemá běžné nástroje výběru ani maskování. Síla programu je v rychlém skicování, využití 3D scény a unikátních štětcích.
 
 ![image](./images/mypaint-screen-2.png)
 
