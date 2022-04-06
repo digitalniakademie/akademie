@@ -6,9 +6,18 @@ sidebar_position: 12
 
 # Add-ons: Pluginy rozšiřující funkce Blenderu
 
+Plugin (Add-on) je program přidávající nebo rozšiřující funkci nástrojů v Blenderu. Komplexní pluginy (např. *Node Wrangler*) jsou pro pokročilé uživatele nezbytné.
+
+## Instalace pluginů
+
+Add-ony se instalují z okna preferencí (Edit ‣ Preferences ‣ Add-ons) . Stažený plugin je zpravidla .py soubor nebo soubory archívu .zip — soubor vybereš a zaškrtnutím políčka vlevo aktivuješ. Pokud se má plugin aktivovat i při dalším spuštění, ulož si nastavení (hamburger menu vlevo dole).
+
+![image](./images/blender-addons.png)
+
+
 ## Základní pluginy, které jsou součástí Blenderu
 
-Instalace Blenderu obsahuje mnoho pluginů, které jsou součástí instalace, ale nejsou aktivované.
+Instalace Blenderu obsahuje mnoho pluginů, které jsou součástí instalace, ale nejsou aktivované. Je to proto, že nejsou nutné pro běh programu a uživatel si zapne ty funkce, které potřebuje.
 
 ### Node Wrangler
 - základní pro práci s materiálovými uzly
@@ -24,8 +33,11 @@ Práce s CSG, po aktivaci shortcuty s Ctrl
 
 ## Pluginy, které jsou volně ke stažení
 
+Kvalitní pluginy, které se vyplatí doinstalovat a jsou volně zdarma ke stažení. Některé jsou součástí instalace Blenderu (Tissue), ale je lepší stáhnout nejaktuálnější verzi.
+
 ### Tissue
 - modelování pomocí aplikovaných sítí
+- umožňuje vytvářet komplexní modely z komponentů
 
 https://github.com/alessandro-zomparelli/tissue
 
@@ -39,16 +51,18 @@ https://github.com/Symstract/modifier_list
 
 https://codeofart.gumroad.com/l/EasyHDRI
 
+### UVPacker
+- efektivní skládání UV do mapy textury
+
+https://github.com/3d-io/uvpacker-blender-addon/releases
+
 ## Komerční pluginy
 
-Pluginy které zjednodušují práci s nástroji nebo rozšiřují funkce Blenderu
+Pluginy které zjednodušují práci s nástroji nebo rozšiřují funkce Blenderu. Výběr v tomto oddílu je omezený na nejčastěji používané v profesionální práci.
 
-- kontrola orientace normál
-- nastavení ostrosti hran, průběh ploch
-- bevel a chamfer
-- UV mapy a texturování
-- modelování
-- materiály
+:::info Poznámka
+Komerční pluginy pro Blender najdeš většinou na stránkách online tržišť Blendermarket.com nebo Gumroad.com.
+:::
 
 ### HardOps a Boxcutter
 - utility pro hard surface modeling
@@ -65,8 +79,32 @@ Pluginy které zjednodušují práci s nástroji nebo rozšiřují funkce Blende
 ### Chris Holt Plugins
 - BY-GEN je skript pro generování objektů podle základní sítě
 
-Komerční pluginy najdeš většinou na stánkách Blendermarket.com nebo Gumroad.com.
+### Pluginy a materiály Nathana Ducka (Ducky3D)
+- kvalitní parametrické materiály, kurzy a jiné utility
 
 ## Další zdroje
+Zdroje pro HDRI, textury, materiály atd.
 
-- HDRI Haven
+###  HDRI Haven / Polyhaven
+Známé stránky nabízející HDRI osvětlení pro scény, textury a modely.
+
+https://polyhaven.com/hdris
+
+###  Poliigon
+Knihovna profesionálních textur pro vizualizace (Andrew Price/Blender Guru).
+
+https://www.poliigon.com/textures/free
+
+###  AmbientCG
+Kvalitní PBR materiály a textury s public domain licencí.
+
+https://ambientcg.com/
+
+###  CGBookcase
+PBR textury volně ke stažení.
+
+https://www.cgbookcase.com/textures
+
+###  Další zdroje
+Další, převážně placené profesionální knihovny jsou
+https://www.textures.com, https://www.archinspirations.com
