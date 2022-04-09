@@ -4,13 +4,19 @@ title: 3D Modelování
 sidebar_position: 7
 ---
 
-# Blender: Pluginy a materiálové uzly
-Výhody.
+# Blender:  Materiálové uzly v Shader Editoru a Node Wrangler
+Materiály můžeme vytvářet i měnit v hlavním okně Layout v sekci Vlastosti (Properties). V této části si ukážeme výhody práce s uzly v okně Shader Editor.
 
-## Instalace a aktivace pluginů
+## Instalace a aktivace pluginu (Add-on)
+
 ### Node Wrangler
+Node Wrangler je plugin (Add-on) který je součástí instalace Blender a je potřeba ho pouze aktivovat. Usnadňuje práci s uzly (zpravidla v sekci Shading)
 ## Jak pracovat s uzly
-Pracovní režim pro uzly.
+Pracovní režim pro uzly. Koncept uzlů se používá pro správu a programování složitějších struktur, v Blenderu také v sekcích Texture Node Editor nebo Geometry Node Editor.
+
+- přehlednost
+- rychlost modifikací
+- náhledy
 
 :::note Poznámka
 
