@@ -1,5 +1,9 @@
 # Digitální Akademie: Kreativita a open-source
 
+## Free Open Source Software (FOSS)
+
+Všechny praktické lekce využívají pro tvorbu a ilustraci základních konceptů Free Open Source Software (FOSS), který je volně dostupný ke stažení.
+
 ## Komu je program určený?
 
 Kurzy jsou zaměřené na osvojení základních kreativních principů, platných nezávisle na médiu. Koncept je založený na praktických cvičeních a je určený jak pro začátečníky, tak pro pokročilé studenty, kteří chtějí objevovat nové postupy.
