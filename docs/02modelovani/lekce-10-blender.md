@@ -19,6 +19,14 @@ Základy technického modelování objektů.
 ### Boolean modifikátor
 - destruktivní a nedestruktivní přístup
 
+## Tvarové studie
+Postupy Hard Surface Modeling jsou vynikající pro tvarové studie
+- pro design
+- konceptuální náčrty
+
+Dvouúrovňový design:
+- v první fázi návrhu se soustředit na formu, tvar a funkčnost 
+- vytvoření správné topologii
 ## Export a kontrola
 
 - kontrola orientace normál
