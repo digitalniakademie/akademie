@@ -114,6 +114,12 @@ Aplikování transformace. Omezení pohybu v osách.
 ## Skupiny
 V Blenderu se skupiny tvoří spojením objektů, přiřazením objektu vrstvě nebo kolekci.
 
+## Knihovny objektů: Asset Libraries
+- Knihovny objektů: Asset Libraries vybereš v Typech Editoru v libovolném okně
+- assety může obsahovat jednotlivý soubor .blend, nebo mohou být uložené v adresářích
+- adresáře se nastavují v preferencích
+
+
 ## Renderování scény a výstupu
 
 Render engines a nastavení výstupu.
