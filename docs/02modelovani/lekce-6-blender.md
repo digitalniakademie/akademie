@@ -29,6 +29,16 @@ Pro náhledy a experimenty s mapováním je vhodná testovací mapa. Materiál s
 
 ![image](./images/blender-uvgrid.png)
 
+:::info Tipy pro zobrazení textur a solid mode
+**Solid mode** je vhodný pro základní modelování, protože je rychlý, nenáročný na hardware a přehledný při práci s topologií modelu. Pro práci s materiály a texturami ale doporučuji módy zobrazení **Material Preview** nebo **Rendered**.
+
+Solid mode neaktualizuje materiály a textury vždy a automaticky, jako ostatní módy. Tipy pro solid mode:  
+- Aby se vygenerovaná textura zobrazila aktualizovaná i v *solid mode* zobrazení, zkus materiál po změně znovu přiřadit v Material Properties.
+- <kbd>Alt</kbd>+<kbd>R</kbd> Refresh textur v Shader Editoru
+- pokud se změna materiálu neaktualizuje správně, změň Render Engine z Workbench na Eevee nebo Cycles
+
+:::
+
 Stejný materiál lze vytvořit i v okně Material Properties.
 
 1. Vytvoříme nový materiál
@@ -50,6 +60,15 @@ V editačním módu (Edit Mode, aktivuješ u vybraného objektu klávesou <kbd>T
 
 :::
 
+### Follow Active Quads
+- výsledek je závislý na aktivní zvolené projekci (otestuj pro Cube, Cylinder a Sphere projekce)
+
+### Project From View
+Project From View a Project From View (Bounds) je vhodný také pro rychlé mapování objektu, který bude viditelný jenom z omezených úhlů. Vytvoří plynulé mapování z aktuálního pohledu okna.
+
+Project From View používá pro mapování měřítko pohledu a Project From View (Bounds) měřítko objektu (bounding box).
+
+Je to vynikající pomůcka pro mapování vybraných částí modelu.
 
 ## Rozbalení geometrie na mapu
 ### Unwrap
@@ -64,6 +83,8 @@ V editačním módu (Edit Mode, aktivuješ u vybraného objektu klávesou <kbd>T
 - pack
 ## Optimalizace
 ## Otestuj nejčastěji používané funkce
+
+- příklady symetrického, organického a geometrického modelu
 
 :::note Poznámka
 
