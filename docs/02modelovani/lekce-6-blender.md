@@ -73,6 +73,18 @@ Je to vynikající pomůcka pro mapování vybraných částí modelu.
 ## Rozbalení geometrie na mapu
 ### Unwrap
 - rozbalí podle švů
+
+:::note Hard Surface Modeling
+U neorganických modelů se často používá automatické rozbalování podle ostrých hran, které se nastaví jako švy:
+
+- vyber Sharp Edges
+- Mark Seams
+- Unwrap
+
+:::
+
+- ukázky
+
 ### Smart Unwrap
 - stejná část textury namapovaná na různá místa nemusí být vždy to co chceme
 - vytvoří základní atlas

@@ -21,6 +21,13 @@ Po stisknutí <kbd>N</kbd> se vysune postranní panel a pracovní plocha by měl
 
 
 ![image](./images/blender-screen.png)
+
+## 3D kurzor
+3D kurzor je pomůcka pro modelování a nastavení efektů. Určité funkce a transformace se vztahují k pozici 3D kurzoru.
+
+- <kbd>Shift</kbd>+<kbd>Right Click</kbd> přesune 3D kurzor
+- přenastavení a reset <kbd>Shift</kbd>+<kbd>S</kbd>, vyber Cursor to World Origin
+
 ## Vytvoření a typy objektů
 
 Objekty do vložíš do scény v pracovní ploše **Layout** přes **menu režimu Přidat**, nebo zkratkou <kbd>Shift</kbd>+<kbd>A</kbd> a vybráním objektu z rychlého menu.

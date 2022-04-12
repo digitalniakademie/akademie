@@ -51,6 +51,13 @@ https://github.com/Symstract/modifier_list
 
 https://codeofart.gumroad.com/l/EasyHDRI
 
+### fSpy
+
+- plugin zjednodušuje synchronizaci kamery a pozadí pomocí nastavení tříbodové perspektivy
+- vhodné pro rendery umístěné do reálných fotografií pro architektonickou vizualizaci
+
+https://github.com/stuffmatic/fSpy-Blender
+
 ### UVPacker
 - efektivní skládání UV do mapy textury
 
