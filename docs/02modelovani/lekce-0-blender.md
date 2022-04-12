@@ -78,6 +78,14 @@ Tady také nastavíš emulaci numerické klávesnice a v polních podmínkách o
 
 :::
 
+## Nastavení grafické karty
+
+:::info Grafická karta a Cycles
+
+Pro použití akceleračních schopností grafické karty nastav pro renderovací engine Cycles zvolenou kartu a procesor v **Upravit ‣ Předvolby ‣ Systém** (*Edit ‣ Preferences ‣ System*).
+
+:::
+
 ## Blender pro úplné začátečníky
 
 ![image](./images/blender-axes.jpg)
