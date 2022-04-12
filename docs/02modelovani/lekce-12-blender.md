@@ -25,6 +25,12 @@ Základy technik animace objektů.
 ### Přiřazení zón
 - kresba zón
 
+## Shape Keys
+
+- Object Data Properties
+- morfování stejné geometrie
+- vložit základní keyframe, přidat změnu geometrie (např. In Sphere)
+
 ## 2D animace
 - onion skin
 - akcenty a dynamika
