@@ -31,6 +31,15 @@ Instalace Blenderu obsahuje mnoho pluginů, které jsou součástí instalace, a
 Práce s CSG, po aktivaci shortcuty s Ctrl
 - modelování pomocí operací se zdrojovými objekty
 
+### F2
+- add-on pro editační mód, po vybrání okrajových hran nebo vrcholů a stisknutí <kbd>F</kbd> vytvoří překlenovací plochu
+
+### 3D Navigation
+- umožňuje přepínat pohledy z postranního panelu (po aktivaci se do oddílu View přidá 3D Navigation)
+
+### Stored Views
+- uložené pohledy na scénu a objekty, mimo systém kamer (najdeš v postranním panelu View jako Stored Views)
+
 ## Pluginy, které jsou volně ke stažení
 
 Kvalitní pluginy, které se vyplatí doinstalovat a jsou volně zdarma ke stažení. Některé jsou součástí instalace Blenderu (Tissue), ale je lepší stáhnout nejaktuálnější verzi.
