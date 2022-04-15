@@ -22,6 +22,9 @@ Instalace Blenderu obsahuje mnoho pluginů, které jsou součástí instalace, a
 ### Node Wrangler
 - základní pro práci s materiálovými uzly
 
+### Node Arrange
+- automaticky přehledně rozloží uzly na desce (po aktivaci ho nalezneš v postranním panelu v uzlových editorech)
+
 ### 3D Print Toolbox
 - kontrola sítě a geometrie pro 3D tisk, hodí se i pro opravy sítí
 
@@ -39,6 +42,7 @@ Práce s CSG, po aktivaci shortcuty s Ctrl
 
 ### Stored Views
 - uložené pohledy na scénu a objekty, mimo systém kamer (najdeš v postranním panelu View jako Stored Views)
+- lze snadno přepínat mezi uloženými kamerami a vytvářet z pohledů nové kamery
 
 ## Pluginy, které jsou volně ke stažení
 
