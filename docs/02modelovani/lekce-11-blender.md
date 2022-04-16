@@ -44,6 +44,12 @@ Práce s CSG, po aktivaci shortcuty s Ctrl
 - uložené pohledy na scénu a objekty, mimo systém kamer (najdeš v postranním panelu View jako Stored Views)
 - lze snadno přepínat mezi uloženými kamerami a vytvářet z pohledů nové kamery
 
+### Amaranth Toolset
+- kolekce nástrojů produktivity, dokumentaci najdeš v odkazu v rozbalovací liště add-onu
+- v kontextovém menu ve scéně (Righ Click) přibude možnost Camera as Render Border, které šetří zdroje v režimu Cycles
+- zobrazuje wireframe u vybraného modelu, nastavení v N-panelu View (postranní panel)
+
+
 ## Pluginy, které jsou volně ke stažení
 
 Kvalitní pluginy, které se vyplatí doinstalovat a jsou volně zdarma ke stažení. Některé jsou součástí instalace Blenderu (Tissue), ale je lepší stáhnout nejaktuálnější verzi.
