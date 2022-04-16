@@ -49,6 +49,10 @@ Práce s CSG, po aktivaci shortcuty s Ctrl
 - v kontextovém menu ve scéně (Righ Click) přibude možnost Camera as Render Border, které šetří zdroje v režimu Cycles
 - zobrazuje wireframe u vybraného modelu, nastavení v N-panelu View (postranní panel)
 
+### Precision Drawing Tools (PDT) a MeasureIt
+- utility pro přesné modelování
+- přibližuje modelování v Blenderu CAD postupům
+
 
 ## Pluginy, které jsou volně ke stažení
 
