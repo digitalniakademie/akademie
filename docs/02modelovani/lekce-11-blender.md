@@ -53,6 +53,14 @@ Práce s CSG, po aktivaci shortcuty s Ctrl
 - utility pro přesné modelování
 - přibližuje modelování v Blenderu CAD postupům
 
+### Cell Fracture
+
+- vytváří parametrické praskliny modelu pro speciální efekty a motion design
+- po aktivaci pluginu nutná aktivace Developers Extra (v preferencích pod Interface)
+- používá se přes menu *Edit ‣ Operator Search*, spustit **Cell fracture selected mesh**
+
+### A. N. T. (Another Noise Tool) Landscape
+- vytváří rychlou síťovou krajinu na základě generátoru šumu (v N-panelu se objeví v záložce Create)
 
 ## Pluginy, které jsou volně ke stažení
 

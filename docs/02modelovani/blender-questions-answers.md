@@ -23,5 +23,12 @@ V sekci Item/Dimension změníš délku v jedné ose (např. X) na požadovaný 
 
 Vyber objekt, a z menu <kbd>Shift</kbd>+<kbd>S</kbd> volbu Selection to Cursor. Funkce se řídí polohou základního bodu (*Origin*), který lze u objektu měnit z kontextového menu (volba Set Origin).
 
+#### Jak rozdělit Array na jednotlivé objekty?
+
+Sestavu po aplikaci modifikátoru Array rozdělíš v Edit módu, vyber celou geometrii <kbd>P</kbd>, <kbd>P</kbd>, volba By Loose Parts.
+
+
+
+
 ### Textury
 ### Render
