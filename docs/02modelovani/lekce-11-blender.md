@@ -62,6 +62,11 @@ Práce s CSG, po aktivaci shortcuty s Ctrl
 ### A. N. T. (Another Noise Tool) Landscape
 - vytváří rychlou síťovou krajinu na základě generátoru šumu (v N-panelu se objeví v záložce Create)
 
+### Extra Objects
+- dva add-ony pro křivky a pro sítě, rozšiřující základní objekty
+- add-on Extra Objects pro sítě přidává např. generátor matematických funkcí nebo jednotlivý vertex
+- možnosti přidá do menu  Add ‣ Curve a Add ‣ Mesh (pod zkratkou <kbd>Shift</kbd>+<kbd>A</kbd>).
+
 ## Pluginy, které jsou volně ke stažení
 
 Kvalitní pluginy, které se vyplatí doinstalovat a jsou volně zdarma ke stažení. Některé jsou součástí instalace Blenderu (Tissue), ale je lepší stáhnout nejaktuálnější verzi.
