@@ -27,6 +27,10 @@ Vyber objekt, a z menu <kbd>Shift</kbd>+<kbd>S</kbd> volbu Selection to Cursor. 
 
 Sestavu po aplikaci modifikátoru Array rozdělíš v Edit módu, vyber celou geometrii <kbd>P</kbd>, <kbd>P</kbd>, volba By Loose Parts.
 
+#### Oprava převrácených normál: Jak zobrazit orientaci ploch a jejich normály?
+
+V **Edit módu** nastav Overlay v menu vpravo nahoře, volba Face Orientation. Normály převrátíš v menu <kbd>Alt</kbd>+<kbd>N</kbd> volbou Flip u vybraného segmentu (volby Recalculate Outside/Inside umožňují snadnou opravu modelů, kde by se muselo manuálně vybírat mnoho ploch).
+
 
 
 
