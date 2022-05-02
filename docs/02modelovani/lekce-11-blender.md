@@ -99,6 +99,13 @@ https://github.com/stuffmatic/fSpy-Blender
 
 https://github.com/3d-io/uvpacker-blender-addon/releases
 
+### MACHIN3tools
+- soubor mnoha utilit pro produktivitu, umožňuje např. vytvářet **skupiny** (po zapnutí funkce **Group** se skupina vytvoří vybráním objektů a zkratkou <kbd>Ctrl</kbd>+<kbd>G</kbd>, skupinu vybereš <kbd>Shift</kbd>+<kbd>LMB</kbd>
+- jednotlivá rozšíření se zapínají v aktivovaném pluginu
+- má i placenou rozšířenou verzi
+
+https://github.com/machin3io/MACHIN3tools
+
 ## Komerční pluginy
 
 Pluginy které zjednodušují práci s nástroji nebo rozšiřují funkce Blenderu. Výběr v tomto oddílu je omezený na nejčastěji používané v profesionální práci.
@@ -124,6 +131,9 @@ Komerční pluginy pro Blender najdeš většinou na stránkách online tržiš�
 
 ### Pluginy a materiály Nathana Ducka (Ducky3D)
 - kvalitní parametrické materiály, kurzy a jiné utility
+
+### MACHIN3tools DeusEx, Meshmachine, Decalmachine
+- utility pro modelování a hard surface modeling
 
 ## Další zdroje
 Zdroje pro HDRI, textury, materiály atd.
