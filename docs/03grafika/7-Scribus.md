@@ -6,7 +6,7 @@ sidebar_position: 10
 
 # Scribus a předtisková příprava
 ![image](./images/scribus-screen.png)
-Scribus je open source řešení sazby tiskovin. Důvodem pro specializovaný software je optimální sazba vícestránkových dokumentů, obsahujících mnoho textu a vyžadujících trochu jinou filozofii správy dokumentu. Skribus nabízí kvalitní typesetting a přípravu dokumentů také v barevném prostoru CMYK, spolu s definovatelnými přímými barvami.
+Scribus je open source řešení sazby tiskovin. Důvodem pro specializovaný software je optimální sazba vícestránkových dokumentů, obsahujících mnoho textu a vyžadujících trochu jinou filozofii správy dokumentu. Další funkcí je práce se styly písem, odstavců a barev, které je užitečné používat pro profesionální dokumenty. Skribus nabízí kvalitní typesetting a přípravu dokumentů také v barevném prostoru CMYK, spolu s definovatelnými přímými barvami.
 
 ## Instalace a nastavení
 Pro všechny funkce budeš potřebovat Scribus a Ghostscript.
@@ -22,6 +22,10 @@ winget install scribus
 ```
 :::
 
+Nejnovější vývojové verze najdeš zde:
+https://www.scribus.net/downloads/unstable-branch/
+https://www.ghostscript.com/releases/gsdnld.html
+
 ## Pracovní plocha Scribus
 
 ![image](./images/scribus-screen.png)
@@ -31,11 +35,18 @@ Objekty se do dokumentu umísťují pomocí **rámců** (Frames). Základní typ
 - Obrázkový rámec
 Grafické prvky se dají umístit i mimo rámec přímo do dokumentu.
 
-Práce s vrsvami a hloubkou. Zamykání vrstev.
+:::note Práce s vrstvami a hloubkou.
+Pořadí vrstev zmeníš v nastavení vlastností objektu. Tam lze také vrstvu zamknout.
+:::
+
+:::note Práce s vodítky
+Vodítka nastavíš v menu Stránka ‣ Ovládání vodítek (*Page ‣ Guides*). Přichytávání k objektům zapneš volbou Stránka ‣ Magnetická vodítka.
+
+:::
 
 ## Postup práce při sazbě
 :::note Příprava návrhu
-Vytvoříš design layoutu s rozvžením stran a použitými typy a velikostmi fontů.
+Vytvoříš design layoutu s rozvržením stran a použitými typy a velikostmi fontů.
 :::note
 
 :::note Příprava podkladů
@@ -96,11 +107,12 @@ Editoru textů (Story Editor) otevřeš po označení textového rámce z menu *
 
 Vytvoř styl nadpisu a odstavce a vytvoř stránku s ilustrací, obtékanou textem.
 
-Zkratky:
-<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>T</kbd>
-
 :::
 
+## Zkratky
+Text <kbd>T</kbd>
+Obrázek <kbd>I</kbd>
+Vlastnosti objektu <kbd>F2</kbd>
 
 ## Pravidla tiskové strany
 Kapitola o sazbě. Plynulost textu.
