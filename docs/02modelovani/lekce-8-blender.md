@@ -4,16 +4,33 @@ title: 3D Modelování
 sidebar_position: 10
 ---
 
-# Pro pokročilé: Architektura a design
+# Pro pokročilé: Architektura a design, CAD postupy v Blenderu
 
 
 ## Design
+
+### CAD postupy v Blenderu
+
+Některé CAD funkce obsahuje už základní instalace Blenderu. Možnosti se dají rozšířit pomocí Add-ons.
+
 Nutné funkce a řešení:
 - práce v měřítku
 - možnost překreslování
 - parametričnost
 - blokování, linkování a zástupné Objekty
 - export a import
+
+### Měření
+
+Nástroj měřidla je dostupný v objektovém menu v panelu nástrojů (viz obrázek). Doporučuji zapnout funkci Snap. Kliknutím na střed měřící linky lze měřit i úhly.
+
+![image](./images/blender-measure.png)
+
+Další možností je Add-on Measureit. Je součástí instalace a je nutné ho aktivovat. Má také zajímavé funkce pro zobrazení koordinátů vertexů u vybraného komponentu (Mesh Debug), nebo výpočet plochy. Výsledné anotace lze vyrenderovat jako obrázek do souboru nebo zkompletovat s běžným renderem v kompozitoru.
+
+![image](./images/blender-measureit.png)
+
+
 
 ## Architektura
 - vizualizace
@@ -55,3 +72,9 @@ Realistický styl je pro finální verze projektu.
 
 ## Prototypy a CAD/CAM
 Podporované formáty pro 3D tisk.
+
+:::info Ukázka CAD modelování v Blenderu
+
+Překresli součástku podle měřítka. Vymodeluj a exportuj objekt (pro tisk a pro použití v realtime enginu).
+
+:::
