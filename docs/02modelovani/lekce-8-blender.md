@@ -30,7 +30,8 @@ Další možností je Add-on Measureit. Je součástí instalace a je nutné ho 
 
 ![image](./images/blender-measureit.png)
 
-
+### CAD Sketcher
+- add-on ve vývoji
 
 ## Architektura
 - vizualizace

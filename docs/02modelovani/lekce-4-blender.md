@@ -83,6 +83,33 @@ Nejnovější verzi stáhneš kliknutím na butón Code / Download ZIP. Soubor s
 - generování geometrie
 - parametrické kopírování
 
+## CAD Sketcher
+Nejpokročilejším opensource add-on projektem, který nabízí CAD funkce a parametrické modelování pro Blender, je CAD Sketcher. Tento add-on využívá geonodes a postupy, známé např. z programu FreeCAD.
+
+- stažení zde https://github.com/hlorus/CAD-Sketcher/archive/refs/heads/main.zip
+- další informace https://makertales.gumroad.com/l/CADsketcher
+- vyžaduje doinstalaci Python modulu Solvespace https://pypi.org/project/py-slvs/ (lze instalovat z .whl souboru uvnitř okna add-onu, nebo volbou Install from PIP). **Nutno restartovat Blender**.
+- doporučuji aktivovat také add-ony **Booltool** a **3D-Print Toolbox**, první pro vyváření "vodotěsných" objektů a druhý pro jejich kontrolu
+
+
+- <kbd>Shift</kbd>+<kbd>M</kbd> Midpoint constraint
+- <kbd>Alt</kbd>+<kbd>D</kbd> Dimension
+
+:::tip
+
+Parametrické objekty lze vytvářet jako sítě (extrudují se modifikátorem Solidify) nebo jako křivky (extrudují se v nastavení Geometry v Object Data Properties pro **křivky**).
+
+:::
+
+## Postup modelování v CAD Sketcheru pro tisk
+
+- vybrání pracovní plochy
+- vytvoření skicy
+- vytažení a bevel
+- boolean operace
+- vyčištění, modifikátor Weld 0.1, v edit módu zkratka X, Limited Dissolve 0.1
+- export STL
+
 ## Pracovní plocha
 Okna můžeš přesouvat a měnit jejich obsah podle potřeby, což je výhodné pro programování pomocí uzlů.
 
