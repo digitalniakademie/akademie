@@ -7,29 +7,32 @@ sidebar_position: 4
 # Lekce 02: Modelujeme
 ## Polygonové objekty
 Polygonové objekty jsou v Blenderu označované jako Sítě (Meshes).
-Do Editačního módu označeného objektu vstoupíš stisknutím <kbd>Tab</kbd> nebo změnou pracovní plochy na **Modeling**.
+Do **Editačního módu** označeného objektu vstoupíš stisknutím <kbd>Tab</kbd> nebo změnou pracovní plochy na **Modeling**.
 
 Základní části polygonových objektů:
 ![image](../img/blender01-edit.svg)
 Výběr vrcholů, hran nebo ploch přepínáš klávesami <kbd>1</kbd>, <kbd>2</kbd> a <kbd>3</kbd>.
 
-### Vrchol
+### Vrchol, Hrana, Plocha
+Jednotlivé komponenty mají různé možnosti úprav, dostupné zkratkami nebo z editorového menu nahoře (často používaná funkce zkosení hrany <kbd>Ctrl</kbd>+<kbd>B</kbd> je i ve variantě pro vrcholy, <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd>).
 
-### Hrana
-
-### Plocha
+![Blender vertex bevel](./images/blender-bevel-vertex.png 'Beveling of vertex, edges, and faces in Blender')
 
 
 ### Trojúhelníky a čtverce v síti (Tris, Quads)
-N-gony
+- N-gony, výhody a nevýhody
 ### Normály
 
 
 ### Proč je důležitá topologie?
 Topologie je rozložení geometrie objektu. Pro další použití modelu pro aplikace ve 3D enginech, modelování a texturování je důležitá správná topologie.
 
-Pro modelovací techniky subdivize je zásadní.
+Pro modelovací techniky subdivize a pro animace je správná topologie zásadní.
 
+## Křivky
+Beziérovy a NURBS křivky jsou vhodné pro tvorbu rotačních a tažených objektů, jejich rozlišení lze po vytvoření měnit.
+
+- pro úpravu kontrolních bodů křivek přímo jako v kreslicích programech použij nástroj Tweak (v panelu nástrojů v paletě výběru, <kbd>W</kbd>)
 
 ## Transformace
 ## Vytváření osově souměrných modelů

@@ -27,9 +27,14 @@ Instalace Blenderu obsahuje mnoho pluginů, které jsou součástí instalace, a
 
 ### 3D Print Toolbox
 - kontrola sítě a geometrie pro 3D tisk, hodí se i pro opravy sítí
+- tab Add-ons/Official
 
 ### Modifier Tools
 - zjednodušuje aplikaci modifikátorů na objekt
+
+### Copy Attributes Menu
+- umožňuje kopírovat atributy
+
 ### Bool Tool
 Práce s CSG, po aktivaci shortcuty s Ctrl
 - modelování pomocí operací se zdrojovými objekty

@@ -51,15 +51,24 @@ Viewport Workbench je určený pro modelování a přehledné zobrazení geometr
 Render náhledu je v menu v pracovním 3D okně ‣ View ‣ Viewport Render Image.
 
 ## Kamera
+- kamerová sestava (*Camera Rig*) umožňuje snadnější ovládání kamery ve scéně
+- zamčení pohledu kamery na objekt pomocí Object Constraint Properties (*Track to*)
+- hloubka ostrosti a parametry kamery
+- camera tracking data
 ## Světelné zdroje
+Osvětlení scény je kombinací různých světelných zdrojů i odrazů či vyzařování objektů ve scéně.
+- typy světel, nastavení pro různé render enginy
+- tracking a rigging světel
 ### Světelné objekty
+Objekty mohou osvětlovat scénu materiálem přiřazeným celému povrchu nebo skupině ploch.
 
 ### Environmentální osvětlení
+Realistické osvětlení pomocí materiálu scény, zpravidla fotografickou HDRi texturou.
 ## Instalace Studio Lights, Matcaps a HDRi
 HDRi lze používat v materiálovém náhledu i bez nastavení uzlů.
 #### HDR
 #### Sky Texture
-
+Textura generovaná parametricky v Blenderu.
 ## Render
 
 ### Evee
