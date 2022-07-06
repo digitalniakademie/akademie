@@ -4,7 +4,7 @@ title: 3D Modelování
 sidebar_position: 5
 ---
 
-# Lekce 03: Efektivní osvětlení a render
+# Lekce 03: Efektivní osvětlení, kamera a render
 ## Render Engines
 Render Engine je software, který umožňuje algoritmický výpočet scény do digitálního obrazu nebo animace, také se často stará o zobrazení v reálném čase.
 Blender v základní instalaci umožňuje přepínat mezi:
@@ -41,12 +41,22 @@ Nastavení materiálů a světel je většinou specifické pro renderovací modu
 Některé efekty materiálů, světel a stínování jsou správně zobrazitelné pouze v daném modulu.
 
 :::
+## Workbench (Režim zobrazení Solid)
+Viewport Workbench je určený pro modelování a přehledné zobrazení geometrie. Nastavení možností je v liště vpravo nahoře.
+- nastavení stínu a kavity zlepšuje přehlednost
+- zaškrtnutí Depth of Field zobrazuje hloubku ostrosti aktivní kamery (v kamerovém náhledu), je to rychlejší způsob nastavení DoF pro jednotlivou scénu a animace
 
+![image](./images/blender-solid-viewport.png)
+
+Render náhledu je v menu v pracovním 3D okně ‣ View ‣ Viewport Render Image.
+
+## Kamera
 ## Světelné zdroje
 ### Světelné objekty
-![image](../img/blender01-edit.svg)
 
 ### Environmentální osvětlení
+## Instalace Studio Lights, Matcaps a HDRi
+HDRi lze používat v materiálovém náhledu i bez nastavení uzlů.
 #### HDR
 #### Sky Texture
 

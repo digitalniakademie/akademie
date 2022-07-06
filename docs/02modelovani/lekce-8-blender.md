@@ -32,6 +32,8 @@ Další možností je Add-on Measureit. Je součástí instalace a je nutné ho 
 
 ### CAD Sketcher
 - add-on ve vývoji
+- vytváření modelů pro 3D tisk a obrábění
+
 
 ## Architektura
 - vizualizace
