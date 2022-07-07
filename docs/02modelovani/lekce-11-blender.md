@@ -25,6 +25,10 @@ Instalace Blenderu obsahuje mnoho pluginů, které jsou součástí instalace, a
 ### Node Arrange
 - automaticky přehledně rozloží uzly na desce (po aktivaci ho nalezneš v postranním panelu v uzlových editorech)
 
+### LoopTools
+- pro manipulaci sítě v editačním módu, odkaz v kontextovém menu RMB
+- jednoduché a efektivní funkce (Bridge, Relax)
+
 ### 3D Print Toolbox
 - kontrola sítě a geometrie pro 3D tisk, hodí se i pro opravy sítí
 - tab Add-ons/Official

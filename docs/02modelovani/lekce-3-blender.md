@@ -64,6 +64,8 @@ Objekty mohou osvětlovat scénu materiálem přiřazeným celému povrchu nebo 
 
 ### Environmentální osvětlení
 Realistické osvětlení pomocí materiálu scény, zpravidla fotografickou HDRi texturou.
+- nejrychlejší nastavení v tabu World, v položce color (žlutá tečka) vybrat Environmental texture
+
 ## Instalace Studio Lights, Matcaps a HDRi
 HDRi lze používat v materiálovém náhledu i bez nastavení uzlů.
 #### HDR
