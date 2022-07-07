@@ -33,13 +33,32 @@ Pro modelovací techniky subdivize a pro animace je správná topologie zásadn�
 Beziérovy a NURBS křivky jsou vhodné pro tvorbu rotačních a tažených objektů, jejich rozlišení lze po vytvoření měnit.
 
 - pro úpravu kontrolních bodů křivek přímo jako v kreslicích programech použij nástroj Tweak (v panelu nástrojů v paletě výběru, <kbd>W</kbd>)
+- import křivek .svg
+- postupy CAD
 
 ## Transformace
+- je možné použít widgety z panelu nástrojů, nebo zkratky
+
+:::note Zkratky pro transformace
+
+- Move <kbd>G</kbd>
+- Scale <kbd>S</kbd>
+- Rotate <kbd>R</kbd>
+- následné stisknutí <kbd>X</kbd>, <kbd>Y</kbd> nebo <kbd>Z</kbd> zamkne transformaci v dané ose
+- další kombinace zkratek najdeš na spodní liště
+
+
+:::
+
+- po změně velikosti, polohy nebo natočení je často nutné aplikovat transformace v pro správnou funkci modifikátorů a efektů (<kbd>Ctrl</kbd>+<kbd>A</kbd>)
 ## Vytváření osově souměrných modelů
 Modifikátory - Mirror Tool
 Mesh > Symmetrize
 
 ## Základní zkratky
+
+- Smazat nebo rozpustit (v editačním módu) <kbd>X</kbd>
+- Zoom na objekt <kbd>Num ,</kbd>
 
 ## Editační mód a ostatní módy!
 

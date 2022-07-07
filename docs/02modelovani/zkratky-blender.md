@@ -54,7 +54,8 @@ Následné stisknutí kláves <kbd>X</kbd>, <kbd>Y</kbd>, <kbd>Z</kbd> omezuje t
 ### Změnit velikost (Scale) <kbd>S</kbd>
 ### Otočit (Rotate) <kbd>R</kbd>
 Následné stisknutí klávesy <kbd>R</kbd> otáčí relativně k aktivnímu pohledu.
-
+### Aplikovat <kbd>Ctrl</kbd>+<kbd>A</kbd>
+Transformaci, kteou chceš aplikovat, vyber z menu
 
 ## Modeling (editační mód)
 ### Extrude <kbd>E</kbd>
