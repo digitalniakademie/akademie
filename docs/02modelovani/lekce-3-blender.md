@@ -62,13 +62,28 @@ Osvětlení scény je kombinací různých světelných zdrojů i odrazů či vy
 ### Světelné objekty
 Objekty mohou osvětlovat scénu materiálem přiřazeným celému povrchu nebo skupině ploch.
 
+### IES světla pro Cycles
+Přiřazením IES profilu vytvoříme realistická světla podle specifikací výrobce lampy. IES profily získáš na stránkách výrobce, nebo z online databází.
+- IES profil přiřadíme k bodovému zdroji (aktivuj **Use Nodes** v Object Data Properties světla a vyber soubor z disku volbou Strength/IES Texture, Source : External)
+- aby nastavení Blender světla nekolidovalo s IES profilem, nastavíme **intenzitu (Power) na 0,1-0,5W a rádius světla na 0**.
+- online databáze simulovaných světel např. https://ieslibrary.com/en/home
+- teplotu světla nastavíš podle dokumentace ke svítidlu, v kolonce Color nastav Blackbody (výběr kliknutím na žlutý puntík), a správnou teplotu v Kelvinech (v databázi výše uvedená jako Luminaire)
+
 ### Environmentální osvětlení
 Realistické osvětlení pomocí materiálu scény, zpravidla fotografickou HDRi texturou.
 - nejrychlejší nastavení v tabu World, v položce color (žlutá tečka) vybrat Environmental texture
 
 ## Instalace Studio Lights, Matcaps a HDRi
-HDRi lze používat v materiálovém náhledu i bez nastavení uzlů.
+
 #### HDR
+HDRi lze používat v materiálovém náhledu i bez nastavení uzlů.
+#### Matcaps
+Materiál Matcap pro náhledy a modelování můžeš vytvořit v Blenderu nebo importovat.
+
+![image](./images/blender-matcaps.png)
+
+Jedná se o osvětlenou sféru s materiálem (v grafickém formátu .exr nebo .png). Zobrazuje se ve stínování náhledu *Solid*.
+
 #### Sky Texture
 Textura generovaná parametricky v Blenderu.
 ## Render

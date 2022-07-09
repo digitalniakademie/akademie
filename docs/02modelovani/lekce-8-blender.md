@@ -40,6 +40,8 @@ Další možností je Add-on Measureit. Je součástí instalace a je nutné ho 
 - knihovny materiálů a objektů
 - parametrické zadávání
 
+### BIM (Building Information Modeling)
+
 Blender podporuje BIM (Building Information Modeling) pro konstrukční dokumentace přes volně dostupný BlenderBIM Add-on (dříve IFC Exporter).
 
 Stáhni aktuální verzi na https://blenderbim.org/download.html.
@@ -62,6 +64,11 @@ import TabItem from '@theme/TabItem';
 </Tabs>
 
 Addon je ve vývoji.
+
+### IES (Illuminating Engineering Society) světelné zdroje
+- fotometrické profily IES jsou průmyslový standard popisující intenzitu a distribuci světla z konkrétního světelného zdroje s definovaným formátem (.ies, .ldt)
+- přiřazují se k bodovému světlu
+- simulace osvětlení pro vizualizaci mohou nahradit komplexní modely lamp
 
 :::note Poznámka
 
