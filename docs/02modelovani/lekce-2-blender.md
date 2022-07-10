@@ -35,7 +35,8 @@ Beziérovy a NURBS křivky jsou vhodné pro tvorbu rotačních a tažených obje
 - pro úpravu kontrolních bodů křivek přímo jako v kreslicích programech použij nástroj Tweak (v panelu nástrojů v paletě výběru, <kbd>W</kbd>)
 - import křivek .svg
 - postupy CAD
-
+- změna typu řídítek <kbd>V</kbd> v editor módu křivky, použij pro vyhlazování křivek (nastavení Automatic)nebo pro ostré hrany (Vector)
+- pokročilé kreslení pomocí *Curve Pen*
 ## Transformace
 - je možné použít widgety z panelu nástrojů, nebo zkratky
 
@@ -52,8 +53,9 @@ Beziérovy a NURBS křivky jsou vhodné pro tvorbu rotačních a tažených obje
 
 - po změně velikosti, polohy nebo natočení je často nutné aplikovat transformace v pro správnou funkci modifikátorů a efektů (<kbd>Ctrl</kbd>+<kbd>A</kbd>)
 ## Vytváření osově souměrných modelů
-Modifikátory - Mirror Tool
-Mesh > Symmetrize
+1. Modifikátory - Mirror Tool
+2. Mesh > Symmetrize
+
 
 ## Základní zkratky
 

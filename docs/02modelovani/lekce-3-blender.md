@@ -63,11 +63,16 @@ Osvětlení scény je kombinací různých světelných zdrojů i odrazů či vy
 Objekty mohou osvětlovat scénu materiálem přiřazeným celému povrchu nebo skupině ploch.
 
 ### IES světla pro Cycles
+
+![Blender světla IES](./images/blender-ies.png 'Blender IES Standard')
+
 Přiřazením IES profilu vytvoříme realistická světla podle specifikací výrobce lampy. IES profily získáš na stránkách výrobce, nebo z online databází.
 - IES profil přiřadíme k bodovému zdroji (aktivuj **Use Nodes** v Object Data Properties světla a vyber soubor z disku volbou Strength/IES Texture, Source : External)
 - aby nastavení Blender světla nekolidovalo s IES profilem, nastavíme **intenzitu (Power) na 0,1-0,5W a rádius světla na 0**.
 - online databáze simulovaných světel např. https://ieslibrary.com/en/home
-- teplotu světla nastavíš podle dokumentace ke svítidlu, v kolonce Color nastav Blackbody (výběr kliknutím na žlutý puntík), a správnou teplotu v Kelvinech (v databázi výše uvedená jako Luminaire)
+- teplotu světla nastavíš podle dokumentace ke svítidlu, v kolonce Color nastav Blackbody (výběr kliknutím na žlutý puntík), a správnou teplotu v Kelvinech (najdeš v databázi nebo v katalogu, zpravidla v rozmezí kolem 1500-5500K)
+
+![Blender teplota světla IES](./images/blender-ies-kelvin.png 'Blender IES Standard Kelvin Temperature from 1500K to 5500K')
 
 ### Environmentální osvětlení
 Realistické osvětlení pomocí materiálu scény, zpravidla fotografickou HDRi texturou.
@@ -80,7 +85,7 @@ HDRi lze používat v materiálovém náhledu i bez nastavení uzlů.
 #### Matcaps
 Materiál Matcap pro náhledy a modelování můžeš vytvořit v Blenderu nebo importovat.
 
-![image](./images/blender-matcaps.png)
+![MatCaps a Blender Viewport](./images/blender-matcaps.png 'Blender 3D MatCaps')
 
 Jedná se o osvětlenou sféru s materiálem (v grafickém formátu .exr nebo .png). Zobrazuje se ve stínování náhledu *Solid*.
 
@@ -105,6 +110,10 @@ Realističtější a podstatně pomalejší engine. Některé efekty fungují po
 ### Zrychlení renderování pro Cycles
 
 Optimalizace. Správné nastavení pro Path Tracing.
+
+- pro náhledy v pracovním okně stačí nastavit Max Samples 16
+- pro finální render záleží na typu scény a použití Denoiseru, často stačí maximálně 32-256 samplů. Pro scény s velkým šumem je třeba experimentovat
+- v Advanced a Light Paths experimentuj s nastavením
 
 :::note úkol
 
