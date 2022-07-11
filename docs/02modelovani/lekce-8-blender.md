@@ -36,9 +36,39 @@ Další možností je Add-on Measureit. Je součástí instalace a je nutné ho 
 
 
 ## Architektura
+
 - vizualizace
 - knihovny materiálů a objektů
 - parametrické zadávání
+
+Nejdůležitější věcí pro realistickou architektonickou 3D vizualizaci  (Archviz) je používat správné měřítko jednotlivých komponentů, a to i dekorací. Realistické povrchy a osvětlení zvyšují fotorealistický efekt, ale správné měřítko je zásadní. V následující tabulce je několik základních rozměrů pro interiéry a exteriéry.
+
+|                          | výška  (cm) | šířka (cm) | hloubka (cm) |
+|--------------------------|-------------|------------|--------------|
+| Dveře                    | 210         | 90         |              |
+| Okno (80-100 od podlahy) | 65-90       | 50         |              |
+| Schod                    | 18-24       |            |              |
+| Zábradlí                 | 85-95       |            |              |
+| Strop                    | 275         |            |              |
+| Stůl pracovní (malý)     | 75          | 120        | 60           |
+| Stůl konferenční         | 40-50       | 80-110     | 60-80        |
+| Postel                   | 65          | 90         | 200          |
+| Židle (podsedák)         | 100 (45)    |            |              |
+| Křeslo (podsedák)        | 80 (35-45)  |            |              |
+| Barová židle (podsedák)  | 70-75       | 35         | 35           |
+| Kuchyňská linka (deska)  | 210 (85)    | 180        | 50           |
+| Chodník                  |             | 120-150    |              |
+
+#### Ergonomie a normativní standardy
+
+Při modelování nezapomeň na ergonomické zásady a rozměry pro pohyb lidí, jak u prostředí tak u objektů.
+
+:::info Profesionální vizualizace a knihovny objektů
+
+V praxi se pro efektivní práci používají knihovny hotových dekorací, materiálů, textur, HDRi fotografií atp.
+
+:::
+
 
 ### BIM (Building Information Modeling)
 
@@ -65,8 +95,8 @@ import TabItem from '@theme/TabItem';
 
 Addon je ve vývoji.
 
-### IES (Illuminating Engineering Society) světelné zdroje
-- fotometrické profily IES jsou průmyslový standard popisující intenzitu a distribuci světla z konkrétního světelného zdroje s definovaným formátem (.ies, .ldt)
+### IES světelné zdroje
+- fotometrické profily IES (Illuminating Engineering Society) jsou průmyslový standard popisující intenzitu a distribuci světla z konkrétního světelného zdroje s definovaným formátem (.ies, .ldt)
 - přiřazují se k bodovému světlu
 - simulace osvětlení pro vizualizaci mohou nahradit komplexní modely lamp
 
