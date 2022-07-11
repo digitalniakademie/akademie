@@ -40,6 +40,23 @@ Při přidání objektu do scény je možné měnit parametry geometrie tvořen�
 ### Sítě (Meshes)
 Polygonová tělesa a geometrické tvary. Jedná se o objekty tvořené plochami, s editovatelnými vrcholy a hranami. To, jak budou polygonové objekty ztvárněny, určuje nastavení normál a stínování.
 
+Rozložení polygonů — topologie modelu — určuje další možnosti práce a stínování. Na obrázku jsou různé typy sfér:
+
+![image](./images/blender-spheres.png 'Spheres in Blender')
+
+1. Icosphere
+2. UV Sphere
+3. Roundcube (z addonu Extra Objects)
+4. Koule vytvořená ze základní krychle:
+
+  - přidání subdivize <kbd>Ctrl</kbd>+<kbd>3</kbd>
+  - aplikace modifikátoru <kbd>Ctrl</kbd>+<kbd>A</kbd>, Visual Geometry to Mesh
+  - <kbd>Tab</kbd> do editor módu, vybrat vše <kbd>A</kbd>, srovnat vertexy pomocí funkce Scale <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>S</kbd>, myší do prava na maximum
+
+První dvě jsou vhodné na síťové efekty. Poslední dvě mají vhodnou topologii na modelování a sculpting.
+
+
+
 ### Hladké a ploché stínování
 Stínování nastavíš z menu pravého tlačítka (nebo z menu režimu Objekt) na vybraném objektu.
 Pro lepší funkci vyhlazování normál je nutné zaškrtnout **Automatické vyhlazení** v Object Data Properties v nastavení Normály.
