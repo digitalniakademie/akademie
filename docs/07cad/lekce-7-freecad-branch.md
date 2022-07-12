@@ -16,7 +16,9 @@ V této lekci si ukážeme práci v experimentální verzi FreeCADu, známé jak
 
 Aktuální verzi najdeš zde:
 
-https://github.com/realthunder/FreeCAD_assembly3/releases
+https://github.com/realthunder/FreeCAD/releases
+
+![FreeCAD Branches](./images/freecad-branches.png 'Modeling in FreeCAD')
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
