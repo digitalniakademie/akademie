@@ -118,3 +118,19 @@ Podporované formáty pro 3D tisk.
 Překresli součástku podle měřítka. Vymodeluj a exportuj objekt (pro tisk a pro použití v realtime enginu).
 
 :::
+
+## Archviz cvičení
+
+### Interiéry
+- obývací pokoj, kuchyně, ložnice, lobby, divadlo nebo opera, jídelna
+
+### Exteriéry
+- vila, obytné budovy, průmyslové budovy, kulturní zařízení
+- atmosféra a osvětlení
+- krajina
+
+### Design a dekorace
+- sklo a svítidla
+- nábytek a bytové doplňky
+- tkaniny, koberce, povlečení, závěsy
+- pokojové rostliny, stromy a vegetace
