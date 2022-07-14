@@ -115,8 +115,22 @@ Optimalizace. Správné nastavení pro Path Tracing.
 - pro finální render záleží na typu scény a použití Denoiseru, často stačí maximálně 32-256 samplů. Pro scény s velkým šumem je třeba experimentovat
 - v Advanced a Light Paths experimentuj s nastavením
 
+## Render skla
+
+![Nastavení shaderů a renderu základního skla pro Blender](./images/blender-glass-cycles.png 'Blender Simple Glass Setup and Render')
+
+Pro realistické znázornění skla je vhodný engine Cycles.
+- použij shader materiálu Glass nebo Principled BSDF, pro průhledné sklo s Transmission 1 a Roughness 0 (určuje matnost skla)
+- pro efektní zobrazení skla je vhodné studiové osvětlení
+- zkontroluj správný směr normál modelu
+- pomocí funkce Weld optimalizuj model
+- pro render skla nastav hodnoty Light Paths v Render Properties pro Cycles:
+
+![Nastavení skla pro Blender](./images/blender-glass-glossy.png 'Blender Glass Setup')
+a) základní nastavení Total Bounces 12, Glossy 4, b) Total Bounces 32, Glossy 32 (odstraní tmavá místa)
+
 :::note úkol
 
-Vyzkoušejte tvorbu objektů a transformace.
+Vyzkoušejte render sklenice podle technického výkresu.
 
 :::
