@@ -9,6 +9,14 @@ Výhodou je nedestruktivní styl modelování. Modifikátory nemění základní
 
 Modifikátory mění stávající geometrii. Dalším krokem je přímé modelování pomocí uzlů — pomocí editoru Geometric Nodes nebo add-onu jako je Sverchok.
 
+:::note práce s modifikátory
+
+Modifikátory se aplikují v řadě za sebou (*Stack*), pořadí je důležité a lze měnit přesouváním modifikátoru myší. Transformace by se měly pro správnou funkci aplikovat na objekt.
+
+Jednotlivý modifikátor aplikuješ pomocí  <kbd>Ctrl</kbd>+<kbd>A</kbd> vpokud je myš na tabu modifikátoru, nebo z menu <kbd>Ctrl</kbd>+<kbd>A</kbd> v okně, ve vysouvacím menu se šipkou u názvu modifikátoru — a další možnost je addon **Modifier Tools**.
+
+:::
+
 ## Seznam modifikátorů
 Česká verze
 
@@ -19,23 +27,6 @@ Anglická verze
 ![image](../img/blender-mod-en.png)
 
 ## Otestuj nejčastěji používané modifikátory
-
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
-<Tabs
-  groupId="jazykova-verze"
-  defaultValue="czv"
-  values={[
-    {label: 'V české verzi', value: 'czv'},
-    {label: 'V anglické verzi', value: 'env'},
-  ]
-}>
-<TabItem value="czv">
-useBaseUrl('../img/blender-mod-cz.png')
-</TabItem>
-<TabItem value="env">Edit ‣ Preferences ‣ Interface ‣ Input</TabItem>
-</Tabs>
 
 
 :::tip
@@ -50,18 +41,12 @@ useBaseUrl('../img/blender-mod-cz.png')
 - Mirror
 
 
-<Tabs
-  groupId="jazykova-verze"
-  defaultValue="czv"
-  values={[
-    {label: 'V české verzi', value: 'czv'},
-    {label: 'V anglické verzi', value: 'env'},
-  ]
-}>
-<TabItem value="czv">Upravit ‣ Předvolby ‣ Rozhraní ‣ Vstup</TabItem>
-<TabItem value="env">Edit ‣ Preferences ‣ Interface ‣ Input</TabItem>
-</Tabs>
-Tady také nastavíš emulaci numerické klávesnice a v polních podmínkách ovládání pomocí touchpadu.
+
+:::tip
+
+Modifikátory lze aplikovat na uložené množiny vrcholů (Vertex Groups) a je to velice efektivní způsob modelování.
+
+:::
 
 ## Geometrické uzly: Geonodes
 Práce s geometrickými uzly umožnujě vytvářet a podifikovat objekty. Využijeme add-on Node Wrangler, podobně jako u ostatních uzlových systému v Blenderu.
@@ -109,17 +94,3 @@ Parametrické objekty lze vytvářet jako sítě (extrudují se modifikátorem S
 - boolean operace
 - vyčištění, modifikátor Weld 0.1, v edit módu zkratka X, Limited Dissolve 0.1
 - export STL
-
-## Pracovní plocha
-Okna můžeš přesouvat a měnit jejich obsah podle potřeby, což je výhodné pro programování pomocí uzlů.
-
-Jak vrátit pracovní plochu do původního nastavení: Nastavení plochy se ukládá do souboru. V dialogu  otevření souboru otevřete Settings (ikona kolečka) a odškrtněte Načíst UI (Load UI v anglické verzi).
-
-
-Ulož si pracovní plochu a vyzkoušej si přepínání pracovních ploch.
-
-## Přehled funkcí Blenderu
-Moduly. Layout a editační mód. Nastavení materiálů a uzlový mód v sekci shader.
-Co jde v Blenderu dělat.
-
-Můžeme začít.
