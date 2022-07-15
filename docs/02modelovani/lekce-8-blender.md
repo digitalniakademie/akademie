@@ -99,6 +99,7 @@ Addon je ve vývoji.
 - fotometrické profily IES (Illuminating Engineering Society) jsou průmyslový standard popisující intenzitu a distribuci světla z konkrétního světelného zdroje s definovaným formátem (.ies, .ldt)
 - přiřazují se k bodovému světlu
 - simulace osvětlení pro vizualizaci mohou nahradit komplexní modely lamp
+- Color Rendering Index (CRI) pro barevnou věrnost osvětleného objektu
 
 :::note Poznámka
 

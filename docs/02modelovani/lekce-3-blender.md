@@ -55,12 +55,21 @@ Render náhledu je v menu v pracovním 3D okně ‣ View ‣ Viewport Render Ima
 - zamčení pohledu kamery na objekt pomocí Object Constraint Properties (*Track to*)
 - hloubka ostrosti a parametry kamery
 - camera tracking data
-## Světelné zdroje
+## Světelné zdroje a vrstvy
 Osvětlení scény je kombinací různých světelných zdrojů i odrazů či vyzařování objektů ve scéně.
 - typy světel, nastavení pro různé render enginy
 - tracking a rigging světel
+- práce se skupinami světel ve vrstvách (*Layers*) umožňuje úpravu osvětlení i po vyrenderování
+
+### Studiové osvětlení
+- kreativní osvětlení, gradienty (textury), odrazové plochy, zatmívací plochy, nastavení viditelnosti pro kameru (Ray Visibility)
+- tříbodové osvětlení
+- jednobodové osvětlení a ostatní typy
+
 ### Světelné objekty
 Objekty mohou osvětlovat scénu materiálem přiřazeným celému povrchu nebo skupině ploch.
+- vhodné pro produktové fotografie
+- práce s texturou světla
 
 ### IES světla pro Cycles
 
