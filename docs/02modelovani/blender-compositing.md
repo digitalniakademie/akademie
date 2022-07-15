@@ -28,11 +28,15 @@ Vybraný Render Pass aktivuješ v tabu Vrstvy, a platí pro **aktivní vrstvu** 
 1. Vytvořit vrstvu
 2. V Outlineru vybrat objekty, které do vrstvy nechceme
 3. Vytvořit skupinu a objekty do ní přidat
-4. Objekty vypneme pro vrstvu pomocí ikony šipky Indirect Only u skupiny v Outlineru (pokud není zobrazená aktivuješ jí ve filtru Outlineru se symbolem trychtýře)
+4. Skupinu pro vrstvu vypneme pomocí checkboxu u skupiny
+5. Objekty také vypneme pro vrstvu pomocí ikony šipky Indirect Only u skupiny v Outlineru (pokud není zobrazená aktivuješ jí ve filtru Outlineru se symbolem trychtýře)
 
 :::
 
-
+## Krita: Editace vrstev OpenEXRMultilayer
+- rozdělení skupiny vrstev Quick Ungroup <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>G</kbd>
+- aplikace módu prolnutí u vybraných vrstev pod ikonou Layer Properties dole
+- nastavení typů prolnutí (viz tutorial)
 
 ## Postprodukce v Blender Compositoru
 
