@@ -67,7 +67,8 @@ Osvětlení scény je kombinací různých světelných zdrojů i odrazů či vy
 - jednobodové osvětlení a ostatní typy
 
 ### Světelné objekty
-Objekty mohou osvětlovat scénu materiálem přiřazeným celému povrchu nebo skupině ploch.
+Objekty mohou osvětlovat scénu materiálem přiřazeným celému povrchu nebo skupině ploch. Osvětlování pomocí objektů s emisivním materiálem může zcela nahradit základní světla a má mnoho výhod.
+
 - vhodné pro produktové fotografie
 - práce s texturou světla
 

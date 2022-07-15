@@ -37,6 +37,7 @@ Vybraný Render Pass aktivuješ v tabu Vrstvy, a platí pro **aktivní vrstvu** 
 - rozdělení skupiny vrstev Quick Ungroup <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>G</kbd>
 - aplikace módu prolnutí u vybraných vrstev pod ikonou Layer Properties dole
 - nastavení typů prolnutí (viz tutorial)
+- vhodné pro menší úpravy
 
 ## Postprodukce v Blender Compositoru
 
