@@ -41,6 +41,15 @@ Nastavení materiálů a světel je většinou specifické pro renderovací modu
 Některé efekty materiálů, světel a stínování jsou správně zobrazitelné pouze v daném modulu.
 
 :::
+
+:::tip Render Slots
+
+Pro porovnání nastavení a experimenty je užitečné používat funkci Slots v okně Blender Render. Přepni pohled do prázdného slotu v liště vpravo nahoře a vyrenderuj další obrázek. Mezi sloty se lze rychle přepínat klávesou <kbd>J</kbd>.
+
+Náhled můžeš zkopírovat do dalšího okna *View ‣ Area ‣ Duplicate Area into New Window* (najdeš i v kontextovém menu kliknutím pravým tlačítkem na horní lištu). Další možností je rozdělení okna *View ‣ Area ‣ Vertical Split*, kde lze nastavit různé pohledy na jeden slot.
+
+:::
+
 ## Workbench (Režim zobrazení Solid)
 Viewport Workbench je určený pro modelování a přehledné zobrazení geometrie. Nastavení možností je v liště vpravo nahoře.
 - nastavení stínu a kavity zlepšuje přehlednost
