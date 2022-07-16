@@ -88,7 +88,7 @@ Přiřazením IES profilu vytvoříme realistická světla podle specifikací v�
 Realistické osvětlení pomocí materiálu scény, zpravidla fotografickou HDRi texturou.
 - nejrychlejší nastavení v tabu World, v položce color (žlutá tečka) vybrat Environmental texture
 
-## Instalace Studio Lights, Matcaps a HDRi
+#### Instalace Studio Lights, Matcaps a HDRi
 
 #### HDR
 HDRi lze používat v materiálovém náhledu i bez nastavení uzlů.
@@ -99,6 +99,8 @@ Materiál Matcap pro náhledy a modelování můžeš vytvořit v Blenderu nebo 
 
 Jedná se o osvětlenou sféru s materiálem (v grafickém formátu .exr nebo .png). Zobrazuje se ve stínování náhledu *Solid*.
 
+## Atmosférické efekty
+
 #### Sky Texture
 Textura generovaná parametricky v Blenderu jako model atmosférického osvětlení.
 
@@ -106,11 +108,21 @@ Textura generovaná parametricky v Blenderu jako model atmosférického osvětle
 
 #### Volumetrická mlha
 - lze nastavit pro celou scénu nebo pro její část, může být texturovaná
+- tvar ovládá se pomocí řídícího objektu, modifikátorů a materiálu (textury)
 
 #### Oblaka z volumetrických objektů
 
+![Volumetric Cloud Blender 3D](./images/blender-volumetric-cloud.png "Volumetric Clouds in Blender")
+
 - volumetrické modely s aplikovanou maskou
 - volumetrická tělesa
+
+1. Přidat model, který bude tvořit volumetrickou geometrii do scény
+2. Přidat objekt Volume Empty do scény
+3. Přiřadit Mesh to Volume (k Volume Empty), vybrat geometrii
+4. Vytvořit materiál **Principled Volume**
+5. Průhlednost materiálu lze upravit pomocí Density
+
 
 ## Render
 
