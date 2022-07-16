@@ -130,6 +130,9 @@ Překresli součástku podle měřítka. Vymodeluj a exportuj objekt (pro tisk a
 - atmosféra a osvětlení
 - krajina
 
+#### Atmosféra a mlha
+Atmosféru lze přidat  volumetrickým efektem na celou 3D scénu nebo segmenty. V Cycles vyžaduje světelné objekty ve scéně.
+
 ### Design a dekorace
 - sklo a svítidla
 - nábytek a bytové doplňky

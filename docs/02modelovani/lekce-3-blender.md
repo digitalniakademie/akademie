@@ -100,7 +100,18 @@ Materiál Matcap pro náhledy a modelování můžeš vytvořit v Blenderu nebo 
 Jedná se o osvětlenou sféru s materiálem (v grafickém formátu .exr nebo .png). Zobrazuje se ve stínování náhledu *Solid*.
 
 #### Sky Texture
-Textura generovaná parametricky v Blenderu.
+Textura generovaná parametricky v Blenderu jako model atmosférického osvětlení.
+
+![Volumetric Scattering Blender 3D](./images/blender-volumetric-scene.png "Volumetric Atmosphere in Blender")
+
+#### Volumetrická mlha
+- lze nastavit pro celou scénu nebo pro její část, může být texturovaná
+
+#### Oblaka z volumetrických objektů
+
+- volumetrické modely s aplikovanou maskou
+- volumetrická tělesa
+
 ## Render
 
 ### Evee
