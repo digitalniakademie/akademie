@@ -13,3 +13,5 @@ sidebar_position: 2
 ## Akcenty
 
 ## Storytelling
+
+## Charakterizace

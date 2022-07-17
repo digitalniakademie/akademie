@@ -12,6 +12,9 @@ sidebar_position: 8
 - optimalizace
 - UDIM (U DIMension) pro mapování detailních textur je systém umožňující ukládání matrice UV koordinátů v dlaždicovém systému odstraňující omezení rozlišení jediné textury s UV mapou (Blender textury detekuje jako sekvenci obrázků začínající 1001)   
 
+## Nastavení pohledu Material Preview
+- větší přehlednost a konzistence s renderovacími režimy
+
 ## UV Mapping
 Abychom mohli správně nanést texturu na model, musíme správně přiřadit místo na textuře k místu (ploše) na modelu. Čím je model složitější, tím představuje více možných potíží k řešení. Správné přiřazení UV mapy je důležité také pro další texturování, malbu na objekt nebo použití efektů.
 U jednoduchých objektů je možné použít základní mapování geometrických těles, u složitější geometrie máme k dispozici řadu nástrojů, které nám rozbalení (unwrap) geometrie na mapu usnadní.
