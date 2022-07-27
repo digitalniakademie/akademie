@@ -14,6 +14,13 @@ Add-ony se instalují z okna preferencí (Edit ‣ Preferences ‣ Add-ons) . St
 
 ![image](./images/blender-addons.png)
 
+:::note Aktivace a přehled add-onů
+
+V panelu Vlastností v prvním tabu *Active Tool and Workspace settings* v položce Workspace můžeš vypínat aktivní add-ony.
+
+:::
+
+
 
 ## Základní pluginy, které jsou součástí Blenderu
 
