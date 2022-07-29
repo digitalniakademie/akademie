@@ -16,7 +16,7 @@ Add-ony se instalují z okna preferencí (Edit ‣ Preferences ‣ Add-ons) . St
 
 :::note Aktivace a přehled add-onů
 
-V panelu Vlastností v prvním tabu *Active Tool and Workspace settings* v položce Workspace můžeš vypínat aktivní add-ony.
+V panelu Vlastností v prvním tabu *Active Tool and Workspace settings* v položce Workspace můžeš vypínat zobrazení aktivních add-onů.
 
 :::
 
