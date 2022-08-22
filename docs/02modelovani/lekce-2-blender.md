@@ -5,6 +5,21 @@ sidebar_position: 4
 ---
 
 # Lekce 02: Modelujeme
+## Postupy modelování
+Při modelování objektů se setkáme s několika strategiemi, které se podstatně liší postupem a aplikací. Destruktivní postupy mění geometrii objektu, nedestruktivní umožňují modifikace v průběhu práce. Zcela parametrické modelování pomocí geometrických uzlů pak umožňuje tvorbu objektu automatizovat. V praxi používáme kombinaci všech těchto přístupů.
+
+- Modelování pomocí CSG (*Boolean* operací mezi objekty), často nazývané *Hard Surface Modeling*, dovoluje rychlé vytváření komplexních tvarů sčítáním, odčítáním a průnikem objektů ve scéně.
+
+- *Subdivision Modeling* je způsob modelování kontrolních sítí objektu, u kterého předpokládáme zvýšení rozlišení. Je vhodné pro modelování organických, plynulých tvarů.
+
+- Modelování pomocí parametrů **modifikátorů** částečně nahrazuje výhodu parametrického modelování. Parametry lze měnit, dokud se neaplikují na geometrii.
+
+- Modelování pomocí NURBS křivek a ploch je možné v Blenderu také využívat (např. s použitím addonu exportu do IGES formátu) nebo pro efekty křivek. Pro NURBS modelování ale zatím doporučuji jiné programy.
+
+- Generativní nebo parametrické modelování je programové modelování pomocí vlastních skriptů, addonů (např. Extra Objects nabízí i matematické funkce) nebo geometrických uzlů (*Geometric Nodes, Geonodes*).
+
+- **Polygonové modelování** je základní typ modelování v Blenderu, objekt vytváříme přidáváním, odebíráním nebo změnou polohy vrcholů, stran nebo ploch. Polygonovým modelováním začneme.
+
 ## Polygonové objekty
 Polygonové objekty jsou v Blenderu označované jako Sítě (Meshes).
 Do **Editačního módu** označeného objektu vstoupíš stisknutím <kbd>Tab</kbd> nebo změnou pracovní plochy na **Modeling**.
