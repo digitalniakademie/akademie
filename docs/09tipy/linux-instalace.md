@@ -1,6 +1,5 @@
 ---
 id: linux-install
-title: Linux
 sidebar_position: 3
 ---
 

@@ -1,6 +1,5 @@
 ---
 id: linux-distro
-title: Linux
 sidebar_position: 2
 ---
 

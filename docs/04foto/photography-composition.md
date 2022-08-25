@@ -1,6 +1,7 @@
 ---
 id: fotokompozice
 title: Fotografie
+sidebar_label: "Kompozice scény"
 sidebar_position: 3
 ---
 

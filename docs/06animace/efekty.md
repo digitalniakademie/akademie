@@ -1,6 +1,5 @@
 ---
 id: animaceefekty
-title: Animace
 sidebar_position: 7
 ---
 

@@ -1,6 +1,5 @@
 ---
 id: lekce-7-freecad
-title: 3D tisk
 sidebar_position: 8
 ---
 

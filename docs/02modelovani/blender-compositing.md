@@ -1,6 +1,8 @@
 ---
 id: lekce-13-blender-compositing
 title: 3D Modelování
+sidebar_label: "Blender Compositor"
+
 sidebar_position: 12.2
 ---
 

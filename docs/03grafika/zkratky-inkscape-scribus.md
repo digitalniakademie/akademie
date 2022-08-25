@@ -1,6 +1,5 @@
 ---
 id: zkratky-inkscape
-title: Grafika
 sidebar_position: 13
 ---
 

@@ -1,6 +1,5 @@
 ---
 id: zkratky-blender
-title: 3D Modelování Blender
 sidebar_position: 13
 ---
 

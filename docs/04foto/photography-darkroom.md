@@ -1,6 +1,5 @@
 ---
 id: fotokomora
-title: Fotografie
 sidebar_position: 4
 ---
 

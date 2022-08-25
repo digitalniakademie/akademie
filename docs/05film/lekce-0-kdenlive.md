@@ -1,6 +1,5 @@
 ---
 id: lekce-0-kdenlive
-title: Film
 sidebar_position: 2
 ---
 

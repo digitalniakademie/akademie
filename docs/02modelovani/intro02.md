@@ -1,6 +1,7 @@
 ---
 id: 3D-modelovani
 title: 3D Modelování
+sidebar_label: "Digitální modelování: Přehled témat"
 sidebar_position: 0
 ---
 

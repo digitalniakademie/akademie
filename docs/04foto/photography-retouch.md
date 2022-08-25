@@ -1,6 +1,5 @@
 ---
 id: fotoretouche
-title: Fotografie
 sidebar_position: 5
 ---
 

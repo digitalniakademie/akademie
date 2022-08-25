@@ -1,6 +1,7 @@
 ---
 id: cad
 title: CAD
+sidebar_label: "CAD: Přehled témat"
 sidebar_position: 1
 ---
 

@@ -1,6 +1,5 @@
 ---
 id: slovnicek-design
-title: Grafika
 sidebar_position: 14
 ---
 

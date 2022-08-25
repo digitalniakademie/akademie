@@ -1,6 +1,7 @@
 ---
 id: grafika
 title: Grafika
+sidebar_label: "Grafický design: Přehled témat"
 sidebar_position: 0
 ---
 

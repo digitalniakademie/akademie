@@ -1,6 +1,5 @@
 ---
 id: animace3d
-title: Animace
 sidebar_position: 4
 ---
 

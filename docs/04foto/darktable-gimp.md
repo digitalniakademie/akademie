@@ -1,6 +1,5 @@
 ---
 id: fotosoftware
-title: Fotografie
 sidebar_position: 2.1
 ---
 

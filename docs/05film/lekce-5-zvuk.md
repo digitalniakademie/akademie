@@ -1,6 +1,5 @@
 ---
 id: lekce-5-kdenlive-zvuk
-title: Film
 sidebar_position: 7
 ---
 

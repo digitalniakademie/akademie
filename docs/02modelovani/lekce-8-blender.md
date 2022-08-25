@@ -1,6 +1,5 @@
 ---
 id: lekce-8-blender
-title: 3D Modelování
 sidebar_position: 10
 ---
 

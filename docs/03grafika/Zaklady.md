@@ -1,6 +1,5 @@
 ---
 id: lekce-4-inkscape
-title: Grafika
 sidebar_position: 1
 ---
 

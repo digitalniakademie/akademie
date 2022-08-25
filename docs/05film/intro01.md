@@ -1,6 +1,7 @@
 ---
 id: film
 title: Film
+sidebar_label: "Filmový střih: Přehled témat"
 sidebar_position: 1
 ---
 

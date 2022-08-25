@@ -1,7 +1,10 @@
 ---
 id: lekce-0-blender
 title: 3D Modelování
+sidebar_label: "Blender: Instalace, nastavení"
 sidebar_position: 2
+description: Instalace a optimální nastavení Blenderu pro profesionální práci
+keywords: [blender, blender3d, instalace, nastavení, digitální modelování]
 ---
 
 # Blender: Instalace, nastavení

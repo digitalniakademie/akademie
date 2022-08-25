@@ -1,6 +1,6 @@
 ---
 id: 3D-sculpt
-title: 3D Modelování
+sidebar_label: "Úvodní slovo"
 sidebar_position: 1
 ---
 

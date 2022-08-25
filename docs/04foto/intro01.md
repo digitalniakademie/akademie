@@ -2,7 +2,7 @@
 id: foto
 title: Fotografie
 sidebar_position: 1
-sidebar_label: Co v kurzu najdeš
+sidebar_label: "Co v kurzu najdeš"
 pagination_label: Fotografie a retuše
 
 ---

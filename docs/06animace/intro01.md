@@ -1,6 +1,5 @@
 ---
 id: animace
-title: Animace
 sidebar_position: 1
 ---
 

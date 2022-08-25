@@ -1,6 +1,7 @@
 ---
 id: fotouvod
 title: Fotografie
+sidebar_label: "Úvod do fotografie"
 sidebar_position: 2
 ---
 

@@ -1,6 +1,5 @@
 ---
 id: animacemotion
-title: Animace
 sidebar_position: 6
 ---
 

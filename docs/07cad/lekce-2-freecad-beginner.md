@@ -1,6 +1,5 @@
 ---
 id: lekce-2-freecad
-title: CAD
 sidebar_position: 3
 ---
 

@@ -1,6 +1,7 @@
 ---
 id: lekce-0-inkscape
 title: Grafika
+sidebar_label: "Inkscape: Instalace, nastavení"
 sidebar_position: 2
 ---
 

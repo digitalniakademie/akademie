@@ -1,6 +1,5 @@
 ---
 id: animacetypo
-title: Animace
 sidebar_position: 5
 ---
 

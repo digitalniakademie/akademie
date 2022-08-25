@@ -1,6 +1,5 @@
 ---
 id: animaceprincipy
-title: Animace
 sidebar_position: 2
 ---
 
