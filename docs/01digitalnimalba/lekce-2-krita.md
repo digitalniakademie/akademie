@@ -1,6 +1,7 @@
 ---
 id: lekce-2-krita
 title: Kresba a malba
+sidebar_label: "Tvar a forma: světlo, stín, tonalita a vlastnosti materiálů"
 sidebar_position: 5
 ---
 

@@ -1,6 +1,7 @@
 ---
 id: malba-gimp
 title: Kresba a malba
+sidebar_label: "Příloha: Malování v GIMPu"
 sidebar_position: 14
 ---
 

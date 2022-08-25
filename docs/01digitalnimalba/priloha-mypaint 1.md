@@ -1,6 +1,7 @@
 ---
 id: malba-mypaint
 title: Kresba a malba
+sidebar_label: "Příloha: Malování v MyPaint"
 sidebar_position: 15
 ---
 

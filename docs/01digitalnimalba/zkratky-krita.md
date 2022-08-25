@@ -1,6 +1,5 @@
 ---
 id: zkratky-krita
-title: Kresba a malba
 sidebar_position: 13
 ---
 

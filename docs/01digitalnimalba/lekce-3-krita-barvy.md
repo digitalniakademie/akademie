@@ -1,6 +1,7 @@
 ---
 id: lekce-3-krita
 title: Kresba a malba
+sidebar_label: "Malujeme barvu"
 sidebar_position: 6
 ---
 

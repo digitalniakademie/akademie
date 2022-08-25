@@ -1,7 +1,10 @@
 ---
 id: lekce-1-krita
 title: Kresba a malba
+sidebar_label: "Digitální kresba: Proporce, objem, perspektiva"
 sidebar_position: 3
+description: Proporce, objem, perspektiva, malování v programu Krita
+keywords: [perspektiva, krita, štětce, palety, digitální malování]
 ---
 
 # Digitální kresba: Proporce, objem, perspektiva

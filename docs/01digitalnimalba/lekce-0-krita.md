@@ -1,7 +1,10 @@
 ---
 id: lekce-0-krita
 title: Kresba a malba
+sidebar_label: "Štětce, palety a další nástroje"
 sidebar_position: 2
+description: Nastavení a používání štětců v programu Krita
+keywords: [krita, štětce, palety, malování]
 ---
 
 # Štětce, palety a další nástroje

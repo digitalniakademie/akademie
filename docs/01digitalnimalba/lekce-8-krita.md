@@ -1,6 +1,7 @@
 ---
 id: lekce-8-krita
 title: Kresba a malba
+sidebar_label: "Vlastní štětce a zdroje"
 sidebar_position: 11
 ---
 

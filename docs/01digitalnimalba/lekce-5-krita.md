@@ -1,6 +1,7 @@
 ---
 id: lekce-5-krita
 title: Kresba a malba
+sidebar_label: "Kompozice a proporce"
 sidebar_position: 8
 ---
 

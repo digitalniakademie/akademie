@@ -1,12 +1,13 @@
 ---
 id: malba-blender-2D
 title: Kresba a malba
+sidebar_label: "Příloha: Malování v Blenderu"
 sidebar_position: 16.1
 ---
 
 # Příloha: Malování v Blenderu
 
-Jak využít nástroje Blenderu 3D pro kreslení a malování. 
+Jak využít nástroje Blenderu 3D pro kreslení a malování.
 Blender má nástroje na skicování, je možné vytvářet 2D malby přímo v Blenderu. Umožňuje pracovat ve vrstvách.
 
 ## Grease Pencil

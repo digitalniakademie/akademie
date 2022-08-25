@@ -1,6 +1,7 @@
 ---
 id: lekce-0b-krita
 title: Kresba a malba
+sidebar_label: "Základní techniky digitální malby"
 sidebar_position: 4
 ---
 
