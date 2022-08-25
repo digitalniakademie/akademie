@@ -60,3 +60,10 @@ Základy technik v kompozitoru pro animace i statické snímky.
 Kompoziční postupy lze použít pro jednotlivé snímky i animace
 
 :::
+
+## Střih videa
+
+- funkce střihu
+- import a export
+- zvuk
+- workflow efektů v reálném čase

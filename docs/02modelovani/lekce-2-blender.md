@@ -14,7 +14,7 @@ Při modelování objektů se setkáme s několika strategiemi, které se podsta
 
 - Modelování pomocí parametrů **modifikátorů** částečně nahrazuje výhodu parametrického modelování. Parametry lze měnit, dokud se neaplikují na geometrii.
 
-- Modelování pomocí NURBS křivek a ploch je možné v Blenderu také využívat (např. s použitím addonu exportu do IGES formátu) nebo pro efekty křivek. Pro NURBS modelování ale zatím doporučuji jiné programy.
+- Modelování pomocí **NURBS křivek a ploch** je možné v Blenderu také využívat jako doplněk pro tvorbu plynulých organických objektů (nebo pro efekty křivek), které lze převést na sítě pro další úpravy. Pro úplné NURBS modelování (např. s použitím addonu exportu do IGES formátu) ale zatím doporučuji jiné programy.
 
 - Generativní nebo parametrické modelování je programové modelování pomocí vlastních skriptů, addonů (např. Extra Objects nabízí i matematické funkce) nebo geometrických uzlů (*Geometric Nodes, Geonodes*).
 
