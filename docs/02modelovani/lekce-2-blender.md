@@ -60,8 +60,8 @@ Beziérovy a NURBS křivky jsou vhodné pro tvorbu rotačních a tažených obje
 - Scale <kbd>S</kbd>
 - Rotate <kbd>R</kbd>
 - následné stisknutí <kbd>X</kbd>, <kbd>Y</kbd> nebo <kbd>Z</kbd> zamkne transformaci v dané ose
+- stisknutí **prostředního tlačítka myši** funguje také jako zamknutí osy pro transformaci
 - další kombinace zkratek najdeš na spodní liště
-
 
 :::
 

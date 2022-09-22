@@ -93,7 +93,7 @@ Pro použití akceleračních schopností grafické karty nastav pro renderovac�
 
 1. Nastavení renderu: Pro cycles nastavit Max Samples (Viewport) na 16 (pro render 32+)
 2. Nastavení Viewportu - Cavity, Depth of Field
-3. Nastavení veilikosti vertexů a rotace kolem vybraného objektu
+3. Nastavení veilikosti vertexů a rotace kolem vybraného objektu (Orbit Around Selection)
 4. Nastavení grafické karty a kroků zpět
 5. Aktivace základních addonů
 6. Vytvoření a uložení základního nastavení.
