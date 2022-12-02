@@ -81,6 +81,10 @@ Tady také nastavíš emulaci numerické klávesnice a v polních podmínkách o
 
 :::
 
+:::info F1—F12 a Fn klávesy
+Na některých klávesnicích je nutné funkční klávesy F1—F12 přepínat pomcí klávesy Fn. Tuto funkci lze většinou vypnout, například pomocí Fn+Esc. U některých laptopů je nutné funkci nastavit nebo vypnout v BIOSu.
+:::
+
 ## Nastavení grafické karty
 
 :::info Grafická karta a Cycles
