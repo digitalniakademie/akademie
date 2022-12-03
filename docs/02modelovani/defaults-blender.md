@@ -1,7 +1,7 @@
 ---
 id: lekce-0-blender-preferences
 title: 3D Modelování
-sidebar_label: "Nastavení předvoleb a spouštěcího souboru"
+sidebar_label: "Doporučená nastavení"
 sidebar_position: 2.1
 description: Vytvoření optimálního spouštěcího souboru a předvoleb Blenderu pro profesionální práci
 keywords: [default, default file, preferences, blender, blender3d, instalace, nastavení, digitální modelování]

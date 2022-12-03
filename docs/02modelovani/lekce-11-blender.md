@@ -97,11 +97,6 @@ https://github.com/alessandro-zomparelli/tissue
 
 https://github.com/Symstract/modifier_list
 
-### Easy HDRI
-- usnadňuje orientaci v knihovně HDRI a instalaci materiálů HDRI pozadí a osvětlení do scény
-
-https://codeofart.gumroad.com/l/EasyHDRI
-
 ### fSpy
 
 - plugin zjednodušuje synchronizaci kamery a pozadí pomocí nastavení tříbodové perspektivy
@@ -114,12 +109,73 @@ https://github.com/stuffmatic/fSpy-Blender
 
 https://github.com/3d-io/uvpacker-blender-addon/releases
 
+### TexTools
+- profesionální nástroj pro práci s UV a texturami
+
+https://github.com/SavMartin/TexTools-Blender
+
+### EdgeFlow
+- vynikající addon pro polygonové modelování
+https://github.com/BenjaminSauder/EdgeFlow
+
+### Layer Painter
+
+- práce s vrstvami textur a materiálů přímo v Blenderu
+
+https://github.com/joshuaKnauber/layer_painter
+
 ### MACHIN3tools
+- addon pro produktivitu, nabízí mnoho užitečných funkcí a nastavení menu
 - soubor mnoha utilit pro produktivitu, umožňuje např. vytvářet **skupiny** (po zapnutí funkce **Group** se skupina vytvoří vybráním objektů a zkratkou <kbd>Ctrl</kbd>+<kbd>G</kbd>, skupinu vybereš <kbd>Shift</kbd>+<kbd>LMB</kbd>
 - jednotlivá rozšíření se zapínají v aktivovaném pluginu
 - má i placenou rozšířenou verzi
 
 https://github.com/machin3io/MACHIN3tools
+
+## Pluginy, které jsou zdarma ke stažení
+Kvalitní pluginy, které jsou zdarma ke stažení. Jedná se o plné nebo omezené verze komerčních projektů (donation, tip-ware).
+
+
+### Ultimate Trim UV
+
+https://scumbrella.gumroad.com/l/pMGkR
+
+### keKit
+- kolekce užitečných skriptů
+
+https://kjell.gumroad.com/l/kekit_blender
+
+### kei2m
+
+- utilita pro vztváření modelů z obrázků
+https://kjell.gumroad.com/l/i2m
+
+
+### Easy HDRI
+- usnadňuje orientaci v knihovně HDRI a instalaci materiálů HDRI pozadí a osvětlení do scény
+
+https://codeofart.gumroad.com/l/EasyHDRI
+
+
+### ND — Free Non-Destructive Modelling
+
+- utilita pro rychlé nedestruktivní modelování pomocí modifikátorů
+
+https://hugemenace.gumroad.com/l/nd-blender-addon
+
+### Import as Decal
+- užitečný nástroj pro tvorbů decalů a stickerů
+
+https://amanbairwal.gumroad.com/l/ImportAsDecal
+
+### Align And Distribute
+
+- nahrazuje a vylepšuje vlastní nástroje Blenderu pro rozmisťování objektů
+
+https://amanbairwal.gumroad.com/l/AlignAndDistribute
+
+### KITOPS Free
+- omezená, ale funkční verze addonu pro boolean kitbashing
 
 ## Komerční pluginy
 
@@ -137,6 +193,9 @@ Komerční pluginy pro Blender najdeš většinou na stránkách online tržiš�
 
 ### UVPackmaster
 - utilita pro aplikaci a optimalizaci UV map
+
+### RanTools and P-Cutter
+- roysáhlý set utilit pro modelování, texturování a rendering
 
 ### Serpent
 - práce s uzly modelování geometrie

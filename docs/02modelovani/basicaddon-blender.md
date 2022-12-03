@@ -21,6 +21,8 @@ Aktuální doporučené nastavení na videu.
 
 Otevři sekci Rozšíření (Add-ons). Seznam add-onů, které aktivuješ je podle pořadí v tématických podmenu:
 
+![image](./images/blender-addons-menu.png)
+
 V podmenu 3D View
 ### Stored Views
 
@@ -36,7 +38,7 @@ V podmenu Interface
 ### 3D Vievport Pie Menus
 :::tip Tip pro nastavení 3D Vievport Pie Menus
 
- obrazek.
+ ![image](./images/blender-3d-viewport-pie-cz-en.png)
 
 :::
 
