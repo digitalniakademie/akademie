@@ -2,7 +2,7 @@
 id: lekce-0-blender-preferences
 title: 3D Modelování
 sidebar_label: "Doporučená nastavení"
-sidebar_position: 2.1
+sidebar_position: 2.2
 description: Vytvoření optimálního spouštěcího souboru a předvoleb Blenderu pro profesionální práci
 keywords: [default, default file, preferences, blender, blender3d, instalace, nastavení, digitální modelování]
 ---
@@ -24,24 +24,38 @@ Aktuální doporučené nastavení na videu.
 ## Nastavení spouštěcího souboru
 Nastavení pracovních ploch a renderování se ukládají do základního spouštěcího souboru (Default File), který má příponu .blend a je v konfiguračním adresáři.
 
-### Nastavení pro Cycles, Evee a Workbench
+### Nastavení pro Evee, Workbench a Cycles
+
+![image](./images/blender-nastaveni-cz-en.png)
+
 :::note Poznámka
 
- Změněná nastavení renderu se ukládají do .blend souborů.
+ Pro výsledný render lye nastavení změnit. Jednotlivá nastavení lze ukládat v minimenu. Změněná nastavení renderu se ukládají do .blend souborů.
+
+ ![image](./images/blender-renderset.png)
 
 :::
 
-### Zobrazení
+### Zobrazení v pracovním okně
 
-- flipped normals
--
+- nastavení (*Face Orientation*) umožňuje snadno vidět převrácené normály
+
+![image](./images/face-orientation.png)
+
+- nastavení stínování dutin (*Cavity*) vylepšuje vidění tvaru objektu při modelování v režimu Solid
+
+![image](./images/cavity-dutiny.png)
+
+
 
 ### Nastavení Outlineru
 
-- ikona zámku vybrání
+- zobrazení ikony ikona zámku vybrání objektu
 
+![image](./images/outliner.png)
 
-Možnosti klávesnice nastavíš v Blenderu tady:
+:::info Uložení změn
+Nastavení uložíš pro základní soubor tady:
 <Tabs
   groupId="jazykova-verze"
   defaultValue="czv"
@@ -50,11 +64,11 @@ Možnosti klávesnice nastavíš v Blenderu tady:
     {label: 'V anglické verzi', value: 'env'},
   ]
 }>
-<TabItem value="czv">Upravit ‣ Předvolby ‣ Vstup</TabItem>
-<TabItem value="env">Edit ‣ Preferences ‣ Input</TabItem>
+<TabItem value="czv">Soubor ‣ Výchozí ‣ Uložit Spouštěcí Soubor</TabItem>
+<TabItem value="env">File ‣ Defaults ‣ Save Startup File</TabItem>
 </Tabs>
 
-### Nastavení zobrazení shaderu
+:::
 
 ## Nastavení předvoleb (Preferences)
 Předvolby změníš v menu:
