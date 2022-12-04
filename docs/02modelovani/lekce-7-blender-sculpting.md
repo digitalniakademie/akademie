@@ -6,11 +6,24 @@ sidebar_position: 9
 # Sculpting
 Sochařství 1-3 lekce. Úvod. Postupy. Základy.
 
+![image](./images/blender-sculpting.png)
+
 ## Digitální sochařství
 Pracovní plocha a nástroje.
 
+:::tip Cvičení: Nastavení pro modelování
+
+1. V ploše Layout k základní krychli přidej modifikátor Zaoblit (Bevel) s počtem segmentů 2 a profilem 1.
+2.  Přidej modifikátor Multirozlišení (Multiresolution), nastav Rozdělit (Subdivide) na 6-8 (kontroluj počet ploch ve statistice scény, pro začátek nastav maximum na ∼400 000)
+3. Stínování nastav na Shade Auto Smooth
+4. V ploše Sculpting zvětši zobrazení kolečkem myši a stiskni <kbd>Num ,</kbd> na vystředění
+5. Stínování nastav na Plné (Solid). V nastavení MatCap vyber základní materiál clay_brown.exr, clay
+
+:::
+
 ### Koncept práce
 - blokování a remeshing
+- dyntopo
 - struktura
 - topologie
 - podobnost s klasickou technikou
@@ -52,10 +65,17 @@ import TabItem from '@theme/TabItem';
 </Tabs>
 Tady také nastavíš emulaci numerické klávesnice a v polních podmínkách ovládání pomocí touchpadu.
 
-## Nástroje
+## Nástroje a štětce
 - nejčasteji používané nástroje
 - uživatelské štětce
 - výběr metody tahu (*Stroke Method*) <kbd>E</kbd>
+- poloměr (*Radius*) <kbd>F</kbd>
+
+### Vytváření parametrických štětců
+### Vytváření štětců z textur
+### Import a export štětců
+- upravené a vytořené štětce se ukládají do .blend souboru
+- importovat lze pomocí Append/Brushes
 
 ## Symetrie
 
@@ -66,6 +86,9 @@ Tady také nastavíš emulaci numerické klávesnice a v polních podmínkách o
 
 - kontola počtu polygonů
 - Fix Poles pro pravidelnější rozložení polygonů (*topology flow*)
+- <kbd>Shift</kbd>+<kbd>R</kbd> nastavení voxelového rozlišení
+- Remeshing v ploše Sculpting <kbd>Ctrl</kbd>+<kbd>R</kbd>, <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>R</kbd> pro Quadriflow (funguje pouze na původní geometrii bez modifikátorů)
+
 
 ## Maskování
 Maskování v režimu Layout a Sculpting.
