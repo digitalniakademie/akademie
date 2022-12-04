@@ -13,7 +13,7 @@ keywords: [blender, blender3d, instalace, nastavení, digitální modelování]
 Najdi aktuální verzi na https://www.blender.org/
 
 :::note Vývojové verze
-Alfa verze Blenderu https://builder.blender.org/download/daily/
+Alfa verze Blenderu https://builder.blender.org/download/daily/. Nové funkce najdeš v testovacích verzích https://builder.blender.org/download/experimental/ .
 Tyto verze jsou pro vyzkoušení novinek a stability, nejsou vhodné pro tvorbu kritických projektů!
 
 :::
@@ -21,7 +21,17 @@ Tyto verze jsou pro vyzkoušení novinek a stability, nejsou vhodné pro tvorbu 
 Stáhni a spusť instalační soubor.
 Po instalaci spusť program Blender.
 
-Aktuální stabilní verzi můžeš nainstalovat také [pomocí terminálu](/docs/pokyny).
+Aktuální stabilní verzi můžeš nainstalovat také [pomocí terminálu](/docs/pokyny). Spusť **cmd** v adresáři nebo pomocí funkce Spustit ve Windows <kbd>Win</kbd>+<kbd>R</kbd>. Do okna shellu cmd.exe napiš
+
+```
+winget install blender
+```
+
+Upgrade provedeš pomocí
+
+```
+winget upgrade blender
+```
 
 ## Nastavení jazykové verze
 Jazykovou verzi programu změníš v menu:

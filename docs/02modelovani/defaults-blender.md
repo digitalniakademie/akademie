@@ -10,19 +10,10 @@ keywords: [default, default file, preferences, blender, blender3d, instalace, na
 # Blender: Doporučené nastavení předvoleb a spouštěcího souboru
 
 ## Předvolby a spouštěcí soubor
-Předvolby a spouštěcí soubor najdeš v adresáři config. Doporučené nastavení pro začátečníky a mírně pokročilé. Do souborů se ukládá nastavení programu, nastavení základního souboru. Nastavení addonů.
-
-:::note Vývojové verze
-Nastavení pro Blender v Roaming. Pokud adresář nevidíš, zapni zobrazování systémových souborů.
-
-:::
+Nastavení předvoleb ti ušetří spoustu času. Toto je doporučené nastavení pro začátečníky a mírně pokročilé. Do souborů se ukládá nastavení preferencí programu, nastavení základního souboru a nastavení nastavení addonů.
 
 Aktuální doporučené nastavení na videu.
 
-
-
-## Nastavení spouštěcího souboru
-Nastavení pracovních ploch a renderování se ukládají do základního spouštěcího souboru (Default File), který má příponu .blend a je v konfiguračním adresáři.
 
 ### Nastavení pro Evee, Workbench a Cycles
 
@@ -30,7 +21,7 @@ Nastavení pracovních ploch a renderování se ukládají do základního spou�
 
 :::note Poznámka
 
- Pro výsledný render lye nastavení změnit. Jednotlivá nastavení lze ukládat v minimenu. Změněná nastavení renderu se ukládají do .blend souborů.
+ Pro výsledný render lze nastavení změnit. Jednotlivá nastavení uložíš v minimenu. Změněná nastavení renderu se ukládají do .blend souborů.
 
  ![image](./images/blender-renderset.png)
 
@@ -42,7 +33,7 @@ Nastavení pracovních ploch a renderování se ukládají do základního spou�
 
 ![image](./images/face-orientation.png)
 
-- nastavení stínování dutin (*Cavity*) vylepšuje vidění tvaru objektu při modelování v režimu Solid
+- nastavení stínování dutin (*Cavity*) vylepšuje vidění tvaru objektu při modelování v režimu zobrazení **Plný** (*Solid*)
 
 ![image](./images/cavity-dutiny.png)
 
@@ -50,7 +41,7 @@ Nastavení pracovních ploch a renderování se ukládají do základního spou�
 
 ### Nastavení Outlineru
 
-- zobrazení ikony ikona zámku vybrání objektu
+- Jak zamknout objekt pro výběr? Nastavíš zobrazení ikony Zakázat Výběr (ikona zámku vybrání objektu v Outlineru)
 
 ![image](./images/outliner.png)
 
@@ -102,8 +93,22 @@ import TabItem from '@theme/TabItem';
 - Spacebar Action na Tools
 - Alt Click Tool, Alt Tool, Select All
 - Pie Menu on Drag, Extra Shading Pie Menu
-### Keymap
-- nastavení grafické karty
+### System
+- nastavení grafické karty (důležité pro využití akcelerace GPU)
 - Undo steps 64+
 
-**Uložíme nastavení** v hamburger menu vlevo dole (Save Preferences).Nastavení základního rozšíření add-on si ukážeme v další lekci.
+**Uložíme nastavení** v hamburger menu vlevo dole (Save Preferences). Nastavení základních rozšíření (addonů) si ukážeme v další lekci.
+
+## Nastavení a zálohování spouštěcího souboru (Windows)
+:::info Uložení a zálohování nastavení pro pokročilé
+Uživatelská nastavení a spouštěcí soubor (nastavení pracovních ploch a parametrů renderování) se ukládají do souborů  v konfiguračním adresáři
+
+```
+ C:\Users\YourUserName\AppData\Roaming\Blender Foundation\Blender\YourBlenderVersion\config
+ ```
+  Pokud adresář **AppData\Roaming** nevidíš, zapni zobrazování systémových souborů. Další instalace stejné verze (i portable) nahrává nastavení z této lokace, pokud manuálně nevytvoříš adresář *config* v lokálním umístění Blenderu:
+
+  ```
+   X:YourPath\YourBlenderFolder\YourBlenderVersion\config
+   ```
+:::

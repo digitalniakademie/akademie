@@ -22,11 +22,15 @@ Po stisknutí <kbd>N</kbd> se vysune postranní panel a pracovní plocha by měl
 
 ![image](./images/blender-screen.png)
 
-## 3D kurzor
-3D kurzor je pomůcka pro modelování a nastavení efektů. Určité funkce a transformace se vztahují k pozici 3D kurzoru.
+## 3D kurzor a těžiště objektu
+3D kurzor je pomůcka pro modelování a nastavení efektů. Určité funkce a speciální transformace objektu se vztahují k pozici 3D kurzoru.
 
 - <kbd>Shift</kbd>+<kbd>Right Click</kbd> přesune 3D kurzor
 - přenastavení a reset <kbd>Shift</kbd>+<kbd>S</kbd>, vyber Cursor to World Origin
+
+Těžiště objektu (Původ/Origin) je bod, ke kterému se vztahují základní transformace. Těžiště lze zkopírovat na pozici kurzoru, volby se zobrazí pomocí kontextového menu pravého tlačítka a volbou Nastavit Původ (Set Origin). V 3D Viewport Pie menu je zkratka <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>X</kbd>.
+
+Přesouvání a ovládání kurzoru a těžiště těles je důležitý koncept pro modelování v Blenderu.
 
 ## Vytvoření a typy objektů
 

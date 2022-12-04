@@ -1,9 +1,19 @@
 ---
 id: 3D-blender-questions-answers
 sidebar_position: 12.9
+description: Jak vybrat kolekci v Blenderu? Jak renderovat jenom viditelné objekty? Tipy pro Blender
+keywords: [questions, answers, otázky, odpovědi, tipy, default, add-on, addon, default file, preferences, blender, blender3d, instalace, nastavení, digitální modelování]
 ---
 
 # Blender: Otázky a odpovědi
+
+### Navigace
+
+#### Jak vyberu všechny objekty v kolekci?
+V Outlineru klikni pravým tlačítkem na název kolekce, vyber Select Objects. Ve 3D pohledu pomocí zkratky  Vybrat Seskupené (Select Grouped) <kbd>Shift</kbd>+<kbd>G</kbd>, volba Kolekce. Na to můžeš nastavit zkratku, např. <kbd>Ctrl</kbd>+<kbd>LMB</kbd>.
+
+#### Jak renderovat pouze viditené objekty? Skryté objekty se snadno zapomenou ve scéně a zkazí render.
+Zkratka <kbd>H</kbd> skryje objekty jenom ve scéně. Se žádným vybraným objektem pomocí <kbd>Alt</kbd>+<kbd>H</kbd> zobraz všechny skryté objekty. V Outlineru klikni s klávesou <kbd>Alt</kbd> na ikonu zobrazení v renderu. Ještě lepší řešení je přesunout všechny objekty, které nechceš renderovat pomocí <kbd>M</kbd> do nové kolekce a tu schovat v Outlineru. Do ní pak přímo přesouvej objekty, které chceš schovat.
 
 ### Modelování
 
@@ -30,7 +40,10 @@ Sestavu po aplikaci modifikátoru Array rozdělíš v Edit módu, vyber celou ge
 
 V **Edit módu** nastav Overlay v menu vpravo nahoře, volba Face Orientation. Normály převrátíš v menu <kbd>Alt</kbd>+<kbd>N</kbd> volbou Flip u vybraného segmentu (volby Recalculate Outside/Inside umožňují snadnou opravu modelů, kde by se muselo manuálně vybírat mnoho ploch).
 
+#### Převrácené normály nejdou opravit pomocí Recalculate Outside/Inside.
 
+To zpravidla znamená, že je chybná geometrie objektu, duplicitní vertexy, plochy nebo hrany atp.
+Na opravu použij nástroje Merge by Distance, nástroje z menu Síť/Vyčistit a nástroj Make Manifold z addonu 3D-Print Toolbox. Potom zkus Recalculate Outside znovu.
 
 
 ### Textury

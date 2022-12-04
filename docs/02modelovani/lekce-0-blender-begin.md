@@ -11,17 +11,19 @@ keywords: [blender, blender3d, instalace, nastavení, digitální modelování]
 
 ## Blender pro úplné začátečníky
 
-![image](./images/blender-axes.jpg)
-
-Po spuštění a výběru nastavení pracovního prostředí Obecné (General) Blender otevře základní scénu v pracovní ploše Layout. Přesuň kurzor do pracovního okna a stiskni <kbd>N</kbd>. Vysune se postranní panel.
-
 ![image](../img/01blender-okno.svg)
+
+Po spuštění a výběru nastavení pracovního prostředí Obecné (General) Blender otevře základní scénu v pracovní ploše Layout. Přesuň kurzor do pracovního okna a stiskni <kbd>N</kbd>. Vysune se postranní panel, který zobrazuje základní transformace a také rozšíření.
 
 Stiskni opakovaně <kbd>T</kbd>. Funkce zobrazuje **Nástroje** (*Toolbox*) a je aktuální pro danou pracovní plochu a režim.
 
 ### Pohyb ve scéně a pohledy
 
 Pohled na scénu měníš s myší nebo perem pohybem s prostředním tlačítkem <kbd>MMB</kbd> pro rotaci, <kbd>Ctrl</kbd>+<kbd>MMB</kbd> pro zvětšení a <kbd>Shift</kbd>+<kbd>MMB</kbd> pro zvětšení.
+
+![image](./images/blender-axes.jpg)
+
+Ortografické pohledy můžeš měnit na numerické klávesnici. Zkratka pro Quad view je <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Q</kbd>. Pohled na celou obrazovku je <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Space</kbd> a zvětšená plocha <kbd>Ctrl</kbd>+<kbd>Space</kbd>.
 
 ### Základní transformace
 Objekt vybereš kliknutím levým tlačítkem. Vyber kostku uprostřed scény. Obrysy vybraného objektu se zvýrazní. U vybraného objektu můžeš měnit pozici (1), natočení (2), velikost (3), nebo všechny transformace společně (4)  nástrojem v menu **Nástroje** (*Toolbox*) s ikonami vlevo. Změny se ovládají tažením v barevných osách (X, Y, Z) widgetu, který se zobrazí.
@@ -36,7 +38,7 @@ Vyzkoušej si transformace pomocí widgetů na kostce ve scéně.
 
 :::
 
-Efektivnější způsob transformace pomocí zkratek si ukážeme v příští lekci.  
+Efektivnější způsob transformace je pomocí zkratek: <kbd>G</kbd> je přesun (GO), <kbd>S</kbd> je změna velikosti (SCALE), <kbd>R</kbd> je rotace (ROTATE).  
 
 ### Pracovní plochy
 Okna můžeš přesouvat a měnit jejich obsah a velikost podle potřeby.
@@ -50,6 +52,13 @@ Tvůj projekt se načte se základním nastavením plochy (UI).
 ### Přidání a mazání pracovních ploch v menu.
 
 Ulož si pracovní plochu a vyzkoušej si přepínání pracovních ploch.
+
+### Editační a objektový mód
+V objektovém módu vytváříme a přesouváme objekty, skupiny nebo kolekce ve scéně. Objekty se upravují v rychlém editačním módu <kbd>Tab</kbd>, nebo v pracovní ploše Modeling.
+
+### Outliner a kolekce
+
+Outliner je přehled hierarchie objektů ve scéně. Pro lepší organizace je vhodné řadit objekty do pojmenovaných skupin, kolekcí, u kterých lze nastavit některé společné vlastnosti, například viditelnost.
 
 ## Přehled funkcí Blenderu
 
