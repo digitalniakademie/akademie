@@ -96,7 +96,10 @@ U neorganických modelů se často používá automatické rozbalování podle o
 ## Atlasy
 - ostrůvky (izolované části na UV mapě)
 - pack
-## Optimalizace
+## Optimalizace a UV Packing
+- základní nástroje pro UV packing
+- dostupné addony
+
 ## Otestuj nejčastěji používané funkce
 
 - příklady symetrického, organického a geometrického modelu

@@ -3,7 +3,7 @@ id: lekce-2-blender
 sidebar_position: 4
 ---
 
-# Lekce 02: Modelujeme
+# Modelujeme
 ## Postupy modelování
 Při modelování objektů se setkáme s několika strategiemi, které se podstatně liší postupem a aplikací. Destruktivní postupy mění geometrii objektu, nedestruktivní umožňují modifikace v průběhu práce. Zcela parametrické modelování pomocí geometrických uzlů pak umožňuje tvorbu objektu automatizovat. V praxi používáme kombinaci všech těchto přístupů.
 

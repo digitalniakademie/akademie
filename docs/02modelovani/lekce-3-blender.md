@@ -3,7 +3,10 @@ id: lekce-3-blender
 sidebar_position: 5
 ---
 
-# Lekce 03: Efektivní osvětlení, kamera a render
+# Efektivní osvětlení, kamera a render
+## Renderování ve vrstvách
+- koncept vrstev v Blenderu
+- práce s vrstvami v postprodukci
 ## Render Engines
 Render Engine je software, který umožňuje algoritmický výpočet scény do digitálního obrazu nebo animace, také se často stará o zobrazení v reálném čase.
 Blender v základní instalaci umožňuje přepínat mezi:

@@ -4,7 +4,7 @@ id: lekce-1-blender
 sidebar_position: 3
 ---
 
-# Lekce 01: Objekty ve scéně
+# Objekty ve scéně
 V této lekci si zopakujeme základní ovládání a ukážeme si objekty, které mohou tvořit 3D scénu.
 
 :::note úkol

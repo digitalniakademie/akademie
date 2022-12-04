@@ -9,7 +9,13 @@ Sochařství 1-3 lekce. Úvod. Postupy. Základy.
 ![image](./images/blender-sculpting.png)
 
 ## Digitální sochařství
-Pracovní plocha a nástroje.
+
+## Základní ovládání
+
+1. Ubírání <kbd>Ctrl</kbd>, Vyhlazování <kbd>Shift</kbd>
+2. Pravé tlačítko rychlá úprava nástroje, <kbd>F</kbd> interaktivní velikost štětce
+3. <kbd>E</kbd> pro techniku štětce, <kbd>Ctrl</kbd>+<kbd>RMB</kbd> kreslení křivky (body křivky se ovládají jako při modelování ve scéně)
+
 
 :::tip Cvičení: Nastavení pro modelování
 
@@ -17,7 +23,7 @@ Pracovní plocha a nástroje.
 2.  Přidej modifikátor Multirozlišení (Multiresolution), nastav Rozdělit (Subdivide) na 6-8 (kontroluj počet ploch ve statistice scény, pro začátek nastav maximum na ∼400 000)
 3. Stínování nastav na Shade Auto Smooth
 4. V ploše Sculpting zvětši zobrazení kolečkem myši a stiskni <kbd>Num ,</kbd> na vystředění
-5. Stínování nastav na Plné (Solid). V nastavení MatCap vyber základní materiál clay_brown.exr, clay
+5. Stínování nastav na Plné (Solid). V nastavení MatCap vyber materiál zobrazení clay_brown.exr, nebo materiál, který dobře zobrazuje tvar objektu, který modeluješ
 
 :::
 
@@ -34,8 +40,11 @@ Pracovní plocha a nástroje.
 
 :::
 
+![image](./images/blender-sculpting-cz01.png)
+
 ## Pracovní plocha pro sculpting
 
+- pravý panel s nástroji přetáhni tak, aby byly vidět názvy štětců
 - statistika složitosti modelu Edit ‣ Preferences ‣ Interface   ‣ Editors ‣ Status Bar
 - Viewport Statistics zapneš v liště Overlays ‣ Statistics
 
@@ -88,6 +97,9 @@ Tady také nastavíš emulaci numerické klávesnice a v polních podmínkách o
 - Fix Poles pro pravidelnější rozložení polygonů (*topology flow*)
 - <kbd>Shift</kbd>+<kbd>R</kbd> nastavení voxelového rozlišení
 - Remeshing v ploše Sculpting <kbd>Ctrl</kbd>+<kbd>R</kbd>, <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>R</kbd> pro Quadriflow (funguje pouze na původní geometrii bez modifikátorů)
+- nastavení Dyntopo
+
+
 
 
 ## Maskování
