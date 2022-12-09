@@ -9,12 +9,18 @@ Sochařství 1-3 lekce. Úvod. Postupy. Základy.
 ![image](./images/blender-sculpting.png)
 
 ## Digitální sochařství
+Detaily digitální sochy jsou závislé na geometrickém rozlišení modelu. Základní rozlišení můžeme změnít přepočítáním na vyšší hustotu (**Remeshing**), použitím několika vrstev hustoty sítě (**Multiresolution**), nebo nastavením dynamického přidávání topologie pro štětec (**Dynamic Topology—Dyntopo**). Zvolená strategie se liší podle určení modelu.
+- k modelování používáme štětce, které mohou mít různou formu, texturu i funkční parametry
+- důležitá je optimalizace sítě, modely s vysokou hustotou se obtížně ovládají
+- postup je podobný jako u klsického modelování (blokování a přidávání nebo ubírání materiálu)
+- některé síťové filtry lze aplikovat na celý model (Mesh Filter)
 
 ## Základní ovládání
-
+Tyto zkratky platí pro většinu nástrojů — štětců:
 1. Ubírání <kbd>Ctrl</kbd>, Vyhlazování <kbd>Shift</kbd>
-2. Pravé tlačítko rychlá úprava nástroje, <kbd>F</kbd> interaktivní velikost štětce
+2. Pravé tlačítko rychlá úprava nástroje, <kbd>F</kbd> interaktivní velikost štětce — Poloměr (Radius)
 3. <kbd>E</kbd> pro techniku štětce, <kbd>Ctrl</kbd>+<kbd>RMB</kbd> kreslení křivky (body křivky se ovládají jako při modelování ve scéně)
+4. Přepínání mezi modely ve *Sculpting* módu: <kbd>Alt</kbd>+<kbd>Q</kbd> s kurzorem na cílovém objektu
 
 
 :::tip Cvičení: Nastavení pro modelování
@@ -86,6 +92,9 @@ Tady také nastavíš emulaci numerické klávesnice a v polních podmínkách o
 - upravené a vytořené štětce se ukládají do .blend souboru
 - importovat lze pomocí Append/Brushes
 
+### Práce s křivkami
+- ukládání pracovních křivek Stroke/Paint Curve
+
 ## Symetrie
 
 - možnosti v šipce za ikonou symetrie v horní liště a v postranním panelu Tool
@@ -93,13 +102,18 @@ Tady také nastavíš emulaci numerické klávesnice a v polních podmínkách o
 
 ## Dyntopo a Remeshing
 
+![image](./images/blender-dyntopo1.png)
+
 - kontola počtu polygonů
 - Fix Poles pro pravidelnější rozložení polygonů (*topology flow*)
 - <kbd>Shift</kbd>+<kbd>R</kbd> nastavení voxelového rozlišení
 - Remeshing v ploše Sculpting <kbd>Ctrl</kbd>+<kbd>R</kbd>, <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>R</kbd> pro Quadriflow (funguje pouze na původní geometrii bez modifikátorů)
-- nastavení Dyntopo
+- nastavení Dyntopo v ploše Sculpting <kbd>Ctrl</kbd>+<kbd>D</kbd>, nebo checkbox v menu vpravo nahoře, nebo v N panelu Tool
 
+Nastavení pro detaily v režimu štětec
+![image](./images/blender-dyntopo2.png)
 
+- Dyntopo má výhody pro modelování detailů (například u štětců vytvářejících geometrii, jako Snake Hook Brush), nevýhodou je destruktivní změna původní sítě a omezení určitých štětců.
 
 
 ## Maskování

@@ -93,6 +93,8 @@ import TabItem from '@theme/TabItem';
 - Spacebar Action na Tools
 - Alt Click Tool, Alt Tool, Select All
 - Pie Menu on Drag, Extra Shading Pie Menu
+- Export a Import Keymaps (zálohování nastavení)
+
 ### System
 - nastavení grafické karty (důležité pro využití akcelerace GPU)
 - Undo steps 64+
