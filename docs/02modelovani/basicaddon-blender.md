@@ -46,19 +46,23 @@ Otevři sekci Rozšíření (Add-ons). Seznam addonů, které aktivuješ je podl
   </div>
 </details>
 
-V podmenu 3D View
-### Stored Views
 
-V podmenu Add Curve
+### Stored Views
+- podmenu 3D View
+
 ### Curve Tools
+- podmenu Add Curve
 ### Add Curve: Extra Objects
 ### Simplify Curves+
-V podmenu Add Mesh
+
 ### Add Mesh: Extra Objects
-V podmenu Import-Export
+- podmenu Add Mesh
+
 ### Add Mesh: Import Images as Planes
-V podmenu Interface
+- podmenu Import-Export
+
 ### 3D Viewport Pie Menus
+- podmenu Interface
 :::tip Tip pro nastavení 3D Vievport Pie Menus
 
  ![image](./images/blender-3d-viewport-pie-cz-en.png)
@@ -67,21 +71,34 @@ V podmenu Interface
 
 ### Copy Attributes Menu
 ### Modifiers Tool
-V podmenu Mesh
+
 ### 3D-Print Toolbox
+- podmenu Mesh
 ### Automirror
 ### F2
 ### Loop Tools
-V podmenu Node
+
 ### Node Wrangler
-V podmenu Object
+- podmenu Node
+
 ### Align Tools
+- podmenu Object
 ### Bool Tool
 ### Carver
 
-:::tip Blender ID
+:::tip Blender ID a Blender Sync
 
  V podmenu System najdeš add-on **Blender ID authentication**. Ve spojení s addonem **Blender Cloud**, který najdeš zde https://cloud.blender.org/services , umožňuje ukládání nastavení Blenderu podle verzí zdarma v cloudu (Blender Sync).
+
+ ![image](./images/blender-cloud.png)
+
+1. Aktivuj Blender ID addon a stáhni, nainstaluj a aktivuj Blender Cloud addon (nutný pro službu Blender Sync)
+2. Zaregistruj Blender ID na  https://id.blender.org/register/
+3. Naloguj se v Blender ID
+4. Ulož Předvolby (*Save Preferences*)
+5. V okně Předvolby/Rozšíření/System:Blender Cloud (*Preferences/Addons/System:Blender Cloud*) teď můžeš ukládat a nahrávat nastavení Blenderu
+6. Služba Blender Sync je zdarma, placené jsou pouze další možnosti Blender Cloud
+7. Synchronizace aktivuje i addony, ale pouze ty, které jsou součástí Blenderu! Uživatelské nebo komerční addony musíš instalovat manuálně.
 
 :::
 

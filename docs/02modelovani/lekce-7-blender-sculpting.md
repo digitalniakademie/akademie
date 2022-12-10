@@ -84,10 +84,33 @@ Tady také nastavíš emulaci numerické klávesnice a v polních podmínkách o
 - nejčasteji používané nástroje
 - uživatelské štětce
 - výběr metody tahu (*Stroke Method*) <kbd>E</kbd>
-- poloměr (*Radius*) <kbd>F</kbd>
+- poloměr (*Radius*) <kbd>F</kbd>, nastavení Štětec Pohled/Scéna (*Radius Unit View/Scene*)
+
 
 ### Vytváření parametrických štětců
+- možnosti parametrických textur a šumu
+-
 ### Vytváření štětců z textur
+
+:::tip Import více textur štětců najednou
+
+Blender obsahuje addon BrushSet, který importuje adresář obrázků jako textur. Nepodporuje ale všechny formáty. Pro účel importu vícero textur pro štětce použij addon **Images as Planes**. Po importu obrázků do scény se ti objeví seznam textur jako volba v texturách štětců.
+
+:::
+
+![image](./images/blender-brushmapping.png)
+
+1. *View Plane* mapuje z úhlu pohledu
+2. *Area Plane* mapuje z úhlu plochy v místě kurzoru
+3. *Tiled* mapuje texturu jako navazující díly
+4. *3D* mapuje také texturu jako navazující díly, ale ve 3D prostoru spíše než z pohledu kamery nabo plochy objektu — vhodné pro parametrické textury a vytváření plynulých strukturovaných povrchů
+5. *Random* mapuje texturu náhodně transformovanou na plochu
+6. *Stencil* mapuje texturu jako šablonu, posunovatelnou v pohledu pravým tlačítkem
+
+
+
+
+
 ### Import a export štětců
 - upravené a vytořené štětce se ukládají do .blend souboru
 - importovat lze pomocí Append/Brushes
@@ -119,9 +142,11 @@ Nastavení pro detaily v režimu štětec
 ## Maskování
 Maskování v režimu Layout a Sculpting.
 
-Jak vrátit pracovní plochu do původního nastavení: Nastavení plochy se ukládá do souboru. V dialogu  otevření souboru otevřete Settings (ikona kolečka) a odškrtněte Načíst UI (Load UI v anglické verzi).
+- odstranění masky <kbd>Alt</kbd>+<kbd>M</kbd> , inverze <kbd>Ctrl</kbd>+<kbd>I</kbd>
 
-- Auto-Masking v Options
+- **Auto-Masking** v Options
+
+![image](./images/blender-automasking.png)
 
 ## Hard Surface postupy
 

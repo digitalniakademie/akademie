@@ -4,15 +4,20 @@ sidebar_position: 11
 ---
 
 # Pro pokročilé: Štětce a malování v Blenderu
-Výhody. Důvody. Grease pencil.
+Vyrváření štětců pro malování a modelování. Výhody. Grease pencil.
+
 ## Textura jako štětec
 Používané metody.
 
 :::note Poznámka
 
- Pokud používáš dvoutlačítkovou myš se skrolovacím kolečkem a numerickou klávesnici, můžeš tuto sekci přeskočit.
+ Nástroje pro správu štětců budou vyvíjeny v roce 2023.
 
 :::
+
+## Grease Pencil
+Mastná tužka (Grease Pencil) je nástroj malování 2D grafiky, ale s výhodou 3D prostoru. Je to unikátní pomocník umožňující stylizovanou tvorbu a také animace.
+
 ## Pracovní plocha pro malování
 Vytvoření scény pro malování.
 <Tabs
