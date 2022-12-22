@@ -5,7 +5,15 @@ sidebar_position: 8
 
 # Materiály, textury a UV mapování
 
+:::info ADDONY KE STAŽENÍ
+V této část budeme používat volně dostupné addony TexTools a UVPacker:
+https://github.com/SavMartin/TexTools-Blender
+https://github.com/3d-io/uvpacker-blender-addon/releases
+
+:::
+
 ## Jak efektivně mapovat textury
+- *Texel Density*, hustota pokrytí texturou
 - plynulé rozložení mapování
 - škálování podle detailů na modelu
 - optimalizace
@@ -20,7 +28,7 @@ U jednoduchých objektů je možné použít základní mapování geometrickýc
 
 :::note Poznámka
 
- U parametrických textur není vždy nutné UV mapování. Při exportu nebo renderování textur (baking) na objekt se optimalizaci UV map nevyhneme.
+ U parametrických textur není vždy nutné UV mapování. Při exportu nebo renderování materiálů do textur (baking) na objekt se optimalizaci UV map nevyhneme. Optimalizované mapy jsou rychlejší při zobrazování a renderu, což je podstatné pro animace nebo interaktivní aplikace.
 
 :::
 ### Jak vytvořit přehlednou texturu pro UV-Mapping?

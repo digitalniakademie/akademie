@@ -5,8 +5,11 @@ sidebar_position: 5
 
 # Efektivní osvětlení, kamera a render
 ## Renderování ve vrstvách
+Vrstvy (*Layers*) nejsou způsob organizace scény, ale možnost renderovat jednotlivé průchody (*Passes*) zvlášť do souborů. To je důležité pro postprodukci jednotlivých snímků, a především animací.
 - koncept vrstev v Blenderu
 - práce s vrstvami v postprodukci
+- příklady (Mist Pass, Shadow Catcher)
+
 ## Render Engines
 Render Engine je software, který umožňuje algoritmický výpočet scény do digitálního obrazu nebo animace, také se často stará o zobrazení v reálném čase.
 Blender v základní instalaci umožňuje přepínat mezi:
@@ -17,8 +20,7 @@ Blender v základní instalaci umožňuje přepínat mezi:
 Další je možné doinstalovat, například:
 
 *Volně dostupné:*
-- Cycles-X
-https://builder.blender.org/download/experimental/
+- Cycles-X (je součástí Blenderu od verze 3.0a)
 - LuxCoreRender
 https://luxcorerender.org/download/
 - Appleseed
@@ -33,7 +35,7 @@ https://appleseedhq.net/download.html
 https://home.otoy.com/render/octane-render/demo/
 - Radeon Pro Render (Zdarma)
  https://www.amd.com/en/technologies/radeon-prorender-downloads
-- NVIDIA Omniverse (ve vývoji)
+- NVIDIA Omniverse (používá Blender s rozšířením Pixar Universal Scene Description a MDL materiály)
 
 V kurzech budeme používat Workbench (pro konstrukci a modelování), Evee a Cycles/Cycles-X (pro render).
 

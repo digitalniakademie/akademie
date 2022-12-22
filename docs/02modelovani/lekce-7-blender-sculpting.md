@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 # Sculpting
-Sochařství 1-3 lekce. Úvod. Postupy. Základy.
+Sculpting je digitální modelovací technika, připomínající plastické tvarování materiálu nebo klasické sochařské postupy. Základní polygonová síť se modeluje  pomocí štětců a nástrojů, které ubírají, přidávají nebo modifikují digitální "hmotu". 
 
 ![image](./images/blender-sculpting.png)
 
@@ -12,8 +12,9 @@ Sochařství 1-3 lekce. Úvod. Postupy. Základy.
 Detaily digitální sochy jsou závislé na geometrickém rozlišení modelu. Základní rozlišení můžeme změnít přepočítáním na vyšší hustotu (**Remeshing**), použitím několika vrstev hustoty sítě (**Multiresolution**), nebo nastavením dynamického přidávání topologie pro štětec (**Dynamic Topology—Dyntopo**). Zvolená strategie se liší podle určení modelu.
 - k modelování používáme štětce, které mohou mít různou formu, texturu i funkční parametry
 - důležitá je optimalizace sítě, modely s vysokou hustotou se obtížně ovládají
-- postup je podobný jako u klsického modelování (blokování a přidávání nebo ubírání materiálu)
+- postup je podobný jako u klasického modelování (blokování a přidávání nebo ubírání materiálu)
 - některé síťové filtry lze aplikovat na celý model (Mesh Filter)
+- maskování a šablony umožňují selektivní úpravu částí modelu (masky lze vytvářet i automaticky podle tvaru modelu)
 
 ## Základní ovládání
 Tyto zkratky platí pro většinu nástrojů — štětců:

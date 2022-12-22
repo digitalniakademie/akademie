@@ -6,13 +6,13 @@ sidebar_position: 6
 # Blender: Modifikátory pro parametrický styl modelování a modelování s uzly
 Výhodou je nedestruktivní styl modelování. Modifikátory nemění základní geometrii objektu a dají se dále upravovat. Pořadí, jak jsou umístěny za sebou, ovlivňuje výsledek.
 
-Modifikátory mění stávající geometrii. Dalším krokem je přímé modelování pomocí uzlů — pomocí editoru Geometric Nodes nebo add-onu jako je Sverchok.
+Modifikátory mění stávající geometrii objektu nebo ovlivňují jeho vlastnosti. Pomocí nejčastěji používaných modifikátorů. jako je *Solidify*, *Bevel*, *Subdivision*, *Multires*, *Array* nebo *Boolean* můžeme vytvořit objekty nedestruktivním způsobem. Protože řada modifikátorů za sebou může výrazně zpomalit program, je ale  výhodné používat kombinaci polygonového modelování a modifikátorů.
 
 :::note práce s modifikátory
 
-Modifikátory se aplikují v řadě za sebou (*Stack*), pořadí je důležité a lze měnit přesouváním modifikátoru myší. Transformace by se měly pro správnou funkci aplikovat na objekt.
+Modifikátory se aplikují v řadě za sebou (*Stack*), pořadí je důležité a lze jej měnit přesouváním modifikátoru myší. Transformace (Rotace, Velikost, Přesun) by se měly pro správnou funkci předtím aplikovat na objekt. Umístění těžiště objektu (*Origin*) je také důležité.
 
-Jednotlivý modifikátor aplikuješ pomocí  <kbd>Ctrl</kbd>+<kbd>A</kbd> vpokud je myš na tabu modifikátoru, nebo z menu <kbd>Ctrl</kbd>+<kbd>A</kbd> v okně, ve vysouvacím menu se šipkou u názvu modifikátoru — a další možnost je addon **Modifier Tools**.
+Jednotlivý modifikátor aplikuješ pomocí  <kbd>Ctrl</kbd>+<kbd>A</kbd> pokud je myš na tabu modifikátoru, nebo z menu <kbd>Ctrl</kbd>+<kbd>A</kbd> v okně, ve vysouvacím menu se šipkou u názvu modifikátoru — a další možnost je addon **Modifier Tools**.
 
 :::
 
@@ -30,7 +30,7 @@ Anglická verze
 
 :::tip
 
- Modifikátor **Subdivision** přímo zapneš pomocí <kbd>Ctrl</kbd>+<kbd>1...</kbd>. Příklad: Subdivision level 2 aktivuješ pomocí <kbd>Ctrl</kbd>+<kbd>2</kbd>. Úrovně tak můžeš rychle přepínat.
+ Modifikátor **Subdivision** přímo zapneš pomocí <kbd>Ctrl</kbd>+<kbd>1...</kbd>. Příklad: Subdivision level 2 aktivuješ pomocí <kbd>Ctrl</kbd>+<kbd>2</kbd>. Úrovně tak můžeš rychle přepínat. Modifikátor **Subdivision** není vhodné používat s funkcemi Boolean, protože výpočet výsledné sítě neúnosně zpomaluje program. 
 
 :::
 
@@ -38,8 +38,7 @@ Anglická verze
 - Bevel
 - Array
 - Mirror
-
-
+- Solidify
 
 :::tip
 
@@ -47,14 +46,17 @@ Modifikátory lze aplikovat na uložené množiny vrcholů (Vertex Groups) a je 
 
 :::
 
+Modifikátory jsou rozdělené v oddílech na *Modify* (Modifikace), které upravují data objektů, např. normály nebo UV mapy, *Generate* které vytvářejí novou geometrii, *Deform* které geometrii deformují a *Physics*, které nastavují fyzikální vlastnosti.
+
 ## Geometrické uzly: Geonodes
-Práce s geometrickými uzly umožnujě vytvářet a podifikovat objekty. Využijeme add-on Node Wrangler, podobně jako u ostatních uzlových systému v Blenderu.
+Práce s geometrickými uzly umožnujě vytvářet a měnit objekty. Využijeme add-on Node Wrangler, podobně jako u ostatních uzlových systému v Blenderu.
 
 ### Začínáme s geometrickými uzly
 ### Moduly
 ![image](../img/blender-mod-cz.png)
 
 ## Sverchok a geonodes
+Dalším krokem je přímé modelování pomocí uzlů — pomocí editoru Geometric Nodes nebo add-onu jako je Sverchok.
 Sverchok je generativní uzlový systém, který nainstaluješ jako add-on ze staženého zip souboru.
 
 ### Sverchok instalace
