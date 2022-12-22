@@ -50,16 +50,33 @@ Otevři sekci Rozšíření (Add-ons). Seznam addonů, které aktivuješ je podl
 ### Stored Views
 - podmenu 3D View
 
+ ![image](./images/blender-storedviews.png)
+
+- rychlé nastavení pohledů a kamer (video), rychlé přepínání pomocí ikon
+- přesouvání mezi kamerami pomocí šipek (nastavení časové linky, funguje v náhledu kamery)
+- nepřepíná vlastnosti kamer, musí se vybrat ve scéně nebo v Outlineru manuálné
+
 ### Curve Tools
 - podmenu Add Curve
+- přidání dalších funkcí úpravy křivek (např. zaoblení rohů)
 ### Add Curve: Extra Objects
+
+- přidává křivkové základní objekty
+
+ ![image](./images/blender-extracurveobjects.png)
+
 ### Simplify Curves+
+
+- změna rozlišení a tvaru křivky
 
 ### Add Mesh: Extra Objects
 - podmenu Add Mesh
 
+![image](./images/blender-extraobjects.png)
+
 ### Add Mesh: Import Images as Planes
 - podmenu Import-Export
+- importování obrázků jako objektů do scény
 
 ### 3D Viewport Pie Menus
 - podmenu Interface
@@ -70,21 +87,38 @@ Otevři sekci Rozšíření (Add-ons). Seznam addonů, které aktivuješ je podl
 :::
 
 ### Copy Attributes Menu
+- kopírování atributů objektů
+
 ### Modifiers Tool
+- zjednodušení práce s modfikátory 
 
 ### 3D-Print Toolbox
 - podmenu Mesh
-### Automirror
-### F2
-### Loop Tools
+- kontrola a oprava objektů
 
+### Automirror
+- automatické nastavení modifikátoru *Mirror*
+### F2
+- vylepšení vyplňování ploch
+
+### Loop Tools
+- užitečné nástroje pro úpravu polygonů
 ### Node Wrangler
 - podmenu Node
+- důležitý nástroj pro práci s uzly
 
 ### Align Tools
 - podmenu Object
+- zarovnání objektů 
+
+ ![image](./images/blender-aligntools.png)
+
 ### Bool Tool
+- zjednodušení práce s boolean operacemi
+- Odečíst <kbd>Ctrl</kbd>+<kbd>-</kbd>, Přičíst <kbd>Ctrl</kbd>+<kbd>+</kbd>, Slice <kbd>Ctrl</kbd>+<kbd>/</kbd>, Rozdíl <kbd>Ctrl</kbd>+<kbd>*</kbd>
 ### Carver
+- nástroj pro ořezávíní objektů pomocí boolean operací
+- aktivace <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd>
 
 :::tip Blender ID a Blender Sync
 
