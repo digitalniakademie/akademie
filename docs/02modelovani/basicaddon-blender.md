@@ -80,6 +80,7 @@ Otevři sekci Rozšíření (Add-ons). Seznam addonů, které aktivuješ je podl
 
 ### 3D Viewport Pie Menus
 - podmenu Interface
+
 :::tip Tip pro nastavení 3D Vievport Pie Menus
 
  ![image](./images/blender-3d-viewport-pie-cz-en.png)
@@ -87,14 +88,21 @@ Otevři sekci Rozšíření (Add-ons). Seznam addonů, které aktivuješ je podl
 :::
 
 ### Copy Attributes Menu
-- kopírování atributů objektů
+- kopírování atributů objektů pomocí <kbd>Ctrl</kbd>+<kbd>C</kbd> (kopíruje z aktivního objektu na vybraný)
+- umožňuje kopírovat pouze vybrané modifikátory, narozdíl od příkazu <kbd>Ctrl</kbd>+<kbd>L</kbd>
 
 ### Modifiers Tool
-- zjednodušení práce s modfikátory 
+- zjednodušení práce s modfikátory
+
+![image](./images/blender-add-modifier.png)
 
 ### 3D-Print Toolbox
-- podmenu Mesh
-- kontrola a oprava objektů
+- podmenu Mesh, najdeš v N-panelu
+- kontrola a oprava objektů, v Edit módu vybere problematické části
+- funkce *Make Manifold* se pokusí opravit chyby ("vodotěsnost")
+
+![image](./images/blender-3D-PrintToolbox.png)
+
 
 ### Automirror
 - automatické nastavení modifikátoru *Mirror*
@@ -102,14 +110,17 @@ Otevři sekci Rozšíření (Add-ons). Seznam addonů, které aktivuješ je podl
 - vylepšení vyplňování ploch
 
 ### Loop Tools
-- užitečné nástroje pro úpravu polygonů
+- užitečné nástroje pro úpravu polygonů, najdeš v kontextovém menu v editačním módu
+
+![image](./images/blender-looptools.png)
+
 ### Node Wrangler
 - podmenu Node
-- důležitý nástroj pro práci s uzly
+- **důležitý** nástroj pro práci s uzly
 
 ### Align Tools
 - podmenu Object
-- zarovnání objektů 
+- zarovnání objektů
 
  ![image](./images/blender-aligntools.png)
 
