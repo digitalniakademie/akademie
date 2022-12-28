@@ -3,6 +3,8 @@ id: lekce-8-krita
 title: Kresba a malba
 sidebar_label: "Vlastní štětce a zdroje"
 sidebar_position: 11
+description: Krita nastavení štětců a zdrojů, opensource digitální malba pro profesionální práci
+keywords: [brushes, krita, vector libraries, resources, instalace, nastavení, digitální malba]
 ---
 
 # Vlastní štětce a zdroje
@@ -26,6 +28,17 @@ Vytvořené balíčky zdrojů (*Resource Bundles*) se dají importovat, exportov
 - kliknutím pravým tlačítkem na ikonu štětce v seznamu vyber z menu volbu přiřazení značky (tagu). Můžeš i vytvořit vlastní značky, kolekce štětců.
 
 ![image](./images/krita-brushcreate3.png)
+
+## Vektorové knihovny a používání knihoven symbolů
+
+- vektorové symboly se používají jako razítka pro blokování kompozice a pro skicování textury detailů
+- Instalace v menu *Settúngs/Manage Resources/Import Resources*. Importované symboly najdeš v dockeru *Symbol Libraries*
+
+![image](./images/krita-vector-libraries.png)
+
+- pro změnu barvy u symbolů je nutné nejprve provést funkci Ungroup
+
+![image](./images/krita-vector-lib-symbols.png)
 
 ## Export zdrojů
 
