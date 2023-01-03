@@ -58,6 +58,8 @@ winget install blenderfoundation.blender
 - Blender lze použít pro ala prima digitální techniky. Síla programu je v rychlém skicování, využití 3D scény a unikátních štětcích.
 - Grease Pencil Tools
 
+## Malování v Texture Paint módu
+
 ## Štětce a import
 
 Další štětce a nástroje je možné získat zde https://github.com/mypaint/mypaint/wiki/Brush-Packages.

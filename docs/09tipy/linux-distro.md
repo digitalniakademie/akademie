@@ -1,6 +1,8 @@
 ---
 id: linux-distro
 sidebar_position: 2
+description: Distribuce Linuxu a kreativní software, tipy pro výběr distribuce Linuxu
+keywords: [linux, kde, zorin, ubuntu studio, ubuntu, fedora, fedora design suite]
 ---
 
 # Linux a kreativní software
