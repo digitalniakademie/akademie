@@ -9,7 +9,7 @@ keywords: [godot, gaming, tutorial, import, export, vizualizace, 3D, blender, bl
 
 # Godot: Změna aspektu rozlišení
 
-![image](./images/godot3.png)
+![image](./images/aspectgodot.png)
 
 
 ## Nastavení projektu

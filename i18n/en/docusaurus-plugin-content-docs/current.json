@@ -31,6 +31,10 @@
     "message": "CAD and 3D Design",
     "description": "The label for category CAD a 3D design in sidebar tutorialSidebar"
   },
+  "sidebar.tutorialSidebar.category.Hry a interaktivní prezentace": {
+    "message": "Games and Interactive Applications",
+    "description": "The label for category Games and Interactive Applications tutorialSidebar"
+  },
   "sidebar.tutorialSidebar.category.Knihy": {
     "message": "Books",
     "description": "The label for category Knihy in sidebar tutorialSidebar"
