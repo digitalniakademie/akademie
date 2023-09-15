@@ -2,7 +2,7 @@
 id: hry-godot-basic
 title: Programování
 sidebar_label: "Godot: Seznámení"
-sidebar_position: 2
+sidebar_position: 3
 description: Instalace a optimální nastavení programu Godot pro programování her
 keywords: [godot, gaming, tutorial, export, vizualizace, 3D, blender, blender3d, instalace, nastavení, digitální modelování]
 ---
@@ -20,6 +20,10 @@ Ovládání editoru je velice podobné editorům Unity a Unreal.
 
 Stáhni a rozbal instalační soubor pro tvojí verzi systému.
 Program se neinstaluje a lze ho rovnou spustit z adresáře.
+
+# Objekty ve scéně Godot editoru
+
+Anchor
 
 ## Zdroje
 

@@ -1,18 +1,20 @@
 ---
-id: hry-godot-import
+id: godot-3Dviewer
 title: Programování
-sidebar_label: "Godot: Import 3D modelu"
-sidebar_position: 4
+sidebar_label: "Projekt 1: Prohlížeč 3D souborů"
+sidebar_position: 10
 description: Import 3D modelu a textur, optimální nastavení programu Godot pro programování her
 keywords: [godot, gaming, tutorial, import, export, vizualizace, 3D, blender, blender3d, instalace, nastavení, digitální modelování]
 ---
 
-# Godot: Import 3D modelu
+# Projekt 1: Prohlížeč 3D souborů
 
 ![image](./images/godot3.png)
 
 
 ## Formáty
+
+GLTF, .blend
 
 :::info
 

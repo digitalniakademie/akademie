@@ -1,29 +1,32 @@
 ---
-id: hry-godot-import
+id: godot-menu-system
 title: Programování
-sidebar_label: "Godot: Import 3D modelu"
-sidebar_position: 4
-description: Import 3D modelu a textur, optimální nastavení programu Godot pro programování her
+sidebar_label: "Godot: Menu systém pro aplikace a hry"
+sidebar_position: 6
+description: Menu systém pro aplikace a hry, optimální nastavení programu Godot pro programování her
 keywords: [godot, gaming, tutorial, import, export, vizualizace, 3D, blender, blender3d, instalace, nastavení, digitální modelování]
 ---
 
-# Godot: Import 3D modelu
+# Godot: Menu systém pro aplikace a hry
 
 ![image](./images/godot3.png)
 
 
-## Formáty
+## Nastavení projektu
+
+Pro změnu aspektu je nutné zvážit design aplikace a použití kontrolních uzlů. Nastavení projektu pro změnu orientace senzorem a nastavení okna:
+
+V nastavení zkontroluj Obecné ‣ Display ‣Window ‣ Stretch ‣ Mode , nastav na disabled.
 
 :::info
 
-Godot importuje **gLTF**. FBX formát vyžaduje použití konvertoru https://github.com/godotengine/FBX2glTF.
-
+Pro interaktivní aplikace se doporuřuje zvolit optimální orientace zobrazení
 :::
 
-## Textury 
+## Kontrolní uzly pro menu
 
 
-## Nastavení pro Blender
+## Grafika menu
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
