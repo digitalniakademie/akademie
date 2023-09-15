@@ -46,6 +46,19 @@ import TabItem from '@theme/TabItem';
 
 ## Nastavení pro Blender
 
+<Tabs
+  groupId="jazykova-verze"
+  defaultValue="czv"
+  values={[
+    {label: 'V české verzi', value: 'czv'},
+    {label: 'V anglické verzi', value: 'env'},
+  ]
+}>
+<TabItem value="czv">Editor ‣ Nastavení editoru ‣ FileSystem ‣ Import ‣ Blender ‣ Blender Path</TabItem>
+<TabItem value="env">Editor ‣ Editor Settings ‣ FileSystem ‣ Import ‣ Blender ‣ Blender Path</TabItem>
+</Tabs>
+
+
 
 
 

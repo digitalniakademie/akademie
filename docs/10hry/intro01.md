@@ -19,10 +19,17 @@ Jako ukázkový budu používat volně dostupný engine **Godot** (principy prá
 ## Přehled témat
 
 ### Import a export assetů z programů Blender, Gimp, Inkscape a Krita
+### Menu systém
+### Proměnné a databáze
+### Nahrávání a ukládání dat
+### Grafický systém
+
 ### Projekt 1: Prohlížeč 3D objektů
 ### Projekt 2: Interaktivní 3D vizualizace architektury
 ### Projekt 3: 2D hra
 ### Projekt 4: 3D hra
+
+
 
 
 ## Tutoriály pro specifické úkoly a technické tipy
