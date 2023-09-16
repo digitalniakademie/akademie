@@ -1,32 +1,28 @@
 ---
-id: godot-menu-system
+id: hry-godot-zvuk
 title: Programování
-sidebar_label: "Godot: Menu systém pro aplikace a hry"
-sidebar_position: 3.1
-description: Menu systém pro aplikace a hry, optimální nastavení programu Godot pro programování her
+sidebar_label: "Godot: Zvuk"
+sidebar_position: 6.5
+description: Animace 2D a 3D objektu a textur, Godot pro programování her a aplikací
 keywords: [godot, gaming, tutorial, import, export, vizualizace, 3D, blender, blender3d, instalace, nastavení, digitální modelování]
 ---
 
-# Godot: Menu systém pro aplikace a hry
+# Godot: Zvuk
 
 ![image](./images/godot3.png)
 
 
-## Nastavení projektu
-
-Pro změnu aspektu je nutné zvážit design aplikace a použití kontrolních uzlů. Nastavení projektu pro změnu orientace senzorem a nastavení okna:
-
-V nastavení zkontroluj Obecné ‣ Display ‣Window ‣ Stretch ‣ Mode , nastav na disabled.
+## Formáty
 
 :::info
 
-Pro interaktivní aplikace se doporuřuje zvolit optimální orientace zobrazení
+Godot importuje **mp3** a .ogg.
+
 :::
 
-## Kontrolní uzly pro menu
+## Zvukový systém 
 
 
-## Grafika menu
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

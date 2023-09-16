@@ -1,13 +1,13 @@
 ---
-id: hry-godot-import
+id: hry-godot-animace
 title: Programování
-sidebar_label: "Godot: Import 3D modelu"
-sidebar_position: 4
-description: Import 3D modelu a textur, optimální nastavení programu Godot pro programování her
+sidebar_label: "Godot: Animace a křivky"
+sidebar_position: 6
+description: Animace 2D a 3D objektu a textur, Godot pro programování her a aplikací
 keywords: [godot, gaming, tutorial, import, export, vizualizace, 3D, blender, blender3d, instalace, nastavení, digitální modelování]
 ---
 
-# Godot: Import 3D modelu
+# Godot: Animace a křívky
 
 ![image](./images/godot3.png)
 
@@ -16,14 +16,14 @@ keywords: [godot, gaming, tutorial, import, export, vizualizace, 3D, blender, bl
 
 :::info
 
-Godot importuje **gLTF**. FBX formát vyžaduje použití konvertoru https://github.com/godotengine/FBX2glTF.
+Godot importuje **gLTF** a .blend. FBX formát vyžaduje použití konvertoru https://github.com/godotengine/FBX2glTF.
 
 :::
 
 ## Textury 
 
 
-## Nastavení pro Blender
+## Godot a Blender: Import animací
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

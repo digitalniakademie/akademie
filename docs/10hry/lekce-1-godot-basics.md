@@ -1,13 +1,13 @@
 ---
 id: hry-godot-basic
 title: Programování
-sidebar_label: "Godot: Seznámení"
+sidebar_label: "Godot: Seznámení s uzly"
 sidebar_position: 3
 description: Instalace a optimální nastavení programu Godot pro programování her
 keywords: [godot, gaming, tutorial, export, vizualizace, 3D, blender, blender3d, instalace, nastavení, digitální modelování]
 ---
 
-# Godot: Seznámení
+# Godot: Seznámení s uzly
 
 ![image](./images/godot2.png)
 
