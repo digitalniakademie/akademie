@@ -25,8 +25,12 @@ Pro interaktivní aplikace se doporuřuje zvolit optimální orientace zobrazen�
 
 ## Kontrolní uzly pro menu
 
+Jednoduché menu doporučuji vytvářet v rámcích  kontrolních uzlů a pro doladění grafiky používat témata.
 
-## Grafika menu
+
+## Grafika menu, styly a témata
+
+Témata (Themes) umožňují vytvářet styly, které je možné využívat v celém projektu.
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

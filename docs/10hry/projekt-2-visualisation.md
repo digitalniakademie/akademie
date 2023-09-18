@@ -11,13 +11,13 @@ keywords: [godot, gaming, tutorial, import, export, vizualizace, 3D, blender, bl
 
 ![image](./images/godot3.png)
 
-Vytvoření scény a volný pohyb pomocí kontroléru
+Cíl: Architektonická vizualizace budovy a interiéru. Vytvoření scény a volný pohyb pomocí kontroléru.
 
 ## Formáty
 
 :::info
 
-Godot importuje **gLTF**. FBX formát vyžaduje použití konvertoru https://github.com/godotengine/FBX2glTF.
+Godot importuje **gLTF** (.glb). FBX formát vyžaduje použití konvertoru https://github.com/godotengine/FBX2glTF.
 
 :::
 

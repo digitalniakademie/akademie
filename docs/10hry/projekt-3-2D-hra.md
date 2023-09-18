@@ -1,33 +1,42 @@
 ---
-id: godot-3Dviewer
+id: hry-godot-2Dhra
 title: Programování
-sidebar_label: "Projekt 1: Prohlížeč 3D souborů"
-sidebar_position: 10
+sidebar_label: "Projekt 3: 2D hra"
+sidebar_position: 12
 description: Import 3D modelu a textur, optimální nastavení programu Godot pro programování her
 keywords: [godot, gaming, tutorial, import, export, vizualizace, 3D, blender, blender3d, instalace, nastavení, digitální modelování]
 ---
 
-# Projekt 1: Prohlížeč 3D souborů
-
-Cíl: vytvořit aplikaci pro prohlížení (otáčení, zvětšování) 3D souborů z adresáře.
+# Projekt 3: 2D hra
 
 ![image](./images/godot3.png)
 
+Vytvoření scén, herní mechaniky a volný pohyb pomocí kontroléru (myš, klávesnice).
 
-## Formáty
+## Plánování a herní design
 
-GLTF, .blend
+1. Staveniště 
+
+- Cíl: opravit stavební jeřáb pomocí náhradních dílů
+- Herní mechanika: Hráč sbírá díly rozmístěné v rozestavěné budově. Nepřátelé: Padající cihly, vrány, vzteklý hlídač, ufo.
 
 :::info
 
-Godot importuje **gLTF**. FBX formát vyžaduje použití konvertoru https://github.com/godotengine/FBX2glTF.
+Godot importuje 2D animace. 2D animace je možné vytvářed v programu Krita.
 
 :::
 
-## Textury 
+
+## Vývoj
+
+### Assety a textury
+### 2D kontrola hráče
+### Programujeme protivníky
+### Mapy
+### Efekty
+### Menu systém
 
 
-## Nastavení pro Blender
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

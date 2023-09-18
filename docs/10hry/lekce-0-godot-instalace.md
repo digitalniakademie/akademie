@@ -29,12 +29,33 @@ Nyní můžeš program spustit a začít tvořit.
 
 :::
 
+## Doporučená nastavení
 
-## Nastavení jazykové verze
-Jazykovou verzi programu změníš v menu (překlady nejsou zpravidla zcela kompletní):
+
+Základní nastavení výběru barev je možné změnit: 
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+
+<Tabs
+  groupId="jazykova-verze"
+  defaultValue="czv"
+  values={[
+    {label: 'V české verzi', value: 'czv'},
+    {label: 'V anglické verzi', value: 'env'},
+  ]
+}>
+<TabItem value="czv">Editor ‣ Nastavení editoru ‣ Interface ‣ Inspector ‣ Default Color Picker Mode/Shape</TabItem>
+<TabItem value="env">Editor ‣ Editor Settings ‣ Interface ‣ Inspector ‣ Default Color Picker Mode/Shape</TabItem>
+</Tabs>
+
+Nastavení změň podle potřeby, například **Default Color Picker Mode** na HSV a **Default Color Picker Shape** na **HSV Rectangle**:
+
+![image](./images/godot-color-picker.png)
+
+
+## Nastavení jazykové verze
+Jazykovou verzi programu změníš v menu (překlady nejsou zpravidla zcela kompletní):
 
 <Tabs
   groupId="jazykova-verze"

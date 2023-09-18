@@ -1,26 +1,26 @@
 ---
 id: godot-mobile-ratio
 title: Programování
-sidebar_label: "Godot: Změna aspektu rozlišení pro mobilní telefony"
+sidebar_label: "Godot: Změna aspektu a rozlišení"
 sidebar_position: 3.2
 description: Import 3D modelu a textur, optimální nastavení programu rozlišení Godot pro programování her
 keywords: [godot, gaming, tutorial, import, export, vizualizace, 3D, blender, blender3d, instalace, nastavení, digitální modelování]
 ---
 
-# Godot: Změna aspektu rozlišení
+# Godot: Změna aspektu a rozlišení
 
 ![image](./images/aspectgodot.png)
 
 
 ## Nastavení projektu
 
-Pro změnu aspektu je nutné zvážit design aplikace a použití kontrolních uzlů. Nastavení projektu pro změnu orientace senzorem a nastavení okna:
+Pro změnu aspektu je nutné zvážit design aplikace a použití kontrolních uzlů. V mobilních aplikacích se často využívá možnost měnit orientaci (Portrait/Landscape). Obecně je vhodná pevná orientace pro hry a senzorem nebo nastavením ovládaná oriantace okna aplikace pro utility a jiné programy. Nastavení projektu pro změnu orientace senzorem a nastavení okna:
 
 V nastavení zkontroluj Obecné ‣ Display ‣Window ‣ Stretch ‣ Mode , nastav na disabled.
 
 :::info
 
-Pro interaktivní aplikace se doporuřuje zvolit optimální orientace zobrazení
+Pro interaktivní aplikace se doporučuje zvolit optimální orientace zobrazení
 :::
 
 ## Kontrolní uzly 
