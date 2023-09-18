@@ -6,18 +6,19 @@ sidebar_position: 1
 
 # O knihách
 
+Tato sekce bude obsahovat odborné knihy projektu Digitální Akademie volně ke stažení.
+
 - Proporce a perspektiva
 - Barva
 - Efektivní osvětlení v prezentaci
 - Historie a vývoj
 - Knihy
 
-![image](./images/book-cover-art.svg)
-![image](./images/book-cover-theory.svg)
-- test linku
+- Test odkazů ke stažení
+
 ## Světlo a barva
 
-**Autor:** X Y | **Rok:** 2021 | **O knize:**
+**Autor:** X Y | **Rok:** 2023 | **O knize:**
 
 Pohled na vnímání světla a barev z pohledu umění, vědy a kulturní historie.
 
