@@ -9,9 +9,6 @@ keywords: [godot, gaming, tutorial, export, vizualizace, 3D, blender, blender3d,
 
 # Godot: Instalace
 
-![image](./images/godot2.png)
-
-
 ## Stažení a instalace
 Instalace je jednoduchá. Najdi aktuální verzi na https://godotengine.org/ . .NET verze obsahuje podporu pro C#.
 
@@ -75,6 +72,8 @@ V tuto chvíli můžeš pokračovat s dalšími lekcemi pro začátečníky, God
 
 ## Nastavení pro Blender
 
+Nastav cestu k aktuálnímu adresáři, kde je blender.exe. To umožní importovat soubory typu **.blend.**
+
 <Tabs
   groupId="jazykova-verze"
   defaultValue="czv"
@@ -87,12 +86,17 @@ V tuto chvíli můžeš pokračovat s dalšími lekcemi pro začátečníky, God
 <TabItem value="env">Editor ‣ Editor Settings ‣ FileSystem ‣ Import ‣ Blender ‣ Blender Path</TabItem>
 </Tabs>
 
+### FBX Importer
+
+V menu **Editor ‣ FBX Importer** stáhni a nastav cestu k importéru FBX souborů (doporučuji ale používat glTF .glb nebo .blend formáty pro 3D soubory). 
+
+
 ## Version Control: Nastavení kontroly verzí
 
 
 ## Nastavení pro export do OS platforem
 
-Export vyžaduje stažení templatů pro jednotlivé platformy.
+Export vyžaduje stažení templatů pro jednotlivé platformy. Templaty potom přidáš pomocí Presets > Add:
 
 ### Project ‣ Export
 
@@ -123,11 +127,13 @@ Spusť znovu Project ‣ Install Android Build Template
 
 ![image](./images/android-gradle.jpg)
 
-V **Editor ‣ Editor Settings ‣ Export ‣ Android** nastav cestu k Android SDK
 
+:::info ANDROID SDK
+Nainstaluj také [OpenJDK /Temurin)](https://adoptium.net/de/temurin/releases/?variant=openjdk11) a [Android SDK (Android Studio)](https://developer.android.com/studio).
+
+V **Editor ‣ Editor Settings ‣ Export ‣ Android** nastav cestu k Android SDK.
 Aktuální dokumentace Godot k tématu  je [zde](https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_android.html)
-
-OpenJDK a Android SDK.
+:::
 
 Další nastavení pro export si ukážeme v příslušné kapitole.
 
