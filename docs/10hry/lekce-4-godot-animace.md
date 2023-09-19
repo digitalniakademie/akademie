@@ -11,6 +11,10 @@ keywords: [godot, gaming, tutorial, import, export, vizualizace, 3D, blender, bl
 
 ![image](./images/godot3.png)
 
+## Animace objektů a vlastností
+
+## Animace spritů 
+
 
 ## Formáty
 

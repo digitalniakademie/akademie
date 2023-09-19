@@ -4,6 +4,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 
 module.exports = {
+  themeConfig: {
+    prism: {
+      additionalLanguages: ['gdscript'], //added support for gdscript code highlighting 2023
+    },
+  },
   i18n: {
     defaultLocale: 'cs',
     locales: ['cs', 'en', 'de', 'es' ],
@@ -32,13 +37,13 @@ module.exports = {
   organizationName: 'digitalniakademie', // Usually your GitHub org/user name.
   projectName: 'digitalniakademie', // Usually your repo name.
   themeConfig: {
-    navbar: {
+      navbar: {
       title: 'Digitální Akademie',
       logo: {
         alt: 'Digitální Akademie Logo',
         src: 'img/logo-akademie.svg',
         srcDark: 'img/logodark.svg',
-      },
+      },      
       items: [
         {
           type: 'doc',
