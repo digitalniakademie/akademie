@@ -10,7 +10,7 @@ keywords: [godot, gaming, tutorial, export, vizualizace, 3D, blender, blender3d,
 # Godot: Instalace
 
 ## Stažení a instalace
-Instalace je jednoduchá. Najdi aktuální verzi na https://godotengine.org/ . .NET verze obsahuje podporu pro C#.
+Instalace je jednoduchá. Najdi aktuální verzi na https://godotengine.org/ . .NET verze obsahuje podporu pro C# (.NET verze je označená jako **mono**, po instalaci můžeš verzi zkontrolovat v Help ‣ About Godot, zobrazuje se také v *Project Manageru* při startu). V těchto lekcích budeme používat GDScript, který je součástí i základní verze.
 
 :::note Vývojové verze
 Starší verze a nejnovější alfa verze (Developers Snapshots) najdeš také v repozitáři na https://downloads.tuxfamily.org/godotengine/. 
@@ -46,7 +46,7 @@ import TabItem from '@theme/TabItem';
 <TabItem value="env">Editor ‣ Editor Settings ‣ Interface ‣ Inspector ‣ Default Color Picker Mode/Shape</TabItem>
 </Tabs>
 
-Nastavení změň podle potřeby, například **Default Color Picker Mode** na HSV a **Default Color Picker Shape** na **HSV Rectangle**:
+Nastavení změň podle potřeby, například **Default Color Picker Mode** na RGB nebo HSV a **Default Color Picker Shape** na **HSV Rectangle**:
 
 ![image](./images/godot-color-picker.png)
 
