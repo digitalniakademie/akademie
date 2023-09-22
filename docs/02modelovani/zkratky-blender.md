@@ -48,7 +48,8 @@ View ‣ Frame All <kbd>Home</kbd>, View ‣ Frame Selected <kbd>NumpadPeriod</k
 ### Mód zobrazení <kbd>Z</kbd>
 
 ## Transformace
-Následné stisknutí kláves <kbd>X</kbd>, <kbd>Y</kbd>, <kbd>Z</kbd> omezuje trasformaci v dané ose.
+Následné stisknutí kláves <kbd>X</kbd>, <kbd>Y</kbd>, <kbd>Z</kbd> omezuje trasformaci v dané ose. Stisknutí klávesy <kbd>Alt</kbd> během numerické transformace ovlivňuje všechny vybrané objekty (týká se i numerických hodnot modifikátorů).
+
 ### Posunout (Move) <kbd>G</kbd>
 ### Změnit velikost (Scale) <kbd>S</kbd>
 ### Otočit (Rotate) <kbd>R</kbd>

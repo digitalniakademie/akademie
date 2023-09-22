@@ -12,18 +12,26 @@ keywords: [godot, gaming, tutorial, import, export, vizualizace, 3D, blender, bl
 ![image](./images/godot3.png)
 
 
-## Nastavení projektu
+## Tlačítka a signály
 
-Pro změnu aspektu je nutné zvážit design aplikace a použití kontrolních uzlů. Nastavení projektu pro změnu orientace senzorem a nastavení okna:
+Vytvoříme jednoduché funkční tlačítko.
+1. Ve scéně vytvoř uzel Button
+2. Zadej text (Quit)
+3. V docku **Node** vyber **BaseButton ‣ pressed()**
+4. Připoj signál ke skriptu scény
+5. Napiš fukční skript:
 
-V nastavení zkontroluj Obecné ‣ Display ‣Window ‣ Stretch ‣ Mode , nastav na disabled.
+```gdscript
+func _on_button_pressed():
+	get_tree().quit()
+```
 
-:::info
+:::info Signály
 
-Pro interaktivní aplikace se doporuřuje zvolit optimální orientace zobrazení
+Signály jsou procesy které propojují jednotlivé uzly nebo přímo určují funkčnost.
 :::
 
-## Kontrolní uzly pro menu
+## Uživatelské rozhraní (UI) a rámce
 
 Jednoduché menu doporučuji vytvářet v rámcích  kontrolních uzlů a pro doladění grafiky používat témata.
 
