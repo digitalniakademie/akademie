@@ -1,15 +1,12 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const vslightCodeTheme = require('prism-react-renderer/themes/vslight');
+const vsdarkCodeTheme = require('prism-react-renderer/themes/vsdark');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 
 module.exports = {
-  themeConfig: {
-    prism: {
-      additionalLanguages: ['gdscript'], //added support for gdscript code highlighting 2023
-    },
-  },
-  i18n: {
+    i18n: {
     defaultLocale: 'cs',
     locales: ['cs', 'en', 'de', 'es' ],
     localeConfigs: {
@@ -118,6 +115,11 @@ module.exports = {
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Digitální Akademie. Text a ilustrace © ${new Date().getFullYear()} Daniel Sandner. Samotný obsah tohoto projektu je poskytován pod licencí <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons (CC BY-NC-ND 4.0)</a> a základní zdrojový kód používaný k formátování a zobrazení tohoto obsahu pod <a href="https://github.com/digitalniakademie/akademie/blob/main/LICENSE">licencí MIT</a>. `,
+    },
+    prism: {
+      theme: vsdarkCodeTheme,
+      darkTheme: vsdarkCodeTheme,
+      additionalLanguages: ['gdscript', 'glsl'],
     },
   },
   presets: [

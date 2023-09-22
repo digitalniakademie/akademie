@@ -11,6 +11,8 @@ keywords: [godot, android, windows, tutorial, import, export, vizualizace, 3D, b
 
 ## Vytváření vlastních shaderů
 
+Godot používá skriptovací jazyk pro shadery, podobný [GLSL ES 3.0](https://docs.godotengine.org/en/stable/tutorials/shaders/converting_glsl_to_godot_shaders.html#glsl-coordinates).
+
 ### Skriptování shaderu pro objekt
 
 1. vyber objekt (sprite) ve scéně nebo hierarchii (*Scene*)
@@ -19,7 +21,7 @@ keywords: [godot, android, windows, tutorial, import, export, vizualizace, 3D, b
 
 ![image](./images/godotshader-1.jpg)
 
-```jsx {0} title="GODOT SHADER SCRIPT" showLineNumbers
+```glsl {0} title="GODOT SHADING LANGUAGE SHADER SCRIPT" showLineNumbers
 shader_type canvas_item;
 
 //use visual shader for godot, hint_color changed in G4 to source_color
