@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const vslightCodeTheme = require('prism-react-renderer/themes/vsLight');
 const vsdarkCodeTheme = require('prism-react-renderer/themes/vsDark');
 const githubCodeTheme = require('prism-react-renderer/themes/nightOwl');
-const godotdarkCodeTheme = require('prism-react-renderer/themes/godotDark');
+/** const godotdarkCodeTheme = require('prism-react-renderer/themes/godotDark');
 
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
