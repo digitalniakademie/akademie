@@ -13,6 +13,19 @@ keywords: [godot, gaming, tutorial, import, export, vizualizace, 3D, blender, bl
 
 ## Animace objektů a vlastností
 
+Jednoduchá animace pomocí skriptu.
+
+```gdscript
+var movement = Vector2(2, 0)
+
+func _process(delta):
+	$Test3.position += movement
+```
+
+### Pivot pro skriptové animace
+- Nastavit střed otáčení v menu
+- 
+
 ## Animace spritů 
 
 ## Animation tree 

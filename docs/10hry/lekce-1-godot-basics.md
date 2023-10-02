@@ -9,11 +9,11 @@ keywords: [godot, gaming, tutorial, export, vizualizace, 3D, blender, blender3d,
 
 # Godot: Seznámení s uzly (základní ovládání, zkratky)
 
+V této lekci se seznámíme s koncepty uzlů, scén, struktury aplikace (SceneTree) a signálů.
+
 ![image](./images/godot-nodes-ilu.jpg)
 
 Scéna se skládá z uzlů různých typů. Každou aplikaci je možné vidět jako hierarchii vzájemně propojených uzlů, ke kterým jsou přiřazené skripty v jazyce GDSCRIPT. Uzly ve scéně si můžeme představit jako vnořené adresáře. Jednotlivé větve (Tree) spouští hlavní scéna, kterou je nutné označit v **Projekt ‣ Nastavení projektu ‣ Application ‣ Run ‣ Main Scene**.
-
-
 
 
 :::info Odkaz na uzel ve scéně
@@ -28,8 +28,30 @@ get_node("ColorRect").modulate = Color.BLUE_VIOLET
 	$ColorRect2.modulate = Color.YELLOW_GREEN
 ```
 
-Tento skript odkazuje na uzly ve scéně, která je jednoduchá. Doporučuje se odkazovat směrem Parent-Child (**get_node("ParentName/ChildName")**), opačným směrem ale lze použít **get_parent** nebo adresářové cesty (".." pro relativní cestu vzhůru do adresáře). 
+Tento skript odkazuje na uzly ve scéně, která je jednoduchá. Doporučuje se odkazovat směrem Parent-Child (**get_node("ParentName/ChildName")**), opačným směrem ale lze použít **get_parent** , get_node("..") s adresářovou cestou ("../" pro relativní cestu vzhůru v hierarchii adresáře). 
+
+Pro odkaz na stejný uzel použijeme get_node(".") nebo klíčové slovo **self**.
+
+```gdscript
+self.modulate = Color.BLUE_VIOLET
+# nebo pouze modulate = Color.BLUE_VIOLET
+```
+
+![image](./images/godot-paths.jpg)
+
+Vnořené uzly musí mít uvedenou cestu (cesta se automaticky doplní přetažením ze scény). V tomto příkladu efekt modulate ovlivňuje uzly v hierarchii od shora dolů.
 :::
+
+:::tip Snadné adresy ve scéně (%)
+Popsané metody mají tu nevýhodu, že při každé změně hierarchie je nutné měnit cesty v kódu. Pokud uzel nastavíme v kontextovém menu uzlu jako **%Access as Unique Name** (to je NUTNÝ krok a bez tohoto nastavení uzlu kompilace nefunguje), je možné ho volat odkudkoliv ze scény bez ohledu na hierarchii uzlů:
+
+```gdscript title="GDSCRIPT"
+get_node("%ColorRect").modulate = Color.BLUE_VIOLET
+	%ColorRect2.modulate = Color.YELLOW_GREEN
+```
+
+:::
+
 
 ## Programování se scénami a uzly
 Scény se snaž organizovat tak, aby šly spouštět a testovat samostatně.
@@ -40,6 +62,11 @@ Signály propojují uzly a určují jejich funkci.
 
 
 :::info Odkaz na root větev
+
+```gdscript
+func _on_button_pressed():
+	get_tree().quit()
+```
 Tento butón ukončuje program (hlavní větev get_tree). 
 :::
 
@@ -50,6 +77,17 @@ Ovládání editoru je velice podobné editorům Unity a Unreal.
 :::
 
 Anchor, pivot
+
+## Skupiny
+
+Skupiny slouží k tagování uzlů a vytváření skupin, které je možné volat skriptem. Skupiny je možné vytvářet kódem nebo v UI.
+
+
+```gdscript title="GDSCRIPT"
+func DestroyGroup1():
+	get_tree().call_group("Group1", "queue_free")
+```
+
 
 ## Zdroje
 

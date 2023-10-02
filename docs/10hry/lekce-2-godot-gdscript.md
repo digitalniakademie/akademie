@@ -121,7 +121,7 @@ var number = 3
 
 - konstanty, proměnné, funkce
 
-## Funkce
+## Funkce a metody
 
 :::info KONCEPT EDITORU
 Ovládání editoru je velice podobné editorům Unity a Unreal.
