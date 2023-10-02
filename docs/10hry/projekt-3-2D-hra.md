@@ -13,6 +13,27 @@ keywords: [godot, gaming, tutorial, import, export, vizualizace, 3D, blender, bl
 
 Vytvoření scén, herní mechaniky a volný pohyb pomocí kontroléru (myš, klávesnice).
 
+## Jednoduchý 2D prototyp
+
+### Jednoduchý 2D kontrolér hráče
+Princip je obdobný jako u 2D verze.
+
+1. Vytvoř 2D scénu
+2. Vlož CharacterBody2D 
+3. Vlož CollisionShape2D pod CharacterBody2D
+4. Nastav CollisionShape2D (libovolný tvar, Circle nebo Capsule)
+5. Vlož 2D sprite, který bude představovat hráče pod CharacterBody2D
+6. Připoj nový skript k CharacterBody2D a vyber základní template pro 2D kontrolér
+7. Vytvoř scénu/level ze Sprite2D objektů, s vnořenými uzly StaticBody2D a CollisionShape2D, a **nastav u těchto objektů kolizní tvary**. 
+8. Přidej a nastav kameru a připoj jí k CharacterBody2D
+
+Prohlédni si skript kontroléru a vyzkoušej scénu.
+
+### TileMap: Tilesety a design levelů
+
+- nastavení kolizí
+- vytvoření dlaždic pro tileset
+
 ## Plánování a herní design
 
 1. Staveniště 

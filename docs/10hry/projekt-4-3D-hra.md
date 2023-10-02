@@ -11,8 +11,24 @@ keywords: [godot, gaming, tutorial, import, export, vizualizace, 3D, blender, bl
 
 ![image](./images/godot3.png)
 
+## Jednoduchý 3D prototyp
+
+### Jednoduchý 3D kontrolér hráče
+Princip je obdobný jako u 2D verze.
+
+1. Vytvoř 3D scénu
+2. Vlož CharacterBody3D 
+3. Vlož CollisionShape3D pod CharacterBody3D
+4. Nastav CollisionShape3D (tvar Capsule)
+5. Vlož 3D model hráče MeshInstance3D pod CharacterBody3D (tvar Capsule)
+6. Připoj nový skript k CharacterBody3D a vyber základní template pro 3D kontrolér
+7. Vytvoř scénu z 3D CSG uzlů (např. CSGBox3D), a **zapni u těchto objektů kolize** (CSDGShape3D : Use Collision). 
+8. Přidej kameru a světla
+
+Prohlédni si skript kontroléru a vyzkoušej scénu.
+
 ## Plánování a herní design
-Tato fáze přípravy je obdobná jako u 2D her. 
+Tato fáze přípravy je také obdobná jako u 2D her. 
 
 Příklady:
 

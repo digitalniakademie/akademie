@@ -11,6 +11,9 @@ keywords: [godot, gaming, tutorial, export, vizualizace, 3D, blender, blender3d,
 
 V této lekci se seznámíme s koncepty uzlů, scén, struktury aplikace (SceneTree) a signálů.
 
+### 2D, 3D, kontrolní a speciální uzly
+
+
 ![image](./images/godot-nodes-ilu.jpg)
 
 Scéna se skládá z uzlů různých typů. Každou aplikaci je možné vidět jako hierarchii vzájemně propojených uzlů, ke kterým jsou přiřazené skripty v jazyce GDSCRIPT. Uzly ve scéně si můžeme představit jako vnořené adresáře. Jednotlivé větve (Tree) spouští hlavní scéna, kterou je nutné označit v **Projekt ‣ Nastavení projektu ‣ Application ‣ Run ‣ Main Scene**.
@@ -95,12 +98,14 @@ func DestroyGroup1():
 ## Ovládání a spouštění scén
 Scény a jejich komponenty je možné kombinovat.
 
-## 2D, 3D a kontrolní uzly
-Jazykovou verzi programu změníš v menu:
-
 ## Kamera a efekty prostředí
 
 Efekty kamery umožňují postprodukční efekty.
+
+## Kolizní masky
+
+- Collision Mask
+
 
 ## GDScript
 
