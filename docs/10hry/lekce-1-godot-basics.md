@@ -9,19 +9,45 @@ keywords: [godot, gaming, tutorial, export, vizualizace, 3D, blender, blender3d,
 
 # Godot: Seznámení s uzly (základní ovládání, zkratky)
 
-![image](./images/godot2.png)
+![image](./images/godot-nodes-ilu.jpg)
 
+Scéna se skládá z uzlů různých typů. Každou aplikaci je možné vidět jako hierarchii vzájemně propojených uzlů, ke kterým jsou přiřazené skripty v jazyce GDSCRIPT. Uzly ve scéně si můžeme představit jako vnořené adresáře. Jednotlivé větve (Tree) spouští hlavní scéna, kterou je nutné označit v **Projekt ‣ Nastavení projektu ‣ Application ‣ Run ‣ Main Scene**.
+
+
+
+
+:::info Odkaz na uzel ve scéně
+
+Na uzly lze odkazovat jejich pozicí v hierarchii scény (cesta je relativní ke skriptu), zjednodušeně jejich názvem (pomocí **$NázevUzlu**, znak "$" automaticky doplní cestu), nebo funkcí get_node.
+
+![image](./images/godot-modulate.jpg)
+
+Dvě možnosti se stejnou funkcí:
+```gdscript title="GDSCRIPT"
+get_node("ColorRect").modulate = Color.BLUE_VIOLET
+	$ColorRect2.modulate = Color.YELLOW_GREEN
+```
+
+Tento skript odkazuje na uzly ve scéně, která je jednoduchá. Doporučuje se odkazovat směrem Parent-Child (**get_node("ParentName/ChildName")**), opačným směrem ale lze použít **get_parent** nebo adresářové cesty (".." pro relativní cestu vzhůru do adresáře). 
+:::
 
 ## Programování se scénami a uzly
+Scény se snaž organizovat tak, aby šly spouštět a testovat samostatně.
+### Parent/Child a inheritance 
+
+### Signály
+Signály propojují uzly a určují jejich funkci.
+
+
+:::info Odkaz na root větev
+Tento butón ukončuje program (hlavní větev get_tree). 
+:::
+
+# Objekty ve scéně Godot editoru
 
 :::info KONCEPT EDITORU
 Ovládání editoru je velice podobné editorům Unity a Unreal.
 :::
-
-Stáhni a rozbal instalační soubor pro tvojí verzi systému.
-Program se neinstaluje a lze ho rovnou spustit z adresáře.
-
-# Objekty ve scéně Godot editoru
 
 Anchor, pivot
 
