@@ -93,6 +93,7 @@ V menu **Editor ‣ FBX Importer** stáhni a nastav cestu k importéru FBX soubo
 
 ## Version Control: Nastavení kontroly verzí
 
+Version control system (VCS) je systém kontroly verzí, zpravidla git. Godot podporuje VCS pluginy v editoru, ale doporučuji používat **git** externě z terminálu nebo z aplikace.
 
 ## Nastavení pro export do OS platforem
 

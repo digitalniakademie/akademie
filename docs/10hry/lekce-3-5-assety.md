@@ -23,6 +23,8 @@ keywords: [godot, 2D tileset, tutorial, import, export, vizualizace, 3D, blender
 
 ## Animované sprity
 
+## 3D modely
+
 ## Formáty
 
 :::info

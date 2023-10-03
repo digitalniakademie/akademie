@@ -68,6 +68,15 @@ Addony lze instalovat i uvnitř programu Godot v odkazu AssetLib.
 
 - https://godotengine.org/asset-library/asset/2039
 
+### Level Design
+
+#### Qodot a  TrenchBroom
+
+Umožňuje používat a vytvářet mapy v Quake .map formátu pro prototyping. Vyžaduje Godot mono verzi a .NET SDK.
+
+- https://github.com/QodotPlugin/Qodot/
+- https://github.com/TrenchBroom/TrenchBroom
+
 
 
 

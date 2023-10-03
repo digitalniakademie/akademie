@@ -9,7 +9,7 @@ keywords: [godot, gdscript, tutorial, export, vizualizace, 3D, blender, blender3
 
 # Godot: GDSCript
 
-GDScript je dynamický skriptovací jazyk určený pro program Godot. Výhodou je jednoduchost a integrace do vývojového prostředí Godot.
+GDScript je dynamický skriptovací jazyk určený pro program Godot. Výhodou je jednoduchost a integrace do vývojového prostředí Godot. Tato lekce je přehled výběru z funkcí GDScriptu, pro dokumentaci prostuduj odkazy v referencích. S funkcemi GDScriptu se budeme seznamovat i v dalších kapitolách.  
 
 :::info Zvláštnosti GDScriptu
 Odsazení dělej vždy pomocí tabulátoru <kbd>Tab</kbd>. Odsazení jsou součástí kódu a určují funkčnost.
@@ -116,6 +116,8 @@ Typy proměnných jsou definované způsobem zapsání (1 je integer, 1.0 float)
 const NUMBER = 5
 var number = 3
 ```
+
+## Operátory
 
 ## Rezervovaná slova
 

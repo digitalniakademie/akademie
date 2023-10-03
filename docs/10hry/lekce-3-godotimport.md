@@ -9,21 +9,27 @@ keywords: [godot, gaming, tutorial, import, export, vizualizace, 3D, blender, bl
 
 # Godot: Import 3D modelu
 
-![image](./images/godot3.png)
-
-
 ## Formáty
 
 :::info
 
+Godot umožňuje pracovat s Blender **.blend** soubory. 
 Godot importuje **gLTF**. FBX formát vyžaduje použití konvertoru https://github.com/godotengine/FBX2glTF.
 
 :::
 
+## Modely pro prototyping
+
+Pro prototyp můžeš importovat vlastní model do uzlu **CSGMesh3D**. Model musí být uzavřený a mít korektní geometrii (zkontroluj pomocí addonu **3D-Print Toolbox** v Blenderu, m.j. funkce Cleanup/Make Manifold).
+
 ## Textury 
 
+## Import animací
 
 ## Nastavení pro Blender
+
+Nastav cestu k aktuálnímu adresáři, kde je blender.exe. To umožní importovat soubory typu **.blend.**
+
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
