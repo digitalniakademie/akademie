@@ -102,6 +102,8 @@ Scény a jejich komponenty je možné kombinovat.
 
 Efekty kamery umožňují postprodukční efekty.
 
+### Světla 2D a 3D
+
 ## Kolizní masky
 
 - Collision Mask
