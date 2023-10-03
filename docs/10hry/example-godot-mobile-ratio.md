@@ -2,7 +2,7 @@
 id: godot-mobile-ratio
 title: Programování
 sidebar_label: "Godot: Změna aspektu a rozlišení"
-sidebar_position: 3.2
+sidebar_position: 3.6
 description: Import 3D modelu a textur, optimální nastavení programu rozlišení Godot pro programování her
 keywords: [godot, gaming, tutorial, import, export, vizualizace, 3D, blender, blender3d, instalace, nastavení, digitální modelování]
 ---

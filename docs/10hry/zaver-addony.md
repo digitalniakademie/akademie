@@ -28,6 +28,11 @@ Addony lze instalovat i uvnitř programu Godot v odkazu AssetLib.
 - https://github.com/LD2Studio/ControlCamera3D
 - https://github.com/LucaJunge/godot_orbit_controls
 
+### Prototyping
+
+- https://github.com/SirRamEsq/SmartShape2D
+- https://github.com/RoboYorkie/Godot_RegularPolygon2D
+
 ### Dialogic
 
 - strukturovaná tvorba herních dilogů

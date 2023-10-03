@@ -29,6 +29,26 @@ Princip je obdobný jako u 2D verze.
 
 Prohlédni si skript kontroléru a vyzkoušej scénu.
 
+### 2D Prototyping
+
+![image](./images/polygon-prototype.jpg)
+
+- Polygon2D, Collision Polygon2D (stejný polygon do kolizního uzlu zkopíruješ v Inspektoru, vyber Data/Polygon CTRL+C, vložíš do Collision Polygon2D, stejně tak transformaci). Polygony se také dají sjednotit skriptem jako na obrázku.
+
+```gdscript
+
+extends StaticBody2D
+
+@onready var poly2D = $Polygon2D
+@onready var poly2DCol = $CollisionPolygon2D
+
+# collision same as polygon
+func _ready():
+	poly2DCol.polygon = poly2D.polygon
+
+```
+- Line2D, Path2D
+
 ### TileMap: Tilesety a design levelů
 
 - nastavení kolizí

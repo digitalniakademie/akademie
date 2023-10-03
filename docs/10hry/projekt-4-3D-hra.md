@@ -27,6 +27,11 @@ Princip je obdobný jako u 2D verze.
 
 Prohlédni si skript kontroléru a vyzkoušej scénu.
 
+### 3D Prototyping
+
+- CSGShape3D, snadná kolize
+
+
 ## Plánování a herní design
 Tato fáze přípravy je také obdobná jako u 2D her. 
 

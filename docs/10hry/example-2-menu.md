@@ -2,7 +2,7 @@
 id: godot-menu-system
 title: Programování
 sidebar_label: "Godot: Menu systém pro aplikace a hry"
-sidebar_position: 3.1
+sidebar_position: 3.6
 description: Menu systém pro aplikace a hry, optimální nastavení programu Godot pro programování her
 keywords: [godot, gaming, tutorial, import, export, vizualizace, 3D, blender, blender3d, instalace, nastavení, digitální modelování]
 ---
