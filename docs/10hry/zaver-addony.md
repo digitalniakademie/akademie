@@ -9,7 +9,7 @@ keywords: [godot, plugins, addons, tutorial, import, export, vizualizace, 3D, bl
 
 # Godot: Addony a pluginy
 
-Addony lze instalovat i uvnitř programu Godot v odkazu AssetLib.
+Addony lze instalovat i uvnitř programu Godot v odkazu AssetLib. Nejaktuálnější verzi z githubu nainstaluješ stažením do projektového adresáře addons a aktivuješ addon v Nastavení projektu/Pluginy.
 
 ## Výběr užitečných addonů
 
@@ -23,10 +23,16 @@ Addony lze instalovat i uvnitř programu Godot v odkazu AssetLib.
 
 - https://godotengine.org/asset-library/asset/2095
 
+### Animace
+
+- https://github.com/ceceppa/anima
+
 ### Kamera
 
 - https://github.com/LD2Studio/ControlCamera3D
-- https://github.com/LucaJunge/godot_orbit_controls
+
+- https://github.com/LucaJunge/godot_orbit_controls 
+- Přidá node OrbitControls, který umožňuje pohyby s nastavenou kamerou scény kolem pivotu ve scéně.
 
 ### Prototyping
 
@@ -58,6 +64,7 @@ Addony lze instalovat i uvnitř programu Godot v odkazu AssetLib.
 - https://github.com/Ark2000/fancy-particles
 - https://github.com/cloudofoz/godot-curvemesh/
 - https://github.com/Zylann/godot_atmosphere_shader
+- https://godotshaders.com/shader/frosted-glass/
 
 ## Utility
 

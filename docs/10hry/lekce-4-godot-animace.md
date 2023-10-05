@@ -9,6 +9,7 @@ keywords: [godot, gaming, tutorial, import, export, vizualizace, 3D, blender, bl
 
 # Godot: Animace a křívky
 
+
 ![image](./images/godot3.png)
 
 ## Animace objektů a vlastností
@@ -24,11 +25,20 @@ func _process(delta):
 
 ### Pivot pro skriptové animace
 - Nastavit střed otáčení v menu
-- 
 
+
+## Animace 2D figury hráče
+
+- pomocí spritů nebo komponentů (plošková animace) a skeletonu
+- AnimatedSprite2D
+ 
 ## Animace spritů 
 
+## Animation player
+
 ## Animation tree 
+
+- Blend position
 
 
 ## Formáty

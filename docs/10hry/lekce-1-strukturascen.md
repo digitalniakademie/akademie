@@ -31,47 +31,6 @@ get_node("%ColorRect").modulate = Color.BLUE_VIOLET
 :::
 
 
-## Programování se scénami a uzly
-Scény se snaž organizovat tak, aby šly spouštět a testovat samostatně.
-### Parent/Child a inheritance 
-
-### Signály
-Signály propojují uzly a určují jejich funkci.
-
-
-:::info Odkaz na root větev
-
-```gdscript
-func _on_button_pressed():
-	get_tree().quit()
-```
-Tento butón ukončuje program (hlavní větev get_tree). 
-:::
-
-# Objekty ve scéně Godot editoru
-
-:::info KONCEPT EDITORU
-Ovládání editoru je velice podobné editorům Unity a Unreal.
-:::
-
-Anchor, pivot
-
-## Skupiny
-
-Skupiny slouží k tagování uzlů a vytváření skupin, které je možné volat skriptem. Skupiny je možné vytvářet kódem nebo v UI.
-
-
-```gdscript title="GDSCRIPT"
-func DestroyGroup1():
-	get_tree().call_group("Group1", "queue_free")
-```
-
-
-## Zdroje
-
-
-## Ovládání a spouštění scén
-Scény a jejich komponenty je možné kombinovat.
 
 ## Databáze
 

@@ -58,10 +58,11 @@ get_node("%ColorRect").modulate = Color.BLUE_VIOLET
 
 ## Programování se scénami a uzly
 Scény se snaž organizovat tak, aby šly spouštět a testovat samostatně.
-### Parent/Child a inheritance 
 
-### Signály
-Signály propojují uzly a určují jejich funkci.
+## Parent/Child a inheritance 
+
+## Signály
+Signály propojují uzly (volání směrem nahoru v hierarchii) a určují jejich funkci.
 
 
 :::info Odkaz na root větev
