@@ -66,6 +66,12 @@ Addony lze instalovat i uvnitř programu Godot v odkazu AssetLib. Nejaktuálněj
 - https://github.com/Zylann/godot_atmosphere_shader
 - https://godotshaders.com/shader/frosted-glass/
 
+### Terén
+
+- https://github.com/HungryProton/scatter
+- https://github.com/Arnklit/Waterways
+- https://github.com/TokisanGames/Terrain3D
+
 ## Utility
 
 ### WiggleBone a podobné

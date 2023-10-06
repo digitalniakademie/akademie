@@ -31,7 +31,18 @@ func _process(delta):
 
 - pomocí spritů nebo komponentů (plošková animace) a skeletonu
 - AnimatedSprite2D
- 
+
+### Automatické rozřezání nepravidelného spritesheetu
+
+- přidej texturu do Sprite2D
+- Sprite2D/Region - Enabled
+- Edit Region, režim Automatický řez
+
+![image](./images/sprite2D-autocut.jpg)
+
+
+-  pomocí AnimatedSprite SpriteSheet funkcí
+
 ## Animace spritů 
 
 ## Animation player
